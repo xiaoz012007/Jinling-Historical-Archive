@@ -64,6 +64,21 @@
 
 欢迎提交档案线索、书目、来源定位、勘误和可复算数据。请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。任何贡献都需要核验，不会自动成为已确认史实。
 
+
+
+## 项目规范
+
+- [研究方法与质量控制](docs/RESEARCH_METHODOLOGY.md)
+- [证据模型与标记规范](docs/EVIDENCE_MODEL.md)
+- [网页来源与快照采集规范](docs/WEB_SNAPSHOT_POLICY.md)
+- [版权与再利用政策](docs/COPYRIGHT_AND_REUSE.md)
+- [数据字典](docs/DATA_DICTIONARY.md)
+- [史料入库检查清单](docs/INGESTION_CHECKLIST.md)
+- [公开发布状态](docs/PUBLICATION_STATUS.md)
+- [贡献指南](CONTRIBUTING.md)
+
+**当前为研究框架建设阶段。** Task002 V2尚未整体导入公开仓库；第三方网页快照须逐项核查公开再分发权，不能仅因页面可访问就上传全文。
+
 ## English
 
 Jinling Historical Archive is a source-traceable research repository about the Battle of Nanjing (1937). It documents sources, evidence, timelines, military organization, civilian evacuation research, international relief records, unresolved questions, and clearly separated counterfactual fiction notes. It does not claim that uncertain or disputed information is settled.
