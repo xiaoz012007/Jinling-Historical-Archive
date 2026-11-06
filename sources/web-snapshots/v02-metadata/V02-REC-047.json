@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-047",
+  "source_ids": [
+    "SRC-0070"
+  ],
+  "title": "经盛鸿《论南京保卫战中的唐生智》转载",
+  "original_url": "http://www.wyzxwk.com/Article/lishi/2020/12/427895.html",
+  "final_url": "http://www.wyzxwk.com/Article/lishi/2020/12/427895.html",
+  "actual_access_utc": "2026-11-06T19:48:29.423Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "ed5b496a80f726e459ba1c4ee1ad49bd9605a6ff9b0db458829dd6cee0c1e603",
+  "local_path_private": "Task003A/internal/web-captures/CAP-69024423ae48-20261106T194825273182Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "经盛鸿转载第三/四节，内部文本90–118段及注40、42",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "学术论文转载，所引电文原件未读；责任评价与事实拆分；未称全文阅读",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

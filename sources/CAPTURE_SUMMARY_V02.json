@@ -1,0 +1,15 @@
+{
+  "new_direct_capture_attempts": 13,
+  "new_successful_origin_responses": 10,
+  "new_successful_html": 6,
+  "new_successful_pdf": 2,
+  "new_successful_images": 2,
+  "failed_direct_requests": 3,
+  "failed_direct_bodies_saved": 2,
+  "timed_jacar_tool_failure_entries": 2,
+  "new_fulltext_public_payloads": 0,
+  "new_warc_files": 0,
+  "old_capture_attempt_rows": 93,
+  "combined_capture_attempt_rows": 108,
+  "note": "另有日方检索/未单独捕获请求时间的工具批次，见原访问记录；不计入13次直接采集。新HTML为单响应，不含完整站点依赖。"
+}

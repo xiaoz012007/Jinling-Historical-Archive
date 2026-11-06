@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-035",
+  "source_ids": [
+    "SRC-0149"
+  ],
+  "title": "第１０軍作戦指導に関する参考資料 其３（２）",
+  "original_url": "https://www.jacar.archives.go.jp/das/meta/C11111743600",
+  "final_url": "https://www.jacar.archives.go.jp/das/image/C11111743600",
+  "actual_access_utc": "2026-11-06T20:49:55.150213809Z",
+  "request_method": "web search/open; tool-rendered response retained, not original HTTP payload",
+  "http_status": 403,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "32abf1cd2290ee3956649b713cc999ac1c49d78898a59ce75b261ad40fae15ca",
+  "local_path_private": "Task003_Run/internal/military/japanese/20261106_timed_access.json",
+  "read_scope": "catalog_only",
+  "reading_locator": "JACAR C11111743600；目录列52图、1937-12-06至12-12；图26–27、28–37仅第三方未核定位",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "正文未取；目录列的作成年月日不逐条证明签发日、送达日或执行日。新来源只是精确档目线索，不能作为任何指挥边原令已核依据。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

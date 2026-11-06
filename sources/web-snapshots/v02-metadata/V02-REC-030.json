@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-030",
+  "source_ids": [
+    "SRC-0058"
+  ],
+  "title": "谭道平《南京卫戍战》",
+  "original_url": "https://m.krzzjn.com/show-1230-86412.html",
+  "final_url": "https://m.krzzjn.com/show-1230-86412.html",
+  "actual_access_utc": "2026-11-06T20:58:12.891590+00:00",
+  "request_method": null,
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "748ada73dfaefbf9c6d065be71c4d831ede14f9c9450c493c254844e5b30667e",
+  "local_path_private": "Task003A/internal/web-captures/CAP-c90ca18ee42a-20261106T194848079691Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "P0031, P0058, P0065–0066",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "不等于1946年《南京卫戍战史话》原版；网络转录省略所称附表，且有文字讹误。；本轮来源登记不重新证明所有旧命题。 本轮仅选段；本地P段号与旧浏览L行号是不同定位。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

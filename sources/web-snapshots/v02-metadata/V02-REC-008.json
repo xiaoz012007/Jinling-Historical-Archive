@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-008",
+  "source_ids": [
+    "SRC-0085"
+  ],
+  "title": "故宫博物院《文物西迁》",
+  "original_url": "https://www.dpm.org.cn/topic/move_south/move_west.html",
+  "final_url": "https://www.dpm.org.cn/topic/move_south/move_west.html",
+  "actual_access_utc": "2026-11-06T19:49:23.718Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "287fbed31b83a20999a5c3983096660651fc22bab861e8fc87f35ea7483f6423",
+  "local_path_private": "Task003A/internal/web-captures/CAP-8cdb087ba66f-20261106T194917930115Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "北路段与“1937年11月下旬”图注",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "未确定12月6日长江号撤离；同页中路11/19发、11/2到文本倒置须保留。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

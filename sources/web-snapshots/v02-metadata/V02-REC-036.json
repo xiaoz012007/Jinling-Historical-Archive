@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-036",
+  "source_ids": [
+    "SRC-0022"
+  ],
+  "title": "王辅《日军侵华战争》第九章网页编译",
+  "original_url": null,
+  "final_url": null,
+  "actual_access_utc": "2026-11-06T20:50:32.787633+00:00",
+  "request_method": "local reuse; Python html.parser nonempty handle_data ordinal selection",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+  "local_path_private": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-022_王辅_日军侵华战争第九章.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "HTMLParser非空文本段64–87；本轮保留24段抽取文件",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "原URL仅域名/路径线索而非可核完整URL；未核纸本页码、引用底本、军事原令。段79原载“11日7”不修成11日7时。原始抓取时间未知。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

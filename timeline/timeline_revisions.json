@@ -1,0 +1,1028 @@
+[
+  {
+    "revision_id": "TLB-R001",
+    "event_id": "T3-E0010",
+    "original_values": {
+      "event_description": "谭道平回忆把11月20日记为奉令兼任、改组长官部的节点。",
+      "limitations": "布告全文、实际交接记录未见"
+    },
+    "corrected_values": {
+      "event_description": "谭道平回忆将11月20日记为唐生智奉蒋命兼任南京卫戍司令长官。",
+      "limitations": "这是谭回忆的受命节点，与宋19日手令、20日视事之说并列；未见同期任命令。"
+    },
+    "reason": "把任职与机构改组拆成两个事件命题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R002",
+    "event_id": "T3-E0019",
+    "original_values": {
+      "event_description": "宋希濂回忆称唐生智正式任命命令于11月24日发表。",
+      "source_ids": "SRC-0055;SRC-0060",
+      "citation_locator": "SRC-0055 第一节；SRC-0060 印刷110页任命叙述",
+      "claim_status": "unverified",
+      "baseline_adoption": "候选待核",
+      "limitations": "不得把正式发表与19日内部手令合并为唯一受命日；正式命令、公报原页及具体发布机关未核；姜文不能自动算独立事件证言。",
+      "reviewed_sources_this_round": "SRC-0055",
+      "counterevidence": ""
+    },
+    "corrected_values": {
+      "event_description": "宋希濂回忆称正式命令11月24日发表；政大官职资料库亦将唐生智南京卫戍司令长官“特派”的命令日期列为民国26年11月24日。",
+      "source_ids": "SRC-0055;SRC-0060;SRC-0150",
+      "citation_locator": "SRC-0055 第一节任命段（内部文本30行）；SRC-0150 唐生智列表第2页第1行（026-11-24）；SRC-0060仅继承旧引页，未本轮读原刊",
+      "claim_status": "supported_with_limits",
+      "baseline_adoption": "限定采用",
+      "limitations": "11/24仅可表述为回忆所称正式发表日与数据库所列命令日期；未见公报原图。19受手令、20视事是不同阶段，不能据本条合并。",
+      "reviewed_sources_this_round": "SRC-0055;SRC-0150",
+      "counterevidence": "尚未取得19日手令、20日布告；官方数据库与回忆可能上溯同一公报，不能算两件独立原始证据。"
+    },
+    "reason": "新增大学官方结构化任职目录与宋回忆对照，但公报影印未取得",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R003",
+    "event_id": "T3-E0103",
+    "original_values": {
+      "event_description": "孙文公布的命令释文署12月11日24时，规范为12月12日0时；令各区固守。",
+      "time_role": "document_date",
+      "citation_locator": "TL02“命令的发现经过”所列第44号释文及照片入口",
+      "review_level": "本轮复用原载体核读；限reading_log中页/段，不代表所引原档已取得",
+      "claim_status": "supported_with_limits",
+      "limitations": "原件照片链接可定位；受件名桂永清不证明他本人何时阅令；桂永清受件名不证明本人实际送达、阅读。"
+    },
+    "corrected_values": {
+      "event_description": "第44号命令照片文面署12月11日廿四时（规范为12月12日0时），列各部固守部署及非奉命不得放弃阵地；此件受件栏为桂永清。",
+      "time_role": "document_date",
+      "citation_locator": "SRC-0056授权论文所嵌第1幅第44号照片：右侧日期、正文第二至六项、左侧毛笔受件栏；sha256 f5aec636b3768f6d028970e64642927096afc00bb8ba5f9f5d2ec037f9267b34",
+      "review_level": "本轮新取得并目视全幅原件照片；论文载体S，内嵌命令照片底层P",
+      "claim_status": "supported_with_limits",
+      "limitations": "文面日期不证明实际签发、发出、送达、阅读和执行时刻；受件姓名不等于签收。照片来自学术文章嵌图，非馆藏现场鉴定；SRC-0056载体性质S不自动改为P。"
+    },
+    "reason": "实际取得并目视原件照片，区分文面与实际发收",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R004",
+    "event_id": "T3-E0122",
+    "original_values": {
+      "event_description": "二轮接令矩阵据多名回忆称12月12日会议宣读两真电。",
+      "source_ids": "SRC-0055;SRC-0057;SRC-0058",
+      "citation_locator": "Task002 01b长官部行；TL01会议段、TL03印刷7页、TL04第三节",
+      "limitations": "宋约20分钟是回忆；百子亭/铁道部的文书地与会场不能互替；仅此会议宣读说；不能据此写唐此前何时首次收到或阅读。",
+      "reviewed_sources_this_round": "SRC-0055;SRC-0057;SRC-0058"
+    },
+    "corrected_values": {
+      "event_description": "谭道平回忆称会上公布蒋的两真电；唐生智回忆称会上宣读蒋的命令，但未逐编号。",
+      "source_ids": "SRC-0057;SRC-0058",
+      "citation_locator": "SRC-0057印刷p.7/PDF16正文；SRC-0058第三节“当日下午四时”段（内部92行）",
+      "limitations": "只证回忆中的会议宣读；会议16/17时异说仍在；唐回忆正文/编注冲突保留。宋文该段不明确写宣读两真电，不能作为该细节独立证据。",
+      "reviewed_sources_this_round": "SRC-0057;SRC-0058"
+    },
+    "reason": "对比三份回忆，避免把宋的会议回忆当作明确宣读两真电的记载",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R005",
+    "event_id": "T3-E0123",
+    "original_values": {
+      "event_description": "二轮据回忆称最后会议向出席者分发撤退指示。",
+      "source_ids": "SRC-0055;SRC-0057;SRC-0058",
+      "citation_locator": "TL01、TL04最后会议段；TL03印刷7页/PDF16",
+      "reviewed_sources_this_round": "SRC-0055;SRC-0057;SRC-0058",
+      "limitations": "宋约20分钟是回忆；百子亭/铁道部的文书地与会场不能互替；不等于每个军、师、团、营均于会议时收到；出席名单与具体份数待核。"
+    },
+    "corrected_values": {
+      "event_description": "宋希濂回忆称周斓向与会者各发一份印好的命令；唐生智回忆亦称将油印撤退部署每人发一张。",
+      "source_ids": "SRC-0055;SRC-0057",
+      "citation_locator": "SRC-0055第四节（内部59行）；SRC-0057印刷p.7/PDF16正文",
+      "reviewed_sources_this_round": "SRC-0055;SRC-0057",
+      "limitations": "当事人战后回忆支持会上分发，不提供各军师团营逐级签收时间；正式下发件及附表原件仍未取得。"
+    },
+    "reason": "把明确分发文字与泛称作指示分开",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R006",
+    "event_id": "T3-E0132",
+    "original_values": {
+      "event_description": "宋希濂回忆称12月12日17:30回师部后电话部署掩护。",
+      "time_start": "17:30",
+      "time_end": "",
+      "time_text": "",
+      "time_precision": "reported_time",
+      "citation_locator": "SRC-0055 末段17:30回师部电话部署段",
+      "limitations": "并不能证明全师团营同步知悉；电话部署不证明所有团营同步收到。"
+    },
+    "corrected_values": {
+      "event_description": "宋希濂回忆称12月12日17:30由会议返回师部后，即电话令各部严密戒备、掩护长官部渡江。",
+      "time_start": "",
+      "time_end": "",
+      "time_text": "宋回忆：17:30回师部后；电话具体钟点未单列",
+      "time_precision": "relative_to_reported_time",
+      "citation_locator": "SRC-0055第四节末段，内部61行",
+      "limitations": "不以回师部的17:30代替电话发出、各单位接听或执行的实际钟点；未见电话日志。"
+    },
+    "reason": "17:30在宋回忆修饰回师部，电话紧随其后，不能填成精确发令时间",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R007",
+    "event_id": "T3-E0156",
+    "original_values": {
+      "event_description": "美方转述的日本海军调查报告记12月12日向浦口方向实施截断行动。",
+      "time_role": "event",
+      "event_phase_label": "截断行动记述",
+      "citation_locator": "SRC-0090 FRUS文件384，印刷531–532页，Grew第662号电",
+      "limitations": "报道日期不等于已核航海日志；外交报告不等于交通运量表；日方调查经美方转述；不据此认定所有路线同时封闭。",
+      "counterevidence": ""
+    },
+    "corrected_values": {
+      "event_description": "Grew12月20日电转述日本海军说明：12日曾命令南京上游日军渡江截击浦口方向中国军队。",
+      "time_role": "issue",
+      "event_phase_label": "命令内容转述",
+      "citation_locator": "SRC-0090 FRUS Japan I d384，p.531–532，引述第1大段“Orders were given”处",
+      "limitations": "美方转述日海军调查说明，不是原命令；同段对登陆使用推测语气。不能据此断言浦口封锁已执行完成、所有通道同时关闭或具体执行时刻。",
+      "counterevidence": "同件日方说明对轰炸知情时间存在内在矛盾；须与行动日志逐项核对。"
+    },
+    "reason": "原文明确的是截击命令与推测登陆，非浦口封锁已经完成",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R008",
+    "event_id": "T3-E0217",
+    "original_values": {
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "event_description": "斯迈思12月27日函记当日下午自己与费奇赴日本使馆。",
+      "source_ids": "SRC-0097",
+      "citation_locator": "SRC-0097 NMP0175第1页正文",
+      "review_level": "Task003成果继承；本轮未复核该具体所引段",
+      "reviewed_sources_this_round": "",
+      "counterevidence": "Yale目录署名为拉贝，所见扫描署L. Smythe；这是文书归属异文，不自动否定该函记载的到访。",
+      "limitations": "NMP0175，第1页；Yale目录把发信人标成拉贝，原文署名应优先。；证明该函所载当日下午在宁活动；不排除此前所有短暂往返。"
+    },
+    "corrected_values": {
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "event_description": "斯迈思署1937年12月26日的NMP0174函称，当日下午他与费奇赴日本使馆交涉。",
+      "source_ids": "SRC-0147",
+      "citation_locator": "Yale NMP0174，PDF第1页，文面日期及Fitch and myself句；国际专题本轮图像复核",
+      "review_level": "Task003-B国际专题原件扫描复核；本时间线继承其明确页级成果",
+      "reviewed_sources_this_round": "SRC-0147",
+      "counterevidence": "旧中文资料把该内容编在12/27条下；旧Task003错误绑定NMP0175。NMP0175为12/27拉贝米煤运输函。",
+      "limitations": "以本函所记12/26下午活动限定；不据此排除费奇此前所有短程往返。旧12/27与NMP0175支持撤回。"
+    },
+    "reason": "国际专题本轮目视NMP0174纠正旧函号/日期错配（专题输出应随后并入）",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R009",
+    "event_id": "T3-E0218",
+    "original_values": {
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0097",
+      "citation_locator": "SRC-0097 NMP0175第1页正文",
+      "review_level": "Task003成果继承；本轮未复核该具体所引段",
+      "reviewed_sources_this_round": "",
+      "counterevidence": "",
+      "limitations": "NMP0175，第1页；Yale目录把发信人标成拉贝，原文署名应优先。；请求不等于警卫已到。"
+    },
+    "corrected_values": {
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "source_ids": "SRC-0147",
+      "citation_locator": "Yale NMP0174，PDF第1页三处警卫请求；国际专题本轮图像复核",
+      "review_level": "Task003-B国际专题原件扫描复核；待并入其精确释读行",
+      "reviewed_sources_this_round": "SRC-0147",
+      "counterevidence": "旧资料12/27编排与真实函面12/26不同；原NMP0175绑定错误",
+      "limitations": "这是请求/交涉，不证明三处均已实际派驻警卫。"
+    },
+    "reason": "与E0217同一函错配，修正日期与来源",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-R010",
+    "event_id": "T3-E0219",
+    "original_values": {
+      "record_role": "historical_event_or_document_claim",
+      "claim_status": "supported_with_limits",
+      "baseline_adoption": "限定采用",
+      "event_description": "NMP0175的12月27日函所见页尾署斯迈思。",
+      "citation_locator": "SRC-0097 NMP0175第1页页头及署名；INT-09目录异文",
+      "review_level": "Task003成果继承；本轮未复核该具体所引段",
+      "limitations": "NMP0175，第1页；Yale目录把发信人标成拉贝，原文署名应优先。；目录署拉贝与正文署名冲突；按二轮保留异文，不将目录再算一封信。"
+    },
+    "corrected_values": {
+      "record_role": "withdrawn_misattribution_not_event",
+      "claim_status": "contradicted",
+      "baseline_adoption": "撤回旧支持",
+      "event_description": "旧条将NMP0175误作斯迈思署名函；本轮国际专题核该页为12月27日拉贝致福井米煤运输请求。",
+      "citation_locator": "Yale NMP0175第1页；与NMP0174第1页对照，详国际专题",
+      "review_level": "国际专题图像复核纠错；此行仅作旧记录撤回标识",
+      "limitations": "不再作为斯迈思/费奇12月27日活动证据；真实运输函另由国际专题建项。"
+    },
+    "reason": "旧NMP0175署名/内容绑定错误，保留撤回记录而不静默删除",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S011",
+    "event_id": "T3-E0183",
+    "original_values": {
+      "event_description": "12月14日致日军南京指挥官函署拉贝，提出秩序、粮食与救济保障请求。",
+      "date_start": "1937-12-14",
+      "date_end": "1937-12-14",
+      "source_ids": "SRC-0098",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "12月14日致日军南京指挥官函署拉贝，提出秩序、粮食与救济保障请求。",
+      "date_start": "1937-12-14",
+      "date_end": "1937-12-14",
+      "source_ids": "SRC-0098",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S012",
+    "event_id": "T3-E0195",
+    "original_values": {
+      "event_description": "12月16日NMP0156致福田函的所见扫描署斯迈思。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0099",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "12月16日NMP0156致福田函底部有拉贝的打字署名及斯迈思的手写签署。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0099",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S013",
+    "event_id": "T3-E0204",
+    "original_values": {
+      "event_description": "贝德士12月18日致日本使馆函陈述侵入、暴行及避难状况。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0101;SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "12月18日金陵大学紧急委员会主席致日本使馆函报告侵入、暴行及避难状况；贝德士个人归属另据中文夹录与馆藏背景。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0101;SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S014",
+    "event_id": "T3-E0205",
+    "original_values": {
+      "event_description": "贝德士该函称17,000余人逃入金陵大学有关建筑。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0101;SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "12月18日函称当时超过17,000名民众在金陵大学有关建筑内寻求安全，且仍有人涌入。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0101;SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S015",
+    "event_id": "T3-E0211",
+    "original_values": {
+      "event_description": "拉贝12月20日致田中函要求收容所、医院等加强岗哨。",
+      "date_start": "1937-12-20",
+      "date_end": "1937-12-20",
+      "source_ids": "SRC-0100",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "拉贝12月20日致田中函要求收容所、医院等加强岗哨。",
+      "date_start": "1937-12-20",
+      "date_end": "1937-12-20",
+      "source_ids": "SRC-0100",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S016",
+    "event_id": "T3-E0212",
+    "original_values": {
+      "event_description": "该函称递交第71–96件记录。",
+      "date_start": "1937-12-20",
+      "date_end": "1937-12-20",
+      "source_ids": "SRC-0100",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "拉贝12月20日函称递交71—96号26件，并称其中14件发生于19日下午、夜间及20日。",
+      "date_start": "1937-12-20",
+      "date_end": "1937-12-20",
+      "source_ids": "SRC-0100",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S017",
+    "event_id": "T3-E0217",
+    "original_values": {
+      "event_description": "斯迈思署1937年12月26日的NMP0174函称，当日下午他与费奇赴日本使馆交涉。",
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "斯迈思12月26日函称当日下午本人和费奇赴南京日本使馆交涉。",
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S018",
+    "event_id": "T3-E0218",
+    "original_values": {
+      "event_description": "该函记二人请求为三处收容所派特别警卫。",
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "斯迈思12月26日函称二人请求日方在圣经师资培训学校、汉口路小学、五台山小学三处收容所派驻数夜警卫。",
+      "date_start": "1937-12-26",
+      "date_end": "1937-12-26",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S019",
+    "event_id": "T3-E0219",
+    "original_values": {
+      "event_description": "旧条将NMP0175误作斯迈思署名函；本轮国际专题核该页为12月27日拉贝致福井米煤运输请求。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0097",
+      "claim_status": "contradicted"
+    },
+    "corrected_values": {
+      "event_description": "NMP0175的12月27日米煤运输请求函，页尾手写及打字署名均为拉贝。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0097",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S020",
+    "event_id": "T3B-E-INT-01",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "拉贝12月27日函请求安排运入大米、面粉和煤炭，回述前期配给和运入情况。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0097",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S021",
+    "event_id": "T3B-E-INT-02",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "12月18日函作者称当晨到访农业经济学系时，遭六名日本士兵接近，其中一人屡以手枪威胁。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S022",
+    "event_id": "T3B-E-INT-03",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "12月18日函作者称前夜睡在这些建筑内，意在帮助妇女儿童。",
+      "date_start": "1937-12-17",
+      "date_end": "1937-12-17",
+      "source_ids": "SRC-0110",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S023",
+    "event_id": "T3B-E-INT-04",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "斯迈思当日17时函回述：福井中午向拉贝和本人询问委员会可取得煤炭的地点。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S024",
+    "event_id": "T3B-E-INT-05",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "同函称为回应中午询问，他们请里格斯当日下午查找煤源。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S025",
+    "event_id": "T3B-E-INT-06",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "斯迈思17时函提出施粥点和民众用煤需求，并附煤炭存量备忘录。",
+      "date_start": "1937-12-27",
+      "date_end": "1937-12-27",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S026",
+    "event_id": "T3B-E-INT-07",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "斯迈思12月30日函称递交155—164号案件，并请求尽速调查第164号。",
+      "date_start": "1937-12-30",
+      "date_end": "1937-12-30",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S027",
+    "event_id": "T3B-E-INT-08",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "一件标为英译的布告文面署12月22日，规定拟自24日起办理居民证。",
+      "date_start": "1937-12-22",
+      "date_end": "1937-12-22",
+      "source_ids": "SRC-0147",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S028",
+    "event_id": "T3B-E-INT-09",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "费奇平安夜记述称12月12日以安全区Director身份整天在案头忙碌。",
+      "date_start": "1937-12-12",
+      "date_end": "1937-12-12",
+      "source_ids": "SRC-0096",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入international专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S029",
+    "event_id": "T3-E0220",
+    "original_values": {
+      "event_description": "谷寿夫判决附件甲2认定鱼雷营案在12月15日夜，人数9,000余。",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "谷判附件甲2记官兵被俘后押往鱼雷营，遭集体机枪射杀；另记殷有余等9人逃出。",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S030",
+    "event_id": "T3-E0221",
+    "original_values": {
+      "event_description": "判决甲3所述5,000余人此前拘押于华侨招待所；具体拘押起日未核。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "谷判甲3将五千余难民的押送起点记为华侨招待所；拘押起日、收容名册未载。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S031",
+    "event_id": "T3-E0222",
+    "original_values": {
+      "event_description": "判决甲3记12月16日傍晚将上述5,000余人由华侨招待所押往中山码头江边。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "谷判记难民由华侨招待所被押至中山码头；正文给下午6时，附件甲3给傍晚。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S032",
+    "event_id": "T3-E0223",
+    "original_values": {
+      "event_description": "二轮据判决将中山码头案杀害人数列为5,000余，案次与鱼雷营分开。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "谷判记上述难民在中山码头江边遭机枪射杀，并列梁廷芳、白增荣跳江脱险。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S033",
+    "event_id": "T3B-E-AT-01",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "谷判甲1记国军及难民被圈禁幕府山下四五所村，断绝饮食且冻饿死者甚多。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S034",
+    "event_id": "T3-E0224",
+    "original_values": {
+      "event_description": "谷寿夫判决正文和甲1将草鞋峡案置于12月18日夜，认定57,418人。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "谷判正文及甲1把草鞋峡押送杀害置于12月18日夜，正文以57,418表述涉案军民，附件又记拘押死亡和脱险者。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S035",
+    "event_id": "T3B-E-AT-02",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "江苏档案网所刊鲁甦结文影像记幕府山拘押后在十六日夜间押往草鞋峡杀害，并述冯班长及郭某脱险。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0144",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S036",
+    "event_id": "T3B-E-AT-03",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "谷判正文记二千余军人被押至汉中门外遭射杀；附件甲16另记由司法院难民所押出三类人合计三千余。两口径并列。",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "source_ids": "SRC-0111",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S037",
+    "event_id": "T3-E0225",
+    "original_values": {
+      "event_description": "二轮专题将山田日记14,777俘虏记载定位到14日俘获记录。",
+      "date_start": "1937-12-14",
+      "date_end": "1937-12-14",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "corrected_values": {
+      "event_description": "山田12月14日条记俘虏在上元门外一所学校收容，数为14,777。",
+      "date_start": "1937-12-14",
+      "date_end": "1937-12-14",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S038",
+    "event_id": "T3-E0226",
+    "original_values": {
+      "event_description": "二轮专题列远藤日记17,025的俘获/收容记数，未在结构化修订中单独细分统计时点。",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "SRC-0112",
+      "claim_status": "unverified"
+    },
+    "corrected_values": {
+      "event_description": "远藤12月16日条记火灾后返回收容所，并给出俘虏总数17,025。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S039",
+    "event_id": "T3-E0227",
+    "original_values": {
+      "event_description": "二轮专题据宫本、远藤日记编译本分别保留16日杀俘记录。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0112",
+      "claim_status": "unverified"
+    },
+    "corrected_values": {
+      "event_description": "宫本12月16日条记午间火灾后，大队于下午3时决定将约3,000俘虏押至扬子江边枪杀。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S040",
+    "event_id": "T3B-E-AT-04",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "远藤12月16日条记傍晚按照“军部命令”将俘虏的三分之一拉到江边，由第1大队枪杀。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S041",
+    "event_id": "T3-E0228",
+    "original_values": {
+      "event_description": "二轮专题据宫本、远藤日记编译本分别保留17日杀俘记录。",
+      "date_start": "1937-12-17",
+      "date_end": "1937-12-17",
+      "source_ids": "SRC-0112",
+      "claim_status": "unverified"
+    },
+    "corrected_values": {
+      "event_description": "宫本12月17日条记入城式后傍晚返回并参加对俘虏的处置，另述己方误伤造成中队伤亡。",
+      "date_start": "1937-12-17",
+      "date_end": "1937-12-17",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S042",
+    "event_id": "T3B-E-AT-05",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "远藤12月17日条记晚上为处置剩下一万多俘虏，派出五名士兵。",
+      "date_start": "1937-12-17",
+      "date_end": "1937-12-17",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S043",
+    "event_id": "T3-E0229",
+    "original_values": {
+      "event_description": "二轮专题据宫本、远藤日记编译本分别保留18日凌晨后续记录。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0112",
+      "claim_status": "unverified"
+    },
+    "corrected_values": {
+      "event_description": "远藤12月18日条记凌晨1时因此前处置后仍有人活着而奉上级命出动，到场参与清理；8时30分结束。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S044",
+    "event_id": "T3B-E-AT-06",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "宫本12月18日条记下午清理尸体至天黑未完。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S045",
+    "event_id": "T3B-E-AT-07",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "远藤12月18日条另记下午2时至晚7时30分派出25名士兵清理一万多具尸体。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S046",
+    "event_id": "T3B-E-AT-08",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "远藤12月19日条记上午8时派15人继续清理尸体。",
+      "date_start": "1937-12-19",
+      "date_end": "1937-12-19",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S047",
+    "event_id": "T3B-E-AT-09",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "山田12月15日条称派本间骑兵少尉往南京联系俘虏事宜，并记有将俘虏全部杀害的军令。",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S048",
+    "event_id": "T3B-E-AT-10",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "山田12月16日条记派相田中佐至军部商议俘虏处置，并称田山大队担负看管任务。",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S049",
+    "event_id": "T3B-E-AT-11",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "山田12月18日条记部队处理俘虏，并称自己在江岸视察其情况。",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  },
+  {
+    "revision_id": "TLB-S050",
+    "event_id": "T3B-E-AT-12",
+    "original_values": {
+      "event_description": "",
+      "date_start": "",
+      "date_end": "",
+      "source_ids": "",
+      "claim_status": ""
+    },
+    "corrected_values": {
+      "event_description": "山田12月19日条记因处理俘虏延迟出发，上午全体出动。",
+      "date_start": "1937-12-19",
+      "date_end": "1937-12-19",
+      "source_ids": "SRC-0112",
+      "claim_status": "supported_with_limits"
+    },
+    "reason": "并入atrocities专题本轮实际原页复核，完整修订依据见该专题",
+    "reviewed_at_utc": "2026-11-06T21:03:53.635837+00:00"
+  }
+]

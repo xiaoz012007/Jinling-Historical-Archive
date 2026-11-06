@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-017",
+  "source_ids": [
+    "SRC-0099"
+  ],
+  "title": "国际委员会致福田函（打字署拉贝，手签斯迈思）",
+  "original_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0156.pdf",
+  "final_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0156.pdf",
+  "actual_access_utc": "2026-11-06T19:47:59.069Z",
+  "request_method": "reuse_Task003A_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "0b19626537c683c040adf3e272402d1db62af4c0145631decc50f6611b0c715f",
+  "local_path_private": "Task003A/internal/web-captures/CAP-fc7d62567a77-20261106T194753701073Z/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0156 PDF 1—2页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

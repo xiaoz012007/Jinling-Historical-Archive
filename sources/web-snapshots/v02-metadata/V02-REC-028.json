@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-028",
+  "source_ids": [
+    "SRC-0127"
+  ],
+  "title": "南京卫戍军战斗详报民间网络转录",
+  "original_url": "https://liaoyaoxiang.com/liaos_tele/1937-12-31南京保卫战战斗详报",
+  "final_url": "https://liaoyaoxiang.com/liaos_tele/1937-12-31%E5%8D%97%E4%BA%AC%E4%BF%9D%E5%8D%AB%E6%88%98%E6%88%98%E6%96%97%E8%AF%A6%E6%8A%A5",
+  "actual_access_utc": "2026-11-06T20:58:12.891590+00:00",
+  "request_method": null,
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "1fa8d3e89109c4044a0bca15ca59209e740b33e67b18cc2709c59f86e2087579",
+  "local_path_private": "Task003A/internal/web-captures/CAP-55ed6f79e67d-20261106T195010304856Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "P0007–0072, P0074–0086, P0090/P0094/P0105/P0108, P0112–0120, P0125/P0127/P0129–0136, P0145–0148",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "网页题头1937/12/31不是原件日期：尾注明确“此件未注明时间”；附录原缺。任命日期、原书页码均未知；本轮来源登记不重新证明所有旧命题。 本轮仅选段；本地P段号与旧浏览L行号是不同定位。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

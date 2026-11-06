@@ -1,0 +1,107 @@
+[
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-001",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-002",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-003",
+    "field": "claim_status",
+    "old": "冲突或推论边界保留",
+    "new": "conflicted",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-004",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-005",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-006",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-007",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-008",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-009",
+    "field": "claim_status",
+    "old": "限定支持",
+    "new": "supported_with_limits",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "evacuation/historical_claims.csv",
+    "id": "EV-A-010",
+    "field": "claim_status",
+    "old": "冲突或推论边界保留",
+    "new": "conflicted",
+    "reason": "统一机器枚举；冲突/推论边界原文保留"
+  },
+  {
+    "path": "sources/SOURCE_REGISTER.csv",
+    "id": "SRC-0110",
+    "field": "document_type",
+    "old": "同期函件，已编目但扫描读取失败",
+    "new": "同期函件打字副本扫描；本轮已读取三页，未亲见物理原件",
+    "reason": "同期载体性质与实际读取状态分别记录；本轮不再称扫描读取失败"
+  },
+  {
+    "path": "sources/SOURCE_REGISTER.csv",
+    "id": "SRC-0110",
+    "field": "original_or_copy",
+    "old": "同期函件，已编目但扫描读取失败",
+    "new": "同期函件打字副本扫描；本轮已读取三页，未亲见物理原件",
+    "reason": "同期载体性质与实际读取状态分别记录；本轮不再称扫描读取失败"
+  },
+  {
+    "path": "unresolved/OPEN_QUESTIONS.csv",
+    "id": "INT-U03",
+    "fields": [
+      "counterevidence",
+      "may_leave_blank"
+    ],
+    "reason": "当前使用本轮实际译文异文与未解边界；旧未读取说法留在task003_inherited_conflict和task003_may_leave_blank。"
+  }
+]

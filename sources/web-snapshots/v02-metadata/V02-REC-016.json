@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-016",
+  "source_ids": [
+    "SRC-0098"
+  ],
+  "title": "拉贝致日军南京指挥官函",
+  "original_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0144.pdf",
+  "final_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0144.pdf",
+  "actual_access_utc": "2026-11-06T19:47:53.591Z",
+  "request_method": "reuse_Task003A_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "77f620c834d3b3135b3dd2e72ba821d63d72fae8b1d01c97b4d6603f1e0bf0c7",
+  "local_path_private": "Task003A/internal/web-captures/CAP-4bf1103fbd61-20261106T194748328633Z/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0144 PDF 1—2页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

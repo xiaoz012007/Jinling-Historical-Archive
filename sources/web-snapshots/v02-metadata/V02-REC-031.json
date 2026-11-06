@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-031",
+  "source_ids": [
+    "SRC-0148"
+  ],
+  "title": "领袖指示补编（十二）：刘兴电蒋中正南京副长官兼第二十六集团军总司令事",
+  "original_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-090106-00012-151&indexCode=drnh",
+  "final_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-090106-00012-151&indexCode=drnh",
+  "actual_access_utc": "2026-11-06T20:51:35.609113+00:00",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "99012fec7065abce141b3ca967a1e667e1ca519031d622cfe25e8eb998c98661",
+  "local_path_private": "Task003_Run/internal/military/new_liu/original.html",
+  "read_scope": "catalog_only",
+  "reading_locator": "网页内容描述与卷件开始/结束日期；web turn122view0 L40,L69–91",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "只能认定目录确列该12/15电及摘要；不能补原手令日期、实际接任/卸任日期或该电发收时刻。原件入口turn124view0重定向循环；缩略图未释读。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

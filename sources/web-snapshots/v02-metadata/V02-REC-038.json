@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-038",
+  "source_ids": [
+    "SRC-0056"
+  ],
+  "title": "孙宅巍《新发现南京保卫战第44号作战令的重要价值》授权摘载",
+  "original_url": "https://m.thepaper.cn/newsDetail_forward_15239415?from=",
+  "final_url": "https://m.thepaper.cn/newsDetail_forward_15239415?from=",
+  "actual_access_utc": "2026-11-06T19:49:03.018Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "272fb0e776ddf199027df5130b73f961c99a1e99b50b38482c90162841a9de3e",
+  "local_path_private": "Task003A/internal/web-captures/CAP-dca28c26712c-20261106T194856289038Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "授权论文摘载正文7–58段；44号照片全1图；重点释文13–24段、34–40及47/54/55段",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "原论文注释略去；照片是发布者所嵌原件照片，非馆藏现场检验；发收时刻不见",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

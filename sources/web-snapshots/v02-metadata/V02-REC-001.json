@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-001",
+  "source_ids": [
+    "SRC-0111"
+  ],
+  "title": "战犯谷寿夫判决书正本",
+  "original_url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh009166-3792_戰犯谷壽夫判決書正本.pdf",
+  "final_url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh009166-3792_戰犯谷壽夫判決書正本.pdf",
+  "actual_access_utc": null,
+  "request_method": "reuse_existing_local_file",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+  "local_path_private": "Task002_V2/working/Tani_judgment_NLC.pdf",
+  "read_scope": "selected_pages",
+  "reading_locator": "PDF2、3、6、7、8、11、12、13、14",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "本轮9页；未声称134页全部阅读。扫描可见北京图书馆印记，案号可读；镜像文件名并非经本轮认证的国图档号。正文、附件和所引证词同链不能重复计证。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

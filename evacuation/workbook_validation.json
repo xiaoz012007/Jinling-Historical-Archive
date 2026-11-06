@@ -1,0 +1,71 @@
+{
+  "model_id": "EV-B-003-01",
+  "engine": "artifact-tool",
+  "cases": [
+    {
+      "scenario_id": "EV-B-C01",
+      "compared_numeric_cells": 1462,
+      "passed": true,
+      "results": [
+        27900,
+        19350,
+        8100,
+        450,
+        72100
+      ]
+    },
+    {
+      "scenario_id": "EV-B-C02",
+      "compared_numeric_cells": 1462,
+      "passed": true,
+      "results": [
+        36598,
+        25953,
+        10125,
+        520,
+        63402
+      ]
+    },
+    {
+      "scenario_id": "EV-B-C03",
+      "compared_numeric_cells": 1462,
+      "passed": true,
+      "results": [
+        44523,
+        32598,
+        11475,
+        450,
+        55477
+      ]
+    }
+  ],
+  "boundary_tests": [
+    {
+      "name": "zero demand",
+      "passed": true
+    },
+    {
+      "name": "zero weather",
+      "passed": true
+    },
+    {
+      "name": "blank demand",
+      "passed": true
+    },
+    {
+      "name": "negative boats",
+      "passed": true
+    },
+    {
+      "name": "invalid selector",
+      "passed": true
+    },
+    {
+      "name": "blank inactive allowed; blank selected blocked",
+      "passed": true
+    }
+  ],
+  "native_excel_tested": false,
+  "sensitivity_cases": 23,
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

@@ -1,0 +1,91 @@
+{
+  "model_id": "EV-B-003-01",
+  "tests": [
+    {
+      "test": "EV-B-C01 daily conservation",
+      "passed": true
+    },
+    {
+      "test": "EV-B-C02 daily conservation",
+      "passed": true
+    },
+    {
+      "test": "EV-B-C03 daily conservation",
+      "passed": true
+    },
+    {
+      "test": "reject missing",
+      "passed": true
+    },
+    {
+      "test": "reject negative",
+      "passed": true
+    },
+    {
+      "test": "reject fractional fleet",
+      "passed": true
+    },
+    {
+      "test": "reject ratio",
+      "passed": true
+    },
+    {
+      "test": "reject zero trip",
+      "passed": true
+    },
+    {
+      "test": "reject invalid return",
+      "passed": true
+    },
+    {
+      "test": "reject blank",
+      "passed": true
+    },
+    {
+      "test": "reject infinite",
+      "passed": true
+    },
+    {
+      "test": "reject calendar",
+      "passed": true
+    },
+    {
+      "test": "reject invalid scenario",
+      "passed": true
+    },
+    {
+      "test": "zero demand uses no ships",
+      "passed": true
+    },
+    {
+      "test": "demand capped across days",
+      "passed": true
+    },
+    {
+      "test": "shared gate capacity",
+      "passed": true
+    },
+    {
+      "test": "return keeps boats at origin",
+      "passed": true
+    },
+    {
+      "test": "no ready cars",
+      "passed": true
+    },
+    {
+      "test": "no operating window",
+      "passed": true
+    },
+    {
+      "test": "walk pending not lost",
+      "passed": true
+    },
+    {
+      "test": "date mutation adds modeled day",
+      "passed": true
+    }
+  ],
+  "passed": 21,
+  "failed": 0
+}

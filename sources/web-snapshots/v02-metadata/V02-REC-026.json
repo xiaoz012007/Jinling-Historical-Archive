@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-026",
+  "source_ids": [
+    "SRC-0101"
+  ],
+  "title": "《拉贝日记》1937年12月节选（包内NJ-007）",
+  "original_url": null,
+  "final_url": null,
+  "actual_access_utc": null,
+  "request_method": "reuse_local_Task002_text",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "747b7c03bbd28afc773f86a46b01b68ba05032a88603b140dab28be6a40115dc",
+  "local_path_private": "Task002_V2/working/NJ-007.txt",
+  "read_scope": "selected_pages",
+  "reading_locator": "12/18夹录函完整；12/27夹录函完整；12/20清单第71、77等待另核",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "材料本体为日记/函件的译文，编排与译注属于后设层；没有另增独立见证；本轮非整页HTML重抓取。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

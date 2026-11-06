@@ -1,0 +1,238 @@
+[
+  {
+    "original_id": "TRU01",
+    "original_record": {
+      "question_id": "TRU01",
+      "question": "两客渡船名、末次航班、赴汉口日期",
+      "priority": "P0",
+      "known_evidence": "宋回忆给两船、700–800人/次及45分钟参数，并称已赴汉口，未给船名和撤走日。",
+      "conflicting_evidence": "原库把铁路长江号12/6日期移给客渡；两船没有可验证逐日船期。",
+      "searches_attempted": "已读TR-001回忆转录与TR-002长江号报道，逐行核原交通表；未记取得港务或津浦客渡日志。",
+      "next_steps": "建议调客渡船籍、调度/撤航令、末班与到汉口日志，以船名或其他唯一身份逐船链接。",
+      "fiction_impact": "不可因F提前撤离而默认晚期两艘可用，更不能把铁路长江号算第三艘客渡。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "两艘客渡船名、撤离日与容量单位未明",
+    "source_ids": [
+      "SRC-0083"
+    ],
+    "locator": "宋文末“认为有必要着重谈一下”段; 同段17时至翌7时与往返45分钟",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "战后回忆网页转录；每次700–800人究竟逐艘还是两船合计有单位歧义；不是船簿。; 不把假设当历史运量；45分钟是否包含装卸未知；片段循环不能无说明进位。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "可写两客渡已离开这一回忆陈述。; 若额外假设每艘800、14小时无中断，完整18次循环两船为28800人。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU02",
+    "original_record": {
+      "question_id": "TRU02",
+      "question": "长江号12/6日期与北路文物12/8全部运出如何对应",
+      "priority": "P0",
+      "known_evidence": "后世报道作长江号12/6赴汉；故宫专题写北路三列车经铁路轮渡、12/8全部运出。",
+      "conflicting_evidence": "离库/装车/过江/发车/全部迁运完成不同，未证明12/8仍过江；机构页另有日期异文。",
+      "searches_attempted": "已完整读TR-002包内报道和TR-003故宫专题相关段；未取得三列车作业簿。",
+      "next_steps": "建议调轮渡作业簿、北路三列车装车和过江记录，逐事件定义对照12/6与12/8。",
+      "fiction_impact": "不能选择对剧情有利的较晚日期扩展轮渡可用窗口。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "长江号离宁日与北路文物日期仍未闭合",
+    "source_ids": [
+      "SRC-0085",
+      "SRC-0152"
+    ],
+    "locator": "北路段与“1937年11月下旬”图注; 故宫官方PDF单页，印刷074页，末两段与图2注",
+    "new_evidence_this_round": "对既有载体重新阅读全文；新获官方PDF印刷074页但为推论，未补足撤离日。",
+    "counterevidence_conflicts": "未确定12月6日长江号撤离；同页中路11/19发、11/2到文本倒置须保留。; 页首不含篇名、作者、刊期，脚注正文不在单页；12月叙述与官网11月下旬图注保留冲突，不补精确撤离日。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "只能说北路运送经铁路轮渡；全部运出与末次渡江不能等同。; 可引用这是研究者推论，并确认本页存在21货车技术描述。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU03",
+    "original_record": {
+      "question_id": "TRU03",
+      "question": "11/27–12/12铁路民用班次、定员和军民分配",
+      "priority": "P0",
+      "known_evidence": "张嘉璈日记转述提供11/25会谈意向；铁路史话有12/9撤路产线索，均非逐日客运表。",
+      "conflicting_evidence": "保持通车意向不能外推12月每天民用运行；终点未陷不代表全线可通与有平民席位。",
+      "searches_attempted": "已读TR-004、006和馆方报刊转录TR-009；原库NJ-012/044同源。未读原运行图、站日报或票务名册。",
+      "next_steps": "建议调11/27–12/12江南与津浦运行图、站日报、军运令和乘客资料；列名义定员、实际班次、军民配额及路段中断。",
+      "fiction_impact": "模型2/3/4列日槽位和700/800/1000定员均不能写作史实已具备。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "铁路逐日列车数、编组、民用份额未知",
+    "source_ids": [
+      "SRC-0086",
+      "SRC-0088"
+    ],
+    "locator": "11月25日、27日张嘉璈段; “1937年12月9日”段",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "未阅日记原本；德和为具名船，不等于两客渡或每日可调用客轮池。; 不证明南京—芜湖客运连续运行至该日，亦不证明12/6已全部停运。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "区分离宁事件转述与继续行车的意向。; 撤出地点为芜湖；不能写成到芜湖才撤退。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU04",
+    "original_record": {
+      "question_id": "TRU04",
+      "question": "逐日可用车辆、民船、燃料、装卸返航时间",
+      "priority": "P0",
+      "known_evidence": "档案馆介绍1937全年企业304车；宋回忆二三百民船；姜文引11/1的600车220民船，时间范围不同。",
+      "conflicting_evidence": "年度资产/早期统制数不等于12月可用；返航、燃料、装卸与民用配额无原始台账。",
+      "searches_attempted": "已读TR-001、005、010及原交通8行；已将民船设全期池、汽车含返程装卸；没有成功调取逐日资源账的记录。",
+      "next_steps": "建议调征用/移交册、车辆油料账、码头作业与航海日志，逐船逐车建立各日期可用量及完整循环。",
+      "fiction_impact": "不能用假设系数倒推剧情目标，也不能把城内短驳作为新离城人群。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "全年汽车规模不能推出逐日库存；小船循环、燃料装卸仍无实测",
+    "source_ids": [
+      "SRC-0083",
+      "SRC-0087"
+    ],
+    "locator": "宋文末“认为有必要着重谈一下”段; 江南汽车公司1937年鼎盛段",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "战后回忆网页转录；每次700–800人究竟逐艘还是两船合计有单位歧义；不是船簿。; 无法证明11/27南京可用民用库存；不能减去军用前重复使用。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "可写两客渡已离开这一回忆陈述。; 可作全年企业规模陈述。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU05",
+    "original_record": {
+      "question_id": "TRU05",
+      "question": "独立离城人数与净增获救",
+      "priority": "P0",
+      "known_evidence": "V2仅能复算旧表及给出条件模型8341/30879/80200；历史实运与安全抵达后方未知。",
+      "conflicting_evidence": "起始人口时点地域混杂；双向流量、重复换乘、死亡/滞留与基准获救量缺失，不能给可靠净增区间。",
+      "searches_attempted": "已逐行复算两套旧模型与人口相关算式并建立去重/需求上限；已读交通威胁TR-007/008。未取得去重名册或完整人口流量表。",
+      "next_steps": "建议先定同地域同时段人口基准和独立终点，再调分期流量/乘客名册及后续去向；缺数据则继续标未知，不强求区间。",
+      "fiction_impact": "不得把首段条件输出说成实际获救，也不得声称唐方案必然多救5–7万。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "独立离城人数和净增获救仍无同口径实测；三案仅条件模型",
+    "source_ids": [
+      "SRC-0083",
+      "SRC-0089"
+    ],
+    "locator": "宋文末“认为有必要着重谈一下”段; 同段17时至翌7时与往返45分钟; FRUS d385，印刷532–534页",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "战后回忆网页转录；每次700–800人究竟逐艘还是两船合计有单位歧义；不是船簿。; 不把假设当历史运量；45分钟是否包含装卸未知；片段循环不能无说明进位。; 不是全市所有通路封闭日志；不能用来给全期运力乘一个历史已知折损率。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "可写两客渡已离开这一回忆陈述。; 若额外假设每艘800、14小时无中断，完整18次循环两船为28800人。; 据当事报告写具体局部威胁及观察范围。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU06",
+    "original_record": {
+      "question_id": "TRU06",
+      "question": "气象与通道约束参数",
+      "priority": "P1",
+      "known_evidence": "同期外交报告可核12/9浦口轰炸、11日沿江炮火、12日截断威胁；没有逐日天气水位表。",
+      "conflicting_evidence": "军事风险记录不能推出天气系数；12/6陆路置零仅是模型排除边界，不是当日全面停运认定。",
+      "searches_attempted": "已读TR-007/008官方转录与TR-009馆方报刊转录；检查模型天气和通道假设。Task002未记气象站、潮汐或水文原册调阅。",
+      "next_steps": "建议按拟写日期调1937逐日气象、水位/潮汐与具体道路、码头中断记录；无观测时维持情景假设。",
+      "fiction_impact": "不得为了某次撤离虚构有利天气或把模型0.6/0.75/0.9作为历史实测。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "天气、水位与具体通道状态缺逐日观测",
+    "source_ids": [
+      "SRC-0089",
+      "SRC-0090"
+    ],
+    "locator": "FRUS d385，印刷532–534页; FRUS d385，印刷535–538页; FRUS d384，印刷531–532页",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "不是全市所有通路封闭日志；不能用来给全期运力乘一个历史已知折损率。; 12/12当地晴天是局部观察，不是11月底—12月初南京全期天气。; 命令不等于执行完成；无原命令/执行日志，不能认定12/12浦口封锁已完成。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "据当事报告写具体局部威胁及观察范围。; 外舰与商轮不能被视为无风险或可供中国疏散的通用资产。; 仅作为日方解释经Grew转述的命令信息。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  },
+  {
+    "original_id": "TRU07",
+    "original_record": {
+      "question_id": "TRU07",
+      "question": "军用小轮是否同船在不同回忆中出现",
+      "priority": "P1",
+      "known_evidence": "长官部、第74军等有使用小轮线索；宋回忆可读，船籍与移交链未核。",
+      "conflicting_evidence": "不同回忆是否同船轮用未知；200–300/300–400载量矛盾，无统一全损日与民用配额。",
+      "searches_attempted": "已读TR-001和检查包内交通表军事小轮条；未记取得各单位船只移交簿、驾驶员或航行日志。",
+      "next_steps": "建议调单位交通/征用/移交记录，以船名、驾驶员、时间与泊地匹配同一性；核载量与是否供平民。",
+      "fiction_impact": "不可把每则回忆当一艘新增可用船，或让军用船无来源转为平民专船。",
+      "status": "unverified",
+      "last_reviewed": ""
+    },
+    "current_evidence": "军用小轮跨回忆的船只同一性、移交与载量仍未闭合",
+    "source_ids": [
+      "SRC-0083"
+    ],
+    "locator": "宋文末“认为有必要着重谈一下”段",
+    "new_evidence_this_round": "对既有载体重新阅读全文；补充语义、时空范围和运量边界。",
+    "counterevidence_conflicts": "战后回忆网页转录；每次700–800人究竟逐艘还是两船合计有单位歧义；不是船簿。",
+    "research_attempts": [
+      "既有7份载体全文复读",
+      "针对长江号12/6和两客渡检索4条查询；未取得具名船簿/出港原件",
+      "官方单页PDF实读"
+    ],
+    "resolved": false,
+    "resolution_scope": "仅加强文本边界；未关闭原问题",
+    "limitations": "模型值不能作为新增历史证据。",
+    "next_steps": "定向查船籍、港务/铁路运行日志与原日记；无材料则保留未知。",
+    "allowed_narration": "可写两客渡已离开这一回忆陈述。",
+    "fiction_impact": "F决策可设；交通资产、执行结果及获救人数不得自动确定。"
+  }
+]

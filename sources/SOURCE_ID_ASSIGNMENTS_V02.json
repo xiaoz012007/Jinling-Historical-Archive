@@ -1,0 +1,14 @@
+{
+  "stable_map": {
+    "NEW-AT-01": "SRC-0144",
+    "NEW-AT-02": "SRC-0145",
+    "NEW-AT-03": "SRC-0146",
+    "NEW-INT-01": "SRC-0147",
+    "NEW-MIL-C01": "SRC-0148",
+    "NEW-MIL-J01": "SRC-0149",
+    "NEW-TL-01": "SRC-0150",
+    "NEW-TL-02": "SRC-0151",
+    "NEW-evacuation-01": "SRC-0152"
+  },
+  "rule": "已登记URL复用；新SRC不代表独立史料。原143条编号不变。"
+}

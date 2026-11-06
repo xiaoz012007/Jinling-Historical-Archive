@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-012",
+  "source_ids": [
+    "SRC-0089"
+  ],
+  "title": "Atcheson致国务卿报告，1937-12-21",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d385",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d385",
+  "actual_access_utc": "2026-11-06T19:46:09.452Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "437b4182c1c6ecb53012a3d5bc6ac1f4dcafc2daaa9115884d68d0054164ee36",
+  "local_path_private": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "FRUS d385，印刷532–534页; FRUS d385，印刷535–538页",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "不是全市所有通路封闭日志；不能用来给全期运力乘一个历史已知折损率。; 12/12当地晴天是局部观察，不是11月底—12月初南京全期天气。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

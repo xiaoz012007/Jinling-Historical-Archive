@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-006",
+  "source_ids": [
+    "SRC-0146"
+  ],
+  "title": "日本战争罪行审判史料编译：南京慈善团体及市民鲁甦报告的南京大屠杀遇难者人数概况",
+  "original_url": "https://www.nlc.cn/web/zzzx/wqhg/wqhg2016/160311/",
+  "final_url": "https://www.nlc.cn/web/zzzx/wqhg/wqhg2016/160311/",
+  "actual_access_utc": "2026-11-06T20:50:53.561812+00:00",
+  "request_method": "urllib.request GET default network/TLS",
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "8eb326201a671e2d01a78dd84d87bceeb9d9563b07d8e379da878723ee6e53dc",
+  "local_path_private": "Task003_Run/internal/atrocities/nlc-trial324.html",
+  "read_scope": "full_document",
+  "reading_locator": "页面正文各项和脚注[1][2]",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "本文把伍长德归汉中门，把鲁甦归草鞋峡；可用于寻找法庭证据324号及2014证据文献集成卷7。未取E324原页，不能由简介算新的独立证人或独立统计。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

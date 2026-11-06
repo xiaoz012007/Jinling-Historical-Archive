@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-06T21:03:53.635837+00:00",
+  "passed": true,
+  "timeline_records": 157,
+  "unplaced_claims": 5,
+  "phase_gaps": 98,
+  "interpretations": 4,
+  "withdrawn_records": 0,
+  "legacy_ids_mapped": 231,
+  "initial_12_ids_retained": true,
+  "evidence_links": 178,
+  "calendar_days": 43,
+  "new_timeline_claims": 33,
+  "new_timeline_claims_own_topic": 12,
+  "new_source_records": 2,
+  "new_capture_attempts": 6,
+  "new_response_success": 4,
+  "failed_captures": 2,
+  "reading_records": 16,
+  "reused_reading_source_records": 13,
+  "input_timeline_sha256": "3f69c3916ad15e69f3f4d50b73b7a3c0980fb2143fbdc2a4942384661a9c921d",
+  "limitations": "未定日期历史命题与98阶段缺口分列；已并入国际/暴行专题冻结增量并留文件hash；未实读的继承记录仍明确保留原级别。"
+}

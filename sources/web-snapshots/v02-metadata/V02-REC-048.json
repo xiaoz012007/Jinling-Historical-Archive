@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-048",
+  "source_ids": [
+    "SRC-0089"
+  ],
+  "title": "Atcheson致国务卿报告，1937-12-21",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d385",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d385",
+  "actual_access_utc": "2026-11-06T19:46:09.452Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "437b4182c1c6ecb53012a3d5bc6ac1f4dcafc2daaa9115884d68d0054164ee36",
+  "local_path_private": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "FRUS Japan I d385，p.532–535，前段至12/12新锚位通知；内部文本62–183行",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "12/21所作回顾报告；炮击责任存在报告内异说；未读全篇",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

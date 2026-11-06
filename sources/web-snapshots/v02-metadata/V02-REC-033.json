@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-033",
+  "source_ids": [
+    "SRC-0066"
+  ],
+  "title": "第１節 南京攻略の経過概要",
+  "original_url": "https://www.jacar.archives.go.jp/das/meta/C11111744800",
+  "final_url": "https://www.jacar.archives.go.jp/das/meta/C11111744800",
+  "actual_access_utc": null,
+  "request_method": "web search/open; tool-rendered response retained, not original HTTP payload",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "112622fafac76b27a2cbf00adb6833c292ab65660ef16a88416ece47a1e73471",
+  "local_path_private": "Task003_Run/internal/military/japanese/02_existing_meta_search_excerpts.json",
+  "read_scope": "catalog_only",
+  "reading_locator": "内容栏：第一 南京攻略ノ準備；二 無錫湖州ノ攻略；7图均未读",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "直达页403；检索索引不等于官方页面本轮成功下载，更不等于档案原图。不能据此确认正式编组令、全部父子关系、精确兵额。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

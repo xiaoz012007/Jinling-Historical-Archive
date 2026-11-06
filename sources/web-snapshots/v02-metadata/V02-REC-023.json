@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-023",
+  "source_ids": [
+    "SRC-0103"
+  ],
+  "title": "Yale Nanking Massacre Project 数字目录",
+  "original_url": "https://adhoc.yalepages.org/Collections/Nanking/findingaid.html",
+  "final_url": "https://adhoc.yalepages.org/Collections/Nanking/findingaid.html",
+  "actual_access_utc": "2026-11-06T19:47:53.224Z",
+  "request_method": "reuse_Task003A_HTML_selected_text",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "0858b56b41a9637da4aa1c841786713fd579124317eb711107d989f180017c19",
+  "local_path_private": "Task003A/internal/web-captures/CAP-781672a2adc6-20261106T194747575157Z/original.html",
+  "read_scope": "catalog_only",
+  "reading_locator": "NMP0066、NMP0173—0175、NMP0317、NMP0335及RG10 Box4 Folder59等目录项",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "目录归属不能替代原件姓名签署；NMP0175目录署Rabe本轮与扫描一致，旧称目录误署撤回。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

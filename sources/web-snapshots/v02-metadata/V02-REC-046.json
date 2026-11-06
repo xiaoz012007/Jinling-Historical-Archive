@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-046",
+  "source_ids": [
+    "SRC-0069"
+  ],
+  "title": "国史馆：唐生智呈蒋中正已令各部队构筑阵地并指定各部防区",
+  "original_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-080200-00487-052&indexCode=drnh",
+  "final_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-080200-00487-052&indexCode=drnh",
+  "actual_access_utc": "2026-11-06T19:47:58.749Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "86b96c4e8f75979a42eb8651f542edd8b784705db4b75b5589fc0a46831f3fc2",
+  "local_path_private": "Task003A/internal/web-captures/CAP-0d2d3ee274eb-20261106T194753395874Z/original.html",
+  "read_scope": "catalog_only",
+  "reading_locator": "002-080200-00487-052：题名与1937/12/04目录日期",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "目录所说已令不等于同日始下令或已施工完成",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

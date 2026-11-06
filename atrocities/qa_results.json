@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "event_rows": 22,
+  "existing_event_ids_preserved": 10,
+  "new_event_rows": 12,
+  "revision_rows": 8,
+  "unresolved_questions": 5,
+  "questions_closed": 0,
+  "source_records": 6,
+  "new_provisional_source_records": 3,
+  "new_successful_source_works": 2,
+  "new_http_success_payloads": 3,
+  "new_http_failed_requests": 1,
+  "reused_source_files": 3,
+  "tani_pages_read": 9,
+  "diary_pages_read": 7,
+  "imtfe_printed_pages_read": 8,
+  "new_statement_images_read": 1,
+  "new_full_webpages_read": 2,
+  "zero_unexplained_total_calculations": true,
+  "raw_original_hashes_verified": 2,
+  "public_third_party_payloads_allowed": 0
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "judgment_id": "J-AT-TANI-1947",
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "title": "国防部审判战犯军事法庭谷寿夫案判决",
+    "date": "1947-03-10",
+    "case_number": "三十六年度审字第壹号",
+    "case_number_basis": "PDF2实读",
+    "court": "国防部审判战犯军事法庭",
+    "carrier": "判决正本扫描镜像",
+    "locators": "PDF2主文及案号；PDF3个案；PDF6统计；PDF7–8共同实行；PDF11日期；PDF12甲1–3；PDF14甲16",
+    "finding_scope": "主文认共同纵兵屠杀俘虏及非战斗人员等罪并处死刑；正文被害总数三十余万，附件列个案",
+    "judicial_count_not_recount": "总数、集体与零星分类值按判决原文并列，未重建法院计数或去重算法",
+    "limitations": "共同犯罪责任不等于每个个案由第6师团独自执行；相关证词原卷多未取得；134页仅本轮选读9页",
+    "reading_status": "selected_pages",
+    "source_family": "TANI_JUDGMENT_1947",
+    "rights_status": "link_only",
+    "public_fulltext_allowed": false
+  },
+  {
+    "judgment_id": "J-AT-IMTFE-1948",
+    "source_ids": [
+      "SRC-0113"
+    ],
+    "title": "远东国际军事法庭判决第8章南京部分",
+    "date": "1948",
+    "case_number": null,
+    "case_number_basis": null,
+    "court": "International Military Tribunal for the Far East",
+    "carrier": "英文网页转录，未取签署原件",
+    "locators": "原印刷页1011–1018，数量段1013–1015",
+    "finding_scope": "南京及附近、占领最初六周，平民及战俘被杀20万以上；另有被拘押57000以上与战俘被杀30000以上的段落",
+    "judicial_count_not_recount": "概括数不同于谷案57,418个案，不能仅因接近就确定同群或将两判决总数相加",
+    "limitations": "未取得该章所有底层证据与统计底稿；网页存在转录错误",
+    "reading_status": "selected_pages",
+    "source_family": "IMTFE_JUDGMENT_1948",
+    "rights_status": "link_only",
+    "public_fulltext_allowed": false
+  }
+]

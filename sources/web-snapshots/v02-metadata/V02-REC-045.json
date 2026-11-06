@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-045",
+  "source_ids": [
+    "SRC-0068"
+  ],
+  "title": "国史馆：唐生智等呈蒋中正此次奉令卫戍南京谨将此役各部队之功罪得失呈报",
+  "original_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-020300-00009-153&indexCode=drnh",
+  "final_url": "https://tcmb.culture.tw/zh-tw/detail?id=002-020300-00009-153&indexCode=drnh",
+  "actual_access_utc": "2026-11-06T19:47:53.366Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "d556c6450af0f6edf4003302c407a3990ff269a9e785004031b756990bf87b24",
+  "local_path_private": "Task003A/internal/web-captures/CAP-b94eb6e5d9fb-20261106T194747490117Z/original.html",
+  "read_scope": "catalog_only",
+  "reading_locator": "002-020300-00009-153：题名与1937/12/24目录日期",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "未读呈报全文，文面日不能代抵汉日期",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}
