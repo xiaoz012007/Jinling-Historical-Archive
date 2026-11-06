@@ -1,0 +1,1910 @@
+{
+  "checked_at_utc": "2026-11-06T19:51:20Z",
+  "checks": [
+    {
+      "capture_id": "CAP-fcf8de729ad6-20261106T194545719861Z",
+      "file": "Task003A/internal/web-captures/CAP-fcf8de729ad6-20261106T194545719861Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-fcf8de729ad6-20261106T194545719861Z",
+      "file": "Task003A/internal/web-captures/CAP-fcf8de729ad6-20261106T194545719861Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-56ec6c12830d-20261106T194545718819Z",
+      "file": "Task003A/internal/web-captures/CAP-56ec6c12830d-20261106T194545718819Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-56ec6c12830d-20261106T194545718819Z",
+      "file": "Task003A/internal/web-captures/CAP-56ec6c12830d-20261106T194545718819Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-bcf35b204f4e-20261106T194545718462Z",
+      "file": "Task003A/internal/web-captures/CAP-bcf35b204f4e-20261106T194545718462Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-bcf35b204f4e-20261106T194545718462Z",
+      "file": "Task003A/internal/web-captures/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-201c9b9fafad-20261106T194545719620Z",
+      "file": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-201c9b9fafad-20261106T194545719620Z",
+      "file": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-66bbf44b118d-20261106T194553651667Z",
+      "file": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-66bbf44b118d-20261106T194553651667Z",
+      "file": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-aaf5a007861b-20261106T194740342397Z",
+      "file": "Task003A/internal/web-captures/CAP-aaf5a007861b-20261106T194740342397Z/error-response.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-aaf5a007861b-20261106T194740342397Z",
+      "file": "Task003A/internal/web-captures/CAP-aaf5a007861b-20261106T194740342397Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-6224ac4a3ccb-20261106T194740342156Z",
+      "file": "Task003A/internal/web-captures/CAP-6224ac4a3ccb-20261106T194740342156Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-6224ac4a3ccb-20261106T194740342156Z",
+      "file": "Task003A/internal/web-captures/CAP-6224ac4a3ccb-20261106T194740342156Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-215906397211-20261106T194740341069Z",
+      "file": "Task003A/internal/web-captures/CAP-215906397211-20261106T194740341069Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-215906397211-20261106T194740341069Z",
+      "file": "Task003A/internal/web-captures/CAP-215906397211-20261106T194740341069Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-fd1963ef6ee4-20261106T194740341475Z",
+      "file": "Task003A/internal/web-captures/CAP-fd1963ef6ee4-20261106T194740341475Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-fd1963ef6ee4-20261106T194740341475Z",
+      "file": "Task003A/internal/web-captures/CAP-fd1963ef6ee4-20261106T194740341475Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-781672a2adc6-20261106T194747575157Z",
+      "file": "Task003A/internal/web-captures/CAP-781672a2adc6-20261106T194747575157Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-781672a2adc6-20261106T194747575157Z",
+      "file": "Task003A/internal/web-captures/CAP-781672a2adc6-20261106T194747575157Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-4a9d6c0b3e09-20261106T194747249686Z",
+      "file": "Task003A/internal/web-captures/CAP-4a9d6c0b3e09-20261106T194747249686Z/error-response.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-4a9d6c0b3e09-20261106T194747249686Z",
+      "file": "Task003A/internal/web-captures/CAP-4a9d6c0b3e09-20261106T194747249686Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-b94eb6e5d9fb-20261106T194747490117Z",
+      "file": "Task003A/internal/web-captures/CAP-b94eb6e5d9fb-20261106T194747490117Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-b94eb6e5d9fb-20261106T194747490117Z",
+      "file": "Task003A/internal/web-captures/CAP-b94eb6e5d9fb-20261106T194747490117Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-4bf1103fbd61-20261106T194748328633Z",
+      "file": "Task003A/internal/web-captures/CAP-4bf1103fbd61-20261106T194748328633Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-4bf1103fbd61-20261106T194748328633Z",
+      "file": "Task003A/internal/web-captures/CAP-4bf1103fbd61-20261106T194748328633Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-1c4d9a3ffc6b-20261106T194753375754Z",
+      "file": "Task003A/internal/web-captures/CAP-1c4d9a3ffc6b-20261106T194753375754Z/error-response.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-1c4d9a3ffc6b-20261106T194753375754Z",
+      "file": "Task003A/internal/web-captures/CAP-1c4d9a3ffc6b-20261106T194753375754Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-0d2d3ee274eb-20261106T194753395874Z",
+      "file": "Task003A/internal/web-captures/CAP-0d2d3ee274eb-20261106T194753395874Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-0d2d3ee274eb-20261106T194753395874Z",
+      "file": "Task003A/internal/web-captures/CAP-0d2d3ee274eb-20261106T194753395874Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-fc7d62567a77-20261106T194753701073Z",
+      "file": "Task003A/internal/web-captures/CAP-fc7d62567a77-20261106T194753701073Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-fc7d62567a77-20261106T194753701073Z",
+      "file": "Task003A/internal/web-captures/CAP-fc7d62567a77-20261106T194753701073Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-e2bea61c0a70-20261106T194753257130Z",
+      "file": "Task003A/internal/web-captures/CAP-e2bea61c0a70-20261106T194753257130Z/error-response.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-e2bea61c0a70-20261106T194753257130Z",
+      "file": "Task003A/internal/web-captures/CAP-e2bea61c0a70-20261106T194753257130Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-9bc20b4f3104-20261106T194759203895Z",
+      "file": "Task003A/internal/web-captures/CAP-9bc20b4f3104-20261106T194759203895Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-9bc20b4f3104-20261106T194759203895Z",
+      "file": "Task003A/internal/web-captures/CAP-9bc20b4f3104-20261106T194759203895Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-b95e022998d2-20261106T194758784989Z",
+      "file": "Task003A/internal/web-captures/CAP-b95e022998d2-20261106T194758784989Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-b95e022998d2-20261106T194758784989Z",
+      "file": "Task003A/internal/web-captures/CAP-b95e022998d2-20261106T194758784989Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-70adc6c6dba8-20261106T194759579420Z",
+      "file": "Task003A/internal/web-captures/CAP-70adc6c6dba8-20261106T194759579420Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-70adc6c6dba8-20261106T194759579420Z",
+      "file": "Task003A/internal/web-captures/CAP-70adc6c6dba8-20261106T194759579420Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-5007edc53ff0-20261106T194803177530Z",
+      "file": "Task003A/internal/web-captures/CAP-5007edc53ff0-20261106T194803177530Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-5007edc53ff0-20261106T194803177530Z",
+      "file": "Task003A/internal/web-captures/CAP-5007edc53ff0-20261106T194803177530Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-1a7df7821b7b-20261106T194804026253Z",
+      "file": "Task003A/internal/web-captures/CAP-1a7df7821b7b-20261106T194804026253Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-1a7df7821b7b-20261106T194804026253Z",
+      "file": "Task003A/internal/web-captures/CAP-1a7df7821b7b-20261106T194804026253Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-3f69c2c052ea-20261106T194808021974Z",
+      "file": "Task003A/internal/web-captures/CAP-3f69c2c052ea-20261106T194808021974Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-3f69c2c052ea-20261106T194808021974Z",
+      "file": "Task003A/internal/web-captures/CAP-3f69c2c052ea-20261106T194808021974Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-655646779a60-20261106T194806428174Z",
+      "file": "Task003A/internal/web-captures/CAP-655646779a60-20261106T194806428174Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-655646779a60-20261106T194806428174Z",
+      "file": "Task003A/internal/web-captures/CAP-655646779a60-20261106T194806428174Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-e7c6f9ac735e-20261106T194809071210Z",
+      "file": "Task003A/internal/web-captures/CAP-e7c6f9ac735e-20261106T194809071210Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-e7c6f9ac735e-20261106T194809071210Z",
+      "file": "Task003A/internal/web-captures/CAP-e7c6f9ac735e-20261106T194809071210Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-56e435650b18-20261106T194813175807Z",
+      "file": "Task003A/internal/web-captures/CAP-56e435650b18-20261106T194813175807Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-56e435650b18-20261106T194813175807Z",
+      "file": "Task003A/internal/web-captures/CAP-56e435650b18-20261106T194813175807Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-ba5f67a427b1-20261106T194804608111Z",
+      "file": "Task003A/internal/web-captures/CAP-ba5f67a427b1-20261106T194804608111Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-ba5f67a427b1-20261106T194804608111Z",
+      "file": "Task003A/internal/web-captures/CAP-ba5f67a427b1-20261106T194804608111Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-39b1f79053d3-20261106T194812993362Z",
+      "file": "Task003A/internal/web-captures/CAP-39b1f79053d3-20261106T194812993362Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-39b1f79053d3-20261106T194812993362Z",
+      "file": "Task003A/internal/web-captures/CAP-39b1f79053d3-20261106T194812993362Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-1c43f5d4b5fe-20261106T194814351990Z",
+      "file": "Task003A/internal/web-captures/CAP-1c43f5d4b5fe-20261106T194814351990Z/original.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-1c43f5d4b5fe-20261106T194814351990Z",
+      "file": "Task003A/internal/web-captures/CAP-1c43f5d4b5fe-20261106T194814351990Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-79d87281cb4b-20261106T194818077734Z",
+      "file": "Task003A/internal/web-captures/CAP-79d87281cb4b-20261106T194818077734Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-79d87281cb4b-20261106T194818077734Z",
+      "file": "Task003A/internal/web-captures/CAP-79d87281cb4b-20261106T194818077734Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-fed3085983f6-20261106T194819180274Z",
+      "file": "Task003A/internal/web-captures/CAP-fed3085983f6-20261106T194819180274Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-fed3085983f6-20261106T194819180274Z",
+      "file": "Task003A/internal/web-captures/CAP-fed3085983f6-20261106T194819180274Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-f9a8874500ac-20261106T194819684372Z",
+      "file": "Task003A/internal/web-captures/CAP-f9a8874500ac-20261106T194819684372Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-f9a8874500ac-20261106T194819684372Z",
+      "file": "Task003A/internal/web-captures/CAP-f9a8874500ac-20261106T194819684372Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-92a1939df4d4-20261106T194819111251Z",
+      "file": "Task003A/internal/web-captures/CAP-92a1939df4d4-20261106T194819111251Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-92a1939df4d4-20261106T194819111251Z",
+      "file": "Task003A/internal/web-captures/CAP-92a1939df4d4-20261106T194819111251Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-c0e536ad84d7-20261106T194822662306Z",
+      "file": "Task003A/internal/web-captures/CAP-c0e536ad84d7-20261106T194822662306Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-c0e536ad84d7-20261106T194822662306Z",
+      "file": "Task003A/internal/web-captures/CAP-c0e536ad84d7-20261106T194822662306Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-61031bc4735d-20261106T195010304389Z",
+      "file": "Task003A/internal/web-captures/CAP-61031bc4735d-20261106T195010304389Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-61031bc4735d-20261106T195010304389Z",
+      "file": "Task003A/internal/web-captures/CAP-61031bc4735d-20261106T195010304389Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-69024423ae48-20261106T194825273182Z",
+      "file": "Task003A/internal/web-captures/CAP-69024423ae48-20261106T194825273182Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-69024423ae48-20261106T194825273182Z",
+      "file": "Task003A/internal/web-captures/CAP-69024423ae48-20261106T194825273182Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-977803ff3bcf-20261106T194823560215Z",
+      "file": "Task003A/internal/web-captures/CAP-977803ff3bcf-20261106T194823560215Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-977803ff3bcf-20261106T194823560215Z",
+      "file": "Task003A/internal/web-captures/CAP-977803ff3bcf-20261106T194823560215Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-2e6c97429a91-20261106T194823836359Z",
+      "file": "Task003A/internal/web-captures/CAP-2e6c97429a91-20261106T194823836359Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-2e6c97429a91-20261106T194823836359Z",
+      "file": "Task003A/internal/web-captures/CAP-2e6c97429a91-20261106T194823836359Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-3a2abdff9d18-20261106T194828114301Z",
+      "file": "Task003A/internal/web-captures/CAP-3a2abdff9d18-20261106T194828114301Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-3a2abdff9d18-20261106T194828114301Z",
+      "file": "Task003A/internal/web-captures/CAP-3a2abdff9d18-20261106T194828114301Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-6c94ed935fca-20261106T194830196650Z",
+      "file": "Task003A/internal/web-captures/CAP-6c94ed935fca-20261106T194830196650Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-6c94ed935fca-20261106T194830196650Z",
+      "file": "Task003A/internal/web-captures/CAP-6c94ed935fca-20261106T194830196650Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-41206269a562-20261106T194829433579Z",
+      "file": "Task003A/internal/web-captures/CAP-41206269a562-20261106T194829433579Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-41206269a562-20261106T194829433579Z",
+      "file": "Task003A/internal/web-captures/CAP-41206269a562-20261106T194829433579Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-a7e82cba9d59-20261106T194833607492Z",
+      "file": "Task003A/internal/web-captures/CAP-a7e82cba9d59-20261106T194833607492Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-a7e82cba9d59-20261106T194833607492Z",
+      "file": "Task003A/internal/web-captures/CAP-a7e82cba9d59-20261106T194833607492Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-516355e3035f-20261106T194837060972Z",
+      "file": "Task003A/internal/web-captures/CAP-516355e3035f-20261106T194837060972Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-516355e3035f-20261106T194837060972Z",
+      "file": "Task003A/internal/web-captures/CAP-516355e3035f-20261106T194837060972Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-45c8d190bdc3-20261106T194836498259Z",
+      "file": "Task003A/internal/web-captures/CAP-45c8d190bdc3-20261106T194836498259Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-45c8d190bdc3-20261106T194836498259Z",
+      "file": "Task003A/internal/web-captures/CAP-45c8d190bdc3-20261106T194836498259Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-55ed6f79e67d-20261106T195010304856Z",
+      "file": "Task003A/internal/web-captures/CAP-55ed6f79e67d-20261106T195010304856Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-55ed6f79e67d-20261106T195010304856Z",
+      "file": "Task003A/internal/web-captures/CAP-55ed6f79e67d-20261106T195010304856Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-0ace02ccc501-20261106T194839252543Z",
+      "file": "Task003A/internal/web-captures/CAP-0ace02ccc501-20261106T194839252543Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-0ace02ccc501-20261106T194839252543Z",
+      "file": "Task003A/internal/web-captures/CAP-0ace02ccc501-20261106T194839252543Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-dadf73e47e6a-20261106T194841942074Z",
+      "file": "Task003A/internal/web-captures/CAP-dadf73e47e6a-20261106T194841942074Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-dadf73e47e6a-20261106T194841942074Z",
+      "file": "Task003A/internal/web-captures/CAP-dadf73e47e6a-20261106T194841942074Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-48a2d7bcdf7a-20261106T194841901761Z",
+      "file": "Task003A/internal/web-captures/CAP-48a2d7bcdf7a-20261106T194841901761Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-48a2d7bcdf7a-20261106T194841901761Z",
+      "file": "Task003A/internal/web-captures/CAP-48a2d7bcdf7a-20261106T194841901761Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-aa071c6a097e-20261106T194834260627Z",
+      "file": "Task003A/internal/web-captures/CAP-aa071c6a097e-20261106T194834260627Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-aa071c6a097e-20261106T194834260627Z",
+      "file": "Task003A/internal/web-captures/CAP-aa071c6a097e-20261106T194834260627Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-c90ca18ee42a-20261106T194848079691Z",
+      "file": "Task003A/internal/web-captures/CAP-c90ca18ee42a-20261106T194848079691Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-c90ca18ee42a-20261106T194848079691Z",
+      "file": "Task003A/internal/web-captures/CAP-c90ca18ee42a-20261106T194848079691Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-c2d43721acce-20261106T194845163974Z",
+      "file": "Task003A/internal/web-captures/CAP-c2d43721acce-20261106T194845163974Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-c2d43721acce-20261106T194845163974Z",
+      "file": "Task003A/internal/web-captures/CAP-c2d43721acce-20261106T194845163974Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-4d9cee0766c3-20261106T194849981915Z",
+      "file": "Task003A/internal/web-captures/CAP-4d9cee0766c3-20261106T194849981915Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-4d9cee0766c3-20261106T194849981915Z",
+      "file": "Task003A/internal/web-captures/CAP-4d9cee0766c3-20261106T194849981915Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-0282ac05d26c-20261106T194852473243Z",
+      "file": "Task003A/internal/web-captures/CAP-0282ac05d26c-20261106T194852473243Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-0282ac05d26c-20261106T194852473243Z",
+      "file": "Task003A/internal/web-captures/CAP-0282ac05d26c-20261106T194852473243Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-80129031aac8-20261106T194854419721Z",
+      "file": "Task003A/internal/web-captures/CAP-80129031aac8-20261106T194854419721Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-80129031aac8-20261106T194854419721Z",
+      "file": "Task003A/internal/web-captures/CAP-80129031aac8-20261106T194854419721Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-590ed3316386-20261106T194853319992Z",
+      "file": "Task003A/internal/web-captures/CAP-590ed3316386-20261106T194853319992Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-590ed3316386-20261106T194853319992Z",
+      "file": "Task003A/internal/web-captures/CAP-590ed3316386-20261106T194853319992Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-dca28c26712c-20261106T194856289038Z",
+      "file": "Task003A/internal/web-captures/CAP-dca28c26712c-20261106T194856289038Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-dca28c26712c-20261106T194856289038Z",
+      "file": "Task003A/internal/web-captures/CAP-dca28c26712c-20261106T194856289038Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-16c5e9bccdbc-20261106T194858603596Z",
+      "file": "Task003A/internal/web-captures/CAP-16c5e9bccdbc-20261106T194858603596Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-16c5e9bccdbc-20261106T194858603596Z",
+      "file": "Task003A/internal/web-captures/CAP-16c5e9bccdbc-20261106T194858603596Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-7ae3411662b3-20261106T194859361148Z",
+      "file": "Task003A/internal/web-captures/CAP-7ae3411662b3-20261106T194859361148Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-7ae3411662b3-20261106T194859361148Z",
+      "file": "Task003A/internal/web-captures/CAP-7ae3411662b3-20261106T194859361148Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-ddb544c4cd7a-20261106T194859211441Z",
+      "file": "Task003A/internal/web-captures/CAP-ddb544c4cd7a-20261106T194859211441Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-ddb544c4cd7a-20261106T194859211441Z",
+      "file": "Task003A/internal/web-captures/CAP-ddb544c4cd7a-20261106T194859211441Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-0bb19f62a421-20261106T194904657096Z",
+      "file": "Task003A/internal/web-captures/CAP-0bb19f62a421-20261106T194904657096Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-0bb19f62a421-20261106T194904657096Z",
+      "file": "Task003A/internal/web-captures/CAP-0bb19f62a421-20261106T194904657096Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-591b21697876-20261106T194904800937Z",
+      "file": "Task003A/internal/web-captures/CAP-591b21697876-20261106T194904800937Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-591b21697876-20261106T194904800937Z",
+      "file": "Task003A/internal/web-captures/CAP-591b21697876-20261106T194904800937Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-9208cc02a19f-20261106T194903027357Z",
+      "file": "Task003A/internal/web-captures/CAP-9208cc02a19f-20261106T194903027357Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-9208cc02a19f-20261106T194903027357Z",
+      "file": "Task003A/internal/web-captures/CAP-9208cc02a19f-20261106T194903027357Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-006387dea458-20261106T194904307826Z",
+      "file": "Task003A/internal/web-captures/CAP-006387dea458-20261106T194904307826Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-006387dea458-20261106T194904307826Z",
+      "file": "Task003A/internal/web-captures/CAP-006387dea458-20261106T194904307826Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-139b3cc46f14-20261106T194909106093Z",
+      "file": "Task003A/internal/web-captures/CAP-139b3cc46f14-20261106T194909106093Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-139b3cc46f14-20261106T194909106093Z",
+      "file": "Task003A/internal/web-captures/CAP-139b3cc46f14-20261106T194909106093Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-ee4af7469f92-20261106T194909778051Z",
+      "file": "Task003A/internal/web-captures/CAP-ee4af7469f92-20261106T194909778051Z/error-response.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-ee4af7469f92-20261106T194909778051Z",
+      "file": "Task003A/internal/web-captures/CAP-ee4af7469f92-20261106T194909778051Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-157bb22d728d-20261106T194912588226Z",
+      "file": "Task003A/internal/web-captures/CAP-157bb22d728d-20261106T194912588226Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-157bb22d728d-20261106T194912588226Z",
+      "file": "Task003A/internal/web-captures/CAP-157bb22d728d-20261106T194912588226Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-c3fa1d8b08a2-20261106T194915623961Z",
+      "file": "Task003A/internal/web-captures/CAP-c3fa1d8b08a2-20261106T194915623961Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-c3fa1d8b08a2-20261106T194915623961Z",
+      "file": "Task003A/internal/web-captures/CAP-c3fa1d8b08a2-20261106T194915623961Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-0bd903ba191d-20261106T194917244174Z",
+      "file": "Task003A/internal/web-captures/CAP-0bd903ba191d-20261106T194917244174Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-0bd903ba191d-20261106T194917244174Z",
+      "file": "Task003A/internal/web-captures/CAP-0bd903ba191d-20261106T194917244174Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-10cab13a2aeb-20261106T194915427921Z",
+      "file": "Task003A/internal/web-captures/CAP-10cab13a2aeb-20261106T194915427921Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-10cab13a2aeb-20261106T194915427921Z",
+      "file": "Task003A/internal/web-captures/CAP-10cab13a2aeb-20261106T194915427921Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-8cdb087ba66f-20261106T194917930115Z",
+      "file": "Task003A/internal/web-captures/CAP-8cdb087ba66f-20261106T194917930115Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-8cdb087ba66f-20261106T194917930115Z",
+      "file": "Task003A/internal/web-captures/CAP-8cdb087ba66f-20261106T194917930115Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-bc20bfcc9314-20261106T194923071768Z",
+      "file": "Task003A/internal/web-captures/CAP-bc20bfcc9314-20261106T194923071768Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-bc20bfcc9314-20261106T194923071768Z",
+      "file": "Task003A/internal/web-captures/CAP-bc20bfcc9314-20261106T194923071768Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-26b19bebb5df-20261106T194923642601Z",
+      "file": "Task003A/internal/web-captures/CAP-26b19bebb5df-20261106T194923642601Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-26b19bebb5df-20261106T194923642601Z",
+      "file": "Task003A/internal/web-captures/CAP-26b19bebb5df-20261106T194923642601Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-e1bceaa16f15-20261106T194921137748Z",
+      "file": "Task003A/internal/web-captures/CAP-e1bceaa16f15-20261106T194921137748Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-e1bceaa16f15-20261106T194921137748Z",
+      "file": "Task003A/internal/web-captures/CAP-e1bceaa16f15-20261106T194921137748Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-a7d65a2b4c02-20261106T194923727368Z",
+      "file": "Task003A/internal/web-captures/CAP-a7d65a2b4c02-20261106T194923727368Z/error-response.bin",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-a7d65a2b4c02-20261106T194923727368Z",
+      "file": "Task003A/internal/web-captures/CAP-a7d65a2b4c02-20261106T194923727368Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-4901dd8e9a66-20261106T194927623310Z",
+      "file": "Task003A/internal/web-captures/CAP-4901dd8e9a66-20261106T194927623310Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-4901dd8e9a66-20261106T194927623310Z",
+      "file": "Task003A/internal/web-captures/CAP-4901dd8e9a66-20261106T194927623310Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-a527fdf50dac-20261106T194928984668Z",
+      "file": "Task003A/internal/web-captures/CAP-a527fdf50dac-20261106T194928984668Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-a527fdf50dac-20261106T194928984668Z",
+      "file": "Task003A/internal/web-captures/CAP-a527fdf50dac-20261106T194928984668Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-400cd5534351-20261106T194928338843Z",
+      "file": "Task003A/internal/web-captures/CAP-400cd5534351-20261106T194928338843Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-400cd5534351-20261106T194928338843Z",
+      "file": "Task003A/internal/web-captures/CAP-400cd5534351-20261106T194928338843Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-a4e8027bfd05-20261106T194931348528Z",
+      "file": "Task003A/internal/web-captures/CAP-a4e8027bfd05-20261106T194931348528Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-a4e8027bfd05-20261106T194931348528Z",
+      "file": "Task003A/internal/web-captures/CAP-a4e8027bfd05-20261106T194931348528Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-d12ab2b476a2-20261106T194934001048Z",
+      "file": "Task003A/internal/web-captures/CAP-d12ab2b476a2-20261106T194934001048Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-d12ab2b476a2-20261106T194934001048Z",
+      "file": "Task003A/internal/web-captures/CAP-d12ab2b476a2-20261106T194934001048Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-fcb112030149-20261106T194931938578Z",
+      "file": "Task003A/internal/web-captures/CAP-fcb112030149-20261106T194931938578Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-fcb112030149-20261106T194931938578Z",
+      "file": "Task003A/internal/web-captures/CAP-fcb112030149-20261106T194931938578Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-979f51877e93-20261106T194933485233Z",
+      "file": "Task003A/internal/web-captures/CAP-979f51877e93-20261106T194933485233Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-979f51877e93-20261106T194933485233Z",
+      "file": "Task003A/internal/web-captures/CAP-979f51877e93-20261106T194933485233Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-6e065c2d9f85-20261106T194936954763Z",
+      "file": "Task003A/internal/web-captures/CAP-6e065c2d9f85-20261106T194936954763Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-6e065c2d9f85-20261106T194936954763Z",
+      "file": "Task003A/internal/web-captures/CAP-6e065c2d9f85-20261106T194936954763Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-00edaa933e9e-20261106T194939179236Z",
+      "file": "Task003A/internal/web-captures/CAP-00edaa933e9e-20261106T194939179236Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-00edaa933e9e-20261106T194939179236Z",
+      "file": "Task003A/internal/web-captures/CAP-00edaa933e9e-20261106T194939179236Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-cabedabdab63-20261106T194943490326Z",
+      "file": "Task003A/internal/web-captures/CAP-cabedabdab63-20261106T194943490326Z/reused-cache.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-12608efbffd1-20261106T194940183073Z",
+      "file": "Task003A/internal/web-captures/CAP-12608efbffd1-20261106T194940183073Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-12608efbffd1-20261106T194940183073Z",
+      "file": "Task003A/internal/web-captures/CAP-12608efbffd1-20261106T194940183073Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-4e8744a40889-20261106T194948926302Z",
+      "file": "Task003A/internal/web-captures/CAP-4e8744a40889-20261106T194948926302Z/reused-cache.pdf",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-1a7a8b9a0af5-20261106T194941641154Z",
+      "file": "Task003A/internal/web-captures/CAP-1a7a8b9a0af5-20261106T194941641154Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-1a7a8b9a0af5-20261106T194941641154Z",
+      "file": "Task003A/internal/web-captures/CAP-1a7a8b9a0af5-20261106T194941641154Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    },
+    {
+      "capture_id": "CAP-88b012da608b-20261106T194947027316Z",
+      "file": "Task003A/internal/web-captures/CAP-88b012da608b-20261106T194947027316Z/original.html",
+      "sha256_pass": true,
+      "size_pass": true
+    },
+    {
+      "capture_id": "CAP-88b012da608b-20261106T194947027316Z",
+      "file": "Task003A/internal/web-captures/CAP-88b012da608b-20261106T194947027316Z/snapshot.warc.gz",
+      "checks": {
+        "gzip_sha256": true,
+        "size": true,
+        "warc_version": true,
+        "block_length": true,
+        "block_digest": true,
+        "payload_digest": true,
+        "payload_equals_raw_response": true,
+        "record_uuid": true,
+        "no_sensitive_headers": true
+      },
+      "pass": true
+    }
+  ],
+  "all_passed": true
+}

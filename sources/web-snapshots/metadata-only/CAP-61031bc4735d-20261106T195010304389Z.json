@@ -1,0 +1,60 @@
+{
+  "capture_id": "CAP-61031bc4735d-20261106T195010304389Z",
+  "title": "File:NLC416-07jh009166-3792 戰犯谷壽夫判決書正本.pdf - Wikimedia Commons",
+  "creator_or_publisher": null,
+  "original_url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh009166-3792_戰犯谷壽夫判決書正本.pdf",
+  "final_url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh009166-3792_%E6%88%B0%E7%8A%AF%E8%B0%B7%E5%A3%BD%E5%A4%AB%E5%88%A4%E6%B1%BA%E6%9B%B8%E6%AD%A3%E6%9C%AC.pdf",
+  "capture_started_at_utc": "2026-11-06T19:50:10.304Z",
+  "capture_finished_at_utc": "2026-11-06T19:50:16.842Z",
+  "retrieved_at_utc": "2026-11-06T19:50:16.826Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": "en",
+  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0111"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "7a28a8718d14878d037933c5ac51f98373a5dc19cde03b4fd34f0a0fe65a76fa",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "d49c935b8aa097e4ae3131065121dc1335130502ddab3a07d8563951a1071609",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

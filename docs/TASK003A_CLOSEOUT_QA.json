@@ -1,0 +1,249 @@
+{
+  "schema_version": "Task003.Run.stage1.independent-qa.1",
+  "reviewed_at_utc": "2026-11-06T20:41:22.669882+00:00",
+  "review_date_asia_shanghai": "2026-11-07",
+  "decision": "pass",
+  "blocker_count": 0,
+  "candidate": "Task003_Run/closeout",
+  "baseline": "Task003A/candidate (PR #1 commit 975725c as declared in migration fixture)",
+  "candidate_files": 173,
+  "manifest_entries": 172,
+  "candidate_manifest_sha256": "7adcbc48b296e901fd9afcbc2d677913dead8de505bb3241b88545ef1143e414",
+  "review_scope": "Task003任务书第二部分的增量收尾；不重新判定历史命题真伪，不新增采集、不改候选、不写GitHub",
+  "automated_checks": [
+    {
+      "name": "CSV/JSON语法及列数",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "csv_files": 14,
+        "json_files": 107
+      }
+    },
+    {
+      "name": "143来源稳定ID及69 U→unknown精确转换",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "unknown": 69,
+        "T": 49,
+        "S": 8,
+        "P": 17
+      }
+    },
+    {
+      "name": "current来源性质引用不残留U/I/F",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "reference_count": 761
+      }
+    },
+    {
+      "name": "12历史事件/462关联/34未决命题状态与原文不变",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "timeline/EVENT_REGISTER.csv": 12,
+        "timeline/EVENT_SOURCE_LINKS.csv": 12,
+        "sources/HISTORICAL_CLAIM_LINKS.csv": 462,
+        "unresolved/OPEN_QUESTIONS.csv": 34,
+        "unresolved/QUESTION_SOURCE_LINKS.csv": 34
+      }
+    },
+    {
+      "name": "SOURCE_DETAILS及关联字段投影一致",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "DETAILS逐字段独立比较：仅nature/原值/固定说明替换",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "69源级/145引用旧U逐行保留及迁移日志",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "migrated_source_count": 69,
+        "original_U_research_link_count": 145
+      }
+    },
+    {
+      "name": "来源/文件/事件/问题外键及关联ID",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "完整SHA256清单",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "files": 173,
+        "entries": 172,
+        "manifest_sha256": "7adcbc48b296e901fd9afcbc2d677913dead8de505bb3241b88545ef1143e414"
+      }
+    },
+    {
+      "name": "原55及前轮全部565输入保护",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "protected_count": 565,
+        "by_root": {
+          "Task002_V2": 143,
+          "Task003": 201,
+          "Task003A": 166,
+          "source_readonly": 55
+        }
+      }
+    },
+    {
+      "name": "5组FRUS10载荷与许可边界无扩展",
+      "pass": true,
+      "errors": [],
+      "details": {
+        "payload_paths": [
+          "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/original.html",
+          "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz",
+          "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/original.html",
+          "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/snapshot.warc.gz",
+          "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/original.html",
+          "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/snapshot.warc.gz",
+          "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/original.html",
+          "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/snapshot.warc.gz",
+          "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/original.html",
+          "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/snapshot.warc.gz"
+        ]
+      }
+    },
+    {
+      "name": "项目缘起分离与两句原话逐字保留",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "Markdown相对链接",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "新增及全候选敏感凭据/屏蔽直链检查",
+      "pass": true,
+      "errors": [],
+      "details": null
+    },
+    {
+      "name": "验证器冻结fixture与真实旧候选独立交叉核对",
+      "pass": true,
+      "errors": [],
+      "details": null
+    }
+  ],
+  "manual_checks": [
+    {
+      "name": "现行规范与字段职责",
+      "pass": true,
+      "detail": "完整读任务书、README/CONTRIBUTING及证据模型、数据字典、入库清单、版权政策、快照规范、研究方法、发布状态；P/S/T/unknown、I/U/F、claim_status分离。"
+    },
+    {
+      "name": "全部增量路径逐件审阅",
+      "pass": true,
+      "detail": "7新增、9变更、0删除；新增均为项目缘起/迁移元数据/收尾说明/验证脚本及冻结fixture；无新第三方载荷。"
+    },
+    {
+      "name": "原值与来源引用计数",
+      "pass": true,
+      "detail": "69源级旧U保留；145关联旧U保留=84 SRC+61 FILE-F06/F07；后者角色未升级。17P/8S/49T原分布不变。"
+    },
+    {
+      "name": "notes变化界限",
+      "pass": true,
+      "detail": "SOURCE_REGISTER和SOURCE_DETAILS各126个notes仅固定的旧U枚举说明改为unknown与原值保留说明，其余字串保持。"
+    },
+    {
+      "name": "项目原话与迁移说明",
+      "pass": true,
+      "detail": "两句指定原话逐字符保留；原完整段落另存JSON；README链接与个人感想/历史证据边界明确。"
+    },
+    {
+      "name": "验证器与测试实际执行",
+      "pass": true,
+      "detail": "python -B scripts/validate_source_nature.py：1736项字段/不变量检查0错误；python -B scripts/test_source_nature.py：12项临时副本测试通过。完整阅读脚本，冻结fixture独立对照旧候选实际数据。"
+    },
+    {
+      "name": "历史命题及未决状态",
+      "pass": true,
+      "detail": "12事件、12采用关联、462研究关联中的历史原文/claim_status/原证据状态/限定字段不变；34问题及关联逐行不变。"
+    },
+    {
+      "name": "既有权限边界与快照范围",
+      "pass": true,
+      "detail": "权利审查文件和5组FRUS10载荷逐字节不变，仍只有单响应WARC及原HTML；本轮未作新的版权授权判断，不扩大原许可。"
+    },
+    {
+      "name": "输入保护",
+      "pass": true,
+      "detail": "protected_input_hashes的565件全部独立重算通过，含原55件和510件前轮成果；本审查只读候选与受保护输入。"
+    }
+  ],
+  "test_commands": [
+    {
+      "command": "python -B Task003_Run/closeout/scripts/validate_source_nature.py",
+      "result": "PASS: 1736 field/invariant checks; 0 errors"
+    },
+    {
+      "command": "python -B Task003_Run/closeout/scripts/test_source_nature.py",
+      "result": "Ran 12 tests; OK"
+    },
+    {
+      "command": "python -B Task003_Run/work/independent_closeout_scan.py",
+      "result": "15 grouped checks passed; no failed group"
+    }
+  ],
+  "changes": {
+    "added": [
+      "docs/PROJECT_ORIGIN.md",
+      "docs/PROJECT_ORIGIN_MIGRATION.json",
+      "docs/TASK003A_CLOSEOUT_REPORT.md",
+      "scripts/fixtures/source_nature_closeout_baseline.json",
+      "scripts/test_source_nature.py",
+      "scripts/validate_source_nature.py",
+      "sources/SOURCE_NATURE_MIGRATION.csv"
+    ],
+    "changed": [
+      "CHANGELOG.md",
+      "README.md",
+      "SHA256SUMS.txt",
+      "docs/DATA_DICTIONARY.md",
+      "docs/EVIDENCE_MODEL.md",
+      "sources/HISTORICAL_CLAIM_LINKS.csv",
+      "sources/SOURCE_DETAILS.json",
+      "sources/SOURCE_REGISTER.csv",
+      "sources/templates/web-source-record.json"
+    ],
+    "removed": []
+  },
+  "warnings": [
+    {
+      "type": "scope",
+      "detail": "通过仅表示本次字段迁移与公开候选符合收尾条件，不表示69未知来源已定性、462研究关联成为已证史实或34问题已解决。"
+    },
+    {
+      "type": "final_append",
+      "detail": "本报告和结果附入后，须刷新SHA256SUMS并只检查新增QA文件及清单差异；本报告manifest哈希只对应173文件冻结版。"
+    },
+    {
+      "type": "remote",
+      "detail": "本审查未访问或修改GitHub；PR分支、最终blob/tree/commit与合并操作由主代理独立核验并记录。"
+    }
+  ],
+  "github_actions_performed_by_reviewer": false,
+  "network_capture_performed_by_reviewer": false
+}

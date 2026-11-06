@@ -13,3 +13,8 @@
 4. 网页快照必须关联来源ID和SHA-256。
 5. 无法公开全文时只发布元数据、合法链接和原创摘要。
 6. 不能确认的字段留空并说明，不得编造。
+
+
+## 本批附表
+
+SOURCE_REGISTER.csv为完整来源登记入口；SOURCE_DETAILS.json保留旧获取状态和未核字段。WEB_SNAPSHOT_REGISTER.csv索引实际采集，RIGHTS_REVIEW.csv控制全文发布。HISTORICAL_CLAIM_LINKS.csv是既有研究命题关联，含未决状态，不可直接当已发生事件全集。详细定义见 ../docs/TASK003A_DATA_NOTES.md。

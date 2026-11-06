@@ -1,0 +1,1833 @@
+{
+  "target": "Task003A/candidate/sources/HISTORICAL_CLAIM_LINKS.csv",
+  "rows": 462,
+  "columns": 25,
+  "context_label_scope": "全部persons与evacuation关联；不处理军事组织等其他行",
+  "context_row_counts": {
+    "persons/重要人物与职务关系.csv": 70,
+    "evacuation/南京交通及船舶实体.csv": 20
+  },
+  "context_rows": 90,
+  "original_empty_claim_rows": 18,
+  "original_nonempty_claim_rows": 444,
+  "original_23_columns_and_claim_text_status_unchanged": true,
+  "new_historical_claims_created": 0,
+  "sha256_before_initial_enrichment": "fed47d7766e0467283a83f2896542ee7053e48616fcbd566b404a8953fce2b55",
+  "sha256_before_scope_expansion": "3f04e1cb26aa4fbea0a4ef54ab9c9a66299bf0d3323c4541992a1dab98f82030",
+  "sha256_after": "45b021375ea97eda56971601654fad64d2ef78bc8f43fd74805a4de729a75246",
+  "context_source_sha256": {
+    "persons/重要人物与职务关系.csv": "fff8e682552dcc7c5b189186e6b6c8250604f05c96a95feac55ad776436a9da6",
+    "evacuation/南京交通及船舶实体.csv": "87483fc828bb9e5cecc1602ad29e906a1dbf70ae2e2c34ae862ec971d3624349"
+  },
+  "initial_empty_claim_enrichment": [
+    {
+      "evidence_link_id": "EL-0328",
+      "claim_id": "persons:P-033",
+      "source_id": "SRC-0076",
+      "original_claim_text": "",
+      "context_label": "萧山令",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-033",
+      "source_data_record_index_1_based": 33,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0329",
+      "claim_id": "persons:P-039",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "松井石根",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-039",
+      "source_data_record_index_1_based": 39,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0330",
+      "claim_id": "persons:P-040",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "朝香宫鸠彦王",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-040",
+      "source_data_record_index_1_based": 40,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0331",
+      "claim_id": "persons:P-041",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "柳川平助",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-041",
+      "source_data_record_index_1_based": 41,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0332",
+      "claim_id": "persons:P-042",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "谷寿夫",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-042",
+      "source_data_record_index_1_based": 42,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0333",
+      "claim_id": "persons:P-043",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "中岛今朝吾",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-043",
+      "source_data_record_index_1_based": 43,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0334",
+      "claim_id": "persons:P-044",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "吉住良辅",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-044",
+      "source_data_record_index_1_based": 44,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0335",
+      "claim_id": "persons:P-045",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "荻洲立兵",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-045",
+      "source_data_record_index_1_based": 45,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0336",
+      "claim_id": "persons:P-046",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "末松茂治",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-046",
+      "source_data_record_index_1_based": 46,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0337",
+      "claim_id": "persons:P-047",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "牛岛贞雄",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-047",
+      "source_data_record_index_1_based": 47,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0338",
+      "claim_id": "persons:P-048",
+      "source_id": "SRC-0022",
+      "original_claim_text": "",
+      "context_label": "山田栴二",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-048",
+      "source_data_record_index_1_based": 48,
+      "source_field": "name",
+      "inherited_evidence_status": "尚待核实",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0575",
+      "claim_id": "evacuation:IN01:row15",
+      "source_id": "SRC-0089",
+      "original_claim_text": "",
+      "context_label": "下关",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN01",
+      "source_data_record_index_1_based": 14,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0576",
+      "claim_id": "evacuation:IN02:row16",
+      "source_id": "SRC-0089",
+      "original_claim_text": "",
+      "context_label": "浦口",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN02",
+      "source_data_record_index_1_based": 15,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0577",
+      "claim_id": "evacuation:IN03:row17",
+      "source_id": "SRC-0083",
+      "original_claim_text": "",
+      "context_label": "中山码头",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN03",
+      "source_data_record_index_1_based": 16,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0578",
+      "claim_id": "evacuation:IN04:row18",
+      "source_id": "SRC-0084",
+      "original_claim_text": "",
+      "context_label": "煤炭港铁路栈桥",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN04",
+      "source_data_record_index_1_based": 17,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0579",
+      "claim_id": "evacuation:IN05:row19",
+      "source_id": "SRC-0088",
+      "original_claim_text": "",
+      "context_label": "江南/宁芜铁路",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN05",
+      "source_data_record_index_1_based": 18,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0580",
+      "claim_id": "evacuation:IN06:row20",
+      "source_id": "SRC-0093",
+      "original_claim_text": "",
+      "context_label": "下关火车站",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN06",
+      "source_data_record_index_1_based": 19,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    },
+    {
+      "evidence_link_id": "EL-0581",
+      "claim_id": "evacuation:IN07:row21",
+      "source_id": "SRC-0087",
+      "original_claim_text": "",
+      "context_label": "江南汽车公司车辆",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN07",
+      "source_data_record_index_1_based": 20,
+      "source_field": "entity_name",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "scope": "仅继承姓名或实体名称作索引上下文；不补写历史命题，不证明该实体行动已发生。"
+    }
+  ],
+  "all_context_records": [
+    {
+      "evidence_link_id": "EL-0269",
+      "claim_id": "persons:P-001",
+      "source_id": "SRC-0055",
+      "context_label": "唐生智",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-001",
+      "source_data_record_indices_1_based": [
+        1
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0270",
+      "claim_id": "persons:P-001",
+      "source_id": "SRC-0058",
+      "context_label": "唐生智",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-001",
+      "source_data_record_indices_1_based": [
+        1
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0271",
+      "claim_id": "persons:P-001",
+      "source_id": "SRC-0069",
+      "context_label": "唐生智",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-001",
+      "source_data_record_indices_1_based": [
+        1
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0272",
+      "claim_id": "persons:P-002",
+      "source_id": "SRC-0055",
+      "context_label": "蒋介石",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-002",
+      "source_data_record_indices_1_based": [
+        2
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0273",
+      "claim_id": "persons:P-002",
+      "source_id": "SRC-0060",
+      "context_label": "蒋介石",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-002",
+      "source_data_record_indices_1_based": [
+        2
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0274",
+      "claim_id": "persons:P-002",
+      "source_id": "SRC-0061",
+      "context_label": "蒋介石",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-002",
+      "source_data_record_indices_1_based": [
+        2
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0275",
+      "claim_id": "persons:P-002",
+      "source_id": "SRC-0064",
+      "context_label": "蒋介石",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-002",
+      "source_data_record_indices_1_based": [
+        2
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0276",
+      "claim_id": "persons:P-003",
+      "source_id": "SRC-0055",
+      "context_label": "顾祝同",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-003",
+      "source_data_record_indices_1_based": [
+        3
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0277",
+      "claim_id": "persons:P-003",
+      "source_id": "SRC-0058",
+      "context_label": "顾祝同",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-003",
+      "source_data_record_indices_1_based": [
+        3
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0278",
+      "claim_id": "persons:P-004",
+      "source_id": "SRC-0057",
+      "context_label": "顾祝同",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-004",
+      "source_data_record_indices_1_based": [
+        4
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0279",
+      "claim_id": "persons:P-004",
+      "source_id": "SRC-0058",
+      "context_label": "顾祝同",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-004",
+      "source_data_record_indices_1_based": [
+        4
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0280",
+      "claim_id": "persons:P-005",
+      "source_id": "SRC-0055",
+      "context_label": "罗卓英",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-005",
+      "source_data_record_indices_1_based": [
+        5
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "存在相互冲突的证据",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0281",
+      "claim_id": "persons:P-005",
+      "source_id": "SRC-0058",
+      "context_label": "罗卓英",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-005",
+      "source_data_record_indices_1_based": [
+        5
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "存在相互冲突的证据",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0282",
+      "claim_id": "persons:P-006",
+      "source_id": "SRC-0055",
+      "context_label": "刘兴",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-006",
+      "source_data_record_indices_1_based": [
+        6
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0283",
+      "claim_id": "persons:P-006",
+      "source_id": "SRC-0058",
+      "context_label": "刘兴",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-006",
+      "source_data_record_indices_1_based": [
+        6
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0284",
+      "claim_id": "persons:P-006",
+      "source_id": "SRC-0078",
+      "context_label": "刘兴",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-006",
+      "source_data_record_indices_1_based": [
+        6
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0285",
+      "claim_id": "persons:P-007",
+      "source_id": "SRC-0055",
+      "context_label": "周斓",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-007",
+      "source_data_record_indices_1_based": [
+        7
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0286",
+      "claim_id": "persons:P-007",
+      "source_id": "SRC-0058",
+      "context_label": "周斓",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-007",
+      "source_data_record_indices_1_based": [
+        7
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0287",
+      "claim_id": "persons:P-008",
+      "source_id": "SRC-0058",
+      "context_label": "廖肯",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-008",
+      "source_data_record_indices_1_based": [
+        8
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0288",
+      "claim_id": "persons:P-009",
+      "source_id": "SRC-0058",
+      "context_label": "谭道平",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-009",
+      "source_data_record_indices_1_based": [
+        9
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0289",
+      "claim_id": "persons:P-010",
+      "source_id": "SRC-0058",
+      "context_label": "林维周",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-010",
+      "source_data_record_indices_1_based": [
+        10
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0290",
+      "claim_id": "persons:P-011",
+      "source_id": "SRC-0058",
+      "context_label": "李仲辛",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-011",
+      "source_data_record_indices_1_based": [
+        11
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0291",
+      "claim_id": "persons:P-012",
+      "source_id": "SRC-0058",
+      "context_label": "邵百昌",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-012",
+      "source_data_record_indices_1_based": [
+        12
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0292",
+      "claim_id": "persons:P-013",
+      "source_id": "SRC-0071",
+      "context_label": "宋希濂",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-013",
+      "source_data_record_indices_1_based": [
+        13
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0293",
+      "claim_id": "persons:P-013",
+      "source_id": "SRC-0127",
+      "context_label": "宋希濂",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-013",
+      "source_data_record_indices_1_based": [
+        13
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0294",
+      "claim_id": "persons:P-014",
+      "source_id": "SRC-0071",
+      "context_label": "孙元良",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-014",
+      "source_data_record_indices_1_based": [
+        14
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0295",
+      "claim_id": "persons:P-014",
+      "source_id": "SRC-0127",
+      "context_label": "孙元良",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-014",
+      "source_data_record_indices_1_based": [
+        14
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0296",
+      "claim_id": "persons:P-014",
+      "source_id": "SRC-0128",
+      "context_label": "孙元良",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-014",
+      "source_data_record_indices_1_based": [
+        14
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0297",
+      "claim_id": "persons:P-015",
+      "source_id": "SRC-0071",
+      "context_label": "王敬久",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-015",
+      "source_data_record_indices_1_based": [
+        15
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0298",
+      "claim_id": "persons:P-015",
+      "source_id": "SRC-0127",
+      "context_label": "王敬久",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-015",
+      "source_data_record_indices_1_based": [
+        15
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0299",
+      "claim_id": "persons:P-015",
+      "source_id": "SRC-0128",
+      "context_label": "王敬久",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-015",
+      "source_data_record_indices_1_based": [
+        15
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0300",
+      "claim_id": "persons:P-016",
+      "source_id": "SRC-0071",
+      "context_label": "沈发藻",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-016",
+      "source_data_record_indices_1_based": [
+        16
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0301",
+      "claim_id": "persons:P-016",
+      "source_id": "SRC-0127",
+      "context_label": "沈发藻",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-016",
+      "source_data_record_indices_1_based": [
+        16
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0302",
+      "claim_id": "persons:P-016",
+      "source_id": "SRC-0128",
+      "context_label": "沈发藻",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-016",
+      "source_data_record_indices_1_based": [
+        16
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0303",
+      "claim_id": "persons:P-017",
+      "source_id": "SRC-0071",
+      "context_label": "桂永清",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-017",
+      "source_data_record_indices_1_based": [
+        17
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0304",
+      "claim_id": "persons:P-017",
+      "source_id": "SRC-0127",
+      "context_label": "桂永清",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-017",
+      "source_data_record_indices_1_based": [
+        17
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0305",
+      "claim_id": "persons:P-017",
+      "source_id": "SRC-0128",
+      "context_label": "桂永清",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-017",
+      "source_data_record_indices_1_based": [
+        17
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0306",
+      "claim_id": "persons:P-018",
+      "source_id": "SRC-0071",
+      "context_label": "俞济时",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-018",
+      "source_data_record_indices_1_based": [
+        18
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0307",
+      "claim_id": "persons:P-018",
+      "source_id": "SRC-0127",
+      "context_label": "俞济时",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-018",
+      "source_data_record_indices_1_based": [
+        18
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0308",
+      "claim_id": "persons:P-018",
+      "source_id": "SRC-0128",
+      "context_label": "俞济时",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-018",
+      "source_data_record_indices_1_based": [
+        18
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0309",
+      "claim_id": "persons:P-019",
+      "source_id": "SRC-0071",
+      "context_label": "叶肇",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-019",
+      "source_data_record_indices_1_based": [
+        19
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0310",
+      "claim_id": "persons:P-019",
+      "source_id": "SRC-0127",
+      "context_label": "叶肇",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-019",
+      "source_data_record_indices_1_based": [
+        19
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0311",
+      "claim_id": "persons:P-020",
+      "source_id": "SRC-0071",
+      "context_label": "邓龙光",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-020",
+      "source_data_record_indices_1_based": [
+        20
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0312",
+      "claim_id": "persons:P-020",
+      "source_id": "SRC-0127",
+      "context_label": "邓龙光",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-020",
+      "source_data_record_indices_1_based": [
+        20
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0313",
+      "claim_id": "persons:P-021",
+      "source_id": "SRC-0071",
+      "context_label": "徐源泉",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-021",
+      "source_data_record_indices_1_based": [
+        21
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0314",
+      "claim_id": "persons:P-021",
+      "source_id": "SRC-0127",
+      "context_label": "徐源泉",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-021",
+      "source_data_record_indices_1_based": [
+        21
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0315",
+      "claim_id": "persons:P-022",
+      "source_id": "SRC-0077",
+      "context_label": "罗策群",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-022",
+      "source_data_record_indices_1_based": [
+        22
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0316",
+      "claim_id": "persons:P-023",
+      "source_id": "SRC-0078",
+      "context_label": "何知重",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-023",
+      "source_data_record_indices_1_based": [
+        23
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0317",
+      "claim_id": "persons:P-023",
+      "source_id": "SRC-0127",
+      "context_label": "何知重",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-023",
+      "source_data_record_indices_1_based": [
+        23
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0318",
+      "claim_id": "persons:P-024",
+      "source_id": "SRC-0078",
+      "context_label": "戴之奇",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-024",
+      "source_data_record_indices_1_based": [
+        24
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0319",
+      "claim_id": "persons:P-025",
+      "source_id": "SRC-0078",
+      "context_label": "霍守义",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-025",
+      "source_data_record_indices_1_based": [
+        25
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0320",
+      "claim_id": "persons:P-025",
+      "source_id": "SRC-0127",
+      "context_label": "霍守义",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-025",
+      "source_data_record_indices_1_based": [
+        25
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0321",
+      "claim_id": "persons:P-026",
+      "source_id": "SRC-0071",
+      "context_label": "王耀武",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-026",
+      "source_data_record_indices_1_based": [
+        26
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0322",
+      "claim_id": "persons:P-027",
+      "source_id": "SRC-0071",
+      "context_label": "冯圣法",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-027",
+      "source_data_record_indices_1_based": [
+        27
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0323",
+      "claim_id": "persons:P-028",
+      "source_id": "SRC-0071",
+      "context_label": "谭邃",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-028",
+      "source_data_record_indices_1_based": [
+        28
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0324",
+      "claim_id": "persons:P-029",
+      "source_id": "SRC-0071",
+      "context_label": "巫剑雄",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-029",
+      "source_data_record_indices_1_based": [
+        29
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0325",
+      "claim_id": "persons:P-030",
+      "source_id": "SRC-0071",
+      "context_label": "李江",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-030",
+      "source_data_record_indices_1_based": [
+        30
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0326",
+      "claim_id": "persons:P-031",
+      "source_id": "SRC-0071",
+      "context_label": "丁治磐",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-031",
+      "source_data_record_indices_1_based": [
+        31
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0327",
+      "claim_id": "persons:P-032",
+      "source_id": "SRC-0071",
+      "context_label": "徐继武",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-032",
+      "source_data_record_indices_1_based": [
+        32
+      ],
+      "source_field": "name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "仅有单一来源支持",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0328",
+      "claim_id": "persons:P-033",
+      "source_id": "SRC-0076",
+      "context_label": "萧山令",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-033",
+      "source_data_record_indices_1_based": [
+        33
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0329",
+      "claim_id": "persons:P-039",
+      "source_id": "SRC-0022",
+      "context_label": "松井石根",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-039",
+      "source_data_record_indices_1_based": [
+        39
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0330",
+      "claim_id": "persons:P-040",
+      "source_id": "SRC-0022",
+      "context_label": "朝香宫鸠彦王",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-040",
+      "source_data_record_indices_1_based": [
+        40
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0331",
+      "claim_id": "persons:P-041",
+      "source_id": "SRC-0022",
+      "context_label": "柳川平助",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-041",
+      "source_data_record_indices_1_based": [
+        41
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0332",
+      "claim_id": "persons:P-042",
+      "source_id": "SRC-0022",
+      "context_label": "谷寿夫",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-042",
+      "source_data_record_indices_1_based": [
+        42
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0333",
+      "claim_id": "persons:P-043",
+      "source_id": "SRC-0022",
+      "context_label": "中岛今朝吾",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-043",
+      "source_data_record_indices_1_based": [
+        43
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0334",
+      "claim_id": "persons:P-044",
+      "source_id": "SRC-0022",
+      "context_label": "吉住良辅",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-044",
+      "source_data_record_indices_1_based": [
+        44
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0335",
+      "claim_id": "persons:P-045",
+      "source_id": "SRC-0022",
+      "context_label": "荻洲立兵",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-045",
+      "source_data_record_indices_1_based": [
+        45
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0336",
+      "claim_id": "persons:P-046",
+      "source_id": "SRC-0022",
+      "context_label": "末松茂治",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-046",
+      "source_data_record_indices_1_based": [
+        46
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0337",
+      "claim_id": "persons:P-047",
+      "source_id": "SRC-0022",
+      "context_label": "牛岛贞雄",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-047",
+      "source_data_record_indices_1_based": [
+        47
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0338",
+      "claim_id": "persons:P-048",
+      "source_id": "SRC-0022",
+      "context_label": "山田栴二",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+      "source_primary_key_column": "record_id",
+      "source_primary_key": "P-048",
+      "source_data_record_indices_1_based": [
+        48
+      ],
+      "source_field": "name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "尚待核实",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0562",
+      "claim_id": "evacuation:SH01:row2",
+      "source_id": "SRC-0084",
+      "context_label": "长江号",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH01",
+      "source_data_record_indices_1_based": [
+        1,
+        2
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0563",
+      "claim_id": "evacuation:SH01:row3",
+      "source_id": "SRC-0085",
+      "context_label": "长江号",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH01",
+      "source_data_record_indices_1_based": [
+        1,
+        2
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0564",
+      "claim_id": "evacuation:SH02:row4",
+      "source_id": "SRC-0083",
+      "context_label": "两艘客渡轮（各船名未知）",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH02",
+      "source_data_record_indices_1_based": [
+        3
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0565",
+      "claim_id": "evacuation:SH03:row5",
+      "source_id": "SRC-0086",
+      "context_label": "德和轮",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH03",
+      "source_data_record_indices_1_based": [
+        4
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0566",
+      "claim_id": "evacuation:SH04:row6",
+      "source_id": "SRC-0085",
+      "context_label": "江安轮",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH04",
+      "source_data_record_indices_1_based": [
+        5
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0567",
+      "claim_id": "evacuation:SH05:row7",
+      "source_id": "SRC-0085",
+      "context_label": "黄浦轮",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH05",
+      "source_data_record_indices_1_based": [
+        6,
+        7
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0568",
+      "claim_id": "evacuation:SH05:row8",
+      "source_id": "SRC-0089",
+      "context_label": "黄浦轮",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH05",
+      "source_data_record_indices_1_based": [
+        6,
+        7
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0569",
+      "claim_id": "evacuation:SH06:row9",
+      "source_id": "SRC-0089",
+      "context_label": "Whangpoo（英文原名）",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH06",
+      "source_data_record_indices_1_based": [
+        8
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0570",
+      "claim_id": "evacuation:SH07:row10",
+      "source_id": "SRC-0083",
+      "context_label": "长官部/第74军等小火轮（未核船籍）",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH07",
+      "source_data_record_indices_1_based": [
+        9
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0571",
+      "claim_id": "evacuation:SH08:row11",
+      "source_id": "SRC-0083",
+      "context_label": "民船/帆船",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH08",
+      "source_data_record_indices_1_based": [
+        10,
+        11
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0572",
+      "claim_id": "evacuation:SH08:row12",
+      "source_id": "SRC-0092",
+      "context_label": "民船/帆船",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH08",
+      "source_data_record_indices_1_based": [
+        10,
+        11
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0573",
+      "claim_id": "evacuation:SH09:row13",
+      "source_id": "SRC-0089",
+      "context_label": "Panay帕奈号",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH09",
+      "source_data_record_indices_1_based": [
+        12
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0574",
+      "claim_id": "evacuation:SH10:row14",
+      "source_id": "SRC-0089",
+      "context_label": "Scarab、Cricket",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "SH10",
+      "source_data_record_indices_1_based": [
+        13
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "present_inherited_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": false,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0575",
+      "claim_id": "evacuation:IN01:row15",
+      "source_id": "SRC-0089",
+      "context_label": "下关",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN01",
+      "source_data_record_indices_1_based": [
+        14
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0576",
+      "claim_id": "evacuation:IN02:row16",
+      "source_id": "SRC-0089",
+      "context_label": "浦口",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN02",
+      "source_data_record_indices_1_based": [
+        15
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0577",
+      "claim_id": "evacuation:IN03:row17",
+      "source_id": "SRC-0083",
+      "context_label": "中山码头",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN03",
+      "source_data_record_indices_1_based": [
+        16
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0578",
+      "claim_id": "evacuation:IN04:row18",
+      "source_id": "SRC-0084",
+      "context_label": "煤炭港铁路栈桥",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN04",
+      "source_data_record_indices_1_based": [
+        17
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0579",
+      "claim_id": "evacuation:IN05:row19",
+      "source_id": "SRC-0088",
+      "context_label": "江南/宁芜铁路",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN05",
+      "source_data_record_indices_1_based": [
+        18
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0580",
+      "claim_id": "evacuation:IN06:row20",
+      "source_id": "SRC-0093",
+      "context_label": "下关火车站",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN06",
+      "source_data_record_indices_1_based": [
+        19
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    },
+    {
+      "evidence_link_id": "EL-0581",
+      "claim_id": "evacuation:IN07:row21",
+      "source_id": "SRC-0087",
+      "context_label": "江南汽车公司车辆",
+      "context_source_file": "Task003/Jinling-BuTui-Historical-Database/evacuation/南京交通及船舶实体.csv",
+      "source_primary_key_column": "entity_id",
+      "source_primary_key": "IN07",
+      "source_data_record_indices_1_based": [
+        20
+      ],
+      "source_field": "entity_name",
+      "claim_text_status": "empty_inherited_link_not_standalone_claim",
+      "inherited_evidence_status": "有证据支持，但存在限定",
+      "original_claim_empty": true,
+      "scope": "仅继承原表姓名或实体名称作主语上下文；不补写命题、不改变原状态。"
+    }
+  ],
+  "note": "原空18行继续empty_inherited_link_not_standalone_claim，其余444行继续present_inherited_claim；context_label只提供原表姓名/船舶或交通实体名称。原23列、所有原证据与发布状态均保持。"
+}

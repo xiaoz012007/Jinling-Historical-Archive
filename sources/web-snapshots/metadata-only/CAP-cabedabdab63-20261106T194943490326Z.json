@@ -1,0 +1,56 @@
+{
+  "capture_id": "CAP-cabedabdab63-20261106T194943490326Z",
+  "title": null,
+  "creator_or_publisher": null,
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/NLC416-07jh009166-3792_%E6%88%B0%E7%8A%AF%E8%B0%B7%E5%A3%BD%E5%A4%AB%E5%88%A4%E6%B1%BA%E6%9B%B8%E6%AD%A3%E6%9C%AC.pdf",
+  "final_url": null,
+  "capture_started_at_utc": "2026-11-06T19:49:43.490Z",
+  "capture_finished_at_utc": "2026-11-06T19:49:43.499Z",
+  "retrieved_at_utc": null,
+  "published_at": null,
+  "updated_at": null,
+  "language": null,
+  "content_type": "application/pdf",
+  "http_status": null,
+  "capture_method": "复用既有PDF缓存；本次未重新下载",
+  "request_method": null,
+  "response_body_complete": null,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": null,
+  "content_class": null,
+  "soft_error_title": null,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [
+    "复制时间不是原采集时间；无本轮HTTP响应，故不伪造response WARC"
+  ],
+  "redirect_chain": null,
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0111"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "reused-cache.pdf",
+      "sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。"
+}

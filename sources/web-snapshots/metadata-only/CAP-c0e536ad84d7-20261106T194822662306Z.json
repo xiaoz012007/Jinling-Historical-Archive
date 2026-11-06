@@ -1,0 +1,60 @@
+{
+  "capture_id": "CAP-c0e536ad84d7-20261106T194822662306Z",
+  "title": "谭道平：南京卫戍战_南京民间抗日战争博物馆",
+  "creator_or_publisher": null,
+  "original_url": "http://www.1937nanjing.org/kanzhanlishi/laobingkoushu/2021/0511/3977.html",
+  "final_url": "http://www.1937nanjing.org/kanzhanlishi/laobingkoushu/2021/0511/3977.html",
+  "capture_started_at_utc": "2026-11-06T19:48:22.662Z",
+  "capture_finished_at_utc": "2026-11-06T19:48:28.111Z",
+  "retrieved_at_utc": "2026-11-06T19:48:28.106Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": null,
+  "content_type": "text/html",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0058"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "dab2257c130e09a6eaeccaba6f90d2ed83a3a69cbeea1aadfcfc3206f5b66d09",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "1b6769e71e9bc4dc0d0cfc8ef46613d581a8f9f37fc707ef3017ad5aa43add19",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

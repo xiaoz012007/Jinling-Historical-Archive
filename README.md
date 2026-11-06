@@ -22,16 +22,11 @@
 
 核心时间范围为1937年南京保卫战及南京陷落前后相关事件。研究重点包括唐生智与南京卫戍司令部、中国守军与日军、南京城市交通与平民疏散、南京安全区与国际救援、日军暴行及相关司法调查、历史照片与地图、证据冲突和未决问题。
 
-## 证据标签
+## 来源性质、命题性质与证据状态
 
-- P：原始史料或同期记录；
-- S：学术研究成果；
-- T：一般二手资料；
-- I：基于证据的推断、分析或计算；
-- U：尚未解决或证据不足；
-- F：仅属于小说的虚构设定。
+`source_nature`仅使用P（原始史料或同期记录）、S（学术研究）、T（一般二手资料）、unknown（来源性质未定）。unknown只表示暂不能确定来源类型，不表示相应历史命题存在冲突。
 
-这些标签表示资料性质，不自动证明某项断言为真。具体命题仍须记录证据、限制和核查状态。详见 [证据模型](docs/EVIDENCE_MODEL.md)。
+I（研究推断）、U（未决研究事项）、F（小说虚构）用于研究内容或命题性质，不能填入source_nature。命题是否有证据支持另记claim_status；P/S/T也不自动证明断言。详见[证据模型](docs/EVIDENCE_MODEL.md)。
 
 ## 目录
 
@@ -78,10 +73,18 @@
 - [公开发布状态](docs/PUBLICATION_STATUS.md)
 - [贡献指南](CONTRIBUTING.md)
 
-**当前为研究框架建设阶段。** Task002 V2尚未整体导入公开仓库；第三方网页快照须逐项核查公开再分发权，不能仅因页面可访问就上传全文。
+**当前已完成首批来源登记，历史研究仍在推进。** 原55份资料未整体导入公开仓库；第三方网页快照须逐项核查公开再分发权，不能仅因页面可访问就上传全文。
 
 ## English
 
 Jinling Historical Archive is a source-traceable research repository about the Battle of Nanjing (1937). It documents sources, evidence, timelines, military organization, civilian evacuation research, international relief records, unresolved questions, and clearly separated counterfactual fiction notes. It does not claim that uncertain or disputed information is settled.
 
-其实以上都是astra写的，我也说不来这些，但是我还是希望能留下点东西。另外，唐生智真的是buff叠满，然后拉了一坨大的。
+## 项目缘起
+
+关于为什么发起这项工作，以及项目发起者的原话，见[项目缘起：为什么想留下《金陵不退》](docs/PROJECT_ORIGIN.md)。
+
+
+
+## Task003-A 来源与快照入口
+
+首批登记见[sources/SOURCE_REGISTER.csv](sources/SOURCE_REGISTER.csv)，采集清单见[sources/WEB_SNAPSHOT_REGISTER.csv](sources/WEB_SNAPSHOT_REGISTER.csv)。请先读[本批报告](docs/TASK003A_REPORT.md)和[字段及限制](docs/TASK003A_DATA_NOTES.md)。只有明确许可的FRUS网页公开响应载荷，其他来源主要提供元数据；入库不等于历史争议已解决。

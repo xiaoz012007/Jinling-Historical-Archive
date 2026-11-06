@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "source_ids_unique": true,
+    "old128_ID_title_nature_retained": true,
+    "URL_unique": true,
+    "URL_ID_stable": true,
+    "URL_source_FKs": true,
+    "URL_provenance_present": true,
+    "new_claim_ids_empty": true,
+    "no_network_claim": true,
+    "relations_retained28": true,
+    "cache19": true
+  },
+  "passed": true,
+  "counts": {
+    "inherited_sources": 128,
+    "new_cache_article_records": 2,
+    "new_md_bibliographic_candidates": 13,
+    "unique_urls": 91,
+    "sources_with_no_exact_url": 43,
+    "legacy_html_files": 19,
+    "legacy_html_body_present": 17,
+    "legacy_html_body_unavailable": 2,
+    "legacy_html_exact_origin_urls": 6,
+    "inherited_source_relations": 28,
+    "inherited_claim_links": 686
+  }
+}

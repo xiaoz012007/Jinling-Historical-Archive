@@ -1,0 +1,248 @@
+[
+  {
+    "url_id": "URL-aaf5a007861b4ed1",
+    "original_url": "https://www.jacar.archives.go.jp/das/meta/C11111744800",
+    "http_status": 403,
+    "title": "ERROR: The request could not be satisfied",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title"
+    ],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-4a9d6c0b3e0931b4",
+    "original_url": "https://www.jacar.archives.go.jp/das/meta/C13031742900",
+    "http_status": 403,
+    "title": "ERROR: The request could not be satisfied",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title"
+    ],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-1c4d9a3ffc6ba167",
+    "original_url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+    "http_status": 403,
+    "title": "ERROR: The request could not be satisfied",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title"
+    ],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-e2bea61c0a70ce7a",
+    "original_url": "https://www.loc.gov/item/2012593209/",
+    "http_status": 403,
+    "title": "Just a moment...",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title",
+      "possible_script_shell_insufficient_visible_text"
+    ],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-d69ea3265fecb550",
+    "original_url": "https://www.saac.gov.cn/daj/sjjygjml/202506/cbdc445297d9409482aaaaafa072412e/files/16e23a8dea9e460fbc0fa2feae2e8a36.pdf",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "未复用已知PDF缓存；本轮未下载PDF/书籍容器实体，不能称取得原文"
+    ]
+  },
+  {
+    "url_id": "URL-5007edc53ff0b167",
+    "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64760_2.htm",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-3f69c2c052eab6b7",
+    "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64763_3.htm",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-ba5f67a427b1cc34",
+    "original_url": "http://dzb.rmzxb.com.cn/detail.aspx?id=414830",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-39b1f79053d31c96",
+    "original_url": "https://www.saac.gov.cn/zt/2014-12/11/content_77681.htm",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-79d87281cb4b772f",
+    "original_url": "http://hnrb.hinews.cn/html/2014-12/15/content_20_1.htm",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-977803ff3bcfd98c",
+    "original_url": "http://www.cb.com.cn/index/show/rw/cv/cv13447491229/p/license/license/10003.html",
+    "http_status": 521,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-6c94ed935fca3bd7",
+    "original_url": "https://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-516355e3035f6ad2",
+    "original_url": "https://fybk.bjcipt.com/paper.html?id=741474",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-006387dea458453d",
+    "original_url": "https://openlibrary.org/books/OL4534616M/My_eighty_years_in_China",
+    "http_status": 200,
+    "title": "Human Verification | Open Library",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title"
+    ],
+    "error_type": null,
+    "notes": [
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-ee4af7469f927569",
+    "original_url": "https://sy.mva.gov.cn/sy/lsjnrjnhdsy/201905/t20190517_29079.html",
+    "http_status": 403,
+    "title": "ERROR: ACCESS DENIED",
+    "snapshot_status": "capture_failed",
+    "flags": [
+      "error_or_verification_title"
+    ],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+      "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+    ]
+  },
+  {
+    "url_id": "URL-157bb22d728d8ba5",
+    "original_url": "https://www.19371213.cn/research/yjda/201907/t20190717_2248137.html",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-0bd903ba191db173",
+    "original_url": "https://www.19371213.net/information/news/202412/t20241204_5025451.html",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-bc20bfcc9314ccbd",
+    "original_url": "https://www.19371213.net/information/news/202508/t20250805_5621801.html",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  },
+  {
+    "url_id": "URL-a7d65a2b4c02b302",
+    "original_url": "https://www.huangpu.org.cn/hpzz/hpzz201601/201602/t20160216_11387211.html",
+    "http_status": 503,
+    "title": null,
+    "snapshot_status": "capture_failed",
+    "flags": [],
+    "error_type": null,
+    "notes": [
+      "HTTP失败或错误页标题；保存的是错误响应，不是所引原文"
+    ]
+  }
+]

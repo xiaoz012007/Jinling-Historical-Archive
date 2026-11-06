@@ -1,0 +1,113 @@
+{
+  "task": "Task003-A关系收口",
+  "reviewed_at_utc": "2026-11-06T20:02:48.144757+00:00",
+  "file": "Task003A/candidate/sources/SOURCE_RELATIONS.csv",
+  "rows_before": 28,
+  "rows_after": 28,
+  "modified_relation_ids": [
+    "REL-006",
+    "REL-015",
+    "REL-016"
+  ],
+  "all_other_existing_field_values_unchanged": true,
+  "added_columns": [
+    "inherited_relation",
+    "inherited_status",
+    "change_reason"
+  ],
+  "before_sha256": "5526a2b92cf3318c564a6e4b53e7479bfde5a54174cb2adbde0e916e6cf519e2",
+  "after_sha256": "c99e76d8b03de16bb3ef2412e0259f72036d8e001cccd61fa2dddf3891b8c5ba",
+  "changes": [
+    {
+      "relation_id": "REL-006",
+      "before": {
+        "relation_id": "REL-006",
+        "from_source_id": "SRC-0044",
+        "to_source_id": "SRC-0086",
+        "关系": "同一作品/档案的不同载体或记录",
+        "依据": "Task002来源族、题名及载体说明；原件可得性分别记录。",
+        "状态": "已有记录支持",
+        "独立性规则": "此边不能作为第二份独立证据计数；命题级信息链另核。"
+      },
+      "after": {
+        "relation_id": "REL-006",
+        "from_source_id": "SRC-0044",
+        "to_source_id": "SRC-0086",
+        "关系": "同一后世报道的重复来源登记；不是日记原件与报道的同一性",
+        "依据": "原缓存NJ-012_NJ-044第7行标题及第41行storyInfo的title/authors/source/webPreviewUrl；SRC-0044旧书目署北京晚报赵柏田，SRC-0086/TR-004同题同URL。张嘉璈日记原件是SRC-0012，另由REL-018记录被转述关系。",
+        "状态": "本地缓存元数据与既有登记支持报道同一性；日记原件未取得",
+        "独立性规则": "SRC-0044与SRC-0086不计独立两源；后世报道不等于日记原件，未核日记全文或引文准确性。",
+        "inherited_relation": "同一作品/档案的不同载体或记录",
+        "inherited_status": "已有记录支持",
+        "change_reason": "原泛称“作品/档案”易把报道与张嘉璈日记原件混同；核缓存JSON可确认为赵柏田同题报道，限缩到报道登记身份。"
+      },
+      "basis_local_only": true
+    },
+    {
+      "relation_id": "REL-015",
+      "before": {
+        "relation_id": "REL-015",
+        "from_source_id": "SRC-0016",
+        "to_source_id": "SRC-0033",
+        "关系": "同一作品/档案的不同载体或记录",
+        "依据": "Task002来源族、题名及载体说明；原件可得性分别记录。",
+        "状态": "已有记录支持",
+        "独立性规则": "此边不能作为第二份独立证据计数；命题级信息链另核。"
+      },
+      "after": {
+        "relation_id": "REL-015",
+        "from_source_id": "SRC-0016",
+        "to_source_id": "SRC-0033",
+        "关系": "原书目存在共用未读目标链接/模板缓存；两题名同一性未证",
+        "依据": "SRC-0016登记谭道平逐师表，SRC-0033登记所谓汪海涛勘误；原NJ-016_NJ-033缓存仅文章阅读模板。Task002获取状态分别为原表和勘误未取得、目标正文仍未取得；共享paper.html?id=741474不能确认两文献身份。",
+        "状态": "共用追索入口可核；书目身份、原表及勘误正文待核",
+        "独立性规则": "既不当同一已确认作品，也不当两份已读独立证据；保留各自待核书目，取得原表/论文后再判断关系。",
+        "inherited_relation": "同一作品/档案的不同载体或记录",
+        "inherited_status": "已有记录支持",
+        "change_reason": "将共用URL和文件名误归“同一作品”超出证据；本地仅模板，不能据此验证谭表与汪文的文献身份或文本关系。"
+      },
+      "basis_local_only": true
+    },
+    {
+      "relation_id": "REL-016",
+      "before": {
+        "relation_id": "REL-016",
+        "from_source_id": "SRC-0016",
+        "to_source_id": "SRC-0081",
+        "关系": "同一作品/档案的不同载体或记录",
+        "依据": "Task002来源族、题名及载体说明；原件可得性分别记录。",
+        "状态": "已有记录支持",
+        "独立性规则": "此边不能作为第二份独立证据计数；命题级信息链另核。"
+      },
+      "after": {
+        "relation_id": "REL-016",
+        "from_source_id": "SRC-0016",
+        "to_source_id": "SRC-0081",
+        "关系": "原谭表书目与失败链接追索记录共用目标；文献关系未证",
+        "依据": "SRC-0081/V2-B11明确题为所谓汪海涛论文/谭表勘误的原库链接，获取状态为打开失败、包内仅模板；其与SRC-0016关联只证明沿用同一未读目标URL，不证明已取得谭表或确认该链接对应何文。",
+        "状态": "失败追索记录对应可核；目标文献身份及正文待核",
+        "独立性规则": "SRC-0081是未取得正文的追索记录，不增加原表、勘误或独立证据数量；待取得原文再建作品/转引关系。",
+        "inherited_relation": "同一作品/档案的不同载体或记录",
+        "inherited_status": "已有记录支持",
+        "change_reason": "失败链接记录不能视作谭原表的另一已确认载体；保留路径关联而撤销未经证实的同作品判断。"
+      },
+      "basis_local_only": true
+    }
+  ],
+  "additional_local_evidence": {
+    "cache_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-012_NJ-044_北京晚报_张嘉璈日记.html",
+    "sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+    "locator": "HTML第7行title；第41行var storyInfo JSON中的title/authors/source/publishTime/webPreviewUrl/url",
+    "title": "危急与更生：张嘉璈经历的淞沪会战",
+    "authors": [
+      "赵柏田"
+    ],
+    "publisher_source": "北京晚报·五色土",
+    "publish_time": "2020-09-17T08:40:42.132+0000",
+    "web_preview_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+    "article_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+    "extraction_method": "只用JSONDecoder解码已保存HTML中的JSON文本；未执行脚本，未访问网络"
+  },
+  "scope_limit": "未访问网络；只判断登记、缓存和追索关系，不新增1937历史正文断言。",
+  "ancillary_inventory_observation": "BJD缓存JSON内含转义形式的完整article_url和webPreviewUrl，可将该既有HTML的精确原URL证据补为第7个；该URL已在91入口内，不增加目标数。此任务未修改其他candidate文件。"
+}

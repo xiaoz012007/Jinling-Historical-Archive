@@ -1,0 +1,60 @@
+{
+  "capture_id": "CAP-dca28c26712c-20261106T194856289038Z",
+  "title": "“卫参作第44号命令”中所见的南京保卫战_私家历史_澎湃新闻-The Paper",
+  "creator_or_publisher": "澎湃新闻",
+  "original_url": "https://m.thepaper.cn/newsDetail_forward_15239415?from=",
+  "final_url": "https://m.thepaper.cn/newsDetail_forward_15239415?from=",
+  "capture_started_at_utc": "2026-11-06T19:48:56.289Z",
+  "capture_finished_at_utc": "2026-11-06T19:49:03.026Z",
+  "retrieved_at_utc": "2026-11-06T19:49:03.018Z",
+  "published_at": "2021-12-12T02:34:53.813Z",
+  "updated_at": "2021-12-12T02:34:54.000Z",
+  "language": null,
+  "content_type": "text/html; charset=utf-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [],
+  "publisher_evidence": "JSON-LD publisher",
+  "published_at_evidence": "html meta article:published_time; 原文字段未擅自改为事件发生日",
+  "updated_at_evidence": "html meta article:modified_time",
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0056"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "272fb0e776ddf199027df5130b73f961c99a1e99b50b38482c90162841a9de3e",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "3d46415f7d40d3a57af7ea025fcb51a9f4b977405cb5fb5313e5ec25d702561e",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

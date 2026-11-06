@@ -10,7 +10,7 @@
   "language": "",
   "content_type": "",
   "http_status": null,
-  "source_nature": "P|S|T",
+  "source_nature": "unknown",
   "snapshot_status": "captured_public|captured_private_only|metadata_only|capture_failed|rights_pending",
   "snapshot_files": [],
   "sha256": {},
