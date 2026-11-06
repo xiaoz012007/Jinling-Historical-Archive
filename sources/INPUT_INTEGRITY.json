@@ -1,0 +1,1570 @@
+{
+  "task": "Task003-A",
+  "audit_started_at_utc": "2026-11-06T19:47:59Z",
+  "audit_completed_at_utc": "2026-11-06T19:47:59Z",
+  "method": "本轮从磁盘重新读取所有列出文件并计算SHA-256；历史清单仅作期望值。ZIP/XLSX执行CRC检验；无网络请求。",
+  "original_55": {
+    "expected_count": 55,
+    "actual_count": 55,
+    "expected_bytes": 3290607,
+    "actual_bytes": 3290607,
+    "all_hashes_match": true,
+    "extra_files": [],
+    "missing_files": [],
+    "files": [
+      {
+        "file_id": "FILE-F01",
+        "path": "source_readonly/金陵不退_史料数据库/00_总目录与完成状态.md",
+        "expected_sha256": "ece13a99b1eadf1a649fc22e7a2f1b646a1ac0d8d4cc07a9e271f330a2cdc2ac",
+        "actual_sha256": "ece13a99b1eadf1a649fc22e7a2f1b646a1ac0d8d4cc07a9e271f330a2cdc2ac",
+        "expected_bytes": 11696,
+        "actual_bytes": 11696,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F02",
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/人物关系表.md",
+        "expected_sha256": "f22f1a696b297ba18d866f7e493282d571be979fbfb546022b8f17371cf93fa9",
+        "actual_sha256": "f22f1a696b297ba18d866f7e493282d571be979fbfb546022b8f17371cf93fa9",
+        "expected_bytes": 20210,
+        "actual_bytes": 20210,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F03",
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/人物履历.md",
+        "expected_sha256": "4d13ccede0c8dc0fda13b85875b1825b19f2af042f4a1d589701d03f0fa2cae9",
+        "actual_sha256": "4d13ccede0c8dc0fda13b85875b1825b19f2af042f4a1d589701d03f0fa2cae9",
+        "expected_bytes": 46888,
+        "actual_bytes": 46888,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F04",
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/指挥关系.md",
+        "expected_sha256": "d0528ffd8ac20cecaf0406beec14ed470cf53b75056d2306256cc931559950ea",
+        "actual_sha256": "d0528ffd8ac20cecaf0406beec14ed470cf53b75056d2306256cc931559950ea",
+        "expected_bytes": 17926,
+        "actual_bytes": 17926,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F05",
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/电报与命令.md",
+        "expected_sha256": "b8fb9f24a75677df013be40ea1d256789fea0976e19787455d6e013a1defe908",
+        "actual_sha256": "b8fb9f24a75677df013be40ea1d256789fea0976e19787455d6e013a1defe908",
+        "expected_bytes": 18353,
+        "actual_bytes": 18353,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F06",
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/兵力装备.md",
+        "expected_sha256": "eb7cbee716eb472d76bd4525b4fa90ef16c03a929ad0a568275e422c67dcfea0",
+        "actual_sha256": "eb7cbee716eb472d76bd4525b4fa90ef16c03a929ad0a568275e422c67dcfea0",
+        "expected_bytes": 24363,
+        "actual_bytes": 24363,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F07",
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/战斗序列.xlsx",
+        "expected_sha256": "e78baf472bc41238b2cb1d6960ff004795e156c3aeb090b7d55290a1755f5c6b",
+        "actual_sha256": "e78baf472bc41238b2cb1d6960ff004795e156c3aeb090b7d55290a1755f5c6b",
+        "expected_bytes": 6886,
+        "actual_bytes": 6886,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F08",
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/战斗序列_详细.md",
+        "expected_sha256": "7fed719ffe4ce33a9ab2bafa0ec249231a7cbfd8c0e0551a265277ff508429b4",
+        "actual_sha256": "7fed719ffe4ce33a9ab2bafa0ec249231a7cbfd8c0e0551a265277ff508429b4",
+        "expected_bytes": 21863,
+        "actual_bytes": 21863,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F09",
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/部队作战记录.md",
+        "expected_sha256": "5149f896c8277e4c7b7bb7c4cde5011af10335d185760602c44190ee4b069de3",
+        "actual_sha256": "5149f896c8277e4c7b7bb7c4cde5011af10335d185760602c44190ee4b069de3",
+        "expected_bytes": 25801,
+        "actual_bytes": 25801,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F10",
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/作战命令.md",
+        "expected_sha256": "38cc308a519aac08129dc4ab057cac6e6ac8fd02519cbc1ad35f5b9ee980af34",
+        "actual_sha256": "38cc308a519aac08129dc4ab057cac6e6ac8fd02519cbc1ad35f5b9ee980af34",
+        "expected_bytes": 1420,
+        "actual_bytes": 1420,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F11",
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/日军战斗序列.md",
+        "expected_sha256": "1ee2f481b178ec11c1c83bc5278e7402daca37e8ebcc24bb0dd70c2da4b1f3ad",
+        "actual_sha256": "1ee2f481b178ec11c1c83bc5278e7402daca37e8ebcc24bb0dd70c2da4b1f3ad",
+        "expected_bytes": 21081,
+        "actual_bytes": 21081,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F12",
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/日军阵中日记.md",
+        "expected_sha256": "377a342e3b120b5df480c4e110b0f3effb8fe7c0e8949c793c5cac1b0afebcd7",
+        "actual_sha256": "377a342e3b120b5df480c4e110b0f3effb8fe7c0e8949c793c5cac1b0afebcd7",
+        "expected_bytes": 1755,
+        "actual_bytes": 1755,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F13",
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+        "expected_sha256": "727f4abcfd454e9580e04a909d8f838afed13ec3627c53f661b0e5b5bf518dd6",
+        "actual_sha256": "727f4abcfd454e9580e04a909d8f838afed13ec3627c53f661b0e5b5bf518dd6",
+        "expected_bytes": 23704,
+        "actual_bytes": 23704,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F14",
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/逐日事件.xlsx",
+        "expected_sha256": "7917b51afc7f35e80dd2d8d27aa456895e845fa4730663ba5fd60525e23a1564",
+        "actual_sha256": "7917b51afc7f35e80dd2d8d27aa456895e845fa4730663ba5fd60525e23a1564",
+        "expected_bytes": 8325,
+        "actual_bytes": 8325,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F15",
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/重大事件.md",
+        "expected_sha256": "4829f38c521e8cf0262303fc45496f8ed8bb20505ebee2dae0b684e212db2790",
+        "actual_sha256": "4829f38c521e8cf0262303fc45496f8ed8bb20505ebee2dae0b684e212db2790",
+        "expected_bytes": 1596,
+        "actual_bytes": 1596,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F16",
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/交通运力.xlsx",
+        "expected_sha256": "584f8b2c8d1c7760bf15fe936b3ee259be781fa11549759651c84ddeda2cc664",
+        "actual_sha256": "584f8b2c8d1c7760bf15fe936b3ee259be781fa11549759651c84ddeda2cc664",
+        "expected_bytes": 5977,
+        "actual_bytes": 5977,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F17",
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/人口资料.md",
+        "expected_sha256": "c788776779b4c35c060d07cad2e1ef40cc224a12c38397e97c7919d9f5e95b0a",
+        "actual_sha256": "c788776779b4c35c060d07cad2e1ef40cc224a12c38397e97c7919d9f5e95b0a",
+        "expected_bytes": 23117,
+        "actual_bytes": 23117,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F18",
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/疏散模型.xlsx",
+        "expected_sha256": "6ea3f682076430464931258f31a0a8e625f6dfe8a1e017d25e570682edb262cc",
+        "actual_sha256": "6ea3f682076430464931258f31a0a8e625f6dfe8a1e017d25e570682edb262cc",
+        "expected_bytes": 5849,
+        "actual_bytes": 5849,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F19",
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/国际安全区.md",
+        "expected_sha256": "d50c8c263b2d46f26bb4fe1c423b63451684c04637a9e30369cfa7176a9db60c",
+        "actual_sha256": "d50c8c263b2d46f26bb4fe1c423b63451684c04637a9e30369cfa7176a9db60c",
+        "expected_bytes": 12267,
+        "actual_bytes": 12267,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F20",
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/拉贝日记摘录.md",
+        "expected_sha256": "9394b68edfd9ec52b083b5a61e314b23c2606c20a8caf315cc33ee35efbb7b51",
+        "actual_sha256": "9394b68edfd9ec52b083b5a61e314b23c2606c20a8caf315cc33ee35efbb7b51",
+        "expected_bytes": 1577,
+        "actual_bytes": 1577,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F21",
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/日军暴行史料.md",
+        "expected_sha256": "70141810d832030b01c1e58b6840711b1eea093fc4849f50dcc2e16e8ff8d16b",
+        "actual_sha256": "70141810d832030b01c1e58b6840711b1eea093fc4849f50dcc2e16e8ff8d16b",
+        "expected_bytes": 15259,
+        "actual_bytes": 15259,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F22",
+        "path": "source_readonly/金陵不退_史料数据库/07_南京城市资料/图片与地图资料库.md",
+        "expected_sha256": "f0f551308bdca50e48b8d9be358f7c0f5d1f52b620d7868362da973085c96287",
+        "actual_sha256": "f0f551308bdca50e48b8d9be358f7c0f5d1f52b620d7868362da973085c96287",
+        "expected_bytes": 10587,
+        "actual_bytes": 10587,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F23",
+        "path": "source_readonly/金陵不退_史料数据库/07_南京城市资料/街道及建筑.md",
+        "expected_sha256": "5626c937ed7f5356225b73fbcd3e839039e09998ae40529a661e2dee8d911c4d",
+        "actual_sha256": "5626c937ed7f5356225b73fbcd3e839039e09998ae40529a661e2dee8d911c4d",
+        "expected_bytes": 18681,
+        "actual_bytes": 18681,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F24",
+        "path": "source_readonly/金陵不退_史料数据库/08_人物档案/真实人物.md",
+        "expected_sha256": "ac9d84b3af2dd2f6b1b3478424b6aeb4cdad93f8255edc79cd06e37c967d769e",
+        "actual_sha256": "ac9d84b3af2dd2f6b1b3478424b6aeb4cdad93f8255edc79cd06e37c967d769e",
+        "expected_bytes": 8820,
+        "actual_bytes": 8820,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F25",
+        "path": "source_readonly/金陵不退_史料数据库/08_人物档案/虚构人物设定.md",
+        "expected_sha256": "340cdc4f320666a64ecf0afe9b90a39a6ff1f5382f366adf4b5d1f53a483a015",
+        "actual_sha256": "340cdc4f320666a64ecf0afe9b90a39a6ff1f5382f366adf4b5d1f53a483a015",
+        "expected_bytes": 1813,
+        "actual_bytes": 1813,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F26",
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/军事推演.md",
+        "expected_sha256": "d32932a7b01891a6b70f61c7b2587cbfa54258389ad710f1921d01e4de098a29",
+        "actual_sha256": "d32932a7b01891a6b70f61c7b2587cbfa54258389ad710f1921d01e4de098a29",
+        "expected_bytes": 13887,
+        "actual_bytes": 13887,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F27",
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/小说史实使用指南.md",
+        "expected_sha256": "5e6315781bdd0bec4e2a740bc5a6ae04c30a3996122578b2ce2d632be1c3598a",
+        "actual_sha256": "5e6315781bdd0bec4e2a740bc5a6ae04c30a3996122578b2ce2d632be1c3598a",
+        "expected_bytes": 4098,
+        "actual_bytes": 4098,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F28",
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/撤离可行性.md",
+        "expected_sha256": "fe2f6ae9d9b73768035080d868e872c5106d6800dda7e03e6a75421a65e93b30",
+        "actual_sha256": "fe2f6ae9d9b73768035080d868e872c5106d6800dda7e03e6a75421a65e93b30",
+        "expected_bytes": 13606,
+        "actual_bytes": 13606,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F29",
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/架空事件表.xlsx",
+        "expected_sha256": "1ad72094b64a363a63d587b3678a0adbf7baedf05684b22ab6e308638ef9af1f",
+        "actual_sha256": "1ad72094b64a363a63d587b3678a0adbf7baedf05684b22ab6e308638ef9af1f",
+        "expected_bytes": 6604,
+        "actual_bytes": 6604,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F30",
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/SOURCE_INDEX.xlsx",
+        "expected_sha256": "2f663d9aba84c343d9f43fe93075ce1fb64772061f71854a0f0baaf6767ddb49",
+        "actual_sha256": "2f663d9aba84c343d9f43fe93075ce1fb64772061f71854a0f0baaf6767ddb49",
+        "expected_bytes": 13479,
+        "actual_bytes": 13479,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F31",
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/SOURCE_INDEX_详细说明.md",
+        "expected_sha256": "a4afb446682d7511091e5f03ab2e82e5bd0464d827b15757b19262c2590e0314",
+        "actual_sha256": "a4afb446682d7511091e5f03ab2e82e5bd0464d827b15757b19262c2590e0314",
+        "expected_bytes": 16772,
+        "actual_bytes": 16772,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F32",
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/史料争议.md",
+        "expected_sha256": "9e040b6a1c7078ecd124e6468266dcef709bf00ddba4345a9e04b290cddf71e1",
+        "actual_sha256": "9e040b6a1c7078ecd124e6468266dcef709bf00ddba4345a9e04b290cddf71e1",
+        "expected_bytes": 38438,
+        "actual_bytes": 38438,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F33",
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/史料总目录.md",
+        "expected_sha256": "b89646d8a5e4c8eb1dfe71d1fcd958621f87a11b3a030951662c763f48483fb6",
+        "actual_sha256": "b89646d8a5e4c8eb1dfe71d1fcd958621f87a11b3a030951662c763f48483fb6",
+        "expected_bytes": 23605,
+        "actual_bytes": 23605,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F34",
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/待核实问题.md",
+        "expected_sha256": "332cda833270b8ed9ca89143bd372ea022225c11fef9d6ed4617a01382db4150",
+        "actual_sha256": "332cda833270b8ed9ca89143bd372ea022225c11fef9d6ed4617a01382db4150",
+        "expected_bytes": 14556,
+        "actual_bytes": 14556,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F35",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/PDF/NJ-015_唐生智_卫戍南京之经过.pdf",
+        "expected_sha256": "60620120f46d23241172c2c9435f073a68230718215c77f7d535cc6f2ea3f082",
+        "actual_sha256": "60620120f46d23241172c2c9435f073a68230718215c77f7d535cc6f2ea3f082",
+        "expected_bytes": 1634432,
+        "actual_bytes": 1634432,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F36",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/README.md",
+        "expected_sha256": "c03878e607e0212788f2334676758dad74677d2706f2a0c4fafa182eb2818b65",
+        "actual_sha256": "c03878e607e0212788f2334676758dad74677d2706f2a0c4fafa182eb2818b65",
+        "expected_bytes": 3399,
+        "actual_bytes": 3399,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F37",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-007_拉贝日记节选_纪念馆.html",
+        "expected_sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+        "actual_sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+        "expected_bytes": 171818,
+        "actual_bytes": 171818,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F38",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-008_魏特琳日记_纪念馆.html",
+        "expected_sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+        "actual_sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+        "expected_bytes": 113919,
+        "actual_bytes": 113919,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F39",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-012_NJ-044_北京晚报_张嘉璈日记.html",
+        "expected_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+        "actual_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+        "expected_bytes": 265704,
+        "actual_bytes": 265704,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F40",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-016_NJ-033_汪海涛_谭道平兵力勘误.html",
+        "expected_sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+        "actual_sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+        "expected_bytes": 32459,
+        "actual_bytes": 32459,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F41",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-022_王辅_日军侵华战争第九章.html",
+        "expected_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+        "actual_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+        "expected_bytes": 53008,
+        "actual_bytes": 53008,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F42",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+        "expected_sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+        "actual_sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+        "expected_bytes": 48741,
+        "actual_bytes": 48741,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F43",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+        "expected_sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+        "actual_sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+        "expected_bytes": 33114,
+        "actual_bytes": 33114,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F44",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+        "expected_sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+        "actual_sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+        "expected_bytes": 44888,
+        "actual_bytes": 44888,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F45",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+        "expected_sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+        "actual_sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+        "expected_bytes": 37192,
+        "actual_bytes": 37192,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F46",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-028_LOC_民国南京地图.html",
+        "expected_sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+        "actual_sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+        "expected_bytes": 5568,
+        "actual_bytes": 5568,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F47",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-029_马吉胶片三版本_央广网.html",
+        "expected_sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+        "actual_sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+        "expected_bytes": 19639,
+        "actual_bytes": 19639,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F48",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-030_伊藤兼男相册_纪念馆.html",
+        "expected_sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+        "actual_sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+        "expected_bytes": 73035,
+        "actual_bytes": 73035,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F49",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-031_京字第一号证据_罗瑾.html",
+        "expected_sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+        "actual_sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+        "expected_bytes": 68172,
+        "actual_bytes": 68172,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F50",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-032_重炮兵15联队324张照片_纪念馆.html",
+        "expected_sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+        "actual_sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+        "expected_bytes": 77987,
+        "actual_bytes": 77987,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F51",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+        "expected_sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+        "actual_sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+        "expected_bytes": 22776,
+        "actual_bytes": 22776,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F52",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+        "expected_sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+        "actual_sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+        "expected_bytes": 25145,
+        "actual_bytes": 25145,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F53",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-045_社区新报_长江号渡轮.html",
+        "expected_sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+        "actual_sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+        "expected_bytes": 17843,
+        "actual_bytes": 17843,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F54",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-046_中国军网_草鞋峡.html",
+        "expected_sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+        "actual_sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+        "expected_bytes": 21141,
+        "actual_bytes": 21141,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      },
+      {
+        "file_id": "FILE-F55",
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-047_鼓楼医院_党史文献院.html",
+        "expected_sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+        "actual_sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+        "expected_bytes": 19768,
+        "actual_bytes": 19768,
+        "exists": true,
+        "match": true,
+        "baseline": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "checked_at_utc": "2026-11-06T19:47:59Z"
+      }
+    ]
+  },
+  "protected_key_inputs": [
+    {
+      "role": "original_zip",
+      "path": "upload/金陵不退_史料数据库 (1)(2).zip",
+      "exists": true,
+      "bytes": 1897023,
+      "expected_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+      "actual_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 55
+    },
+    {
+      "role": "original_report",
+      "path": "upload/金陵不退_史料数据库质量审查(2).html",
+      "exists": true,
+      "bytes": 58648,
+      "expected_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+      "actual_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "role": "task002_uploaded_zip",
+      "path": "task003_inputs/Task002_V2 (1).zip",
+      "exists": true,
+      "bytes": 1264155,
+      "expected_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "actual_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 48
+    },
+    {
+      "role": "task002_local_zip",
+      "path": "Task002_V2.zip",
+      "exists": true,
+      "bytes": 1264155,
+      "expected_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "actual_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 48
+    },
+    {
+      "role": "task002_uploaded_report",
+      "path": "task003_inputs/00_第二轮纠错报告.html",
+      "exists": true,
+      "bytes": 739497,
+      "expected_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+      "actual_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "role": "task002_local_report",
+      "path": "Task002_V2/00_第二轮纠错报告.html",
+      "exists": true,
+      "bytes": 739497,
+      "expected_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+      "actual_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "role": "task002_source_index",
+      "path": "Task002_V2/07_史料来源总索引_V2.xlsx",
+      "exists": true,
+      "bytes": 32882,
+      "expected_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+      "actual_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 9
+    },
+    {
+      "role": "task003_inherited_source_index",
+      "path": "Task003/internal/承接快照/07_史料来源总索引_V2.xlsx",
+      "exists": true,
+      "bytes": 32882,
+      "expected_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+      "actual_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 9
+    },
+    {
+      "role": "task003_inherited_task002_zip",
+      "path": "Task003/internal/承接快照/Task002_V2_只读承接.zip",
+      "exists": true,
+      "bytes": 1264155,
+      "expected_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "actual_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 48
+    },
+    {
+      "role": "task003_inherited_original_zip",
+      "path": "Task003/internal/承接快照/55份原始资料_只读.zip",
+      "exists": true,
+      "bytes": 1897023,
+      "expected_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+      "actual_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z",
+      "zip_crc_pass": true,
+      "zip_first_bad_member": null,
+      "zip_file_count": 55
+    },
+    {
+      "role": "task003_inherited_original_report",
+      "path": "Task003/internal/承接快照/第一轮质量审查_只读.html",
+      "exists": true,
+      "bytes": 58648,
+      "expected_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+      "actual_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+      "match": true,
+      "checked_at_utc": "2026-11-06T19:47:59Z"
+    }
+  ],
+  "task002_zip_to_local": {
+    "file_count": 48,
+    "all_match": true,
+    "members": [
+      {
+        "zip_member": "Task002_V2/00_第二轮纠错报告.html",
+        "local_path": "Task002_V2/00_第二轮纠错报告.html",
+        "zip_member_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "local_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/00_第二轮纠错报告.md",
+        "local_path": "Task002_V2/00_第二轮纠错报告.md",
+        "zip_member_sha256": "35a77c853f8cb05047679ab85081118ab794189af19ce13164dd90be1091c252",
+        "local_sha256": "35a77c853f8cb05047679ab85081118ab794189af19ce13164dd90be1091c252",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/01_逐日历史时间线.csv",
+        "local_path": "Task002_V2/01_逐日历史时间线.csv",
+        "zip_member_sha256": "f769f349512c85cb23bd8541b56eccd2498f2c70bd65e852ad3c2d3d20966fbc",
+        "local_sha256": "f769f349512c85cb23bd8541b56eccd2498f2c70bd65e852ad3c2d3d20966fbc",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/01a_历史事件分项证据.csv",
+        "local_path": "Task002_V2/01a_历史事件分项证据.csv",
+        "zip_member_sha256": "0e1668bb7474a5f00b5814d5a89a3b6ea18a79ceebc25a12959a2a2b688d5493",
+        "local_sha256": "0e1668bb7474a5f00b5814d5a89a3b6ea18a79ceebc25a12959a2a2b688d5493",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/01b_各部接令证据矩阵.csv",
+        "local_path": "Task002_V2/01b_各部接令证据矩阵.csv",
+        "zip_member_sha256": "5fa6143d155b84b6cf6bb10e9fce365a40fe1263e142bc6de37dc488db8312f6",
+        "local_sha256": "5fa6143d155b84b6cf6bb10e9fce365a40fe1263e142bc6de37dc488db8312f6",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/02_中国守军兵力表.xlsx",
+        "local_path": "Task002_V2/02_中国守军兵力表.xlsx",
+        "zip_member_sha256": "9e9f3acdf14474f84889afa4dd91dfe38a0e944c18c070e7262e826c930d5607",
+        "local_sha256": "9e9f3acdf14474f84889afa4dd91dfe38a0e944c18c070e7262e826c930d5607",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/03_平民撤离运力模型.xlsx",
+        "local_path": "Task002_V2/03_平民撤离运力模型.xlsx",
+        "zip_member_sha256": "d5b7116b6844b9ce4ab6273d80a7ec091f74a7cf3c40af41693cba7596c24527",
+        "local_sha256": "d5b7116b6844b9ce4ab6273d80a7ec091f74a7cf3c40af41693cba7596c24527",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/04_南京交通与航运核查表.csv",
+        "local_path": "Task002_V2/04_南京交通与航运核查表.csv",
+        "zip_member_sha256": "312eaccf0d154c739ec4f8215761a5aaf1f6198d903904da515afd2c19c79f64",
+        "local_sha256": "312eaccf0d154c739ec4f8215761a5aaf1f6198d903904da515afd2c19c79f64",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/04a_旧交通运力表逐行核查.csv",
+        "local_path": "Task002_V2/04a_旧交通运力表逐行核查.csv",
+        "zip_member_sha256": "a6d3571346896863d71ffc3d26f487095ea2a0df2bbd7cf5f623c7482e158271",
+        "local_sha256": "a6d3571346896863d71ffc3d26f487095ea2a0df2bbd7cf5f623c7482e158271",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/05_国际救援人员活动时间线.csv",
+        "local_path": "Task002_V2/05_国际救援人员活动时间线.csv",
+        "zip_member_sha256": "6c6e24f4327ad7d1ec54cec7e15fbdc9f2a4bc404578c9055950ef0bbb3578e5",
+        "local_sha256": "6c6e24f4327ad7d1ec54cec7e15fbdc9f2a4bc404578c9055950ef0bbb3578e5",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/06_南京大屠杀重要事件证据表.csv",
+        "local_path": "Task002_V2/06_南京大屠杀重要事件证据表.csv",
+        "zip_member_sha256": "d838c7c6527acda4b9019d2900e2273e729178da41887593168db91adb8bc257",
+        "local_sha256": "d838c7c6527acda4b9019d2900e2273e729178da41887593168db91adb8bc257",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/07_史料来源总索引_V2.xlsx",
+        "local_path": "Task002_V2/07_史料来源总索引_V2.xlsx",
+        "zip_member_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "local_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/07a_原54项来源修订索引.csv",
+        "local_path": "Task002_V2/07a_原54项来源修订索引.csv",
+        "zip_member_sha256": "9d59c613867b92f41e7d71149e4d0ed6b110ce73e4bc41774b2f39392af08728",
+        "local_sha256": "9d59c613867b92f41e7d71149e4d0ed6b110ce73e4bc41774b2f39392af08728",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/07b_本轮证据来源索引.csv",
+        "local_path": "Task002_V2/07b_本轮证据来源索引.csv",
+        "zip_member_sha256": "ba5e50e61332743a1ee76ba55232a95b55e78bc7a61eea134f046e0d4ad25b43",
+        "local_sha256": "ba5e50e61332743a1ee76ba55232a95b55e78bc7a61eea134f046e0d4ad25b43",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/08_仍未解决的问题清单.csv",
+        "local_path": "Task002_V2/08_仍未解决的问题清单.csv",
+        "zip_member_sha256": "ca642307ff02588f712c5b67b5700509b1ffce8bfd5cb03ef7a50381a6497cda",
+        "local_sha256": "ca642307ff02588f712c5b67b5700509b1ffce8bfd5cb03ef7a50381a6497cda",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/08_仍未解决的问题清单.md",
+        "local_path": "Task002_V2/08_仍未解决的问题清单.md",
+        "zip_member_sha256": "e90e395c11b68baa707eb5f340d5bd9e1a3c721b23491f23e217830dcfa210db",
+        "local_sha256": "e90e395c11b68baa707eb5f340d5bd9e1a3c721b23491f23e217830dcfa210db",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/09_55份文件审查台账.csv",
+        "local_path": "Task002_V2/09_55份文件审查台账.csv",
+        "zip_member_sha256": "e5184d8451624d4abac477049ebd944b565e6038d6e44665c9c0fe04616b20b7",
+        "local_sha256": "e5184d8451624d4abac477049ebd944b565e6038d6e44665c9c0fe04616b20b7",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/09a_原27份待补证逐项复核.csv",
+        "local_path": "Task002_V2/09a_原27份待补证逐项复核.csv",
+        "zip_member_sha256": "18fc2bc9dc8abe03d5adc5df21ce09623d54f9250002ce833d4a3deffe968bb6",
+        "local_sha256": "18fc2bc9dc8abe03d5adc5df21ce09623d54f9250002ce833d4a3deffe968bb6",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/10_修订日志.csv",
+        "local_path": "Task002_V2/10_修订日志.csv",
+        "zip_member_sha256": "8c58242f21088883e59266b4ba4a77c0c0016eedb11d0e7d385373f61ce59dc6",
+        "local_sha256": "8c58242f21088883e59266b4ba4a77c0c0016eedb11d0e7d385373f61ce59dc6",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/11_阅读说明与史实使用规则.md",
+        "local_path": "Task002_V2/11_阅读说明与史实使用规则.md",
+        "zip_member_sha256": "ea141612c2129036890a70f2f91b7ff8e3a16c75ba1d28935b1e393c1bb63bfa",
+        "local_sha256": "ea141612c2129036890a70f2f91b7ff8e3a16c75ba1d28935b1e393c1bb63bfa",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/12_交付目录与校验SHA256.csv",
+        "local_path": "Task002_V2/12_交付目录与校验SHA256.csv",
+        "zip_member_sha256": "ff8d5f21e93d0f9496a3aa274a1f8202ada34929a93da1e8295c7afac70bade5",
+        "local_sha256": "ff8d5f21e93d0f9496a3aa274a1f8202ada34929a93da1e8295c7afac70bade5",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/atrocities_核查说明.md",
+        "local_path": "Task002_V2/专题核查/atrocities_核查说明.md",
+        "zip_member_sha256": "fa544ab42426df91d69579200ec27e002f0741f910b5e147b116bb0bce1c5d50",
+        "local_sha256": "fa544ab42426df91d69579200ec27e002f0741f910b5e147b116bb0bce1c5d50",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/corpus_核查说明.md",
+        "local_path": "Task002_V2/专题核查/corpus_核查说明.md",
+        "zip_member_sha256": "74e3b65b591eda0409ae700401dcb2a506d8ce10a90ce22c18dbf371fe757336",
+        "local_sha256": "74e3b65b591eda0409ae700401dcb2a506d8ce10a90ce22c18dbf371fe757336",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/international_核查说明.md",
+        "local_path": "Task002_V2/专题核查/international_核查说明.md",
+        "zip_member_sha256": "d7aee1876592f65964c7df1e1176e74d0b9d049584ed5c1e702e62807ec018e5",
+        "local_sha256": "d7aee1876592f65964c7df1e1176e74d0b9d049584ed5c1e702e62807ec018e5",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/timeline_核查说明.md",
+        "local_path": "Task002_V2/专题核查/timeline_核查说明.md",
+        "zip_member_sha256": "a529648b7fbc873714918075958f10ffe000726c95822f9800cc0051357a4e63",
+        "local_sha256": "a529648b7fbc873714918075958f10ffe000726c95822f9800cc0051357a4e63",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/transport_核查说明.md",
+        "local_path": "Task002_V2/专题核查/transport_核查说明.md",
+        "zip_member_sha256": "54a1274101e67be50ea4bfe600d6251aa202fea2c7b33714a108fc2385054d07",
+        "local_sha256": "54a1274101e67be50ea4bfe600d6251aa202fea2c7b33714a108fc2385054d07",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/专题核查/troops_核查说明.md",
+        "local_path": "Task002_V2/专题核查/troops_核查说明.md",
+        "zip_member_sha256": "3c90b66075a7b30ad7311f88db05f2cc892337c0a32836ce4ab8794132836d6e",
+        "local_sha256": "3c90b66075a7b30ad7311f88db05f2cc892337c0a32836ce4ab8794132836d6e",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算数据/source_index_combined.json",
+        "local_path": "Task002_V2/复算数据/source_index_combined.json",
+        "zip_member_sha256": "01d6060f0d2fbeb65aafb486ac9e7a6346e2e20e71c751cc3dfaa410544996f5",
+        "local_sha256": "01d6060f0d2fbeb65aafb486ac9e7a6346e2e20e71c751cc3dfaa410544996f5",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算数据/transport_data.json",
+        "local_path": "Task002_V2/复算数据/transport_data.json",
+        "zip_member_sha256": "48eee256f919c8dd2b2387646c00005d99c2db2be5af8b575dff79be7fd5dce2",
+        "local_sha256": "48eee256f919c8dd2b2387646c00005d99c2db2be5af8b575dff79be7fd5dce2",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算数据/troops_data.json",
+        "local_path": "Task002_V2/复算数据/troops_data.json",
+        "zip_member_sha256": "1ee0d16e78f6b1043b8877c8a6adb40c94117b550c4c3ca4e9a4b0abffbe2c79",
+        "local_sha256": "1ee0d16e78f6b1043b8877c8a6adb40c94117b550c4c3ca4e9a4b0abffbe2c79",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算数据/workbook_validation.json",
+        "local_path": "Task002_V2/复算数据/workbook_validation.json",
+        "zip_member_sha256": "167089ca6c473ec5edf603fd488e7b068a878665d23ae64746f338a575146c30",
+        "local_sha256": "167089ca6c473ec5edf603fd488e7b068a878665d23ae64746f338a575146c30",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算脚本/build_workbooks.mjs",
+        "local_path": "Task002_V2/复算脚本/build_workbooks.mjs",
+        "zip_member_sha256": "d79036eae0d437e00eaa35e0eaa0f087c35801ee153ace827f23fea4aea73237",
+        "local_sha256": "d79036eae0d437e00eaa35e0eaa0f087c35801ee153ace827f23fea4aea73237",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/复算脚本/使用说明.md",
+        "local_path": "Task002_V2/复算脚本/使用说明.md",
+        "zip_member_sha256": "5020ae542a109dbefdf19efbae2bd0f9352ee384ad00bbfb91b36f1e74117873",
+        "local_sha256": "5020ae542a109dbefdf19efbae2bd0f9352ee384ad00bbfb91b36f1e74117873",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/55份审查台账.json",
+        "local_path": "Task002_V2/数据/55份审查台账.json",
+        "zip_member_sha256": "fbb47d81228f386a20fe47628d4d1eb07db51c5954bc6f09c7c9a3228f825482",
+        "local_sha256": "fbb47d81228f386a20fe47628d4d1eb07db51c5954bc6f09c7c9a3228f825482",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/Excel导出检查.json",
+        "local_path": "Task002_V2/数据/Excel导出检查.json",
+        "zip_member_sha256": "39eced4d5f4f17318e76b2246be35d9f313306c3bc38f421f91a0b788266d31e",
+        "local_sha256": "39eced4d5f4f17318e76b2246be35d9f313306c3bc38f421f91a0b788266d31e",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/atrocities_data.json",
+        "local_path": "Task002_V2/数据/atrocities_data.json",
+        "zip_member_sha256": "16d95789cb32bbfbfdfbd4a0e8f5af548f349ef996ba9ea8b6f746d13271a525",
+        "local_sha256": "16d95789cb32bbfbfdfbd4a0e8f5af548f349ef996ba9ea8b6f746d13271a525",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/international_data.json",
+        "local_path": "Task002_V2/数据/international_data.json",
+        "zip_member_sha256": "84c4734c31df302813ebfeca50dfe3e5ac85aaa2ce0c066865a95da44b570bd4",
+        "local_sha256": "84c4734c31df302813ebfeca50dfe3e5ac85aaa2ce0c066865a95da44b570bd4",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/transport_data.json",
+        "local_path": "Task002_V2/数据/transport_data.json",
+        "zip_member_sha256": "48eee256f919c8dd2b2387646c00005d99c2db2be5af8b575dff79be7fd5dce2",
+        "local_sha256": "48eee256f919c8dd2b2387646c00005d99c2db2be5af8b575dff79be7fd5dce2",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/troops_data.json",
+        "local_path": "Task002_V2/数据/troops_data.json",
+        "zip_member_sha256": "1ee0d16e78f6b1043b8877c8a6adb40c94117b550c4c3ca4e9a4b0abffbe2c79",
+        "local_sha256": "1ee0d16e78f6b1043b8877c8a6adb40c94117b550c4c3ca4e9a4b0abffbe2c79",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/修订日志.json",
+        "local_path": "Task002_V2/数据/修订日志.json",
+        "zip_member_sha256": "493014bef85d17aec8f905c4d4dd26c76e41e3db85e7ffb529ceb28a53c59325",
+        "local_sha256": "493014bef85d17aec8f905c4d4dd26c76e41e3db85e7ffb529ceb28a53c59325",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/历史时间线_V2.json",
+        "local_path": "Task002_V2/数据/历史时间线_V2.json",
+        "zip_member_sha256": "7d1e53b29776341b26d11861c43aab6e78fdf2957ed59ec7e570ec8c1632c69a",
+        "local_sha256": "7d1e53b29776341b26d11861c43aab6e78fdf2957ed59ec7e570ec8c1632c69a",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/史料来源总索引_V2.json",
+        "local_path": "Task002_V2/数据/史料来源总索引_V2.json",
+        "zip_member_sha256": "01d6060f0d2fbeb65aafb486ac9e7a6346e2e20e71c751cc3dfaa410544996f5",
+        "local_sha256": "01d6060f0d2fbeb65aafb486ac9e7a6346e2e20e71c751cc3dfaa410544996f5",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/未解决问题.json",
+        "local_path": "Task002_V2/数据/未解决问题.json",
+        "zip_member_sha256": "efb6eb4073127981a207a0ea1eb24224e1532aaf9f57863c2cacab8c593219f8",
+        "local_sha256": "efb6eb4073127981a207a0ea1eb24224e1532aaf9f57863c2cacab8c593219f8",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "local_path": "Task002_V2/数据/输入完整性与原件未改验证.json",
+        "zip_member_sha256": "25f670b620ff8fc40665bb3bcb91b926aebd219a81c507b266b0c5ad3250c229",
+        "local_sha256": "25f670b620ff8fc40665bb3bcb91b926aebd219a81c507b266b0c5ad3250c229",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/证据页/唐生智回忆_书印7页_PDF016.png",
+        "local_path": "Task002_V2/证据页/唐生智回忆_书印7页_PDF016.png",
+        "zip_member_sha256": "994489aa877be648727e5715b323a83d540083fa7e2076986ab18f0c26299c4f",
+        "local_sha256": "994489aa877be648727e5715b323a83d540083fa7e2076986ab18f0c26299c4f",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/证据页/谷寿夫判决_正文_PDF003.png",
+        "local_path": "Task002_V2/证据页/谷寿夫判决_正文_PDF003.png",
+        "zip_member_sha256": "97a84c926fd97da8f21d1aa51b645170bd86a7b910da0c6136796b0e71cfd8e0",
+        "local_sha256": "97a84c926fd97da8f21d1aa51b645170bd86a7b910da0c6136796b0e71cfd8e0",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/证据页/谷寿夫判决_附件甲_PDF012.png",
+        "local_path": "Task002_V2/证据页/谷寿夫判决_附件甲_PDF012.png",
+        "zip_member_sha256": "87909df712cdc235e85693c5107485a2237383a28536b9564aee8c53de13b857",
+        "local_sha256": "87909df712cdc235e85693c5107485a2237383a28536b9564aee8c53de13b857",
+        "match": true
+      },
+      {
+        "zip_member": "Task002_V2/证据页/页码与来源说明.md",
+        "local_path": "Task002_V2/证据页/页码与来源说明.md",
+        "zip_member_sha256": "431f88565c1f5d0cc42b617f96044fbf989f8b8c8d7a0d67dfc75a39e9ec1ca2",
+        "local_sha256": "431f88565c1f5d0cc42b617f96044fbf989f8b8c8d7a0d67dfc75a39e9ec1ca2",
+        "match": true
+      }
+    ]
+  },
+  "protection_after_copy": {
+    "all_unchanged": true,
+    "files": [
+      {
+        "path": "source_readonly/金陵不退_史料数据库/00_总目录与完成状态.md",
+        "initial_sha256": "ece13a99b1eadf1a649fc22e7a2f1b646a1ac0d8d4cc07a9e271f330a2cdc2ac",
+        "final_sha256": "ece13a99b1eadf1a649fc22e7a2f1b646a1ac0d8d4cc07a9e271f330a2cdc2ac",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/人物关系表.md",
+        "initial_sha256": "f22f1a696b297ba18d866f7e493282d571be979fbfb546022b8f17371cf93fa9",
+        "final_sha256": "f22f1a696b297ba18d866f7e493282d571be979fbfb546022b8f17371cf93fa9",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/人物履历.md",
+        "initial_sha256": "4d13ccede0c8dc0fda13b85875b1825b19f2af042f4a1d589701d03f0fa2cae9",
+        "final_sha256": "4d13ccede0c8dc0fda13b85875b1825b19f2af042f4a1d589701d03f0fa2cae9",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/指挥关系.md",
+        "initial_sha256": "d0528ffd8ac20cecaf0406beec14ed470cf53b75056d2306256cc931559950ea",
+        "final_sha256": "d0528ffd8ac20cecaf0406beec14ed470cf53b75056d2306256cc931559950ea",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/01_唐生智及指挥体系/电报与命令.md",
+        "initial_sha256": "b8fb9f24a75677df013be40ea1d256789fea0976e19787455d6e013a1defe908",
+        "final_sha256": "b8fb9f24a75677df013be40ea1d256789fea0976e19787455d6e013a1defe908",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/兵力装备.md",
+        "initial_sha256": "eb7cbee716eb472d76bd4525b4fa90ef16c03a929ad0a568275e422c67dcfea0",
+        "final_sha256": "eb7cbee716eb472d76bd4525b4fa90ef16c03a929ad0a568275e422c67dcfea0",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/战斗序列.xlsx",
+        "initial_sha256": "e78baf472bc41238b2cb1d6960ff004795e156c3aeb090b7d55290a1755f5c6b",
+        "final_sha256": "e78baf472bc41238b2cb1d6960ff004795e156c3aeb090b7d55290a1755f5c6b",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/战斗序列_详细.md",
+        "initial_sha256": "7fed719ffe4ce33a9ab2bafa0ec249231a7cbfd8c0e0551a265277ff508429b4",
+        "final_sha256": "7fed719ffe4ce33a9ab2bafa0ec249231a7cbfd8c0e0551a265277ff508429b4",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/02_中国守军/部队作战记录.md",
+        "initial_sha256": "5149f896c8277e4c7b7bb7c4cde5011af10335d185760602c44190ee4b069de3",
+        "final_sha256": "5149f896c8277e4c7b7bb7c4cde5011af10335d185760602c44190ee4b069de3",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/作战命令.md",
+        "initial_sha256": "38cc308a519aac08129dc4ab057cac6e6ac8fd02519cbc1ad35f5b9ee980af34",
+        "final_sha256": "38cc308a519aac08129dc4ab057cac6e6ac8fd02519cbc1ad35f5b9ee980af34",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/日军战斗序列.md",
+        "initial_sha256": "1ee2f481b178ec11c1c83bc5278e7402daca37e8ebcc24bb0dd70c2da4b1f3ad",
+        "final_sha256": "1ee2f481b178ec11c1c83bc5278e7402daca37e8ebcc24bb0dd70c2da4b1f3ad",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/03_日军资料/日军阵中日记.md",
+        "initial_sha256": "377a342e3b120b5df480c4e110b0f3effb8fe7c0e8949c793c5cac1b0afebcd7",
+        "final_sha256": "377a342e3b120b5df480c4e110b0f3effb8fe7c0e8949c793c5cac1b0afebcd7",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+        "initial_sha256": "727f4abcfd454e9580e04a909d8f838afed13ec3627c53f661b0e5b5bf518dd6",
+        "final_sha256": "727f4abcfd454e9580e04a909d8f838afed13ec3627c53f661b0e5b5bf518dd6",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/逐日事件.xlsx",
+        "initial_sha256": "7917b51afc7f35e80dd2d8d27aa456895e845fa4730663ba5fd60525e23a1564",
+        "final_sha256": "7917b51afc7f35e80dd2d8d27aa456895e845fa4730663ba5fd60525e23a1564",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/重大事件.md",
+        "initial_sha256": "4829f38c521e8cf0262303fc45496f8ed8bb20505ebee2dae0b684e212db2790",
+        "final_sha256": "4829f38c521e8cf0262303fc45496f8ed8bb20505ebee2dae0b684e212db2790",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/交通运力.xlsx",
+        "initial_sha256": "584f8b2c8d1c7760bf15fe936b3ee259be781fa11549759651c84ddeda2cc664",
+        "final_sha256": "584f8b2c8d1c7760bf15fe936b3ee259be781fa11549759651c84ddeda2cc664",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/人口资料.md",
+        "initial_sha256": "c788776779b4c35c060d07cad2e1ef40cc224a12c38397e97c7919d9f5e95b0a",
+        "final_sha256": "c788776779b4c35c060d07cad2e1ef40cc224a12c38397e97c7919d9f5e95b0a",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/05_平民撤离/疏散模型.xlsx",
+        "initial_sha256": "6ea3f682076430464931258f31a0a8e625f6dfe8a1e017d25e570682edb262cc",
+        "final_sha256": "6ea3f682076430464931258f31a0a8e625f6dfe8a1e017d25e570682edb262cc",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/国际安全区.md",
+        "initial_sha256": "d50c8c263b2d46f26bb4fe1c423b63451684c04637a9e30369cfa7176a9db60c",
+        "final_sha256": "d50c8c263b2d46f26bb4fe1c423b63451684c04637a9e30369cfa7176a9db60c",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/拉贝日记摘录.md",
+        "initial_sha256": "9394b68edfd9ec52b083b5a61e314b23c2606c20a8caf315cc33ee35efbb7b51",
+        "final_sha256": "9394b68edfd9ec52b083b5a61e314b23c2606c20a8caf315cc33ee35efbb7b51",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/06_安全区及大屠杀/日军暴行史料.md",
+        "initial_sha256": "70141810d832030b01c1e58b6840711b1eea093fc4849f50dcc2e16e8ff8d16b",
+        "final_sha256": "70141810d832030b01c1e58b6840711b1eea093fc4849f50dcc2e16e8ff8d16b",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/07_南京城市资料/图片与地图资料库.md",
+        "initial_sha256": "f0f551308bdca50e48b8d9be358f7c0f5d1f52b620d7868362da973085c96287",
+        "final_sha256": "f0f551308bdca50e48b8d9be358f7c0f5d1f52b620d7868362da973085c96287",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/07_南京城市资料/街道及建筑.md",
+        "initial_sha256": "5626c937ed7f5356225b73fbcd3e839039e09998ae40529a661e2dee8d911c4d",
+        "final_sha256": "5626c937ed7f5356225b73fbcd3e839039e09998ae40529a661e2dee8d911c4d",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/08_人物档案/真实人物.md",
+        "initial_sha256": "ac9d84b3af2dd2f6b1b3478424b6aeb4cdad93f8255edc79cd06e37c967d769e",
+        "final_sha256": "ac9d84b3af2dd2f6b1b3478424b6aeb4cdad93f8255edc79cd06e37c967d769e",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/08_人物档案/虚构人物设定.md",
+        "initial_sha256": "340cdc4f320666a64ecf0afe9b90a39a6ff1f5382f366adf4b5d1f53a483a015",
+        "final_sha256": "340cdc4f320666a64ecf0afe9b90a39a6ff1f5382f366adf4b5d1f53a483a015",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/军事推演.md",
+        "initial_sha256": "d32932a7b01891a6b70f61c7b2587cbfa54258389ad710f1921d01e4de098a29",
+        "final_sha256": "d32932a7b01891a6b70f61c7b2587cbfa54258389ad710f1921d01e4de098a29",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/小说史实使用指南.md",
+        "initial_sha256": "5e6315781bdd0bec4e2a740bc5a6ae04c30a3996122578b2ce2d632be1c3598a",
+        "final_sha256": "5e6315781bdd0bec4e2a740bc5a6ae04c30a3996122578b2ce2d632be1c3598a",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/撤离可行性.md",
+        "initial_sha256": "fe2f6ae9d9b73768035080d868e872c5106d6800dda7e03e6a75421a65e93b30",
+        "final_sha256": "fe2f6ae9d9b73768035080d868e872c5106d6800dda7e03e6a75421a65e93b30",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/09_反事实研究/架空事件表.xlsx",
+        "initial_sha256": "1ad72094b64a363a63d587b3678a0adbf7baedf05684b22ab6e308638ef9af1f",
+        "final_sha256": "1ad72094b64a363a63d587b3678a0adbf7baedf05684b22ab6e308638ef9af1f",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/SOURCE_INDEX.xlsx",
+        "initial_sha256": "2f663d9aba84c343d9f43fe93075ce1fb64772061f71854a0f0baaf6767ddb49",
+        "final_sha256": "2f663d9aba84c343d9f43fe93075ce1fb64772061f71854a0f0baaf6767ddb49",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/SOURCE_INDEX_详细说明.md",
+        "initial_sha256": "a4afb446682d7511091e5f03ab2e82e5bd0464d827b15757b19262c2590e0314",
+        "final_sha256": "a4afb446682d7511091e5f03ab2e82e5bd0464d827b15757b19262c2590e0314",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/史料争议.md",
+        "initial_sha256": "9e040b6a1c7078ecd124e6468266dcef709bf00ddba4345a9e04b290cddf71e1",
+        "final_sha256": "9e040b6a1c7078ecd124e6468266dcef709bf00ddba4345a9e04b290cddf71e1",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/史料总目录.md",
+        "initial_sha256": "b89646d8a5e4c8eb1dfe71d1fcd958621f87a11b3a030951662c763f48483fb6",
+        "final_sha256": "b89646d8a5e4c8eb1dfe71d1fcd958621f87a11b3a030951662c763f48483fb6",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/10_来源总索引/待核实问题.md",
+        "initial_sha256": "332cda833270b8ed9ca89143bd372ea022225c11fef9d6ed4617a01382db4150",
+        "final_sha256": "332cda833270b8ed9ca89143bd372ea022225c11fef9d6ed4617a01382db4150",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/PDF/NJ-015_唐生智_卫戍南京之经过.pdf",
+        "initial_sha256": "60620120f46d23241172c2c9435f073a68230718215c77f7d535cc6f2ea3f082",
+        "final_sha256": "60620120f46d23241172c2c9435f073a68230718215c77f7d535cc6f2ea3f082",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/README.md",
+        "initial_sha256": "c03878e607e0212788f2334676758dad74677d2706f2a0c4fafa182eb2818b65",
+        "final_sha256": "c03878e607e0212788f2334676758dad74677d2706f2a0c4fafa182eb2818b65",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-007_拉贝日记节选_纪念馆.html",
+        "initial_sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+        "final_sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-008_魏特琳日记_纪念馆.html",
+        "initial_sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+        "final_sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-012_NJ-044_北京晚报_张嘉璈日记.html",
+        "initial_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+        "final_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-016_NJ-033_汪海涛_谭道平兵力勘误.html",
+        "initial_sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+        "final_sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-022_王辅_日军侵华战争第九章.html",
+        "initial_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+        "final_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+        "initial_sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+        "final_sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+        "initial_sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+        "final_sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+        "initial_sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+        "final_sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+        "initial_sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+        "final_sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-028_LOC_民国南京地图.html",
+        "initial_sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+        "final_sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-029_马吉胶片三版本_央广网.html",
+        "initial_sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+        "final_sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-030_伊藤兼男相册_纪念馆.html",
+        "initial_sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+        "final_sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-031_京字第一号证据_罗瑾.html",
+        "initial_sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+        "final_sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-032_重炮兵15联队324张照片_纪念馆.html",
+        "initial_sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+        "final_sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+        "initial_sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+        "final_sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+        "initial_sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+        "final_sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-045_社区新报_长江号渡轮.html",
+        "initial_sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+        "final_sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-046_中国军网_草鞋峡.html",
+        "initial_sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+        "final_sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-047_鼓楼医院_党史文献院.html",
+        "initial_sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+        "final_sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "upload/金陵不退_史料数据库 (1)(2).zip",
+        "initial_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+        "final_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "upload/金陵不退_史料数据库质量审查(2).html",
+        "initial_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+        "final_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "task003_inputs/Task002_V2 (1).zip",
+        "initial_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "final_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task002_V2.zip",
+        "initial_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "final_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "task003_inputs/00_第二轮纠错报告.html",
+        "initial_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "final_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task002_V2/00_第二轮纠错报告.html",
+        "initial_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "final_sha256": "c9f0f0b29d16dbc335e34b16e2d9e5285c57136eb9a6051e7b7c0e0cb3e7397b",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task002_V2/07_史料来源总索引_V2.xlsx",
+        "initial_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "final_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task003/internal/承接快照/07_史料来源总索引_V2.xlsx",
+        "initial_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "final_sha256": "6cbc954b192fecc4f92679024ff4757b33c15464cd52e8ccf1c36602e34f856e",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task003/internal/承接快照/Task002_V2_只读承接.zip",
+        "initial_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "final_sha256": "c1e118c4783958c7ec909a8f4214145f929ba4eeea98d1b23b51bf6bbbe135e0",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task003/internal/承接快照/55份原始资料_只读.zip",
+        "initial_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+        "final_sha256": "0945b4a5018ddc0347248b7081a82f2b67a22a973a3a14df6bb171d864f51cdd",
+        "unchanged_during_task": true
+      },
+      {
+        "path": "Task003/internal/承接快照/第一轮质量审查_只读.html",
+        "initial_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+        "final_sha256": "76e1c2457dffde6fd2325aa5ff9074c6a7925a978d157aa39f091935a9574b14",
+        "unchanged_during_task": true
+      }
+    ]
+  },
+  "legacy_cache_copy": {
+    "count": 19,
+    "body_present": 17,
+    "empty_template": 1,
+    "anti_bot_challenge": 1,
+    "extracted_article_origin_url_count": 6,
+    "new_network_acquisitions": 0,
+    "private_only": 19,
+    "byte_identical_copies": 19
+  },
+  "failures": [],
+  "no_old_file_write": true,
+  "limitations": [
+    "完整性只证明字节与已存基线一致，不证明文献内容真实或授权公开",
+    "正文存在性盘点不是新阅读全文；Task002判断和本轮数据提取已分列",
+    "本组未更改Task002、Task003、source_readonly或来源登记主表"
+  ]
+}

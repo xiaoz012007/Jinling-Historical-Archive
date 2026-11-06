@@ -1,0 +1,79 @@
+{
+  "capture_id": "CAP-bcf35b204f4e-20261106T194545718462Z",
+  "title": "Historical Documents - Office of the Historian",
+  "creator_or_publisher": null,
+  "original_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d302",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d302",
+  "capture_started_at_utc": "2026-11-06T19:45:45.718Z",
+  "capture_finished_at_utc": "2026-11-06T19:46:04.131Z",
+  "retrieved_at_utc": "2026-11-06T19:46:04.125Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": "en",
+  "content_type": "text/html;charset=utf-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+  "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00",
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "partial",
+  "source_ids": [
+    "SRC-0063"
+  ],
+  "snapshot_status": "captured_public",
+  "rights_status": "public_domain",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [
+    "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/original.html",
+    "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz"
+  ],
+  "sha256": {
+    "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/original.html": "e4b742f3b2d5c5061c4ac5133952b5fe124744e7222905460cddc87a1156d27f",
+    "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz": "71b46b9667348c189fed10e19f1b491193819ce7339da9abfbf95cb584a3c570"
+  },
+  "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+  "license_url": "https://history.state.gov/about/faq/what-is-frus",
+  "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+  "warc": {
+    "path": "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz",
+    "bytes": 9454,
+    "sha256": "71b46b9667348c189fed10e19f1b491193819ce7339da9abfbf95cb584a3c570",
+    "record_id": "urn:uuid:47a3c19d-550f-4e00-86e4-bf2f51565be4",
+    "record_count": 1,
+    "block_digest": "sha1:3POCWXPNRLNX4ITXB64EAE27OLXMYRC2",
+    "payload_digest": "sha1:Z752ZRRQR6TWBMNTU72MFHT3YMLNTFCS",
+    "validated": true,
+    "scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+  },
+  "response_headers": {
+    "date": "Fri, 06 Nov 2026 19:46:04 GMT",
+    "content-type": "text/html;charset=utf-8",
+    "last-modified": "Mon, 29 Jun 2026 00:00:00 +0000",
+    "expires": "Fri, 06 Nov 2026 19:56:04 GMT",
+    "cache-control": "max-age=600,public",
+    "server": "envoy"
+  },
+  "request_headers_saved": {
+    "User-Agent": "JinlingButui-ResearchSnapshot/1.0 (public-source archival research; no authentication)",
+    "Accept": "text/html,application/xhtml+xml,application/pdf;q=0.8,*/*;q=0.5",
+    "Accept-Encoding": "identity"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "task003_timeline_rows": 231,
+  "stage_gap_records": 98,
+  "original_link_rows": 686,
+  "explicit_fiction_links_excluded": 19,
+  "gap_link_rows_excluded": 119,
+  "question_link_rows_excluded": 86,
+  "historical_claim_link_rows": 462,
+  "nonfiction_inventory_rows": 667,
+  "historical_project_file_links": 61,
+  "batch_events": 12,
+  "batch_links": 12,
+  "batch_source_ids": [
+    "SRC-0059",
+    "SRC-0061",
+    "SRC-0063",
+    "SRC-0064",
+    "SRC-0065",
+    "SRC-0068",
+    "SRC-0069",
+    "SRC-0089",
+    "SRC-0090",
+    "SRC-0097"
+  ],
+  "batch_claim_ids": [
+    "timeline:T3-E0011",
+    "timeline:T3-E0020",
+    "timeline:T3-E0066",
+    "timeline:T3-E0069",
+    "timeline:T3-E0081",
+    "timeline:T3-E0082",
+    "timeline:T3-E0154",
+    "timeline:T3-E0155",
+    "timeline:T3-E0124",
+    "timeline:T3-E0156",
+    "timeline:T3-E0148",
+    "timeline:T3-E0217"
+  ],
+  "batch_statuses": {
+    "single_source": 2,
+    "supported_with_limits": 10
+  },
+  "all_original_columns_preserved": true,
+  "all_source_or_file_ids_resolved": true,
+  "new_external_research": false,
+  "github_write_performed": false,
+  "input_sha256": {
+    "Task003/Jinling-BuTui-Historical-Database/timeline/南京保卫战统一时间线.csv": "76381a0da02fde3dd3b245a2ddcdd6026fea7be960e66e1552072a727ec9c7e8",
+    "Task003/Jinling-BuTui-Historical-Database/timeline/事件证据关联表.csv": "f84318b628dd0b7be23a6f458955ddd81e4390e6b95640db53dfbe25004d462d",
+    "Task003/Jinling-BuTui-Historical-Database/sources/来源总索引.csv": "6f5b1caaea93c04d0916848d4be71d1404213375618f12453d5905dc165af358",
+    "Task003/Jinling-BuTui-Historical-Database/sources/文件身份清单.csv": "4bf52c0cbcb7d55828578a1dc3261fce5f3b926cf1ff67e7521fc54a9ad844a4",
+    "Task003A/repo_base/timeline/EVENT_REGISTER.csv": "3eb8b719768835d925da75a37c8c480de2cd502adcc90274d8f06e9f03dcfa9e"
+  }
+}

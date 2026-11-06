@@ -1,0 +1,51 @@
+{
+  "capture_id": "CAP-0c4fba963b29-20261106T194942068948Z",
+  "title": null,
+  "creator_or_publisher": null,
+  "original_url": "URL_WITHHELD:URL-0c4fba963b292d3b",
+  "final_url": "URL_WITHHELD:URL-0c4fba963b292d3b",
+  "capture_started_at_utc": "2026-11-06T19:49:42.068Z",
+  "capture_finished_at_utc": "2026-11-06T19:49:49.271Z",
+  "retrieved_at_utc": "2026-11-06T19:49:49.271Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": null,
+  "content_type": "application/pdf",
+  "http_status": 200,
+  "capture_method": "PDF/书籍容器入口仅检查响应首部；未下载实体内容",
+  "request_method": "HEAD",
+  "response_body_complete": false,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": null,
+  "content_class": null,
+  "soft_error_title": null,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [
+    "未复用已知PDF缓存；本轮未下载PDF/书籍容器实体，不能称取得原文"
+  ],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "metadata_only",
+  "source_ids": [
+    "SRC-0015",
+    "SRC-0057"
+  ],
+  "snapshot_status": "metadata_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。"
+}

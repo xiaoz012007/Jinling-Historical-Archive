@@ -1,0 +1,119 @@
+{
+  "captures": [
+    {
+      "capture_id": "CAP-fcf8de729ad6-20261106T194545719861Z",
+      "source_id": "SRC-0064",
+      "files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-fcf8de729ad6-20261106T194545719861Z/original.html",
+          "sha256": "5a7178a49ef6bfe56b7a3248d83100de1d130f3c47ee56a6ac1a615078593369",
+          "public_path": "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/original.html"
+        },
+        {
+          "path": "Task003A/internal/web-captures/CAP-fcf8de729ad6-20261106T194545719861Z/snapshot.warc.gz",
+          "sha256": "d834f5c6c541ce21f9cbfc5a5f216cb3ad196315c0b93aaf2274550e61771650",
+          "public_path": "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/snapshot.warc.gz"
+        }
+      ],
+      "rights_status": "public_domain",
+      "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+      "license_url": "https://history.state.gov/about/faq/what-is-frus",
+      "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+      "completeness": "partial",
+      "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+      "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00"
+    },
+    {
+      "capture_id": "CAP-56ec6c12830d-20261106T194545718819Z",
+      "source_id": "SRC-0090",
+      "files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-56ec6c12830d-20261106T194545718819Z/original.html",
+          "sha256": "abeb263da52bc446a3e5d2be39d1d68fc6c8f7fa8f3d4c2f61f0154e783936bb",
+          "public_path": "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/original.html"
+        },
+        {
+          "path": "Task003A/internal/web-captures/CAP-56ec6c12830d-20261106T194545718819Z/snapshot.warc.gz",
+          "sha256": "ac0990a912c98b55e0bded96ee3af8981b556e7ef16d7feee45264c770a971ff",
+          "public_path": "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/snapshot.warc.gz"
+        }
+      ],
+      "rights_status": "public_domain",
+      "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+      "license_url": "https://history.state.gov/about/faq/what-is-frus",
+      "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+      "completeness": "partial",
+      "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+      "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00"
+    },
+    {
+      "capture_id": "CAP-bcf35b204f4e-20261106T194545718462Z",
+      "source_id": "SRC-0063",
+      "files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-bcf35b204f4e-20261106T194545718462Z/original.html",
+          "sha256": "e4b742f3b2d5c5061c4ac5133952b5fe124744e7222905460cddc87a1156d27f",
+          "public_path": "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/original.html"
+        },
+        {
+          "path": "Task003A/internal/web-captures/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz",
+          "sha256": "71b46b9667348c189fed10e19f1b491193819ce7339da9abfbf95cb584a3c570",
+          "public_path": "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/snapshot.warc.gz"
+        }
+      ],
+      "rights_status": "public_domain",
+      "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+      "license_url": "https://history.state.gov/about/faq/what-is-frus",
+      "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+      "completeness": "partial",
+      "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+      "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00"
+    },
+    {
+      "capture_id": "CAP-201c9b9fafad-20261106T194545719620Z",
+      "source_id": "SRC-0089",
+      "files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/original.html",
+          "sha256": "437b4182c1c6ecb53012a3d5bc6ac1f4dcafc2daaa9115884d68d0054164ee36",
+          "public_path": "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/original.html"
+        },
+        {
+          "path": "Task003A/internal/web-captures/CAP-201c9b9fafad-20261106T194545719620Z/snapshot.warc.gz",
+          "sha256": "4ce5909952aecfed37be64ebc47c0c587c20cfa1023023fd2f9434ff2882a97c",
+          "public_path": "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/snapshot.warc.gz"
+        }
+      ],
+      "rights_status": "public_domain",
+      "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+      "license_url": "https://history.state.gov/about/faq/what-is-frus",
+      "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+      "completeness": "partial",
+      "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+      "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00"
+    },
+    {
+      "capture_id": "CAP-66bbf44b118d-20261106T194553651667Z",
+      "source_id": "SRC-0065",
+      "files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/original.html",
+          "sha256": "4cc3893746d16d9de4f674e064818d60a52ff4074194b2e8ad357c8b779e39bd",
+          "public_path": "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/original.html"
+        },
+        {
+          "path": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/snapshot.warc.gz",
+          "sha256": "5f6e9c1a9df29007f8a29b050ba9f072aa1cbda64c0e1d29cb65452ad1f12369",
+          "public_path": "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/snapshot.warc.gz"
+        }
+      ],
+      "rights_status": "public_domain",
+      "license_name": "FRUS public domain; hsg-shell CC0 1.0 site template",
+      "license_url": "https://history.state.gov/about/faq/what-is-frus",
+      "redistribution_basis": "FRUS官方FAQ明示可复制分发；https://history.state.gov/about 连接官方代码库；https://github.com/HistoryAtState/hsg-shell/blob/master/LICENSE.md 明示CC0，site.xml与本次内联模板相符。仅本响应实体及白名单重构首部，未复制外链子资源。",
+      "completeness": "partial",
+      "full_text_reading_status": "completed_for_rights_and_privacy_review_not_historical_verification",
+      "full_text_reading_completed_at_utc": "2026-11-06T19:52:51+00:00"
+    }
+  ]
+}

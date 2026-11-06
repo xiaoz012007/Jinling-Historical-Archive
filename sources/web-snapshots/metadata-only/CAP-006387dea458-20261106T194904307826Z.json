@@ -1,0 +1,68 @@
+{
+  "capture_id": "CAP-006387dea458-20261106T194904307826Z",
+  "title": "Human Verification | Open Library",
+  "creator_or_publisher": null,
+  "original_url": "https://openlibrary.org/books/OL4534616M/My_eighty_years_in_China",
+  "final_url": "https://openlibrary.org/verify_human?next=/books/OL4534616M/My_eighty_years_in_China",
+  "capture_started_at_utc": "2026-11-06T19:49:04.307Z",
+  "capture_finished_at_utc": "2026-11-06T19:49:15.427Z",
+  "retrieved_at_utc": "2026-11-06T19:49:15.418Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": "en",
+  "content_type": "text/html; charset=utf-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "error_page",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "error_or_verification_page_not_source_text",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [
+    "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+  ],
+  "redirect_chain": [
+    {
+      "url": "https://openlibrary.org/books/OL4534616M/My_eighty_years_in_China",
+      "http_status": 303,
+      "location": "https://openlibrary.org/verify_human?next=/books/OL4534616M/My_eighty_years_in_China"
+    }
+  ],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0107"
+  ],
+  "snapshot_status": "capture_failed",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "4d21a88bc41293cf179f9211b02e4721fb1dd5a8efe8793c582b2e71a320b29a",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "23cea8dce276b226de6d0f19d08b4121258f01743d13fc9788ef043002422519",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

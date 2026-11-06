@@ -1,0 +1,60 @@
+{
+  "capture_id": "CAP-8cdb087ba66f-20261106T194917930115Z",
+  "title": "文物西迁",
+  "creator_or_publisher": null,
+  "original_url": "https://www.dpm.org.cn/topic/move_south/move_west.html",
+  "final_url": "https://www.dpm.org.cn/topic/move_south/move_west.html",
+  "capture_started_at_utc": "2026-11-06T19:49:17.930Z",
+  "capture_finished_at_utc": "2026-11-06T19:49:23.726Z",
+  "retrieved_at_utc": "2026-11-06T19:49:23.718Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": null,
+  "content_type": "text/html; charset=utf-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0085"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "287fbed31b83a20999a5c3983096660651fc22bab861e8fc87f35ea7483f6423",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "ed0d7f9b329e158a6d1781199eece8fd62ee574a8ea74ccca2fd9020a9b7c94b",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

@@ -1,0 +1,297 @@
+{
+  "task": "Task003-A independent publication QA",
+  "reviewed_at_utc": "2026-11-06T20:07:57.739770+00:00",
+  "decision": "pass_for_reviewed_publication_scope",
+  "unresolved_blocker_count": 0,
+  "unresolved_warning_count": 0,
+  "candidate_file_count": 164,
+  "manifest_entry_count": 163,
+  "candidate_manifest_sha256": "679ad0f9a2ee972722d64640571c99b371989b5145a9fc9120ec48a80469e195",
+  "reviewer_scope": "独立于Task003-A采集/拼装的只读本地质量复核；不联网、不改候选、不写GitHub；不是全部历史断言的重新研究",
+  "authorized_next_step": "可将本次零阻断结论用于首批12关联的发布资格；不得升级历史证据状态。附QA/更新12发布状态/刷新清单后须末次文件差异复核。",
+  "final_append_review_required": true,
+  "counts": {
+    "stable_prior_sources": 128,
+    "source_records": 143,
+    "additional_existing_references": 15,
+    "task002_entry_count_not_independent": 72,
+    "unique_urls": 91,
+    "attempts": 93,
+    "fresh_response_candidates": 68,
+    "reused_pdf_caches": 2,
+    "successful_head_only": 2,
+    "latest_failed_urls": 19,
+    "warc_records_independently_parsed": 86,
+    "legacy_html": 19,
+    "legacy_article_origin_urls": 7,
+    "public_fulltext_source_groups": 5,
+    "public_payload_files": 10,
+    "historical_link_rows": 462,
+    "distinct_claim_ids": 320,
+    "initial_events": 12,
+    "unresolved_questions": 34,
+    "context_rows": 90,
+    "empty_legacy_claim_rows_explicitly_marked": 18
+  },
+  "checks": {
+    "manifest": {
+      "pass": true,
+      "details": {
+        "file_count": 164,
+        "manifest_entries": 163,
+        "bad_hashes": [],
+        "missing_entries": [],
+        "unknown_entries": []
+      }
+    },
+    "formats": {
+      "pass": true,
+      "details": {
+        "json_errors": [],
+        "csv_errors": []
+      }
+    },
+    "source_identity": {
+      "pass": true,
+      "details": {
+        "sources": 143,
+        "stable_old_records": 128,
+        "new_ids": [
+          "SRC-0129",
+          "SRC-0130",
+          "SRC-0131",
+          "SRC-0132",
+          "SRC-0133",
+          "SRC-0134",
+          "SRC-0135",
+          "SRC-0136",
+          "SRC-0137",
+          "SRC-0138",
+          "SRC-0139",
+          "SRC-0140",
+          "SRC-0141",
+          "SRC-0142",
+          "SRC-0143"
+        ],
+        "stable_mismatches": []
+      }
+    },
+    "relations": {
+      "pass": true,
+      "details": {
+        "relations": 28,
+        "legacy_alias_rows": 129,
+        "bad_relations": [],
+        "bad_aliases": []
+      }
+    },
+    "foreign_keys": {
+      "pass": true,
+      "details": {
+        "claims": 462,
+        "unique_claims": 320,
+        "events": 12,
+        "event_links": 12,
+        "questions": 34,
+        "question_links": 34,
+        "project_files": 55,
+        "bad": []
+      }
+    },
+    "claim_preservation": {
+      "pass": true,
+      "details": {
+        "baseline_links": 686,
+        "retained": 462,
+        "excluded": 224,
+        "mismatches": []
+      }
+    },
+    "historical_roles": {
+      "pass": true,
+      "details": {
+        "bad_roles": [],
+        "record_roles": {
+          "historical_event_or_document_claim": 145,
+          "recorded_judgement_not_established_event": 4,
+          "historical_claim_candidate": 156,
+          "historical_strength_observation_not_confirmed_total": 157
+        },
+        "file_links": 61,
+        "fiction_event_rows": 0,
+        "batch_statuses": {
+          "single_source": 2,
+          "supported_with_limits": 10
+        }
+      }
+    },
+    "actual_capture_records": {
+      "pass": true,
+      "details": {
+        "attempts": 93,
+        "latest": 91,
+        "urls": 91,
+        "field_mismatches": [],
+        "core_log_changes": []
+      }
+    },
+    "capture_files": {
+      "pass": true,
+      "details": {
+        "attempt_files_hash_errors": [],
+        "warc_checked": 86,
+        "warc_errors": []
+      }
+    },
+    "public_capture_metadata": {
+      "pass": true,
+      "details": {
+        "metadata_count": 93,
+        "mismatches": []
+      }
+    },
+    "url_final_disposition": {
+      "pass": true,
+      "details": {
+        "url_errors": []
+      }
+    },
+    "source_detail_consistency": {
+      "pass": true,
+      "details": {
+        "field_mismatches": []
+      }
+    },
+    "public_payload_allowlist": {
+      "pass": true,
+      "details": {
+        "payload_files": 10,
+        "whitelisted": 10,
+        "unexpected_payloads": [],
+        "errors": []
+      }
+    },
+    "rights_mapping": {
+      "pass": true,
+      "details": {
+        "bad_statuses": [],
+        "fulltext_approved_sources": 5,
+        "metadata_sources": 143,
+        "root_license_present": false
+      }
+    },
+    "legacy_cache_truth": {
+      "pass": true,
+      "details": {
+        "cache_count": 19,
+        "content_classes": {
+          "target_body_present": 17,
+          "empty_template": 1,
+          "anti_bot_challenge": 1
+        },
+        "errors": []
+      }
+    },
+    "protected_inputs": {
+      "pass": true,
+      "details": {
+        "qa_baseline_files": 57,
+        "original_count": 55,
+        "key_input_rows": 11,
+        "errors": []
+      }
+    },
+    "markdown_links": {
+      "pass": true,
+      "details": {
+        "broken": [],
+        "qa_report_pending_allowed": "TASK003A_INDEPENDENT_QA.md尚待附，不将纯文字待附项误报为已存在"
+      }
+    },
+    "credential_scan": {
+      "pass": true,
+      "details": {
+        "pattern_hits": [],
+        "forbidden_header_values": [],
+        "scope": "all public text and decompressed public WARC; institutional contacts/analytics IDs require semantic review"
+      }
+    },
+    "public_link_redaction": {
+      "pass": true,
+      "details": {
+        "policy_decisions": 3,
+        "affected_source_ids": [
+          "SRC-0015",
+          "SRC-0057",
+          "SRC-0060",
+          "SRC-0092",
+          "SRC-0112"
+        ],
+        "remaining_direct_urls": [],
+        "internal_log_urls_preserved": true
+      }
+    },
+    "claim_context": {
+      "pass": true,
+      "details": {
+        "context_rows": 90,
+        "empty_not_standalone_rows": 18,
+        "errors": []
+      }
+    },
+    "legacy_origin_amendment": {
+      "pass": true,
+      "details": {
+        "origin_urls_confirmed": 7,
+        "bjd_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+        "bjd_original_hash_unchanged": true,
+        "new_network_requests": 0
+      }
+    }
+  },
+  "resolved_findings": [
+    {
+      "id": "QA-FIX-01",
+      "finding": "来源详情及URL目录残留“未访问/未尝试”的盘点阶段状态，与当前捕获记录冲突",
+      "resolution": "当前字段与主表及末次处置同步；旧值显式inventory_stage保存",
+      "status": "resolved_rechecked"
+    },
+    {
+      "id": "QA-FIX-02",
+      "finding": "五份公开元数据的全文版权/隐私阅读状态已完成但完成UTC为空",
+      "resolution": "按白名单实际审查时刻补入；未将其解释为重新核实全部历史",
+      "status": "resolved_rechecked"
+    },
+    {
+      "id": "QA-FIX-03",
+      "finding": "3项现代书籍/论文第三方PDF下载直链的合法托管权利链未确认",
+      "resolution": "公开所有字段改为URL_WITHHELD:URL-ID；3URL/5SRC及来源信息保留；内部完整日志不改；非认定非法",
+      "status": "resolved_rechecked"
+    },
+    {
+      "id": "QA-FIX-04",
+      "finding": "18空命题及部分仅含职务/日期的记录缺少公开上下文",
+      "resolution": "90个人物/交通关联补原表姓名/实体标签；18空命题明确非独立命题，原10列和原证据状态不改",
+      "status": "resolved_rechecked"
+    },
+    {
+      "id": "QA-FIX-05",
+      "finding": "REL-006/015/016泛称同作品超出可得载体信息",
+      "resolution": "限定报道重复登记与未读共用入口关系；保留原关系/状态/变更原因，不计独立互证",
+      "status": "resolved_rechecked"
+    },
+    {
+      "id": "QA-FIX-06",
+      "finding": "旧BJD缓存storyInfo JSON包含原文章URL，原盘点漏计",
+      "resolution": "独立解析本地JSON确认第7个origin URL；旧HTML哈希不变，采集UTC/HTTP/finalURL仍为空；无新网络请求",
+      "status": "resolved_rechecked"
+    }
+  ],
+  "limitations": [
+    "没有重新访问远端；采集真实性核到原始日志、捕获文件、WARC和公开元数据之间一致，不能证明远端现时仍相同。",
+    "没有重做143来源全部版权期限或全部历史命题调查；仅检查本批实际公开范围及可定位许可链。",
+    "18个空命题仍未补出事实；462条是研究关联而非已核事件，只有12条进入首批有限事件表。",
+    "19末次失败、43无精确网址、138来源全文未公开及34未决问题仍保留；不视为虚构补齐的理由。",
+    "本报告不证明GitHub已写入、PR已合并或main已更新。"
+  ]
+}

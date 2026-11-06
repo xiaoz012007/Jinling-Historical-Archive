@@ -1,0 +1,71 @@
+{
+  "capture_id": "CAP-aa071c6a097e-20261106T194834260627Z",
+  "title": "大阪大学学術情報庫OUKA",
+  "creator_or_publisher": "オオサカ　ダイガク　ブンガク　ケンキュウカ　カタヤマ　ツヨシ　ケンキュウシツ",
+  "original_url": "https://doi.org/10.18910/84925",
+  "final_url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/84925/",
+  "capture_started_at_utc": "2026-11-06T19:48:34.260Z",
+  "capture_finished_at_utc": "2026-11-06T19:48:52.472Z",
+  "retrieved_at_utc": "2026-11-06T19:48:52.465Z",
+  "published_at": "2021-03",
+  "updated_at": null,
+  "language": "ja",
+  "content_type": "text/html; charset=utf-8",
+  "http_status": 200,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "unknown_not_visually_checked",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "source_response_candidate",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [],
+  "redirect_chain": [
+    {
+      "url": "https://doi.org/10.18910/84925",
+      "http_status": 302,
+      "location": "https://hdl.handle.net/11094/84925"
+    },
+    {
+      "url": "https://hdl.handle.net/11094/84925",
+      "http_status": 302,
+      "location": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/84925/"
+    }
+  ],
+  "publisher_evidence": "html meta dc.publisher",
+  "published_at_evidence": "html meta dcterms.issued; 原文字段未擅自改为事件发生日",
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0126"
+  ],
+  "snapshot_status": "captured_private_only",
+  "rights_status": "rights_pending",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "original.html",
+      "sha256": "4e8d6d6835da5990861b8caf0c8f7d03738c937460426d2c71e1a7eed8978e60",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "b3efa23a169c32cbb9a65e900a3febb6c5834a2976a98d512a50b2f653806587",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

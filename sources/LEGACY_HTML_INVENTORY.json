@@ -1,0 +1,1436 @@
+{
+  "task": "Task003-A",
+  "scope": "既有19HTML的只读复用盘点，不是新网络采集或全文史料复审",
+  "audit_started_at_utc": "2026-11-06T19:47:59Z",
+  "audit_completed_at_utc": "2026-11-06T19:47:59Z",
+  "summary": {
+    "count": 19,
+    "body_present": 17,
+    "empty_template": 1,
+    "anti_bot_challenge": 1,
+    "extracted_article_origin_url_count": 7,
+    "new_network_acquisitions": 0,
+    "private_only": 19,
+    "byte_identical_copies": 19
+  },
+  "rows": [
+    {
+      "snapshot_id": "LEGACY-HTML-001",
+      "original_file_id": "FILE-F37",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-007_拉贝日记节选_纪念馆.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-001/document.html",
+      "sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+      "bytes": 171818,
+      "detected_decoding": "utf-8",
+      "title": "《拉贝日记》节选 | 侵华日军南京大屠杀遇难同胞纪念馆",
+      "all_title_elements": [
+        "《拉贝日记》节选 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆"
+      ],
+      "visible_text_characters": 30213,
+      "legacy_ids": [
+        "NJ-007"
+      ],
+      "source_ids": [
+        "SRC-0007"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "12月",
+          "present": true
+        },
+        {
+          "marker": "拉贝",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [
+        {
+          "url": "/about/contact",
+          "basis": "link rel=canonical",
+          "html_line": 73,
+          "reason": "嵌入页联系我们canonical，与目标文章不一致；相对地址不拼接"
+        }
+      ],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0007",
+          "legacy_id": "NJ-007",
+          "task002_access_status": "节选可读；须逐件分清作者",
+          "locator_as_registered": "纪念馆官网节选;江苏人民中译本",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+      "copy_sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-002",
+      "original_file_id": "FILE-F38",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-008_魏特琳日记_纪念馆.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-002/document.html",
+      "sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+      "bytes": 113919,
+      "detected_decoding": "utf-8",
+      "title": "魏特琳日记1937年（三） | 侵华日军南京大屠杀遇难同胞纪念馆",
+      "all_title_elements": [
+        "魏特琳日记1937年（三） | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆"
+      ],
+      "visible_text_characters": 16731,
+      "legacy_ids": [
+        "NJ-008"
+      ],
+      "source_ids": [
+        "SRC-0008"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "12月",
+          "present": true
+        },
+        {
+          "marker": "魏特琳",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [
+        {
+          "url": "/about/contact",
+          "basis": "link rel=canonical",
+          "html_line": 73,
+          "reason": "嵌入页联系我们canonical，与目标文章不一致；相对地址不拼接"
+        }
+      ],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0008",
+          "legacy_id": "NJ-008",
+          "task002_access_status": "所阅条目可核",
+          "locator_as_registered": "纪念馆官网2019-07-17连载",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+      "copy_sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-003",
+      "original_file_id": "FILE-F39",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-012_NJ-044_北京晚报_张嘉璈日记.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-003/document.html",
+      "sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+      "bytes": 265704,
+      "detected_decoding": "utf-8",
+      "title": "危急与更生：张嘉璈经历的淞沪会战",
+      "all_title_elements": [
+        "危急与更生：张嘉璈经历的淞沪会战"
+      ],
+      "visible_text_characters": 6056,
+      "legacy_ids": [
+        "NJ-012",
+        "NJ-044"
+      ],
+      "source_ids": [
+        "SRC-0012",
+        "SRC-0044"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": "同一缓存仅计一个文件；多个来源记录不增加独立性",
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "张嘉璈",
+          "present": true
+        },
+        {
+          "marker": "1937年",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+      "origin_url_evidence": [
+        {
+          "url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+          "basis": "HTML第41行var storyInfo JSON解码后的url及webPreviewUrl，两字段一致且title匹配",
+          "html_line": 41,
+          "json_paths": [
+            "storyInfo.url",
+            "storyInfo.webPreviewUrl"
+          ],
+          "adjacent_title": "危急与更生：张嘉璈经历的淞沪会战",
+          "extraction_method": "JSONDecoder.raw_decode解析已保存文本；未执行JavaScript，未访问网络"
+        }
+      ],
+      "rejected_url_candidates": [
+        {
+          "url": "https://bjdnews.bjd.com.cn/",
+          "basis": "页面嵌入JSON originalUrl",
+          "reason": "仅站点首页，不是文章级地址，不作为origin_url"
+        }
+      ],
+      "origin_url_status": "文章级完整URL直接取自既有HTML内JSON；本轮仅元数据复核，未联网验证最终URL",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0012",
+          "legacy_id": "NJ-012",
+          "task002_access_status": "报道已读；日记原件未得",
+          "locator_as_registered": "京报网2020-09-17",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        },
+        {
+          "source_id": "SRC-0044",
+          "legacy_id": "NJ-044",
+          "task002_access_status": "正文可读；非张日记原件",
+          "locator_as_registered": "xinwen.bjd.com.cn",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+      "copy_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z",
+      "origin_url_previous": null,
+      "origin_url_recheck": {
+        "checked_at_utc": "2026-11-06T20:04:31Z",
+        "old_origin_url": null,
+        "old_origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+        "new_origin_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+        "reason": "首次盘点只见originalUrl首页；最终QA发现同一JSON另有完整文章url/webPreviewUrl",
+        "evidence_locator": "HTML第41行var storyInfo；JSON字段url、webPreviewUrl、title",
+        "original_url_homepage_still_rejected": "https://bjdnews.bjd.com.cn/",
+        "new_network_request": false,
+        "original_acquisition_time_remains_unknown": true,
+        "http_status_remains_unknown": true,
+        "final_url_remains_unknown": true
+      }
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-004",
+      "original_file_id": "FILE-F40",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-016_NJ-033_汪海涛_谭道平兵力勘误.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-004/document.html",
+      "sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+      "bytes": 32459,
+      "detected_decoding": "utf-8",
+      "title": "文章阅读_中国人民大学复印报刊资料",
+      "all_title_elements": [
+        "文章阅读_中国人民大学复印报刊资料"
+      ],
+      "visible_text_characters": 64,
+      "legacy_ids": [
+        "NJ-016",
+        "NJ-033"
+      ],
+      "source_ids": [
+        "SRC-0016",
+        "SRC-0033"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": "文件名双NJ只代表既有对应关系；模板缺正文不能证明两文献身份已核",
+      "content_class": "empty_template",
+      "target_body_present": false,
+      "body_presence_basis": "可见文字仅64字左右的文章阅读框架/来源期刊/参考文献栏目，未见汪论文或谭兵力表正文。",
+      "body_marker_checks": [],
+      "count_as_reusable_legacy_body_snapshot": false,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0016",
+          "legacy_id": "NJ-016",
+          "task002_access_status": "原表和勘误未取得",
+          "locator_as_registered": "fybk.bjcipt.com",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        },
+        {
+          "source_id": "SRC-0033",
+          "legacy_id": "NJ-033",
+          "task002_access_status": "目标正文仍未取得",
+          "locator_as_registered": "fybk.bjcipt.com/paper.html?id=741474",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+      "copy_sha256": "fbb60ddf7e8fcad2c502ca087e1830b591ff3e8e157dedb27e318bb5faeab467",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-005",
+      "original_file_id": "FILE-F41",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-022_王辅_日军侵华战争第九章.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-005/document.html",
+      "sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+      "bytes": 53008,
+      "detected_decoding": "gb18030",
+      "title": "九 日军侵略南京和杭州",
+      "all_title_elements": [
+        "九 日军侵略南京和杭州",
+        "（一）国民党军在南京的防御部署",
+        "（二）敌攻向南京之计划",
+        "（三）苏联志愿空军参加南京保卫战",
+        "（四）敌军攻击南京城",
+        "（五）敌在南京进行中世纪式的屠城",
+        "（六）敌进攻南京中引起之国际纠纷",
+        "（七）进犯杭州",
+        "（八）1937年底日军在华中之兵力与部署",
+        "（九）京沪失守后我国的军事情况"
+      ],
+      "visible_text_characters": 24976,
+      "legacy_ids": [
+        "NJ-022"
+      ],
+      "source_ids": [
+        "SRC-0022"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "（一）",
+          "present": true
+        },
+        {
+          "marker": "南京",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0022",
+          "legacy_id": "NJ-022",
+          "task002_access_status": "正文可读；日方原详报待补",
+          "locator_as_registered": "main.warstudy.com/history/world_war/jp_china/309.xml",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+      "copy_sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-006",
+      "original_file_id": "FILE-F42",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-006/document.html",
+      "sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+      "bytes": 48741,
+      "detected_decoding": "utf-8",
+      "title": "这一次的南京city walk 跟着档案走！_ 档案故事_ 南京市档案馆",
+      "all_title_elements": [
+        "这一次的南京city walk 跟着档案走！_ 档案故事_ 南京市档案馆",
+        "档案故事_ 南京市档案馆",
+        "",
+        ""
+      ],
+      "visible_text_characters": 3319,
+      "legacy_ids": [
+        "NJ-026"
+      ],
+      "source_ids": [
+        "SRC-0026"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "汽车",
+          "present": true
+        },
+        {
+          "marker": "江南",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+      "origin_url_evidence": [
+        {
+          "url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+          "basis": "meta url content",
+          "html_line": 19
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0026",
+          "legacy_id": "NJ-026",
+          "task002_access_status": "仅企业规模命题可核",
+          "locator_as_registered": "dag.nanjing.gov.cn/.../t20231010_4027769.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+      "copy_sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-007",
+      "original_file_id": "FILE-F43",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-007/document.html",
+      "sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+      "bytes": 33114,
+      "detected_decoding": "utf-8",
+      "title": "南京记忆|话说南京火车站——下关站_工作动态_南京市地方志工作办公室",
+      "all_title_elements": [
+        "南京记忆|话说南京火车站——下关站_工作动态_南京市地方志工作办公室"
+      ],
+      "visible_text_characters": 1535,
+      "legacy_ids": [
+        "NJ-027"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "下关",
+          "present": true
+        },
+        {
+          "marker": "1908",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+      "origin_url_evidence": [
+        {
+          "url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+          "basis": "meta url content",
+          "html_line": 19
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0027",
+          "legacy_id": "NJ-027",
+          "task002_access_status": "历史地理线索可读",
+          "locator_as_registered": "dfz.nanjing.gov.cn",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+      "copy_sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-008",
+      "original_file_id": "FILE-F44",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-008/document.html",
+      "sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+      "bytes": 44888,
+      "detected_decoding": "utf-8",
+      "title": "<P>寻访中山门战场遗迹——</P><P>中国守军将敌兵挑下城头</P>",
+      "all_title_elements": [
+        "<P>寻访中山门战场遗迹——</P><P>中国守军将敌兵挑下城头</P>",
+        "无标题文档"
+      ],
+      "visible_text_characters": 1749,
+      "legacy_ids": [
+        "NJ-027b"
+      ],
+      "source_ids": [
+        "SRC-0129"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "中山门",
+          "present": true
+        },
+        {
+          "marker": "1937年",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+      "origin_url_evidence": [
+        {
+          "url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+          "basis": "meta url content",
+          "html_line": 17
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0129",
+          "legacy_id": "NJ-027b",
+          "task002_access_status": null,
+          "locator_as_registered": null,
+          "access_scope": "Task003A corpus_audit为原缓存单列的新来源身份；不补造Task002阅读全文记录"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+      "copy_sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-009",
+      "original_file_id": "FILE-F45",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-009/document.html",
+      "sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+      "bytes": 37192,
+      "detected_decoding": "utf-8",
+      "title": "南京记忆|永不消逝的“光华门”_工作动态_南京市地方志工作办公室",
+      "all_title_elements": [
+        "南京记忆|永不消逝的“光华门”_工作动态_南京市地方志工作办公室"
+      ],
+      "visible_text_characters": 2062,
+      "legacy_ids": [
+        "NJ-027c"
+      ],
+      "source_ids": [
+        "SRC-0130"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "光华门",
+          "present": true
+        },
+        {
+          "marker": "城门",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+      "origin_url_evidence": [
+        {
+          "url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+          "basis": "meta url content",
+          "html_line": 19
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0130",
+          "legacy_id": "NJ-027c",
+          "task002_access_status": null,
+          "locator_as_registered": null,
+          "access_scope": "Task003A corpus_audit为原缓存单列的新来源身份；不补造Task002阅读全文记录"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+      "copy_sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-010",
+      "original_file_id": "FILE-F46",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-028_LOC_民国南京地图.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-010/document.html",
+      "sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+      "bytes": 5568,
+      "detected_decoding": "utf-8",
+      "title": "Just a moment...",
+      "all_title_elements": [
+        "Just a moment..."
+      ],
+      "visible_text_characters": 58,
+      "legacy_ids": [
+        "NJ-028"
+      ],
+      "source_ids": [
+        "SRC-0028"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "anti_bot_challenge",
+      "target_body_present": false,
+      "body_presence_basis": "title为Just a moment...，可见提示仅要求JavaScript/cookies；未取得LOC目标目录/地图正文。",
+      "body_marker_checks": [],
+      "count_as_reusable_legacy_body_snapshot": false,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0028",
+          "legacy_id": "NJ-028",
+          "task002_access_status": "目录已补证；原图未阅",
+          "locator_as_registered": "loc.gov/item/2012593209;Call No.G7824.N3A43 s10 .U5",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+      "copy_sha256": "35cdf9f43f680b63a54334edb1e0a99daa93851a986a1cfde74ee7c9740ae115",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-011",
+      "original_file_id": "FILE-F47",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-029_马吉胶片三版本_央广网.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-011/document.html",
+      "sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+      "bytes": 19639,
+      "detected_decoding": "gb18030",
+      "title": "105分钟、17分钟、37分钟 每一秒都珍贵_央广网",
+      "all_title_elements": [
+        "105分钟、17分钟、37分钟 每一秒都珍贵_央广网"
+      ],
+      "visible_text_characters": 1935,
+      "legacy_ids": [
+        "NJ-029"
+      ],
+      "source_ids": [
+        "SRC-0029"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "105分钟",
+          "present": true
+        },
+        {
+          "marker": "17分钟",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0029",
+          "legacy_id": "NJ-029",
+          "task002_access_status": "报道可读；胶片未完整取得",
+          "locator_as_registered": "news.cnr.cn/.../t20251213_527458574.shtml",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+      "copy_sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-012",
+      "original_file_id": "FILE-F48",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-030_伊藤兼男相册_纪念馆.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-012/document.html",
+      "sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+      "bytes": 73035,
+      "detected_decoding": "utf-8",
+      "title": "看，日军士兵拍摄的南京大屠杀照片 | 侵华日军南京大屠杀遇难同胞纪念馆",
+      "all_title_elements": [
+        "看，日军士兵拍摄的南京大屠杀照片 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆"
+      ],
+      "visible_text_characters": 2301,
+      "legacy_ids": [
+        "NJ-030"
+      ],
+      "source_ids": [
+        "SRC-0030"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "伊藤兼男",
+          "present": true
+        },
+        {
+          "marker": "照片",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [
+        {
+          "url": "/about/contact",
+          "basis": "link rel=canonical",
+          "html_line": 74,
+          "reason": "嵌入页联系我们canonical，与目标文章不一致；相对地址不拼接"
+        }
+      ],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0030",
+          "legacy_id": "NJ-030",
+          "task002_access_status": "介绍可读；全册未阅",
+          "locator_as_registered": "19371213.com.cn/.../t20241211_5030156.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+      "copy_sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-013",
+      "original_file_id": "FILE-F49",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-031_京字第一号证据_罗瑾.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-013/document.html",
+      "sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+      "bytes": 68172,
+      "detected_decoding": "utf-8",
+      "title": "云讲解【7】| 京字第一号证据 | 侵华日军南京大屠杀遇难同胞纪念馆",
+      "all_title_elements": [
+        "云讲解【7】| 京字第一号证据 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆"
+      ],
+      "visible_text_characters": 1347,
+      "legacy_ids": [
+        "NJ-031"
+      ],
+      "source_ids": [
+        "SRC-0031"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "罗瑾",
+          "present": true
+        },
+        {
+          "marker": "相册",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [
+        {
+          "url": "/about/contact",
+          "basis": "link rel=canonical",
+          "html_line": 74,
+          "reason": "嵌入页联系我们canonical，与目标文章不一致；相对地址不拼接"
+        }
+      ],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0031",
+          "legacy_id": "NJ-031",
+          "task002_access_status": "原件藏处命题已核；全册未阅",
+          "locator_as_registered": "19371213.net/.../t20210831_3117483.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+      "copy_sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-014",
+      "original_file_id": "FILE-F50",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-032_重炮兵15联队324张照片_纪念馆.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-014/document.html",
+      "sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+      "bytes": 77987,
+      "detected_decoding": "utf-8",
+      "title": "侵华日军暴行再添新铁证 | 侵华日军南京大屠杀遇难同胞纪念馆",
+      "all_title_elements": [
+        "侵华日军暴行再添新铁证 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆",
+        "联系我们 | 侵华日军南京大屠杀遇难同胞纪念馆"
+      ],
+      "visible_text_characters": 3502,
+      "legacy_ids": [
+        "NJ-032"
+      ],
+      "source_ids": [
+        "SRC-0032"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "324",
+          "present": true
+        },
+        {
+          "marker": "照片",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [
+        {
+          "url": "/about/contact",
+          "basis": "link rel=canonical",
+          "html_line": 74,
+          "reason": "嵌入页联系我们canonical，与目标文章不一致；相对地址不拼接"
+        }
+      ],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0032",
+          "legacy_id": "NJ-032",
+          "task002_access_status": "介绍可读；324张原图未得",
+          "locator_as_registered": "19371213.com.cn/.../t20241204_5025545.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+      "copy_sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-015",
+      "original_file_id": "FILE-F51",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-015/document.html",
+      "sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+      "bytes": 22776,
+      "detected_decoding": "gb18030",
+      "title": "七、南京保卫战与日军的南京大屠杀--党史频道-人民网",
+      "all_title_elements": [
+        "七、南京保卫战与日军的南京大屠杀--党史频道-人民网"
+      ],
+      "visible_text_characters": 3513,
+      "legacy_ids": [
+        "NJ-039"
+      ],
+      "source_ids": [
+        "SRC-0039"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "淞沪会战",
+          "present": true
+        },
+        {
+          "marker": "1937年",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+      "origin_url_evidence": [
+        {
+          "url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+          "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+          "html_line": 45,
+          "adjacent_title": "七、南京保卫战与日军的南京大屠杀"
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0039",
+          "legacy_id": "NJ-039",
+          "task002_access_status": "正文可读；回忆转述非独立源",
+          "locator_as_registered": "dangshi.people.com.cn/.../c396421-27058861.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+      "copy_sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-016",
+      "original_file_id": "FILE-F52",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-016/document.html",
+      "sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+      "bytes": 25145,
+      "detected_decoding": "gb18030",
+      "title": "染血的“绿洲”：南京大屠杀中的“难民区”--党史频道-人民网",
+      "all_title_elements": [
+        "染血的“绿洲”：南京大屠杀中的“难民区”--党史频道-人民网"
+      ],
+      "visible_text_characters": 4336,
+      "legacy_ids": [
+        "NJ-042"
+      ],
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "安全区",
+          "present": true
+        },
+        {
+          "marker": "拉贝",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+      "origin_url_evidence": [
+        {
+          "url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+          "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+          "html_line": 45,
+          "adjacent_title": "染血的“绿洲”：南京大屠杀中的“难民区”"
+        }
+      ],
+      "rejected_url_candidates": [],
+      "origin_url_status": "文章级地址直接取自缓存，未联网验证",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0042",
+          "legacy_id": "NJ-042",
+          "task002_access_status": "正文可读；人口按日期口径限缩",
+          "locator_as_registered": "dangshi.people.com.cn/.../c85037-26208132.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+      "copy_sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-017",
+      "original_file_id": "FILE-F53",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-045_社区新报_长江号渡轮.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-017/document.html",
+      "sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+      "bytes": 17843,
+      "detected_decoding": "utf-8",
+      "title": "大桥没通车的日子，火车这样过江_社区新报",
+      "all_title_elements": [
+        "大桥没通车的日子，火车这样过江_社区新报"
+      ],
+      "visible_text_characters": 3190,
+      "legacy_ids": [
+        "NJ-045"
+      ],
+      "source_ids": [
+        "SRC-0045"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "火车轮渡",
+          "present": true
+        },
+        {
+          "marker": "长江",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0045",
+          "legacy_id": "NJ-045",
+          "task002_access_status": "船种可辨；12月6日日期存冲突",
+          "locator_as_registered": "sqxb.epaper.bjqpg.com",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+      "copy_sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-018",
+      "original_file_id": "FILE-F54",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-046_中国军网_草鞋峡.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-018/document.html",
+      "sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+      "bytes": 21141,
+      "detected_decoding": "utf-8",
+      "title": "南京大屠杀5千士兵和难民被扫射抛尸江中 - 中国军网",
+      "all_title_elements": [
+        "南京大屠杀5千士兵和难民被扫射抛尸江中 - 中国军网"
+      ],
+      "visible_text_characters": 1675,
+      "legacy_ids": [
+        "NJ-046"
+      ],
+      "source_ids": [
+        "SRC-0046",
+        "SRC-0116"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": "NJ-046在Task003对应SRC-0046及SRC-0116；同一报道的两条既有记录/别名关联，不是两次独立采集或两个独立证据",
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "草鞋峡",
+          "present": true
+        },
+        {
+          "marker": "12月",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0046",
+          "legacy_id": "NJ-046",
+          "task002_access_status": "可定位两案；不能替代判决全文",
+          "locator_as_registered": "81.cn/.../content_9375823.htm",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        },
+        {
+          "source_id": "SRC-0116",
+          "legacy_id": "NJ-046",
+          "task002_access_status": "包内目标正文已完整读取；不能作独立于判决/证词的互证",
+          "locator_as_registered": "_原始资料/网页HTML/NJ-046_中国军网_草鞋峡.html，正文12月15–18日条",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+      "copy_sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    },
+    {
+      "snapshot_id": "LEGACY-HTML-019",
+      "original_file_id": "FILE-F55",
+      "original_path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-047_鼓楼医院_党史文献院.html",
+      "copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-019/document.html",
+      "sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+      "bytes": 19768,
+      "detected_decoding": "gb18030",
+      "title": "屠城危难中的守护者",
+      "all_title_elements": [
+        "屠城危难中的守护者"
+      ],
+      "visible_text_characters": 6090,
+      "legacy_ids": [
+        "NJ-047"
+      ],
+      "source_ids": [
+        "SRC-0047"
+      ],
+      "source_mapping_basis": "Task003 source_aliases.json；NJ-027b/c按Task003A corpus_audit新增SRC-0129/0130，不改旧编号",
+      "source_alias_note": null,
+      "content_class": "target_body_present",
+      "target_body_present": true,
+      "body_presence_basis": "本地标题及目标主题正文标志存在；仅登记载体存在，不新宣称全文史实核验或网页资产完整。",
+      "body_marker_checks": [
+        {
+          "marker": "鼓楼医院",
+          "present": true
+        },
+        {
+          "marker": "威尔逊",
+          "present": true
+        }
+      ],
+      "count_as_reusable_legacy_body_snapshot": true,
+      "count_as_new_acquisition": false,
+      "origin_url": null,
+      "origin_url_evidence": [],
+      "rejected_url_candidates": [],
+      "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+      "acquisition_time_utc": null,
+      "acquisition_time_status": "未知；文件复制时刻和文章发布日期均不充当采集时间",
+      "copy_time_utc": "2026-11-06T19:47:59Z",
+      "http_status": null,
+      "http_status_status": "未知，既有缓存未保存本轮可核HTTP响应头",
+      "final_url": null,
+      "final_url_status": "未知，未发网络请求且无可信重定向响应链",
+      "fresh_network_request": false,
+      "full_text_reading_this_task": false,
+      "full_text_reading_basis": "继承Task002记录；本轮仅做字节、结构、标题和正文存在性盘点",
+      "inherited_reading_records": [
+        {
+          "source_id": "SRC-0047",
+          "legacy_id": "NJ-047",
+          "task002_access_status": "目标正文可读",
+          "locator_as_registered": "dswxyjy.org.cn/n1/2017/1215/c244523-29709300.html",
+          "access_scope": "继承Task002/Task003登记；不是Task003A新全文阅读"
+        }
+      ],
+      "public_status": "private_only",
+      "rights_basis": "未在本组取得逐件再分发许可；如rights代理另审才可改变",
+      "original_sha256_after_copy": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+      "copy_sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
+      "original_unchanged": true,
+      "copy_byte_identical": true,
+      "inventory_checked_at_utc": "2026-11-06T19:47:59Z"
+    }
+  ],
+  "guardrails": [
+    "错误页和空模板仍保存，但不计为可复用正文快照",
+    "来源URL只提取文档级完整地址；不从导航域名重构",
+    "采集时间、HTTP状态、最终URL均未知",
+    "copy_time_utc是实际复制时刻，不冒充历史采集日期",
+    "19文件全部private_only，源登记主表未修改"
+  ],
+  "last_metadata_amendment_at_utc": "2026-11-06T20:04:31Z",
+  "metadata_amendment_reference": "Task003A/work/legacy_origin_amendment.json"
+}

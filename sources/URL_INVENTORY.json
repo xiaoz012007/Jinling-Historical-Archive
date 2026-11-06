@@ -1,0 +1,4445 @@
+{
+  "schema_version": "Task003A.url-inventory.1",
+  "inventory_status": "final_local_inventory_ready_for_capture",
+  "unique_url_count": 91,
+  "urls": [
+    {
+      "url_id": "URL-2159063972118b3d",
+      "url": "https://adhoc.yalepages.org/Collections/Nanking/Vautrin.html",
+      "source_ids": [
+        "SRC-0108"
+      ],
+      "titles": [
+        "Yale: Minnie Vautrin"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0108",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0108"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-14",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0108"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-215906397211-20261106T194740341069Z",
+      "attempt_capture_ids": [
+        "CAP-215906397211-20261106T194740341069Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-215906397211-20261106T194740341069Z.json"
+    },
+    {
+      "url_id": "URL-781672a2adc6be8c",
+      "url": "https://adhoc.yalepages.org/Collections/Nanking/findingaid.html",
+      "source_ids": [
+        "SRC-0103"
+      ],
+      "titles": [
+        "Yale Nanking Massacre Project 数字目录"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0103",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0103"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-09",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0103"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-781672a2adc6-20261106T194747575157Z",
+      "attempt_capture_ids": [
+        "CAP-781672a2adc6-20261106T194747575157Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-781672a2adc6-20261106T194747575157Z.json"
+    },
+    {
+      "url_id": "URL-fd1963ef6ee4b8a9",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0066.pdf",
+      "source_ids": [
+        "SRC-0110"
+      ],
+      "titles": [
+        "贝德士1937-12-18致日本使馆函"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0110",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0110"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-16",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0110"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-fd1963ef6ee4-20261106T194740341475Z",
+      "attempt_capture_ids": [
+        "CAP-fd1963ef6ee4-20261106T194740341475Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-fd1963ef6ee4-20261106T194740341475Z.json"
+    },
+    {
+      "url_id": "URL-4bf1103fbd61b5a8",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0144.pdf",
+      "source_ids": [
+        "SRC-0098"
+      ],
+      "titles": [
+        "拉贝致日军南京指挥官，1937-12-14"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0098",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0098"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-04",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0098"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-4bf1103fbd61-20261106T194748328633Z",
+      "attempt_capture_ids": [
+        "CAP-4bf1103fbd61-20261106T194748328633Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-4bf1103fbd61-20261106T194748328633Z.json"
+    },
+    {
+      "url_id": "URL-fc7d62567a776415",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0156.pdf",
+      "source_ids": [
+        "SRC-0099"
+      ],
+      "titles": [
+        "斯迈思致福田，1937-12-16"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0099",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0099"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-05",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0099"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-fc7d62567a77-20261106T194753701073Z",
+      "attempt_capture_ids": [
+        "CAP-fc7d62567a77-20261106T194753701073Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-fc7d62567a77-20261106T194753701073Z.json"
+    },
+    {
+      "url_id": "URL-9bc20b4f310436be",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0161.pdf",
+      "source_ids": [
+        "SRC-0100"
+      ],
+      "titles": [
+        "拉贝致田中，1937-12-20"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0100",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0100"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-06",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0100"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-9bc20b4f3104-20261106T194759203895Z",
+      "attempt_capture_ids": [
+        "CAP-9bc20b4f3104-20261106T194759203895Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-9bc20b4f3104-20261106T194759203895Z.json"
+    },
+    {
+      "url_id": "URL-1a7df7821b7b4130",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0175.pdf",
+      "source_ids": [
+        "SRC-0097"
+      ],
+      "titles": [
+        "斯迈思致日本使馆，1937-12-27"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "原始网址",
+          "locator": "SRC-0097",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0097"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0097",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0097"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0097",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0097"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-03",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0097"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-1a7df7821b7b-20261106T194804026253Z",
+      "attempt_capture_ids": [
+        "CAP-1a7df7821b7b-20261106T194804026253Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-1a7df7821b7b-20261106T194804026253Z.json"
+    },
+    {
+      "url_id": "URL-e7c6f9ac735e9e7c",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0317.pdf",
+      "source_ids": [
+        "SRC-0095"
+      ],
+      "titles": [
+        "魏特琳致 Ruth Chester，1938-01-04"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0095",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0095"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0095"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-e7c6f9ac735e-20261106T194809071210Z",
+      "attempt_capture_ids": [
+        "CAP-e7c6f9ac735e-20261106T194809071210Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-e7c6f9ac735e-20261106T194809071210Z.json"
+    },
+    {
+      "url_id": "URL-1c43f5d4b5fea21e",
+      "url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0335.pdf",
+      "source_ids": [
+        "SRC-0096"
+      ],
+      "titles": [
+        "George Fitch 致友人，1938-01-06"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0096",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0096"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-02",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0096"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-1c43f5d4b5fe-20261106T194814351990Z",
+      "attempt_capture_ids": [
+        "CAP-1c43f5d4b5fe-20261106T194814351990Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-1c43f5d4b5fe-20261106T194814351990Z.json"
+    },
+    {
+      "url_id": "URL-f9a8874500acb14e",
+      "url": "https://divinity-adhoc.library.yale.edu/nanking/Bates.html",
+      "source_ids": [
+        "SRC-0109"
+      ],
+      "titles": [
+        "Yale: Miner Searle Bates"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0109",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0109"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-15",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0109"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-f9a8874500ac-20261106T194819684372Z",
+      "attempt_capture_ids": [
+        "CAP-f9a8874500ac-20261106T194819684372Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-f9a8874500ac-20261106T194819684372Z.json"
+    },
+    {
+      "url_id": "URL-bcf35b204f4e58d1",
+      "url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d302",
+      "source_ids": [
+        "SRC-0063"
+      ],
+      "titles": [
+        "FRUS 1931–1941，日本卷I，文件302"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0063",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0063"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL09",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0063"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_public",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-bcf35b204f4e-20261106T194545718462Z",
+      "attempt_capture_ids": [
+        "CAP-bcf35b204f4e-20261106T194545718462Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/metadata.json"
+    },
+    {
+      "url_id": "URL-56ec6c12830d92b4",
+      "url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d384",
+      "source_ids": [
+        "SRC-0090"
+      ],
+      "titles": [
+        "Grew致国务卿电，1937-12-20"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0090",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0090"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-008",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0090"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_public",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-56ec6c12830d-20261106T194545718819Z",
+      "attempt_capture_ids": [
+        "CAP-56ec6c12830d-20261106T194545718819Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/metadata.json"
+    },
+    {
+      "url_id": "URL-201c9b9fafad22e6",
+      "url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d385",
+      "source_ids": [
+        "SRC-0089"
+      ],
+      "titles": [
+        "Atcheson致国务卿报告，1937-12-21"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0089",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0089"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-007",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0089"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_public",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-201c9b9fafad-20261106T194545719620Z",
+      "attempt_capture_ids": [
+        "CAP-201c9b9fafad-20261106T194545719620Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/metadata.json"
+    },
+    {
+      "url_id": "URL-fcf8de729ad6b260",
+      "url": "https://history.state.gov/historicaldocuments/frus1937v03/d857",
+      "source_ids": [
+        "SRC-0064"
+      ],
+      "titles": [
+        "FRUS 1937卷III，文件857：Atcheson致国务卿电"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0064",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0064"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL10",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0064"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_public",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-fcf8de729ad6-20261106T194545719861Z",
+      "attempt_capture_ids": [
+        "CAP-fcf8de729ad6-20261106T194545719861Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/metadata.json"
+    },
+    {
+      "url_id": "URL-66bbf44b118dbf12",
+      "url": "https://history.state.gov/historicaldocuments/frus1937v03/d872",
+      "source_ids": [
+        "SRC-0065"
+      ],
+      "titles": [
+        "FRUS 1937卷III，文件872：三日停战提案"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "原始网址",
+          "locator": "SRC-0065",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0065"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0065",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0065"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0065",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0065"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL11",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0065"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_public",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-66bbf44b118d-20261106T194553651667Z",
+      "attempt_capture_ids": [
+        "CAP-66bbf44b118d-20261106T194553651667Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/metadata.json"
+    },
+    {
+      "url_id": "URL-6224ac4a3ccb9f60",
+      "url": "https://tcmb.culture.tw/zh-tw/detail?id=002-020300-00009-151&indexCode=drnh",
+      "source_ids": [
+        "SRC-0061"
+      ],
+      "titles": [
+        "国史馆：蒋中正电唐生智等据报江浦附近已发现日军是敌逼国军撤退"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "原始网址",
+          "locator": "SRC-0061",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0061"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0061",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0061"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0061",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0061"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL07",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0061"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-6224ac4a3ccb-20261106T194740342156Z",
+      "attempt_capture_ids": [
+        "CAP-6224ac4a3ccb-20261106T194740342156Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-6224ac4a3ccb-20261106T194740342156Z.json"
+    },
+    {
+      "url_id": "URL-b94eb6e5d9fb47d5",
+      "url": "https://tcmb.culture.tw/zh-tw/detail?id=002-020300-00009-153&indexCode=drnh",
+      "source_ids": [
+        "SRC-0068"
+      ],
+      "titles": [
+        "国史馆：唐生智等呈蒋中正此次奉令卫戍南京谨将此役各部队之功罪得失呈报"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0068",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0068"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL14",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0068"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-b94eb6e5d9fb-20261106T194747490117Z",
+      "attempt_capture_ids": [
+        "CAP-b94eb6e5d9fb-20261106T194747490117Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-b94eb6e5d9fb-20261106T194747490117Z.json"
+    },
+    {
+      "url_id": "URL-0d2d3ee274ebbc6e",
+      "url": "https://tcmb.culture.tw/zh-tw/detail?id=002-080200-00487-052&indexCode=drnh",
+      "source_ids": [
+        "SRC-0069"
+      ],
+      "titles": [
+        "国史馆：唐生智呈蒋中正已令各部队构筑阵地并指定各部防区"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0069",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0069"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL15",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0069"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0d2d3ee274eb-20261106T194753395874Z",
+      "attempt_capture_ids": [
+        "CAP-0d2d3ee274eb-20261106T194753395874Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0d2d3ee274eb-20261106T194753395874Z.json"
+    },
+    {
+      "url_id": "URL-aaf5a007861b4ed1",
+      "url": "https://www.jacar.archives.go.jp/das/meta/C11111744800",
+      "source_ids": [
+        "SRC-0066",
+        "SRC-0120"
+      ],
+      "titles": [
+        "JACAR《第１節 南京攻略の経過概要》",
+        "第1节 南京攻略の経過概要"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0066",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0066"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0120",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0120"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL12",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0066",
+            "SRC-0120"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C04",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0066",
+            "SRC-0120"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-aaf5a007861b-20261106T194740342397Z",
+      "attempt_capture_ids": [
+        "CAP-aaf5a007861b-20261106T194740342397Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-aaf5a007861b-20261106T194740342397Z.json"
+    },
+    {
+      "url_id": "URL-4a9d6c0b3e0931b4",
+      "url": "https://www.jacar.archives.go.jp/das/meta/C13031742900",
+      "source_ids": [
+        "SRC-0118"
+      ],
+      "titles": [
+        "第1章第2节 南京攻略戦"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0118",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0118"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C02",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0118"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-4a9d6c0b3e09-20261106T194747249686Z",
+      "attempt_capture_ids": [
+        "CAP-4a9d6c0b3e09-20261106T194747249686Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-4a9d6c0b3e09-20261106T194747249686Z.json"
+    },
+    {
+      "url_id": "URL-1c4d9a3ffc6ba167",
+      "url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+      "source_ids": [
+        "SRC-0119"
+      ],
+      "titles": [
+        "命 巻2 3部の内1号（1）之大陸命8号候选页"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0119",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0119"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C03",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0119"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-1c4d9a3ffc6b-20261106T194753375754Z",
+      "attempt_capture_ids": [
+        "CAP-1c4d9a3ffc6b-20261106T194753375754Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-1c4d9a3ffc6b-20261106T194753375754Z.json"
+    },
+    {
+      "url_id": "URL-e2bea61c0a70ce7a",
+      "url": "https://www.loc.gov/item/2012593209/",
+      "source_ids": [
+        "SRC-0123",
+        "SRC-0028"
+      ],
+      "titles": [
+        "Nanking, China",
+        "美国国会图书馆藏民国南京地图"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0123",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0123"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C07",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0123",
+            "SRC-0028"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0028 <-> SRC-0123",
+          "note": "同一LOC单件目录入口；不等于取得地图原图。",
+          "url_role": "catalog_entry",
+          "source_ids": [
+            "SRC-0028"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-e2bea61c0a70-20261106T194753257130Z",
+      "attempt_capture_ids": [
+        "CAP-e2bea61c0a70-20261106T194753257130Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-e2bea61c0a70-20261106T194753257130Z.json"
+    },
+    {
+      "url_id": "URL-d69ea3265fecb550",
+      "url": "https://www.saac.gov.cn/daj/sjjygjml/202506/cbdc445297d9409482aaaaafa072412e/files/16e23a8dea9e460fbc0fa2feae2e8a36.pdf",
+      "source_ids": [
+        "SRC-0115"
+      ],
+      "titles": [
+        "《中日两国南京大屠杀研究的回顾与思考》"
+      ],
+      "resource_type": "pdf",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0115",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0115"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "url",
+          "locator": "V2-A05",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0115"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-d69ea3265fec-20261106T194757741787Z",
+      "attempt_capture_ids": [
+        "CAP-d69ea3265fec-20261106T194757741787Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-d69ea3265fec-20261106T194757741787Z.json"
+    },
+    {
+      "url_id": "URL-5007edc53ff0b167",
+      "url": "https://www.saac.gov.cn/zt/2014-08/29/content_64760_2.htm",
+      "source_ids": [
+        "SRC-0059"
+      ],
+      "titles": [
+        "二档馆提供：1937年11月25日蒋介石颁布第三、第七战区及首都卫戍战斗序列电"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0059",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0059"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL05",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0059"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-5007edc53ff0-20261106T194803177530Z",
+      "attempt_capture_ids": [
+        "CAP-5007edc53ff0-20261106T194803177530Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-5007edc53ff0-20261106T194803177530Z.json"
+    },
+    {
+      "url_id": "URL-3f69c2c052eab6b7",
+      "url": "https://www.saac.gov.cn/zt/2014-08/29/content_64763_3.htm",
+      "source_ids": [
+        "SRC-0067",
+        "SRC-0076"
+      ],
+      "titles": [
+        "国家档案局《第八集 南京保卫战》",
+        "国家档案局《第八集 南京保卫战》及军战斗详报目录"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0067",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0067"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0076",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0076"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL13",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0067",
+            "SRC-0076"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B06",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0067",
+            "SRC-0076"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-3f69c2c052ea-20261106T194808021974Z",
+      "attempt_capture_ids": [
+        "CAP-3f69c2c052ea-20261106T194808021974Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-3f69c2c052ea-20261106T194808021974Z.json"
+    },
+    {
+      "url_id": "URL-39b1f79053d31c96",
+      "url": "https://www.saac.gov.cn/zt/2014-12/11/content_77681.htm",
+      "source_ids": [
+        "SRC-0114"
+      ],
+      "titles": [
+        "南京大屠杀主犯之一谷寿夫判决书"
+      ],
+      "resource_type": "webpage",
+      "priority": 1,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0114",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0114"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "url",
+          "locator": "V2-A04",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0114"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-39b1f79053d3-20261106T194812993362Z",
+      "attempt_capture_ids": [
+        "CAP-39b1f79053d3-20261106T194812993362Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-39b1f79053d3-20261106T194812993362Z.json"
+    },
+    {
+      "url_id": "URL-b95e022998d2e069",
+      "url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+      "source_ids": [
+        "SRC-0026",
+        "SRC-0087"
+      ],
+      "titles": [
+        "江南汽车公司档案",
+        "南京市档案馆《这一次的南京city walk 跟着档案走！》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+          "field": "meta[name=Url].content",
+          "locator": "",
+          "note": "缓存原有完整绝对URL；HTTP与HTTPS分别保留",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0026",
+            "SRC-0087"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0026",
+            "SRC-0087"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-006",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-026_南京档案馆_江南汽车公司.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-006/document.html",
+          "sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "这一次的南京city walk 跟着档案走！_ 档案故事_ 南京市档案馆",
+          "origin_url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+          "origin_url_evidence": [
+            {
+              "url": "http://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-b95e022998d2-20261106T194758784989Z",
+      "attempt_capture_ids": [
+        "CAP-b95e022998d2-20261106T194758784989Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-b95e022998d2-20261106T194758784989Z.json"
+    },
+    {
+      "url_id": "URL-70adc6c6dba81ca7",
+      "url": "http://dangshi.people.com.cn/BIG5/n/2015/0526/c396421-27058861.html",
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0094"
+      ],
+      "titles": [
+        "南京保卫战与日军南京大屠杀",
+        "人民网南京保卫战综述"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S12",
+          "locator": "line 152",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0039",
+            "SRC-0094"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0039 <-> SRC-0094",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0039"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-70adc6c6dba8-20261106T194759579420Z",
+      "attempt_capture_ids": [
+        "CAP-70adc6c6dba8-20261106T194759579420Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-70adc6c6dba8-20261106T194759579420Z.json"
+    },
+    {
+      "url_id": "URL-655646779a60cd4a",
+      "url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "titles": [
+        "染血的绿洲:难民区"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+          "field": "HTML explicit URL",
+          "locator": "",
+          "note": "页面明确自指URL",
+          "url_role": "original_publisher_or_self_link",
+          "source_ids": [
+            "SRC-0042"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+              "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+              "html_line": 45,
+              "adjacent_title": "染血的“绿洲”：南京大屠杀中的“难民区”"
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0042"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-016",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-016/document.html",
+          "sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "染血的“绿洲”：南京大屠杀中的“难民区”--党史频道-人民网",
+          "origin_url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+          "origin_url_evidence": [
+            {
+              "url": "http://dangshi.people.com.cn/n/2014/1215/c85037-26208132.html",
+              "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+              "html_line": 45,
+              "adjacent_title": "染血的“绿洲”：南京大屠杀中的“难民区”"
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-655646779a60-20261106T194806428174Z",
+      "attempt_capture_ids": [
+        "CAP-655646779a60-20261106T194806428174Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-655646779a60-20261106T194806428174Z.json"
+    },
+    {
+      "url_id": "URL-56e435650b184396",
+      "url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0094"
+      ],
+      "titles": [
+        "南京保卫战与日军南京大屠杀"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+          "field": "HTML explicit URL",
+          "locator": "",
+          "note": "页面明确自指URL",
+          "url_role": "original_publisher_or_self_link",
+          "source_ids": [
+            "SRC-0039",
+            "SRC-0094"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+              "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+              "html_line": 45,
+              "adjacent_title": "七、南京保卫战与日军的南京大屠杀"
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0039",
+            "SRC-0094"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-015",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-039_人民网_南京保卫战.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-015/document.html",
+          "sha256": "2c8bb32d785a27c7fa1001c0baeace4febc704dca7a31ece41a5a99fbff239fa",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "七、南京保卫战与日军的南京大屠杀--党史频道-人民网",
+          "origin_url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+          "origin_url_evidence": [
+            {
+              "url": "http://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+              "basis": "文章书签脚本var href，紧邻var title与本页标题吻合",
+              "html_line": 45,
+              "adjacent_title": "七、南京保卫战与日军的南京大屠杀"
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-56e435650b18-20261106T194813175807Z",
+      "attempt_capture_ids": [
+        "CAP-56e435650b18-20261106T194813175807Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-56e435650b18-20261106T194813175807Z.json"
+    },
+    {
+      "url_id": "URL-ba5f67a427b1cc34",
+      "url": "http://dzb.rmzxb.com.cn/detail.aspx?id=414830",
+      "source_ids": [
+        "SRC-0047"
+      ],
+      "titles": [
+        "屠城危难中的守护者——鼓楼医院"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-047_鼓楼医院_党史文献院.html",
+          "field": "HTML explicit URL",
+          "locator": "",
+          "note": "页面来源人民政协报所指原出版入口；原出版版本未另读取",
+          "url_role": "original_publisher_or_self_link",
+          "source_ids": [
+            "SRC-0047"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-ba5f67a427b1-20261106T194804608111Z",
+      "attempt_capture_ids": [
+        "CAP-ba5f67a427b1-20261106T194804608111Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-ba5f67a427b1-20261106T194804608111Z.json"
+    },
+    {
+      "url_id": "URL-79d87281cb4b772f",
+      "url": "http://hnrb.hinews.cn/html/2014-12/15/content_20_1.htm",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "titles": [
+        "染血的绿洲:难民区"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-042_人民网_安全区难民区.html",
+          "field": "HTML explicit URL",
+          "locator": "",
+          "note": "来源海南日报所指文章入口；原出版版本未另读取",
+          "url_role": "original_publisher_or_self_link",
+          "source_ids": [
+            "SRC-0042"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-79d87281cb4b-20261106T194818077734Z",
+      "attempt_capture_ids": [
+        "CAP-79d87281cb4b-20261106T194818077734Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-79d87281cb4b-20261106T194818077734Z.json"
+    },
+    {
+      "url_id": "URL-92a1939df4d492b3",
+      "url": "http://jds.cssn.cn/newzxdt/202101/t20210128_5297237.shtml",
+      "source_ids": [
+        "SRC-0136"
+      ],
+      "titles": [
+        "《马振犊：南京保卫战中的唐生智》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S11",
+          "locator": "line 151",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0136"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-92a1939df4d4-20261106T194819111251Z",
+      "attempt_capture_ids": [
+        "CAP-92a1939df4d4-20261106T194819111251Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-92a1939df4d4-20261106T194819111251Z.json"
+    },
+    {
+      "url_id": "URL-fed3085983f6de42",
+      "url": "http://m.people.cn/n4/2017/1221/c102-10289008.html",
+      "source_ids": [
+        "SRC-0131"
+      ],
+      "titles": [
+        "《80年前的南京：蒋介石逃走前为何将自己的炮艇留下》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S5",
+          "locator": "line 145",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0131"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-fed3085983f6-20261106T194819180274Z",
+      "attempt_capture_ids": [
+        "CAP-fed3085983f6-20261106T194819180274Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-fed3085983f6-20261106T194819180274Z.json"
+    },
+    {
+      "url_id": "URL-c0e536ad84d7e843",
+      "url": "http://www.1937nanjing.org/kanzhanlishi/laobingkoushu/2021/0511/3977.html",
+      "source_ids": [
+        "SRC-0058"
+      ],
+      "titles": [
+        "谭道平《南京卫戍战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S2",
+          "locator": "line 142",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0058"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-c0e536ad84d7-20261106T194822662306Z",
+      "attempt_capture_ids": [
+        "CAP-c0e536ad84d7-20261106T194822662306Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-c0e536ad84d7-20261106T194822662306Z.json"
+    },
+    {
+      "url_id": "URL-977803ff3bcfd98c",
+      "url": "http://www.cb.com.cn/index/show/rw/cv/cv13447491229/p/license/license/10003.html",
+      "source_ids": [
+        "SRC-0140"
+      ],
+      "titles": [
+        "《1937，南京的冬天》（节选自杨天石、傅高义主编《中日战争国际共同研究》第一卷）"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S16",
+          "locator": "line 156",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0140"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-977803ff3bcf-20261106T194823560215Z",
+      "attempt_capture_ids": [
+        "CAP-977803ff3bcf-20261106T194823560215Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-977803ff3bcf-20261106T194823560215Z.json"
+    },
+    {
+      "url_id": "URL-2e6c97429a9130cf",
+      "url": "http://www.huangpu.org.cn/rwcq/201605/t20160504_11449823.html",
+      "source_ids": [
+        "SRC-0132"
+      ],
+      "titles": [
+        "《唐生智与黄埔军校》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S7",
+          "locator": "line 147",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0132"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-2e6c97429a91-20261106T194823836359Z",
+      "attempt_capture_ids": [
+        "CAP-2e6c97429a91-20261106T194823836359Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-2e6c97429a91-20261106T194823836359Z.json"
+    },
+    {
+      "url_id": "URL-69024423ae48be75",
+      "url": "http://www.wyzxwk.com/Article/lishi/2020/12/427895.html",
+      "source_ids": [
+        "SRC-0038",
+        "SRC-0070"
+      ],
+      "titles": [
+        "论南京保卫战中的唐生智",
+        "经盛鸿《论南京保卫战中的唐生智》转载"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S4",
+          "locator": "line 144",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0038",
+            "SRC-0070"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0038 <-> SRC-0070",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0038"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-69024423ae48-20261106T194825273182Z",
+      "attempt_capture_ids": [
+        "CAP-69024423ae48-20261106T194825273182Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-69024423ae48-20261106T194825273182Z.json"
+    },
+    {
+      "url_id": "URL-61031bc4735d405d",
+      "url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh009166-3792_戰犯谷壽夫判決書正本.pdf",
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "titles": [
+        "《战犯谷寿夫判决书正本》扫描镜像"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "catalog_url",
+          "locator": "V2-A01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "catalog",
+          "source_ids": [
+            "SRC-0111"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-61031bc4735d-20261106T195010304389Z",
+      "attempt_capture_ids": [
+        "CAP-61031bc4735d-20261106T194828112546Z",
+        "CAP-61031bc4735d-20261106T195010304389Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-61031bc4735d-20261106T195010304389Z.json"
+    },
+    {
+      "url_id": "URL-3a2abdff9d189d69",
+      "url": "https://dag.nanjing.gov.cn/dawh/dags/202310/t20231010_4027769.html",
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0026"
+      ],
+      "titles": [
+        "南京市档案馆《这一次的南京city walk 跟着档案走！》",
+        "江南汽车公司档案"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0087",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0087"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-005",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0087",
+            "SRC-0026"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0026 <-> SRC-0087",
+          "note": "机构介绍企业档案的报道，不等于取得所介绍原始档案。",
+          "url_role": "institutional_description",
+          "source_ids": [
+            "SRC-0026"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-3a2abdff9d18-20261106T194828114301Z",
+      "attempt_capture_ids": [
+        "CAP-3a2abdff9d18-20261106T194828114301Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-3a2abdff9d18-20261106T194828114301Z.json"
+    },
+    {
+      "url_id": "URL-41206269a562b949",
+      "url": "https://daj.wuxi.gov.cn/doc/2015/08/03/2427124.shtml",
+      "source_ids": [
+        "SRC-0078"
+      ],
+      "titles": [
+        "无锡市档案局《粤军、黔军、东北军江阴血战记》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0078",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0078"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0078",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0078"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B08",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0078"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-41206269a562-20261106T194829433579Z",
+      "attempt_capture_ids": [
+        "CAP-41206269a562-20261106T194829433579Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-41206269a562-20261106T194829433579Z.json"
+    },
+    {
+      "url_id": "URL-6c94ed935fca3bd7",
+      "url": "https://dangshi.people.com.cn/n/2015/0526/c396421-27058861.html",
+      "source_ids": [
+        "SRC-0094",
+        "SRC-0039"
+      ],
+      "titles": [
+        "人民网南京保卫战综述",
+        "南京保卫战与日军南京大屠杀"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0094",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0094"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-012",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0094",
+            "SRC-0039"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0039 <-> SRC-0094",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0039"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-6c94ed935fca-20261106T194830196650Z",
+      "attempt_capture_ids": [
+        "CAP-6c94ed935fca-20261106T194830196650Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-6c94ed935fca-20261106T194830196650Z.json"
+    },
+    {
+      "url_id": "URL-a7e82cba9d598aed",
+      "url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+      "source_ids": [
+        "SRC-0130"
+      ],
+      "titles": [
+        "南京记忆|永不消逝的“光华门”"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+          "field": "meta[name=Url].content",
+          "locator": "",
+          "note": "HTML中原有精确URL；未拼接主机或相对路径",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0130"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0130"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-009",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027c_光华门_南京地方志.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-009/document.html",
+          "sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "南京记忆|永不消逝的“光华门”_工作动态_南京市地方志工作办公室",
+          "origin_url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+          "origin_url_evidence": [
+            {
+              "url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-a7e82cba9d59-20261106T194833607492Z",
+      "attempt_capture_ids": [
+        "CAP-a7e82cba9d59-20261106T194833607492Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-a7e82cba9d59-20261106T194833607492Z.json"
+    },
+    {
+      "url_id": "URL-0ace02ccc501030e",
+      "url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0093"
+      ],
+      "titles": [
+        "南京记忆系列",
+        "南京记忆：话说南京火车站——下关站"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+          "field": "meta[name=Url].content",
+          "locator": "",
+          "note": "缓存原有完整绝对URL；HTTP与HTTPS分别保留",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0027",
+            "SRC-0093"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0027",
+            "SRC-0093"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-007",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027_南京地方志_下关站.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-007/document.html",
+          "sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "南京记忆|话说南京火车站——下关站_工作动态_南京市地方志工作办公室",
+          "origin_url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+          "origin_url_evidence": [
+            {
+              "url": "https://dfz.nanjing.gov.cn/gzdt/202508/t20250808_5624332.html",
+              "basis": "meta url content",
+              "html_line": 19
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0ace02ccc501-20261106T194839252543Z",
+      "attempt_capture_ids": [
+        "CAP-0ace02ccc501-20261106T194839252543Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0ace02ccc501-20261106T194839252543Z.json"
+    },
+    {
+      "url_id": "URL-aa071c6a097ee987",
+      "url": "https://doi.org/10.18910/84925",
+      "source_ids": [
+        "SRC-0126"
+      ],
+      "titles": [
+        "1920年代末の南京に関する英国陸軍製地図とアメリカ海軍撮影空中写真"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0126",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0126"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C10",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0126"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-aa071c6a097e-20261106T194834260627Z",
+      "attempt_capture_ids": [
+        "CAP-aa071c6a097e-20261106T194834260627Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-aa071c6a097e-20261106T194834260627Z.json"
+    },
+    {
+      "url_id": "URL-45c8d190bdc3766c",
+      "url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+      "source_ids": [
+        "SRC-0129"
+      ],
+      "titles": [
+        "寻访中山门战场遗迹——中国守军将敌兵挑下城头"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+          "field": "meta[name=Url].content",
+          "locator": "",
+          "note": "HTML中原有精确URL；未拼接主机或相对路径",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0129"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+          "field": "legacy_html_inventory.origin_url",
+          "locator": [
+            {
+              "url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+              "basis": "meta url content",
+              "html_line": 17
+            }
+          ],
+          "note": "HTML审计者另行确认的文章级绝对URL；本轮仍未请求",
+          "url_role": "original_cached_article_url",
+          "source_ids": [
+            "SRC-0129"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "snapshot_id": "LEGACY-HTML-008",
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/网页HTML/NJ-027b_中山门_南京党史办.html",
+          "private_copy_path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-008/document.html",
+          "sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
+          "kind": "legacy_html",
+          "content_status": "target_body_present",
+          "target_body_present": true,
+          "local_title": "<P>寻访中山门战场遗迹——</P><P>中国守军将敌兵挑下城头</P>",
+          "origin_url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+          "origin_url_evidence": [
+            {
+              "url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
+              "basis": "meta url content",
+              "html_line": 17
+            }
+          ],
+          "cache_url_identity_verified": true,
+          "retrieved_at_utc": null,
+          "fresh_network_request": false,
+          "full_text_reading_this_task": false,
+          "rights_status": "private_only",
+          "url_match_basis": "原缓存明确origin URL"
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-45c8d190bdc3-20261106T194836498259Z",
+      "attempt_capture_ids": [
+        "CAP-45c8d190bdc3-20261106T194836498259Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-45c8d190bdc3-20261106T194836498259Z.json"
+    },
+    {
+      "url_id": "URL-516355e3035f6ad2",
+      "url": "https://fybk.bjcipt.com/paper.html?id=741474",
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0016",
+        "SRC-0033"
+      ],
+      "titles": [
+        "所谓汪海涛论文/谭表勘误的原库链接",
+        "谭道平《南京卫戍战史话》逐师兵力表",
+        "南京卫戍军兵力考(逐师勘误)"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0081",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0081"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B11",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0081",
+            "SRC-0016",
+            "SRC-0033"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0016 <-> SRC-0081",
+          "note": "原索引共用未读目标URL；本地仅模板。不能据同URL证明两题名对应同一已确认作品。",
+          "url_role": "shared_unverified_target",
+          "source_ids": [
+            "SRC-0016"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0033 <-> SRC-0081",
+          "note": "原索引共用未读目标URL；本地仅模板。不能据同URL证明两题名对应同一已确认作品。",
+          "url_role": "shared_unverified_target",
+          "source_ids": [
+            "SRC-0033"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-516355e3035f-20261106T194837060972Z",
+      "attempt_capture_ids": [
+        "CAP-516355e3035f-20261106T194837060972Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-516355e3035f-20261106T194837060972Z.json"
+    },
+    {
+      "url_id": "URL-48a2d7bcdf7ada76",
+      "url": "https://jsnews.jschina.com.cn/shms/201803/t20180315_1461048.shtml",
+      "source_ids": [
+        "SRC-0088"
+      ],
+      "titles": [
+        "王爱红《宁芜铁路85年岁月过往》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0088",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0088"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-006",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0088"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-48a2d7bcdf7a-20261106T194841901761Z",
+      "attempt_capture_ids": [
+        "CAP-48a2d7bcdf7a-20261106T194841901761Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-48a2d7bcdf7a-20261106T194841901761Z.json"
+    },
+    {
+      "url_id": "URL-55ed6f79e67d8500",
+      "url": "https://liaoyaoxiang.com/liaos_tele/1937-12-31南京保卫战战斗详报",
+      "source_ids": [
+        "SRC-0127"
+      ],
+      "titles": [
+        "南京卫戍军战斗详报民间网络转录"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0127",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0127"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0127",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0127"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-55ed6f79e67d-20261106T195010304856Z",
+      "attempt_capture_ids": [
+        "CAP-55ed6f79e67d-20261106T194841940439Z",
+        "CAP-55ed6f79e67d-20261106T195010304856Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-55ed6f79e67d-20261106T195010304856Z.json"
+    },
+    {
+      "url_id": "URL-dadf73e47e6ae386",
+      "url": "https://m.fx361.com/news/2018/0123/15446193.html",
+      "source_ids": [
+        "SRC-0082"
+      ],
+      "titles": [
+        "程瑶、唐恺《南京保卫战部分守军的参战、损失、撤退人数》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0082",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0082"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B12",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0082"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-dadf73e47e6a-20261106T194841942074Z",
+      "attempt_capture_ids": [
+        "CAP-dadf73e47e6a-20261106T194841942074Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-dadf73e47e6a-20261106T194841942074Z.json"
+    },
+    {
+      "url_id": "URL-c2d43721acce7bbd",
+      "url": "https://m.gzculture.net/lskg/gssh/2562.html",
+      "source_ids": [
+        "SRC-0080"
+      ],
+      "titles": [
+        "梁茂林《黔籍军人与全民抗战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0080",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0080"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B10",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0080"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-c2d43721acce-20261106T194845163974Z",
+      "attempt_capture_ids": [
+        "CAP-c2d43721acce-20261106T194845163974Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-c2d43721acce-20261106T194845163974Z.json"
+    },
+    {
+      "url_id": "URL-c90ca18ee42a216e",
+      "url": "https://m.krzzjn.com/show-1230-86412.html",
+      "source_ids": [
+        "SRC-0058"
+      ],
+      "titles": [
+        "谭道平《南京卫戍战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0058",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0058"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0058",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0058"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL04",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0058"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-c90ca18ee42a-20261106T194848079691Z",
+      "attempt_capture_ids": [
+        "CAP-c90ca18ee42a-20261106T194848079691Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-c90ca18ee42a-20261106T194848079691Z.json"
+    },
+    {
+      "url_id": "URL-590ed3316386c434",
+      "url": "https://m.krzzjn.com/show-1232-34627.html",
+      "source_ids": [
+        "SRC-0133"
+      ],
+      "titles": [
+        "《从南京保卫战到南京大屠杀》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S8",
+          "locator": "line 148",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0133"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-590ed3316386-20261106T194853319992Z",
+      "attempt_capture_ids": [
+        "CAP-590ed3316386-20261106T194853319992Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-590ed3316386-20261106T194853319992Z.json"
+    },
+    {
+      "url_id": "URL-7ae3411662b3c2cb",
+      "url": "https://m.krzzjn.com/show-1854-83003.html",
+      "source_ids": [
+        "SRC-0143"
+      ],
+      "titles": [
+        "《\"佛教将军\"唐生智》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S19",
+          "locator": "line 159",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0143"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-7ae3411662b3-20261106T194859361148Z",
+      "attempt_capture_ids": [
+        "CAP-7ae3411662b3-20261106T194859361148Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-7ae3411662b3-20261106T194859361148Z.json"
+    },
+    {
+      "url_id": "URL-0bb19f62a4219fae",
+      "url": "https://m.krzzjn.com/show-1854-89036.html",
+      "source_ids": [
+        "SRC-0134"
+      ],
+      "titles": [
+        "《唐仁和：我父亲唐生智的南京保卫战》（张定胜文，含\"口头指示\"档案质疑、华宣恩口述）"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S9",
+          "locator": "line 149",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0134"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0bb19f62a421-20261106T194904657096Z",
+      "attempt_capture_ids": [
+        "CAP-0bb19f62a421-20261106T194904657096Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0bb19f62a421-20261106T194904657096Z.json"
+    },
+    {
+      "url_id": "URL-139b3cc46f14e4d6",
+      "url": "https://m.krzzjn.com/show-2884-137751.html",
+      "source_ids": [
+        "SRC-0079"
+      ],
+      "titles": [
+        "《中国国民党九千将领》何知重条转录"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0079",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0079"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B09",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0079"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-139b3cc46f14-20261106T194909106093Z",
+      "attempt_capture_ids": [
+        "CAP-139b3cc46f14-20261106T194909106093Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-139b3cc46f14-20261106T194909106093Z.json"
+    },
+    {
+      "url_id": "URL-c3fa1d8b08a24c1d",
+      "url": "https://m.krzzjn.com/show-349-121232.html",
+      "source_ids": [
+        "SRC-0062"
+      ],
+      "titles": [
+        "《1937年南京保卫战（下）》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0062",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0062"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL08",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0062"
+          ]
+        },
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S6",
+          "locator": "line 146",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0062"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-c3fa1d8b08a2-20261106T194915623961Z",
+      "attempt_capture_ids": [
+        "CAP-c3fa1d8b08a2-20261106T194915623961Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-c3fa1d8b08a2-20261106T194915623961Z.json"
+    },
+    {
+      "url_id": "URL-e1bceaa16f15b42c",
+      "url": "https://m.krzzjn.com/show-349-79904.html",
+      "source_ids": [
+        "SRC-0139"
+      ],
+      "titles": [
+        "《一九三七年南京保卫战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S15",
+          "locator": "line 155",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0139"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-e1bceaa16f15-20261106T194921137748Z",
+      "attempt_capture_ids": [
+        "CAP-e1bceaa16f15-20261106T194921137748Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-e1bceaa16f15-20261106T194921137748Z.json"
+    },
+    {
+      "url_id": "URL-a527fdf50dacf4e6",
+      "url": "https://m.krzzjn.com/show-607-41134.html",
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0071",
+        "SRC-0083",
+        "SRC-0017"
+      ],
+      "titles": [
+        "宋希濂《南京守城战》网络转录",
+        "宋希濂《南京守城战》网页转录",
+        "宋希濂《南京守城战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0055",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0055"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0055",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0055"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0071",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0071"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0071",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0071"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0083",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0083"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0055",
+            "SRC-0071",
+            "SRC-0083",
+            "SRC-0017"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0055",
+            "SRC-0071",
+            "SRC-0083",
+            "SRC-0017"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-001",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0055",
+            "SRC-0071",
+            "SRC-0083",
+            "SRC-0017"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0017 <-> SRC-0055",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0017"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-a527fdf50dac-20261106T194928984668Z",
+      "attempt_capture_ids": [
+        "CAP-a527fdf50dac-20261106T194928984668Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-a527fdf50dac-20261106T194928984668Z.json"
+    },
+    {
+      "url_id": "URL-4d9cee0766c321f4",
+      "url": "https://m.thepaper.cn/baijiahao_10373706",
+      "source_ids": [
+        "SRC-0141"
+      ],
+      "titles": [
+        "《83年前，15万国军大溃败真相》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S17",
+          "locator": "line 157",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0141"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-4d9cee0766c3-20261106T194849981915Z",
+      "attempt_capture_ids": [
+        "CAP-4d9cee0766c3-20261106T194849981915Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-4d9cee0766c3-20261106T194849981915Z.json"
+    },
+    {
+      "url_id": "URL-dca28c26712c359d",
+      "url": "https://m.thepaper.cn/newsDetail_forward_15239415?from=",
+      "source_ids": [
+        "SRC-0056"
+      ],
+      "titles": [
+        "孙宅巍《新发现南京保卫战第44号作战令的重要价值》授权摘载"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S1",
+          "locator": "line 141",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0056"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-dca28c26712c-20261106T194856289038Z",
+      "attempt_capture_ids": [
+        "CAP-dca28c26712c-20261106T194856289038Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-dca28c26712c-20261106T194856289038Z.json"
+    },
+    {
+      "url_id": "URL-9208cc02a19f977a",
+      "url": "https://m.thepaper.cn/newsDetail_forward_1891194",
+      "source_ids": [
+        "SRC-0137"
+      ],
+      "titles": [
+        "《历史上的今天｜八十年前的今日，南京保卫战正式打响》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S13",
+          "locator": "line 153",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0137"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-9208cc02a19f-20261106T194903027357Z",
+      "attempt_capture_ids": [
+        "CAP-9208cc02a19f-20261106T194903027357Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-9208cc02a19f-20261106T194903027357Z.json"
+    },
+    {
+      "url_id": "URL-0282ac05d26c1127",
+      "url": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859735350678",
+      "source_ids": [
+        "SRC-0121"
+      ],
+      "titles": [
+        "NDL《南京戦史資料集》联合目录"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0121",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0121"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C05",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0121"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0282ac05d26c-20261106T194852473243Z",
+      "attempt_capture_ids": [
+        "CAP-0282ac05d26c-20261106T194852473243Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0282ac05d26c-20261106T194852473243Z.json"
+    },
+    {
+      "url_id": "URL-80129031aac8a05e",
+      "url": "https://news.cctv.com/special/C20233/20071211/107422.shtml",
+      "source_ids": [
+        "SRC-0142"
+      ],
+      "titles": [
+        "《从坚守阵地到北撤长江》／严开运《难忘的战斗》等士兵层回忆"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S18",
+          "locator": "line 158",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0142"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-80129031aac8-20261106T194854419721Z",
+      "attempt_capture_ids": [
+        "CAP-80129031aac8-20261106T194854419721Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-80129031aac8-20261106T194854419721Z.json"
+    },
+    {
+      "url_id": "URL-16c5e9bccdbc1d55",
+      "url": "https://news.rednet.cn/m/c/2014/11/29/3535892.htm",
+      "source_ids": [
+        "SRC-0074"
+      ],
+      "titles": [
+        "孙宅巍《南京大屠杀遇难同胞中究竟有多少军人》转载"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0074",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0074"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B04",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0074"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-16c5e9bccdbc-20261106T194858603596Z",
+      "attempt_capture_ids": [
+        "CAP-16c5e9bccdbc-20261106T194858603596Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-16c5e9bccdbc-20261106T194858603596Z.json"
+    },
+    {
+      "url_id": "URL-ddb544c4cd7a993e",
+      "url": "https://news.sina.com.cn/c/2003-12-15/10591345861s.shtml",
+      "source_ids": [
+        "SRC-0073"
+      ],
+      "titles": [
+        "《大屠杀之前南京人口多少？史料批驳日本学者谬论》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0073",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0073"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B03",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0073"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-ddb544c4cd7a-20261106T194859211441Z",
+      "attempt_capture_ids": [
+        "CAP-ddb544c4cd7a-20261106T194859211441Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-ddb544c4cd7a-20261106T194859211441Z.json"
+    },
+    {
+      "url_id": "URL-006387dea458453d",
+      "url": "https://openlibrary.org/books/OL4534616M/My_eighty_years_in_China",
+      "source_ids": [
+        "SRC-0107"
+      ],
+      "titles": [
+        "George A. Fitch, My Eighty Years in China (1967)"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0107",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0107"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-13",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0107"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-006387dea458-20261106T194904307826Z",
+      "attempt_capture_ids": [
+        "CAP-006387dea458-20261106T194904307826Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-006387dea458-20261106T194904307826Z.json"
+    },
+    {
+      "url_id": "URL-591b2169787689c4",
+      "url": "https://search.showakan.go.jp/search/book/detail.php?material_cord=000015635",
+      "source_ids": [
+        "SRC-0117"
+      ],
+      "titles": [
+        "昭和馆馆藏《南京戦史資料集》目录"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0117",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0117"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0117"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-591b21697876-20261106T194904800937Z",
+      "attempt_capture_ids": [
+        "CAP-591b21697876-20261106T194904800937Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-591b21697876-20261106T194904800937Z.json"
+    },
+    {
+      "url_id": "URL-ee4af7469f927569",
+      "url": "https://sy.mva.gov.cn/sy/lsjnrjnhdsy/201905/t20190517_29079.html",
+      "source_ids": [
+        "SRC-0077"
+      ],
+      "titles": [
+        "民政部第一批著名抗日英烈和英雄群体名录"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0077",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0077"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0077",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0077"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B07",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0077"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-ee4af7469f92-20261106T194909778051Z",
+      "attempt_capture_ids": [
+        "CAP-ee4af7469f92-20261106T194909778051Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-ee4af7469f92-20261106T194909778051Z.json"
+    },
+    {
+      "url_id": "URL-157bb22d728d8ba5",
+      "url": "https://www.19371213.cn/research/yjda/201907/t20190717_2248137.html",
+      "source_ids": [
+        "SRC-0102",
+        "SRC-0008"
+      ],
+      "titles": [
+        "魏特琳日记1937年（三）（包内NJ-008）",
+        "魏特琳日记"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0102",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0102"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-08",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0102",
+            "SRC-0008"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0008 <-> SRC-0102",
+          "note": "节选/译文载体入口；不等于取得完整原日记。",
+          "url_role": "excerpt_or_translation_entry",
+          "source_ids": [
+            "SRC-0008"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-157bb22d728d-20261106T194912588226Z",
+      "attempt_capture_ids": [
+        "CAP-157bb22d728d-20261106T194912588226Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-157bb22d728d-20261106T194912588226Z.json"
+    },
+    {
+      "url_id": "URL-10cab13a2aeb576a",
+      "url": "https://www.19371213.com.cn/information/news/202108/t20210831_3117519.html",
+      "source_ids": [
+        "SRC-0124"
+      ],
+      "titles": [
+        "云讲解7 京字第一号证据"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0124",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0124"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C08",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0124"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-10cab13a2aeb-20261106T194915427921Z",
+      "attempt_capture_ids": [
+        "CAP-10cab13a2aeb-20261106T194915427921Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-10cab13a2aeb-20261106T194915427921Z.json"
+    },
+    {
+      "url_id": "URL-26b19bebb5df769f",
+      "url": "https://www.19371213.com.cn/research/yjda/202012/t20201209_2746867.html",
+      "source_ids": [
+        "SRC-0091"
+      ],
+      "titles": [
+        "纪念馆《媒体笔下的南京生死13天》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0091",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0091"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-009",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0091"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-26b19bebb5df-20261106T194923642601Z",
+      "attempt_capture_ids": [
+        "CAP-26b19bebb5df-20261106T194923642601Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-26b19bebb5df-20261106T194923642601Z.json"
+    },
+    {
+      "url_id": "URL-400cd553435154ba",
+      "url": "https://www.19371213.com.cn/sylm/enlatestnews/202401/t20240111_4143377.html",
+      "source_ids": [
+        "SRC-0104"
+      ],
+      "titles": [
+        "纪念馆：American Friends We Should Never Forget"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0104",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0104"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-10",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0104"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-400cd5534351-20261106T194928338843Z",
+      "attempt_capture_ids": [
+        "CAP-400cd5534351-20261106T194928338843Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-400cd5534351-20261106T194928338843Z.json"
+    },
+    {
+      "url_id": "URL-d12ab2b476a21bec",
+      "url": "https://www.19371213.com.cn/sylm/xwzx/202209/t20220928_3710709.html",
+      "source_ids": [
+        "SRC-0105"
+      ],
+      "titles": [
+        "纪念馆：一台记录侵华日军南京大屠杀铁证的摄影机"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0105",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0105"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-11",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0105"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-d12ab2b476a2-20261106T194934001048Z",
+      "attempt_capture_ids": [
+        "CAP-d12ab2b476a2-20261106T194934001048Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-d12ab2b476a2-20261106T194934001048Z.json"
+    },
+    {
+      "url_id": "URL-0bd903ba191db173",
+      "url": "https://www.19371213.net/information/news/202412/t20241204_5025451.html",
+      "source_ids": [
+        "SRC-0125"
+      ],
+      "titles": [
+        "侵华日军暴行再添新铁证"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0125",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0125"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C09",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0125"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0bd903ba191d-20261106T194917244174Z",
+      "attempt_capture_ids": [
+        "CAP-0bd903ba191d-20261106T194917244174Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0bd903ba191d-20261106T194917244174Z.json"
+    },
+    {
+      "url_id": "URL-bc20bfcc9314ccbd",
+      "url": "https://www.19371213.net/information/news/202508/t20250805_5621801.html",
+      "source_ids": [
+        "SRC-0122"
+      ],
+      "titles": [
+        "《南京照相馆》之外：馆藏相册里记录的侵华日军暴行"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0122",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0122"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/corpus_sources.json",
+          "field": "url",
+          "locator": "V2-C06",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0122"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-bc20bfcc9314-20261106T194923071768Z",
+      "attempt_capture_ids": [
+        "CAP-bc20bfcc9314-20261106T194923071768Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-bc20bfcc9314-20261106T194923071768Z.json"
+    },
+    {
+      "url_id": "URL-8cdb087ba66f5631",
+      "url": "https://www.dpm.org.cn/topic/move_south/move_west.html",
+      "source_ids": [
+        "SRC-0085"
+      ],
+      "titles": [
+        "故宫博物院《文物西迁》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0085",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0085"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-003",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0085"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-8cdb087ba66f-20261106T194917930115Z",
+      "attempt_capture_ids": [
+        "CAP-8cdb087ba66f-20261106T194917930115Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-8cdb087ba66f-20261106T194917930115Z.json"
+    },
+    {
+      "url_id": "URL-a7d65a2b4c02b302",
+      "url": "https://www.huangpu.org.cn/hpzz/hpzz201601/201602/t20160216_11387211.html",
+      "source_ids": [
+        "SRC-0128"
+      ],
+      "titles": [
+        "黄埔军校同学会《南京保卫战》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "实际访问网址",
+          "locator": "SRC-0128",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0128"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0128",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0128"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "capture_failed",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-a7d65a2b4c02-20261106T194923727368Z",
+      "attempt_capture_ids": [
+        "CAP-a7d65a2b4c02-20261106T194923727368Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-a7d65a2b4c02-20261106T194923727368Z.json"
+    },
+    {
+      "url_id": "URL-4901dd8e9a66f348",
+      "url": "https://www.ibiblio.org/hyperwar/PTO/IMTFE/IMTFE-8.html",
+      "source_ids": [
+        "SRC-0113"
+      ],
+      "titles": [
+        "International Military Tribunal for the Far East, Judgment, Chapter VIII"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0113",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0113"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "url",
+          "locator": "V2-A03",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0113"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-4901dd8e9a66-20261106T194927623310Z",
+      "attempt_capture_ids": [
+        "CAP-4901dd8e9a66-20261106T194927623310Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-4901dd8e9a66-20261106T194927623310Z.json"
+    },
+    {
+      "url_id": "URL-a4e8027bfd058ee3",
+      "url": "https://www.krzzjn.com/show-349-108342.html",
+      "source_ids": [
+        "SRC-0135"
+      ],
+      "titles": [
+        "《唐生智在滁县醉翁亭召开战役检讨会议》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S10",
+          "locator": "line 150",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0135"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-a4e8027bfd05-20261106T194931348528Z",
+      "attempt_capture_ids": [
+        "CAP-a4e8027bfd05-20261106T194931348528Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-a4e8027bfd05-20261106T194931348528Z.json"
+    },
+    {
+      "url_id": "URL-6e065c2d9f85b45f",
+      "url": "https://www.krzzjn.com/show-349-79986.html",
+      "source_ids": [
+        "SRC-0138"
+      ],
+      "titles": [
+        "《南京保卫战：唐生智为何骑虎难下？》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S14",
+          "locator": "line 154",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "explicit_bibliographic_candidate",
+          "source_ids": [
+            "SRC-0138"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-6e065c2d9f85-20261106T194936954763Z",
+      "attempt_capture_ids": [
+        "CAP-6e065c2d9f85-20261106T194936954763Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-6e065c2d9f85-20261106T194936954763Z.json"
+    },
+    {
+      "url_id": "URL-fcb1120301492b50",
+      "url": "https://www.nju.edu.cn/info/1056/451001.htm",
+      "source_ids": [
+        "SRC-0075"
+      ],
+      "titles": [
+        "《南京保卫战全纪录》2025年新书发布报道"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0075",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0075"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B05",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0075"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-fcb112030149-20261106T194931938578Z",
+      "attempt_capture_ids": [
+        "CAP-fcb112030149-20261106T194931938578Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-fcb112030149-20261106T194931938578Z.json"
+    },
+    {
+      "url_id": "URL-979f51877e934f3e",
+      "url": "https://www.thepaper.cn/newsDetail_forward_1392075",
+      "source_ids": [
+        "SRC-0072"
+      ],
+      "titles": [
+        "张连红《问吧精选：如何反驳日方学者对南京大屠杀数字的质疑》"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0072",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0072"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/troops_sources.json",
+          "field": "url",
+          "locator": "V2-B02",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0072"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-979f51877e93-20261106T194933485233Z",
+      "attempt_capture_ids": [
+        "CAP-979f51877e93-20261106T194933485233Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-979f51877e93-20261106T194933485233Z.json"
+    },
+    {
+      "url_id": "URL-1a7a8b9a0af5f315",
+      "url": "https://www.thepaper.cn/newsDetail_forward_15239415",
+      "source_ids": [
+        "SRC-0056"
+      ],
+      "titles": [
+        "孙宅巍《新发现南京保卫战第44号作战令的重要价值》授权摘载"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0056",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0056"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL02",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0056"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-1a7a8b9a0af5-20261106T194941641154Z",
+      "attempt_capture_ids": [
+        "CAP-1a7a8b9a0af5-20261106T194941641154Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-1a7a8b9a0af5-20261106T194941641154Z.json"
+    },
+    {
+      "url_id": "URL-00edaa933e9e3a62",
+      "url": "https://www.wyzxwk.com/Article/lishi/2020/12/427895.html",
+      "source_ids": [
+        "SRC-0070",
+        "SRC-0038"
+      ],
+      "titles": [
+        "经盛鸿《论南京保卫战中的唐生智》转载",
+        "论南京保卫战中的唐生智"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0070",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0070"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL16",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0070",
+            "SRC-0038"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0038 <-> SRC-0070",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0038"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-00edaa933e9e-20261106T194939179236Z",
+      "attempt_capture_ids": [
+        "CAP-00edaa933e9e-20261106T194939179236Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-00edaa933e9e-20261106T194939179236Z.json"
+    },
+    {
+      "url_id": "URL-12608efbffd1d3e1",
+      "url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+      "source_ids": [
+        "SRC-0086",
+        "SRC-0012",
+        "SRC-0044"
+      ],
+      "titles": [
+        "赵柏田《危急与更生：张嘉璈经历的淞沪会战》",
+        "张嘉璈日记",
+        "危急与更生:张嘉璈经历淞沪会战"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0086",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0086"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-004",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0086",
+            "SRC-0012",
+            "SRC-0044"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0012 <-> SRC-0086",
+          "note": "报道转述日记；此URL不是张嘉璈日记原件或完整原书，不视为同一文献",
+          "url_role": "secondary_recount_of_diary",
+          "source_ids": [
+            "SRC-0012"
+          ]
+        },
+        {
+          "path": "Task003/Jinling-BuTui-Historical-Database/sources/来源关系及转载关系.csv",
+          "field": "known work/record identity",
+          "locator": "SRC-0044 <-> SRC-0086",
+          "note": "同一作品/报道已知关系的入口；载体取得状态不回填或升级",
+          "url_role": "same_work_entry",
+          "source_ids": [
+            "SRC-0044"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-12608efbffd1-20261106T194940183073Z",
+      "attempt_capture_ids": [
+        "CAP-12608efbffd1-20261106T194940183073Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-12608efbffd1-20261106T194940183073Z.json"
+    },
+    {
+      "url_id": "URL-88b012da608b24e6",
+      "url": "https://xinwen.bjd.com.cn/content/s693d0be2e4b06b6f7a7f69be.html",
+      "source_ids": [
+        "SRC-0106"
+      ],
+      "titles": [
+        "北京日报纪事：南京大屠杀现存唯一动态画面，是他拍的"
+      ],
+      "resource_type": "webpage",
+      "priority": 2,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0106",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0106"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/international_sources.json",
+          "field": "url",
+          "locator": "INT-12",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0106"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-88b012da608b-20261106T194947027316Z",
+      "attempt_capture_ids": [
+        "CAP-88b012da608b-20261106T194947027316Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-88b012da608b-20261106T194947027316Z.json"
+    },
+    {
+      "url_id": "URL-0c4fba963b292d3b",
+      "url": "URL_WITHHELD:URL-0c4fba963b292d3b",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0057"
+      ],
+      "titles": [
+        "唐生智《卫戍南京之经过》"
+      ],
+      "resource_type": "pdf",
+      "priority": 3,
+      "url_provenance": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/04_南京保卫战时间线/详细时间线.md",
+          "field": "引用表 S3",
+          "locator": "line 143",
+          "note": "原MD明示完整URL；保留原题名异文/自报阅读限制",
+          "url_role": "alternate_carrier",
+          "source_ids": [
+            "SRC-0015",
+            "SRC-0057"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "path": "source_readonly/金陵不退_史料数据库/_原始资料/PDF/NJ-015_唐生智_卫戍南京之经过.pdf",
+          "sha256": "60620120f46d23241172c2c9435f073a68230718215c77f7d535cc6f2ea3f082",
+          "kind": "legacy_pdf_excerpt",
+          "content_status": "本地17页扫描存在；其远端PDF是否同字节/截取关系未知",
+          "cache_url_identity_verified": false,
+          "url_match_basis": "原文件名NJ-015与原MD S3指向同作品；未保存远端响应链",
+          "retrieved_at_utc": null
+        }
+      ],
+      "capture_state": "metadata_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-0c4fba963b29-20261106T194942068948Z",
+      "attempt_capture_ids": [
+        "CAP-0c4fba963b29-20261106T194942068948Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-0c4fba963b29-20261106T194942068948Z.json"
+    },
+    {
+      "url_id": "URL-cabedabdab63e676",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/NLC416-07jh009166-3792_%E6%88%B0%E7%8A%AF%E8%B0%B7%E5%A3%BD%E5%A4%AB%E5%88%A4%E6%B1%BA%E6%9B%B8%E6%AD%A3%E6%9C%AC.pdf",
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "titles": [
+        "《战犯谷寿夫判决书正本》扫描镜像"
+      ],
+      "resource_type": "pdf",
+      "priority": 3,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0111",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0111"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "url",
+          "locator": "V2-A01",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0111"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "path": "Task002_V2/working/Tani_judgment_NLC.pdf",
+          "sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+          "kind": "legacy_pdf",
+          "content_status": "继承原证源记录；本子任务未新读全文",
+          "url_match_basis": "Task002_V2/working/atrocities_sources.json 的 url/local_research_file 显式映射",
+          "cache_url_identity_verified": true,
+          "stored_hash_matches": true,
+          "retrieved_at_utc": null
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-cabedabdab63-20261106T194943490326Z",
+      "attempt_capture_ids": [
+        "CAP-cabedabdab63-20261106T194943490326Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-cabedabdab63-20261106T194943490326Z.json"
+    },
+    {
+      "url_id": "URL-a74b0297e7c5b93a",
+      "url": "URL_WITHHELD:URL-a74b0297e7c5b93a",
+      "source_ids": [
+        "SRC-0060",
+        "SRC-0092"
+      ],
+      "titles": [
+        "姜良芹《从淞沪到南京：蒋介石政战略选择之失误及其转向》"
+      ],
+      "resource_type": "pdf",
+      "priority": 3,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0060",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0060"
+          ]
+        },
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0092",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0092"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/timeline_sources.json",
+          "field": "url",
+          "locator": "TL06",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0060",
+            "SRC-0092"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/transport_sources.json",
+          "field": "url",
+          "locator": "TR-010",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0060",
+            "SRC-0092"
+          ]
+        }
+      ],
+      "local_cache_files": [],
+      "capture_state": "metadata_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-a74b0297e7c5-20261106T194943499784Z",
+      "attempt_capture_ids": [
+        "CAP-a74b0297e7c5-20261106T194943499784Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-a74b0297e7c5-20261106T194943499784Z.json"
+    },
+    {
+      "url_id": "URL-4e8744a408891061",
+      "url": "URL_WITHHELD:URL-4e8744a408891061",
+      "source_ids": [
+        "SRC-0112"
+      ],
+      "titles": [
+        "《南京大屠杀史料集》第九册《日军官兵日记与书信》"
+      ],
+      "resource_type": "pdf",
+      "priority": 3,
+      "url_provenance": [
+        {
+          "path": "Task003/internal/来源总索引_完整入口.csv",
+          "field": "既有访问入口",
+          "locator": "SRC-0112",
+          "note": "继承Task003内部原始入口；不等于本轮请求",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0112"
+          ]
+        },
+        {
+          "path": "Task002_V2/working/atrocities_sources.json",
+          "field": "url",
+          "locator": "V2-A02",
+          "note": "原Task002证源记录明确URL；未进行本轮复访",
+          "url_role": "recorded_resource",
+          "source_ids": [
+            "SRC-0112"
+          ]
+        }
+      ],
+      "local_cache_files": [
+        {
+          "path": "Task002_V2/working/Japanese_diaries_translation.pdf",
+          "sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
+          "kind": "legacy_pdf",
+          "content_status": "继承原证源记录；本子任务未新读全文",
+          "url_match_basis": "Task002_V2/working/atrocities_sources.json 的 url/local_research_file 显式映射",
+          "cache_url_identity_verified": true,
+          "stored_hash_matches": true,
+          "retrieved_at_utc": null
+        }
+      ],
+      "capture_state": "captured_private_only",
+      "redistribution_pending": true,
+      "identity_note": "本条只确认该精确URL在已有材料中出现；本子任务未访问网络。",
+      "inventory_stage_capture_state": "not_attempted_in_Task003A",
+      "final_capture_id": "CAP-4e8744a40889-20261106T194948926302Z",
+      "attempt_capture_ids": [
+        "CAP-4e8744a40889-20261106T194948926302Z"
+      ],
+      "final_metadata_path": "sources/web-snapshots/metadata-only/CAP-4e8744a40889-20261106T194948926302Z.json"
+    }
+  ],
+  "normalization": "只解码已有HTML实体；HTTP/HTTPS、路径、查询参数保持不同URL；不构造URL",
+  "network_access_performed_by_inventory_agent": false,
+  "notes": [
+    "local_cache_files中cache_url_identity_verified=false只能作为文献参照，不可冒充该URL响应体或新采集成功",
+    "本清单全部91精确URL已在已有材料中出现；不含由省略号/域名/日历猜造的URL",
+    "新增SRC只登记明确引用的载体/书目，独立性未认证；实际capture结果另行更新",
+    "URL-ID按原精确URL的SHA256前16位生成，补项不改旧URL-ID"
+  ],
+  "final_capture_scope": "以上状态来自本轮最终处置；inventory_stage字段只是采集前清点记录。"
+}

@@ -1,0 +1,118 @@
+{
+  "amendment_id": "LEGACY-ORIGIN-AMEND-001",
+  "checked_at_utc": "2026-11-06T20:04:31Z",
+  "snapshot_id": "LEGACY-HTML-003",
+  "legacy_ids": [
+    "NJ-012",
+    "NJ-044"
+  ],
+  "source_ids": [
+    "SRC-0012",
+    "SRC-0044"
+  ],
+  "old_origin_url": null,
+  "new_origin_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+  "html_locator": "第41行var storyInfo JSON字段url与webPreviewUrl，title相符",
+  "method": "本轮直接读取并JSONDecoder.raw_decode解析旧缓存；未执行脚本，未访问网络",
+  "article_origin_url_count_before": 6,
+  "article_origin_url_count_after": 7,
+  "new_network_acquisitions": 0,
+  "acquisition_time_utc": null,
+  "http_status": null,
+  "final_url": null,
+  "old_html_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+  "old_html_unchanged": true,
+  "input_integrity_sha256_before": "a1d4a7325859d03643f789cd19a5098eec2a4afe42f43962345f9372cc847d8d",
+  "input_integrity_sha256_after": "a1d4a7325859d03643f789cd19a5098eec2a4afe42f43962345f9372cc847d8d",
+  "input_integrity_unchanged": true,
+  "preserved_fields": [
+    "acquisition_time_utc",
+    "copy_time_utc",
+    "http_status",
+    "final_url",
+    "full_text_reading_this_task",
+    "public_status"
+  ],
+  "scope_limit": "仅修复既有快照元数据；旧55、输入完整性校验、目标访问记录均未修改；该URL已在既有91目标内",
+  "changed_files": [
+    {
+      "path": "Task003A/work/legacy_html_inventory.json",
+      "before_sha256": "44f84dd24f72a117aa2c1832c6f42d01ea4d97e2cdec18f06dcdf7f0ec2de4b0",
+      "after_sha256": "ef3f1bc8fc549f7e340f7302a6dee13c8ab124b2c6a12c0bba884601988ec872",
+      "previous_summary": {
+        "count": 19,
+        "body_present": 17,
+        "empty_template": 1,
+        "anti_bot_challenge": 1,
+        "extracted_article_origin_url_count": 6,
+        "new_network_acquisitions": 0,
+        "private_only": 19,
+        "byte_identical_copies": 19
+      },
+      "previous_origin_fields": {
+        "origin_url": null,
+        "origin_url_evidence": [],
+        "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+        "acquisition_time_utc": null,
+        "copy_time_utc": "2026-11-06T19:47:59Z",
+        "http_status": null,
+        "final_url": null
+      }
+    },
+    {
+      "path": "Task003A/internal/legacy-web-snapshots/LEGACY-HTML-003/metadata.json",
+      "before_sha256": "ede926a74c7bce163bb85c2741acdac6105e828a80b11c16bff010dc0bf6cf85",
+      "after_sha256": "c2f31dbb36594c92ecc7d2ddd9e63f840c747e7dad87ae7540388cf7cfa3603e",
+      "previous_summary": null,
+      "previous_origin_fields": {
+        "origin_url": null,
+        "origin_url_evidence": [],
+        "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+        "acquisition_time_utc": null,
+        "copy_time_utc": "2026-11-06T19:47:59Z",
+        "http_status": null,
+        "final_url": null
+      }
+    },
+    {
+      "path": "Task003A/internal/legacy-web-snapshots/metadata.json",
+      "before_sha256": "9e96e7d08af75ebfe0f00ac5ad84eb5be466de73ec3fd6af3f4df1c42c23c60b",
+      "after_sha256": "dfe9052a26a4ecc764d1cc9c86ce8212e0ff4e2603785cdc2b2e479dabd45645",
+      "previous_summary": {
+        "count": 19,
+        "body_present": 17,
+        "empty_template": 1,
+        "anti_bot_challenge": 1,
+        "extracted_article_origin_url_count": 6,
+        "new_network_acquisitions": 0,
+        "private_only": 19,
+        "byte_identical_copies": 19
+      },
+      "previous_origin_fields": null
+    },
+    {
+      "path": "Task003A/candidate/sources/LEGACY_HTML_INVENTORY.json",
+      "before_sha256": "1c2d72d2eb7eeaa7af31411b97618004f8c2bbb179c6557c5f636797edda55fd",
+      "after_sha256": "ef3f1bc8fc549f7e340f7302a6dee13c8ab124b2c6a12c0bba884601988ec872",
+      "previous_summary": {
+        "count": 19,
+        "body_present": 17,
+        "empty_template": 1,
+        "anti_bot_challenge": 1,
+        "extracted_article_origin_url_count": 6,
+        "new_network_acquisitions": 0,
+        "private_only": 19,
+        "byte_identical_copies": 19
+      },
+      "previous_origin_fields": {
+        "origin_url": null,
+        "origin_url_evidence": [],
+        "origin_url_status": "缓存中未找到可确认的完整文章级URL；未从导航/域名/文章ID拼接",
+        "acquisition_time_utc": null,
+        "copy_time_utc": "2026-11-06T19:47:59Z",
+        "http_status": null,
+        "final_url": null
+      }
+    }
+  ]
+}

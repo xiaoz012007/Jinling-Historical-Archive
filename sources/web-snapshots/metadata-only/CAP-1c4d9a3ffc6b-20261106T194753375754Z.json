@@ -1,0 +1,63 @@
+{
+  "capture_id": "CAP-1c4d9a3ffc6b-20261106T194753375754Z",
+  "title": "ERROR: The request could not be satisfied",
+  "creator_or_publisher": null,
+  "original_url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+  "final_url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+  "capture_started_at_utc": "2026-11-06T19:47:53.375Z",
+  "capture_finished_at_utc": "2026-11-06T19:47:57.740Z",
+  "retrieved_at_utc": "2026-11-06T19:47:57.739Z",
+  "published_at": null,
+  "updated_at": null,
+  "language": null,
+  "content_type": "text/html",
+  "http_status": 403,
+  "capture_method": "Python urllib GET; inherited proxy; TLS verified; no authentication/cookie jar; no script execution",
+  "request_method": "GET",
+  "response_body_complete": true,
+  "page_content_completeness": "error_page",
+  "full_text_reading_status": "not_completed",
+  "full_text_reading_completed_at_utc": null,
+  "truncated": false,
+  "content_class": "error_or_verification_page_not_source_text",
+  "soft_error_title": false,
+  "error": null,
+  "access_conditions": "公共URL无登录尝试；不绕403/付费墙/访问限制",
+  "limitations": [
+    "原始响应抓取不等于正文完整阅读或史料核实",
+    "原HTML未渲染，不含子资源；不能称完整网页归档",
+    "版权与公开许可未在采集环节判断"
+  ],
+  "notes": [
+    "HTTP失败或错误页标题；保存的是错误响应，不是所引原文",
+    "派生元数据复核识别错误/人机验证标题；HTTP200也不认作取得原文。未进行挑战绕过。"
+  ],
+  "redirect_chain": [],
+  "publisher_evidence": null,
+  "published_at_evidence": null,
+  "updated_at_evidence": null,
+  "headers_policy": "Request headers whitelist; response headers whitelist. No Cookie, Authorization, Set-Cookie or credential fields saved. WARC HTTP header is reconstructed from allowlist.",
+  "completeness": "unknown",
+  "source_ids": [
+    "SRC-0119"
+  ],
+  "snapshot_status": "capture_failed",
+  "rights_status": "link_only",
+  "original_capture_record_scope": "本轮采集/处置记录；GET、HEAD、既有文件复用及失败按字段分别标识。复用不算新网络取得。自动采集不等于全文核读。",
+  "snapshot_files": [],
+  "sha256": {},
+  "private_artifacts": [
+    {
+      "file_name": "error-response.html",
+      "sha256": "cbc095d5fb87e2c5c03f17679cbd4025e6bbc46b08c816b1a30f55a3c709ed4e",
+      "publicly_downloadable": false
+    },
+    {
+      "file_name": "snapshot.warc.gz",
+      "sha256": "9f1f75728e025b1acf5ab4dfb409c85cd501e2aad655117c3186fb421321b8c4",
+      "publicly_downloadable": false
+    }
+  ],
+  "redistribution_basis": "仅公开事实性元数据、合法定位及项目原创说明；未授予第三方全文再分发许可。",
+  "private_warc_scope": "单个末次HTTP响应；仅白名单重构响应首部+原实体字节，无重定向响应体、请求记录、子资源、脚本渲染或完整站点"
+}

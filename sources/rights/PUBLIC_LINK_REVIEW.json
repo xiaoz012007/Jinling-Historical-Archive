@@ -1,0 +1,54 @@
+{
+  "reviewed_at_utc": "2026-11-06T19:59:31+00:00",
+  "scope": "公开元数据仍保留；这3个下载地址暂缓提供不等于认定违法。",
+  "decisions": [
+    {
+      "url_id": "URL-0c4fba963b292d3b",
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0057"
+      ],
+      "public_replacement": "URL_WITHHELD",
+      "public_link_status": "withheld_pending_hosting_rights_check",
+      "rights_status": "rights_pending",
+      "reason": "现代重印书籍的第三方PDF托管；没有所见公开许可或合法托管权利链；远端响应与本地17页节选的同版/截取关系亦未确认。",
+      "replacement_bibliography": "唐生智《卫戍南京之经过》，2013年中国文史出版社《正面战场·南京保卫战》所收；原书印刷页与编注见对应来源记录。",
+      "action": "公开候选所有字段的该下载地址改URL_WITHHELD；内部原记录、原响应及完整访问链保持不动；保留URL-ID、来源ID、题名、页码、失败状态与命题关联。",
+      "does_not_assert_illegality": true,
+      "does_not_delete_source_record": true,
+      "reviewed_at_utc": "2026-11-06T19:59:31+00:00"
+    },
+    {
+      "url_id": "URL-a74b0297e7c5b93a",
+      "source_ids": [
+        "SRC-0060",
+        "SRC-0092"
+      ],
+      "public_replacement": "URL_WITHHELD",
+      "public_link_status": "withheld_pending_hosting_rights_check",
+      "rights_status": "rights_pending",
+      "reason": "现代学术论文原刊扫描的第三方托管；本轮和前轮未取得作者/期刊向该托管方公开下载授权的依据。",
+      "replacement_bibliography": "姜良芹：《从淞沪到南京：蒋介石政战略选择之失误及其转向》，《南京大学学报》2011年第1期；原书刊页码保留。",
+      "action": "公开候选所有字段的该下载地址改URL_WITHHELD；内部原记录、原响应及完整访问链保持不动；保留URL-ID、来源ID、题名、页码、失败状态与命题关联。",
+      "does_not_assert_illegality": true,
+      "does_not_delete_source_record": true,
+      "reviewed_at_utc": "2026-11-06T19:59:31+00:00"
+    },
+    {
+      "url_id": "URL-4e8744a408891061",
+      "source_ids": [
+        "SRC-0112"
+      ],
+      "public_replacement": "URL_WITHHELD",
+      "public_link_status": "withheld_pending_hosting_rights_check",
+      "rights_status": "rights_pending",
+      "reason": "现代日记译编全本的第三方托管；古老日记与现代翻译、注释、选编分层，未取得整本公开下载的权利链。",
+      "replacement_bibliography": "王卫星编：《南京大屠杀史料集》第9册《日军官兵日记与书信》，江苏人民出版社；编者说明署2005年9月，所见本无版权页，确切出版日期仍待核。",
+      "action": "公开候选所有字段的该下载地址改URL_WITHHELD；内部原记录、原响应及完整访问链保持不动；保留URL-ID、来源ID、题名、页码、失败状态与命题关联。",
+      "does_not_assert_illegality": true,
+      "does_not_delete_source_record": true,
+      "reviewed_at_utc": "2026-11-06T19:59:31+00:00"
+    }
+  ],
+  "official_links": "Yale、国家档案局等官方原件/论文直链可以作为来源链接保留；不因此批准其载荷复制或整件再分发。"
+}

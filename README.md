@@ -85,3 +85,9 @@
 Jinling Historical Archive is a source-traceable research repository about the Battle of Nanjing (1937). It documents sources, evidence, timelines, military organization, civilian evacuation research, international relief records, unresolved questions, and clearly separated counterfactual fiction notes. It does not claim that uncertain or disputed information is settled.
 
 其实以上都是astra写的，我也说不来这些，但是我还是希望能留下点东西。另外，唐生智真的是buff叠满，然后拉了一坨大的。
+
+
+
+## Task003-A 来源与快照入口
+
+首批登记见[sources/SOURCE_REGISTER.csv](sources/SOURCE_REGISTER.csv)，采集清单见[sources/WEB_SNAPSHOT_REGISTER.csv](sources/WEB_SNAPSHOT_REGISTER.csv)。请先读[本批报告](docs/TASK003A_REPORT.md)和[字段及限制](docs/TASK003A_DATA_NOTES.md)。只有明确许可的FRUS网页公开响应载荷，其他来源主要提供元数据；入库不等于历史争议已解决。
