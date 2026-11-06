@@ -6,6 +6,7 @@
 
 本项目同时服务于架空历史小说《金陵不退》的考据工作，但**历史资料库与小说创作设定严格分离**。
 
+
 ## 核心原则
 
 > 宁缺毋滥，实事求是。没有证据就留白；有争议就并列；推断必须标注；小说虚构必须明确说明。
@@ -82,3 +83,5 @@
 ## English
 
 Jinling Historical Archive is a source-traceable research repository about the Battle of Nanjing (1937). It documents sources, evidence, timelines, military organization, civilian evacuation research, international relief records, unresolved questions, and clearly separated counterfactual fiction notes. It does not claim that uncertain or disputed information is settled.
+
+其实以上都是astra写的，我也说不来这些，但是我还是希望能留下点东西。另外，唐生智真的是buff叠满，然后拉了一坨大的。
