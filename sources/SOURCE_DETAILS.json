@@ -13,7 +13,7 @@
       "created_date": "",
       "publication": "岩松要辅2017捐赠;纪念馆藏",
       "document_type": "命令原件照片与媒体释文",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "命令原件照片与媒体释文",
       "archive_id": "",
       "locator": "岩松要辅2017捐赠;纪念馆藏",
@@ -28,7 +28,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "第44号文面12月11日24时，不能推定各部拂晓前均收到。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -76,7 +76,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0002",
@@ -88,7 +89,7 @@
       "created_date": "",
       "publication": "二档馆七八七-7593附录;谭道平录本",
       "document_type": "撤退命令转录、回忆与研究",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "撤退命令转录、回忆与研究",
       "archive_id": "",
       "locator": "二档馆七八七-7593附录;谭道平录本",
@@ -103,7 +104,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "所见转录留空不能证明无正式下发件。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -151,7 +152,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0003",
@@ -163,7 +165,7 @@
       "created_date": "",
       "publication": "秦孝仪《作战经过二》P219-220",
       "document_type": "官方档案目录与学术引录",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "官方档案目录与学术引录",
       "archive_id": "",
       "locator": "秦孝仪《作战经过二》P219-220",
@@ -178,7 +180,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "国史馆002-020300-00009-151；内容、发送、送达、读电分列。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -226,7 +228,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0004",
@@ -238,7 +241,7 @@
       "created_date": "",
       "publication": "秦孝仪前引书;唐生智引述",
       "document_type": "文电转引与战后回忆",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "文电转引与战后回忆",
       "archive_id": "",
       "locator": "秦孝仪前引书;唐生智引述",
@@ -253,7 +256,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "真/戌为日期时辰代码；侍参不能解释为时段。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -301,7 +304,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0005",
@@ -313,7 +317,7 @@
       "created_date": "",
       "publication": "谭道平/宋希濂/唐生智",
       "document_type": "战后口述与回忆",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "战后口述与回忆",
       "archive_id": "",
       "locator": "谭道平/宋希濂/唐生智",
@@ -328,7 +332,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "唐文正文12月10日，编注订为11日；不得把回忆自报S当原件。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -376,7 +380,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0006",
@@ -388,7 +393,7 @@
       "created_date": "",
       "publication": "《拉贝日记》12.17条",
       "document_type": "日记引述与委员会同期文书",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "日记引述与委员会同期文书",
       "archive_id": "",
       "locator": "《拉贝日记》12.17条",
@@ -403,7 +408,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "不能据单份材料推出全市行政接管或唯一机构。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -451,7 +456,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0007",
@@ -463,7 +469,7 @@
       "created_date": "",
       "publication": "纪念馆官网节选;江苏人民中译本",
       "document_type": "馆方中文日记节选、夹录信函",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方中文日记节选、夹录信函",
       "archive_id": "",
       "locator": "纪念馆官网节选;江苏人民中译本",
@@ -478,7 +484,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "8f3b82a55d6d3a832bde60542d4f66ac6aa4a8084405c44d00f8c27492cc85bc",
       "limitations": "事件日、日记日、附件签署日分别记录；不是德文原稿全本。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -554,7 +560,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0008",
@@ -566,7 +573,7 @@
       "created_date": "",
       "publication": "纪念馆官网2019-07-17连载",
       "document_type": "馆方中文日记连载与耶鲁书信",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方中文日记连载与耶鲁书信",
       "archive_id": "",
       "locator": "纪念馆官网2019-07-17连载",
@@ -581,7 +588,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "cfd53b894324fa7bc00cb8bc1cdf11b7716236516becc1f44762365c72168f56",
       "limitations": "不把听闻写成亲见，不把译本当原稿。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -691,7 +698,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0009",
@@ -703,7 +711,7 @@
       "created_date": "",
       "publication": "拉贝日记12.18引;耶鲁Divinity Library",
       "document_type": "耶鲁贝德士文书系列内多位作者文件",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "耶鲁贝德士文书系列内多位作者文件",
       "archive_id": "",
       "locator": "拉贝日记12.18引;耶鲁Divinity Library",
@@ -718,7 +726,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "文书系列归属不等于每件作者均为贝德士。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -766,7 +774,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0010",
@@ -778,7 +787,7 @@
       "created_date": "",
       "publication": "纪念馆官网2024-04-30",
       "document_type": "日记转引/馆方介绍",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "日记转引/馆方介绍",
       "archive_id": "",
       "locator": "纪念馆官网2024-04-30",
@@ -793,7 +802,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "与魏特琳同地共事不自动构成每条独立互证。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -841,7 +850,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0011",
@@ -853,7 +863,7 @@
       "created_date": "",
       "publication": "央广网2025-12-13;纪念馆展映",
       "document_type": "馆方胶片介绍",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方胶片介绍",
       "archive_id": "",
       "locator": "央广网2025-12-13;纪念馆展映",
@@ -868,7 +878,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "费奇携片赴沪为1938年1月线索；不得标1937年12月19日。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -916,7 +926,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0012",
@@ -928,7 +939,7 @@
       "created_date": "",
       "publication": "京报网2020-09-17",
       "document_type": "赵柏田报道所引日记",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "赵柏田报道所引日记",
       "archive_id": "",
       "locator": "京报网2020-09-17",
@@ -943,7 +954,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-12608efbffd1-20261106T194940183073Z.json",
       "sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
       "limitations": "与NJ-044同一来源族；通车意向不是运输实绩。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -1068,7 +1079,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0013",
@@ -1080,7 +1092,7 @@
       "created_date": "",
       "publication": "CCTV/经盛鸿引述",
       "document_type": "日军日记出版中译与转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "日军日记出版中译与转引",
       "archive_id": "",
       "locator": "CCTV/经盛鸿引述",
@@ -1095,7 +1107,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "注明版本页码，不把摘引当全本原日记。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1143,7 +1155,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0014",
@@ -1155,7 +1168,7 @@
       "created_date": "",
       "publication": "转引",
       "document_type": "日军日记出版中译与转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "日军日记出版中译与转引",
       "archive_id": "",
       "locator": "转引",
@@ -1170,7 +1183,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "不得把俘获数直接变成死亡数。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1218,7 +1231,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0015",
@@ -1230,7 +1244,7 @@
       "created_date": "",
       "publication": "PDF:URL_WITHHELD:URL-0c4fba963b292d3b",
       "document_type": "2013年重印战后回忆扫描",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "2013年重印战后回忆扫描",
       "archive_id": "",
       "locator": "PDF:URL_WITHHELD:URL-0c4fba963b292d3b",
@@ -1245,7 +1259,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0c4fba963b29-20261106T194942068948Z.json",
       "sha256": null,
       "limitations": "1946撰写无证；印刷3–8页/PDF12–17页，正文与编注分开。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -1327,7 +1341,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0016",
@@ -1339,7 +1354,7 @@
       "created_date": "",
       "publication": "fybk.bjcipt.com",
       "document_type": "谭表二手转录及未取得的勘误线索",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "谭表二手转录及未取得的勘误线索",
       "archive_id": "",
       "locator": "fybk.bjcipt.com",
@@ -1354,7 +1369,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-516355e3035f-20261106T194837060972Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "包内MD算术49000+31000=80000；此为转录复算，非确证实际兵力。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -1465,7 +1480,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0017",
@@ -1477,7 +1493,7 @@
       "created_date": "",
       "publication": "m.krzzjn.com/show-607-41134.html",
       "document_type": "宋希濂战后回忆网络转录",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "宋希濂战后回忆网络转录",
       "archive_id": "",
       "locator": "m.krzzjn.com/show-607-41134.html",
@@ -1492,7 +1508,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a527fdf50dac-20261106T194928984668Z.json",
       "sha256": "5cf1c2b8b2c699917d95f66aefa9eabd3efd3aea607f4e4936831dcd9f707c53",
       "limitations": "客渡两艘容量和循环参数不等于每日可用运力。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -1602,7 +1618,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0018",
@@ -1614,7 +1631,7 @@
       "created_date": "",
       "publication": "m.krzzjn.com/show-1230-85982.html",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "m.krzzjn.com/show-1230-85982.html",
@@ -1629,7 +1646,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1677,7 +1694,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0019",
@@ -1689,7 +1707,7 @@
       "created_date": "",
       "publication": "S2(1937nanjing.org)",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "S2(1937nanjing.org)",
@@ -1704,7 +1722,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1752,7 +1770,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0020",
@@ -1764,7 +1783,7 @@
       "created_date": "",
       "publication": "P219-220载十二申电",
       "document_type": "出版文献汇编线索",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "出版文献汇编线索",
       "archive_id": "",
       "locator": "P219-220载十二申电",
@@ -1779,7 +1798,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "不得以网页转引自报原书已读。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1827,7 +1846,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0021",
@@ -1839,7 +1859,7 @@
       "created_date": "",
       "publication": "未购原书",
       "document_type": "多卷史料集",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "多卷史料集",
       "archive_id": "",
       "locator": "未购原书",
@@ -1854,7 +1874,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "原索引的括号后加断言未核；不得对全丛书标已读。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -1902,7 +1922,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0022",
@@ -1914,7 +1935,7 @@
       "created_date": "",
       "publication": "main.warstudy.com/history/world_war/jp_china/309.xml",
       "document_type": "王辅中文编译网页",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "王辅中文编译网页",
       "archive_id": "",
       "locator": "main.warstudy.com/history/world_war/jp_china/309.xml",
@@ -1952,7 +1973,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "2d6b60712ea0b1cc5f7efd66f3ef5ccb9a39a83277ba551f2ad58ad86566ecc3",
       "limitations": "分钟级时刻及具体部队须回原件，中文编译不是日军原档。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2028,7 +2049,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0023",
@@ -2040,7 +2062,7 @@
       "created_date": "",
       "publication": "中新网/人民网",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "中新网/人民网",
@@ -2055,7 +2077,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2103,7 +2125,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0024",
@@ -2115,7 +2138,7 @@
       "created_date": "",
       "publication": "19371213.com.cn",
       "document_type": "谷寿夫案判决书扫描镜像",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "谷寿夫案判决书扫描镜像",
       "archive_id": "",
       "locator": "19371213.com.cn",
@@ -2130,7 +2153,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "正文PDF3及附表PDF12列57418/12月18日；为司法认定，非独立实测。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2178,7 +2201,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0025",
@@ -2190,7 +2214,7 @@
       "created_date": "",
       "publication": "公开版",
       "document_type": "IMTFE判决第八章公开文本",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "IMTFE判决第八章公开文本",
       "archive_id": "",
       "locator": "公开版",
@@ -2205,7 +2229,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "最初六周逾20万口径不能套给南京判决30万。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2253,7 +2277,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0026",
@@ -2265,7 +2290,7 @@
       "created_date": "",
       "publication": "dag.nanjing.gov.cn/.../t20231010_4027769.html",
       "document_type": "南京市档案馆介绍文章",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "南京市档案馆介绍文章",
       "archive_id": "",
       "locator": "dag.nanjing.gov.cn/.../t20231010_4027769.html",
@@ -2280,7 +2305,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-b95e022998d2-20261106T194758784989Z.json",
       "sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
       "limitations": "304辆为全盛期企业规模，不是1937年12月疏散可调车数。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -2434,7 +2459,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0027",
@@ -2446,7 +2472,7 @@
       "created_date": "",
       "publication": "dfz.nanjing.gov.cn",
       "document_type": "地方志站点/门址介绍",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "地方志站点/门址介绍",
       "archive_id": "",
       "locator": "dfz.nanjing.gov.cn",
@@ -2461,7 +2487,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0ace02ccc501-20261106T194839252543Z.json",
       "sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
       "limitations": "没有逐日班次与运输量。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -2584,7 +2610,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0028",
@@ -2596,7 +2623,7 @@
       "created_date": "",
       "publication": "loc.gov/item/2012593209;Call No.G7824.N3A43 s10 .U5",
       "document_type": "美国国会图书馆目录",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "美国国会图书馆目录",
       "archive_id": "",
       "locator": "loc.gov/item/2012593209;Call No.G7824.N3A43 s10 .U5",
@@ -2611,7 +2638,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-e2bea61c0a70-20261106T194753257130Z.json",
       "sha256": "2a1f3081d2659c036d2fd85b587c88aa588a2add309b7043162c8bc83ad901cb",
       "limitations": "官方Created/Published指1929年航摄6张；自动引用另见2009，目录内部日期异文保留；原图未阅，不能当1937城防图。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -2721,7 +2748,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0029",
@@ -2733,7 +2761,7 @@
       "created_date": "",
       "publication": "news.cnr.cn/.../t20251213_527458574.shtml",
       "document_type": "馆方/央广胶片版本报道",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方/央广胶片版本报道",
       "archive_id": "",
       "locator": "news.cnr.cn/.../t20251213_527458574.shtml",
@@ -2748,7 +2776,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "f7457b6774e5a852062748394a25ac1736b57e20f460324423d9f3a5fd1c2139",
       "limitations": "105/17/37分钟不能拼为同一版本或当本包已具全片。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2824,7 +2852,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0030",
@@ -2836,7 +2865,7 @@
       "created_date": "",
       "publication": "19371213.com.cn/.../t20241211_5030156.html",
       "document_type": "馆方相册介绍",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方相册介绍",
       "archive_id": "",
       "locator": "19371213.com.cn/.../t20241211_5030156.html",
@@ -2851,7 +2880,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "d90b984a2a3f92808488b9db9a7299ce905292bcbe5fea6cc6cc14952f96f523",
       "limitations": "伊藤兼男1938年1月7日到南京，南京照片不得直接标1937年12月。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -2927,7 +2956,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0031",
@@ -2939,7 +2969,7 @@
       "created_date": "",
       "publication": "19371213.net/.../t20210831_3117483.html",
       "document_type": "馆方藏品说明",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方藏品说明",
       "archive_id": "",
       "locator": "19371213.net/.../t20210831_3117483.html",
@@ -2954,7 +2984,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "f06a08ab67ee20212b48c0333c52484a819e17e1c6910449e1791ad859870de2",
       "limitations": "原件藏中国第二历史档案馆，纪念馆为复制展陈。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3030,7 +3060,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0032",
@@ -3042,7 +3073,7 @@
       "created_date": "",
       "publication": "19371213.com.cn/.../t20241204_5025545.html",
       "document_type": "馆方征集介绍",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "馆方征集介绍",
       "archive_id": "",
       "locator": "19371213.com.cn/.../t20241204_5025545.html",
@@ -3057,7 +3088,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "f880e5b4198372b8aaa5b21d42693daf4d3555bbe49d4f7aefbc8f177b321f64",
       "limitations": "南京等地照片，与第15联队相关；不是324张全部南京、同日或同一作者。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3133,7 +3164,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0033",
@@ -3145,7 +3177,7 @@
       "created_date": "",
       "publication": "fybk.bjcipt.com/paper.html?id=741474",
       "document_type": "汪海涛论文书目与网页线索",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "汪海涛论文书目与网页线索",
       "archive_id": "",
       "locator": "fybk.bjcipt.com/paper.html?id=741474",
@@ -3160,7 +3192,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-516355e3035f-20261106T194837060972Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "NJ-016/033同族，不是独立互证；书名/刊期页码须核刊物。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -3271,7 +3303,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0034",
@@ -3283,7 +3316,7 @@
       "created_date": "",
       "publication": "中新网",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "中新网",
@@ -3298,7 +3331,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3346,7 +3379,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0035",
@@ -3358,7 +3392,7 @@
       "created_date": "",
       "publication": "jds.cssn.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "jds.cssn.cn",
@@ -3373,7 +3407,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3421,7 +3455,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0036",
@@ -3433,7 +3468,7 @@
       "created_date": "",
       "publication": "jds.cssn.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "jds.cssn.cn",
@@ -3448,7 +3483,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3496,7 +3531,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0037",
@@ -3508,7 +3544,7 @@
       "created_date": "",
       "publication": "jds.cssn.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "jds.cssn.cn",
@@ -3523,7 +3559,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -3571,7 +3607,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0038",
@@ -3583,7 +3620,7 @@
       "created_date": "",
       "publication": "wyzxwk.com",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "wyzxwk.com",
@@ -3598,7 +3635,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-69024423ae48-20261106T194825273182Z.json",
       "sha256": "ed5b496a80f726e459ba1c4ee1ad49bd9605a6ff9b0db458829dd6cee0c1e603",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -3711,7 +3748,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0039",
@@ -3723,7 +3761,7 @@
       "created_date": "",
       "publication": "dangshi.people.com.cn/.../c396421-27058861.html",
       "document_type": "人民网战史综述",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "人民网战史综述",
       "archive_id": "",
       "locator": "dangshi.people.com.cn/.../c396421-27058861.html",
@@ -3738,7 +3776,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-70adc6c6dba8-20261106T194759579420Z.json",
       "sha256": "3757f8cfbdaf3768420bf51eb7a3358c353dcc91652cca04ce1325d6bc2d4dc4",
       "limitations": "客渡参数与宋回忆同源，不能计算为双重证据。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -3925,7 +3963,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0040",
@@ -3937,7 +3976,7 @@
       "created_date": "",
       "publication": "dangshi.people.com.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "dangshi.people.com.cn",
@@ -3952,7 +3991,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4000,7 +4039,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0041",
@@ -4012,7 +4052,7 @@
       "created_date": "",
       "publication": "history.people.com.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "history.people.com.cn",
@@ -4027,7 +4067,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4075,7 +4115,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0042",
@@ -4087,7 +4128,7 @@
       "created_date": "",
       "publication": "dangshi.people.com.cn/.../c85037-26208132.html",
       "document_type": "人民网安全区综述",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "人民网安全区综述",
       "archive_id": "",
       "locator": "dangshi.people.com.cn/.../c85037-26208132.html",
@@ -4102,7 +4143,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-655646779a60-20261106T194806428174Z.json",
       "sha256": "20d76abdf9f7e6f49cca2423079ae71c44cc1f1326b29af48b7fd5852df04c77",
       "limitations": "25万人地区估计与营地收容人口不可混加。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -4245,7 +4286,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0043",
@@ -4257,7 +4299,7 @@
       "created_date": "",
       "publication": "chinanews.com",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "chinanews.com",
@@ -4272,7 +4314,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4320,7 +4362,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0044",
@@ -4332,7 +4375,7 @@
       "created_date": "",
       "publication": "xinwen.bjd.com.cn",
       "document_type": "北京晚报赵柏田文章",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "北京晚报赵柏田文章",
       "archive_id": "",
       "locator": "xinwen.bjd.com.cn",
@@ -4347,7 +4390,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-12608efbffd1-20261106T194940183073Z.json",
       "sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
       "limitations": "NJ-012/044为同一来源族。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -4472,7 +4515,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0045",
@@ -4484,7 +4528,7 @@
       "created_date": "",
       "publication": "sqxb.epaper.bjqpg.com",
       "document_type": "社区新报航运历史报道",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "社区新报航运历史报道",
       "archive_id": "",
       "locator": "sqxb.epaper.bjqpg.com",
@@ -4499,7 +4543,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "61c918c4c53ba4165068ef149b1d5fa5c440ffca018eef5061841d070b3d187e",
       "limitations": "铁路长江号与两艘客渡分开；须与故宫北路文物12月8日全部运出记录复核。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4575,7 +4619,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0046",
@@ -4587,7 +4632,7 @@
       "created_date": "",
       "publication": "81.cn/.../content_9375823.htm",
       "document_type": "中国军网历史报道",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "中国军网历史报道",
       "archive_id": "",
       "locator": "81.cn/.../content_9375823.htm",
@@ -4602,7 +4647,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
       "limitations": "Task002当轮已另核判决扫描；12月16日中山码头和12月18日草鞋峡分案。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4692,7 +4737,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0047",
@@ -4704,7 +4750,7 @@
       "created_date": "",
       "publication": "dswxyjy.org.cn/n1/2017/1215/c244523-29709300.html",
       "document_type": "鼓楼医院医疗史文章",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "鼓楼医院医疗史文章",
       "archive_id": "",
       "locator": "dswxyjy.org.cn/n1/2017/1215/c244523-29709300.html",
@@ -4719,7 +4765,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "e31f298536134f6b278323bdf7b865f708d05ff5a7ad4a9a44ab65162a3e8fcf",
       "limitations": "不能支持草鞋峡/江面屠杀条目。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -4818,7 +4864,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0048",
@@ -4830,7 +4877,7 @@
       "created_date": "",
       "publication": "19371213.com.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "19371213.com.cn",
@@ -4845,7 +4892,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4893,7 +4940,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0049",
@@ -4905,7 +4953,7 @@
       "created_date": "",
       "publication": "19371213.com.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "19371213.com.cn",
@@ -4920,7 +4968,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -4968,7 +5016,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0050",
@@ -4980,7 +5029,7 @@
       "created_date": "",
       "publication": "news.cn",
       "document_type": "原索引所列文献/转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原索引所列文献/转引",
       "archive_id": "",
       "locator": "news.cn",
@@ -4995,7 +5044,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留原书目；原自报“读全文”不作为Task002当轮已读证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -5043,7 +5092,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0051",
@@ -5055,7 +5105,7 @@
       "created_date": "",
       "publication": "m.krzzjn.com/show-2321-126755.html",
       "document_type": "民间研究转引",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "民间研究转引",
       "archive_id": "",
       "locator": "m.krzzjn.com/show-2321-126755.html",
@@ -5070,7 +5120,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "无全网失联日志，不能定全网通信瘫痪。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -5118,7 +5168,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0052",
@@ -5130,7 +5181,7 @@
       "created_date": "",
       "publication": "—",
       "document_type": "聚合条目集合",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "聚合条目集合",
       "archive_id": "",
       "locator": "—",
@@ -5145,7 +5196,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "保留排除记录。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -5193,7 +5244,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0053",
@@ -5205,7 +5257,7 @@
       "created_date": "",
       "publication": "—",
       "document_type": "网络人名线索",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "网络人名线索",
       "archive_id": "",
       "locator": "—",
@@ -5220,7 +5272,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "原索引“无此人可考”应限缩为Task002当轮未核到任职材料。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -5268,7 +5320,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0054",
@@ -5280,7 +5333,7 @@
       "created_date": "",
       "publication": "—",
       "document_type": "地方媒体书目线索",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "地方媒体书目线索",
       "archive_id": "",
       "locator": "—",
@@ -5295,7 +5348,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "不可作为已核文献。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -5343,7 +5396,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0055",
@@ -5391,7 +5445,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a527fdf50dac-20261106T194928984668Z.json",
       "sha256": "5cf1c2b8b2c699917d95f66aefa9eabd3efd3aea607f4e4936831dcd9f707c53",
       "limitations": "无同期命令影印；宋称23、24日向有关人员了解此前会议，不能将19、20日叙述全部称为亲眼见证；转录有错字。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -5523,7 +5577,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0056",
@@ -5562,7 +5617,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-dca28c26712c-20261106T194856289038Z.json",
       "sha256": "272fb0e776ddf199027df5130b73f961c99a1e99b50b38482c90162841a9de3e",
       "limitations": "公开转载略去原注；其中关于送达、心理与责任的论述是作者解释，不能升为命令原文。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -5676,7 +5731,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0057",
@@ -5711,7 +5767,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0c4fba963b29-20261106T194942068948Z.json",
       "sha256": null,
       "limitations": "正文12月10日中午及次日早晨，与编辑改为11日、12日17时不一致；编注不是同期电话记录。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -5805,7 +5861,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0058",
@@ -5863,7 +5920,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-c0e536ad84d7-20261106T194822662306Z.json",
       "sha256": "dab2257c130e09a6eaeccaba6f90d2ed83a3a69cbeea1aadfcfc3206f5b66d09",
       "limitations": "不等于1946年《南京卫戍战史话》原版；网络转录省略所称附表，且有文字讹误。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -5986,7 +6043,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0059",
@@ -6016,7 +6074,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-5007edc53ff0-20261106T194803177530Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "目录能核文件身份及日期，不能据此确认19/20/24任命节点。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6110,7 +6168,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0060",
@@ -6148,7 +6207,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a74b0297e7c5-20261106T194943499784Z.json",
       "sha256": null,
       "limitations": "研究文中论断与所引原档分开；不能把文章引文称为Task002当轮见到原电。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6254,7 +6313,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0061",
@@ -6285,7 +6345,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-6224ac4a3ccb-20261106T194740342156Z.json",
       "sha256": "80a2540cda6311516a938218c841f48700325669eb736e2d9c867941f653a720",
       "limitations": "与姜文112页注④对应；目录无发报、收报和阅电时刻。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6394,7 +6454,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0062",
@@ -6423,7 +6484,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-c3fa1d8b08a2-20261106T194915623961Z.json",
       "sha256": "d7938f3569bebd87a3308deffa0c461b5bd05afd4880ba72badb1684870d61e2",
       "limitations": "“十二申”完整转录仅作待校文本，不能据转录断言电报已抵达。转载与同文多平台不是独立来源。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6527,7 +6588,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0063",
@@ -6556,7 +6618,7 @@
       "snapshot_path": "sources/web-snapshots/SRC-0063/CAP-bcf35b204f4e-20261106T194545718462Z/metadata.json",
       "sha256": "e4b742f3b2d5c5061c4ac5133952b5fe124744e7222905460cddc87a1156d27f",
       "limitations": "确认11月20日中国外交部发表迁都说明；不证明唐同日视事。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6650,7 +6712,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "completed_for_rights_and_privacy_review_not_historical_verification",
-      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明"
+      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0064",
@@ -6681,7 +6744,7 @@
       "snapshot_path": "sources/web-snapshots/SRC-0064/CAP-fcf8de729ad6-20261106T194545719861Z/metadata.json",
       "sha256": "5a7178a49ef6bfe56b7a3248d83100de1d130f3c47ee56a6ac1a615078593369",
       "limitations": "记蒋夫妇当晨6时乘机离开；与5:45说须保留来源差别，不能混为精确一致。华盛顿接收日期不可改作南京事件日期。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6775,7 +6838,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "completed_for_rights_and_privacy_review_not_historical_verification",
-      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明"
+      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0065",
@@ -6806,7 +6870,7 @@
       "snapshot_path": "sources/web-snapshots/SRC-0065/CAP-66bbf44b118d-20261106T194553651667Z/metadata.json",
       "sha256": "4cc3893746d16d9de4f674e064818d60a52ff4074194b2e8ad357c8b779e39bd",
       "limitations": "显示唐同意有条件提案并要求转蒋；不等于日方接受、双方停战或全军执行撤出。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -6915,7 +6979,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "completed_for_rights_and_privacy_review_not_historical_verification",
-      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明"
+      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0066",
@@ -6944,7 +7009,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-aaf5a007861b-20261106T194740342397Z.json",
       "sha256": "70ce134475fb2233586eace46f92e92e1f8d0185c142f9cab9db3a59432ecd91",
       "limitations": "摘要明确无锡11月25日占领；卷号C11111744400应保留为上级，不冒充具体件号。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7050,7 +7115,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0067",
@@ -7080,7 +7146,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-3f69c2c052ea-20261106T194808021974Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "导言不是逐日战报；7日与劝降合并叙述不可用来定空投日。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7186,7 +7252,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0068",
@@ -7215,7 +7282,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-b94eb6e5d9fb-20261106T194747490117Z.json",
       "sha256": "d556c6450af0f6edf4003302c407a3990ff269a9e785004031b756990bf87b24",
       "limitations": "确认24日存在该呈报，不能把呈报日期等同抵达汉口日期；完整自劾措辞仍待原件。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7309,7 +7376,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0069",
@@ -7341,7 +7409,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0d2d3ee274eb-20261106T194753395874Z.json",
       "sha256": "86b96c4e8f75979a42eb8651f542edd8b784705db4b75b5589fc0a46831f3fc2",
       "limitations": "可核报告存在及题名，不能推断此前未履职或当天才组建。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7435,7 +7503,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0070",
@@ -7464,7 +7533,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-69024423ae48-20261106T194825273182Z.json",
       "sha256": "ed5b496a80f726e459ba1c4ee1ad49bd9605a6ff9b0db458829dd6cee0c1e603",
       "limitations": "与孙宅巍对责任评价有不同立场；均不能代替部队收件回执。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7580,7 +7649,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0071",
@@ -7653,7 +7723,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a527fdf50dac-20261106T194928984668Z.json",
       "sha256": "5cf1c2b8b2c699917d95f66aefa9eabd3efd3aea607f4e4936831dcd9f707c53",
       "limitations": "存在网络转录错字；约7000为回忆时点、非12月10日点名册。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7785,7 +7855,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0072",
@@ -7828,7 +7899,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-979f51877e93-20261106T194933485233Z.json",
       "sha256": "2859586035a1fb7479e3fbf1d1633878a67a96a3de8fccd582606e763a08c1aa",
       "limitations": "原文存在169师、约1人、单位缺失等排校问题；不能径自把11967判为编制数，不能认定3万人排除103/112。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -7922,7 +7993,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0073",
@@ -7951,7 +8023,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-ddb544c4cd7a-20261106T194859211441Z.json",
       "sha256": "23305a15279d77e3cfe874867c4ebc386cf6c4e4672d6f4e510dce28b83d1ff9",
       "limitations": "与V2-B02同源，不是独立交叉证明。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8045,7 +8117,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0074",
@@ -8076,7 +8149,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-16c5e9bccdbc-20261106T194858603596Z.json",
       "sha256": "00a94f8cb57d76581c2f0609a063b480ba9391a104e0dcf394c68b13b61920a5",
       "limitations": "不是全军同日实点名册；不同版本和对部队单位解释需回原刊。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8170,7 +8243,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0075",
@@ -8197,7 +8271,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-fcb112030149-20261106T194931938578Z.json",
       "sha256": "35134978154ea4b260705a0e33027ef9ec07cdc7f1463318afb7bf280bdeb2b0",
       "limitations": "不能用媒体一句15万代替可复算的逐部底表；与V2-B04同研究谱系。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8291,7 +8365,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0076",
@@ -8326,7 +8401,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-3f69c2c052ea-20261106T194808021974Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "Task002当轮不得据目录宣称核过其中精确兵额。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8432,7 +8507,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0077",
@@ -8464,7 +8540,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-ee4af7469f92-20261106T194909778051Z.json",
       "sha256": "bab272a30d879dfe6a26b0499f315034887a40d091e5ab9cfb4f8c630c3b8b2b",
       "limitations": "支持职属；不单独确定牺牲时刻。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8567,7 +8643,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0078",
@@ -8604,7 +8681,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-41206269a562-20261106T194829433579Z.json",
       "sha256": "da2ac363b38312ebeecb5636ad7ba27563e990b23c72167d598aeef357e51af1",
       "limitations": "不能直接证明南京阶段的代理权限与到达时刻。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8707,7 +8784,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0079",
@@ -8736,7 +8814,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-139b3cc46f14-20261106T194909106093Z.json",
       "sha256": "92852213e6795d3399e68bcc484a94a2b85f6044d0c6533593fed229ae980214",
       "limitations": "任命与实际在队指挥不能等同。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8830,7 +8908,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0080",
@@ -8860,7 +8939,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-c2d43721acce-20261106T194845163974Z.json",
       "sha256": "fb51339e6e83060a04bda4a17c50bb685b731b470c89c252e791ae873deec7e8",
       "limitations": "缺对应命令原件和档号；不能升级为已核日期。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -8954,7 +9033,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0081",
@@ -8966,7 +9046,7 @@
       "created_date": "",
       "publication": "",
       "document_type": "未取得目标正文",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "未取得目标正文",
       "archive_id": "",
       "locator": "NJ-016/NJ-033共用链接",
@@ -9044,7 +9124,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-516355e3035f-20261106T194837060972Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "原库出现《南京卫戍军兵力考》和《南京保卫战守城官兵参战及撤离人数再辨析》两个标题；Task002当轮检索未核到相应刊目，不能宣布不存在，也不能沿用已读全文/勘误已核。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -9166,7 +9246,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0082",
@@ -9193,7 +9274,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-dadf73e47e6a-20261106T194841942074Z.json",
       "sha256": "3f125575c323c28fb03a9f2b3dcfca4295b1fbd1b019a29b9befa1904738c0bb",
       "limitations": "没有读到各部兵力分析，不能拿来补数。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -9287,7 +9368,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0083",
@@ -9319,7 +9401,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a527fdf50dac-20261106T194928984668Z.json",
       "sha256": "5cf1c2b8b2c699917d95f66aefa9eabd3efd3aea607f4e4936831dcd9f707c53",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -9442,7 +9524,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0084",
@@ -9473,7 +9556,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -9559,7 +9642,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0085",
@@ -9591,7 +9675,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-8cdb087ba66f-20261106T194917930115Z.json",
       "sha256": "287fbed31b83a20999a5c3983096660651fc22bab861e8fc87f35ea7483f6423",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -9685,7 +9769,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0086",
@@ -9714,7 +9799,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-12608efbffd1-20261106T194940183073Z.json",
       "sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -9850,7 +9935,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0087",
@@ -9879,7 +9965,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-b95e022998d2-20261106T194758784989Z.json",
       "sha256": "6c3cc04939825920732b795828423188ed6d37effff0ce508b97c10ee1ef45b5",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10044,7 +10130,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0088",
@@ -10073,7 +10160,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-48a2d7bcdf7a-20261106T194841901761Z.json",
       "sha256": "a5d11e92f7b89d560d859777675b08684c04251704b9a475a548eaa45db4fafc",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10167,7 +10254,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0089",
@@ -10203,7 +10291,7 @@
       "snapshot_path": "sources/web-snapshots/SRC-0089/CAP-201c9b9fafad-20261106T194545719620Z/metadata.json",
       "sha256": "437b4182c1c6ecb53012a3d5bc6ac1f4dcafc2daaa9115884d68d0054164ee36",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10297,7 +10385,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "completed_for_rights_and_privacy_review_not_historical_verification",
-      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明"
+      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0090",
@@ -10326,7 +10415,7 @@
       "snapshot_path": "sources/web-snapshots/SRC-0090/CAP-56ec6c12830d-20261106T194545718819Z/metadata.json",
       "sha256": "abeb263da52bc446a3e5d2be39d1d68fc6c8f7fa8f3d4c2f61f0154e783936bb",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10420,7 +10509,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "completed_for_rights_and_privacy_review_not_historical_verification",
-      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明"
+      "task003a_response_review_scope": "版权和隐私全文检查，不重做历史证明",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0091",
@@ -10447,7 +10537,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-26b19bebb5df-20261106T194923642601Z.json",
       "sha256": "80e6fa9adcf1df307fef5b0cbeea63608e3309df853ca662b0cffc2a5824acec",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10541,7 +10631,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0092",
@@ -10570,7 +10661,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a74b0297e7c5-20261106T194943499784Z.json",
       "sha256": null,
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10676,7 +10767,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0093",
@@ -10705,7 +10797,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0ace02ccc501-20261106T194839252543Z.json",
       "sha256": "ffb088e65b3f9597968f5b80300ceb80be1c7f0b3161edf44ad295790fe6bf81",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -10838,7 +10930,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0094",
@@ -10865,7 +10958,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-70adc6c6dba8-20261106T194759579420Z.json",
       "sha256": "3757f8cfbdaf3768420bf51eb7a3358c353dcc91652cca04ce1325d6bc2d4dc4",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11053,7 +11146,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0095",
@@ -11080,7 +11174,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-e7c6f9ac735e-20261106T194809071210Z.json",
       "sha256": "4c01896ef6c2f65477ec5f9dc865e35d804ecee0636c64615103305c8a57efc2",
       "limitations": "第1页右下明确署 Minnie (Vautrin)，开头记当日上午见费奇。馆藏目录与文件页头相符；不是魏亲笔原稿。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11174,7 +11268,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0096",
@@ -11201,7 +11296,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-1c43f5d4b5fe-20261106T194814351990Z.json",
       "sha256": "896d97e857dcbe67e38ebe8003d5db204cd63eeafbf0be1659ad20f6508695d5",
       "limitations": "页头 Nanking Jan 6, 1938，记领事代表刚抵达以及城内救济状况。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11295,7 +11390,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0097",
@@ -11326,7 +11422,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-1a7df7821b7b-20261106T194804026253Z.json",
       "sha256": "22abad0d9aa92dac07ac05427223649fb6336c35c9813b87e9bc5dc8c2ae2fc1",
       "limitations": "馆方目录误标作者为John Rabe；原页尾为L. Smythe，函中记费奇与本人当日下午赴使馆。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11436,7 +11532,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0098",
@@ -11465,7 +11562,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-4bf1103fbd61-20261106T194748328633Z.json",
       "sha256": "77f620c834d3b3135b3dd2e72ba821d63d72fae8b1d01c97b4d6603f1e0bf0c7",
       "limitations": "第2页署拉贝；请求保障难民、粮食、秩序与修复公用事业。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11559,7 +11656,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0099",
@@ -11588,7 +11686,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-fc7d62567a77-20261106T194753701073Z.json",
       "sha256": "0b19626537c683c040adf3e272402d1db62af4c0145631decc50f6611b0c715f",
       "limitations": "本件第2页署L.Smythe；与包内《拉贝日记》夹录的拉贝/斯迈思联合署名译文有署名差异。可能是同函不同版本，亦可能有编辑处理，未定；应保留版本字段，不计作独立互证。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11682,7 +11780,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0100",
@@ -11712,7 +11811,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-9bc20b4f3104-20261106T194759203895Z.json",
       "sha256": "f7d389ab31570f4a860d5797d3bebc6ecb3413c24cfdcbed09492163fb3acf1c",
       "limitations": "确认函日、署名与递交第71–96件的说明；该PDF不含全套案表。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -11806,7 +11905,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0101",
@@ -11855,7 +11955,7 @@
       "snapshot_path": "",
       "sha256": "",
       "limitations": "日记、夹录函、委员会案表分开；同一函的耶鲁扫描与此中译不算独立证据。刊发日期2025-05-28。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -11941,7 +12041,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0102",
@@ -11998,7 +12099,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-157bb22d728d-20261106T194912588226Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "正文有译注、回顾插语及敏感词替换；不能称英语日记原稿。其独立观察可与委员会函交叉，但转述他人内容不构成独立目击。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12119,7 +12220,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0103",
@@ -12156,7 +12258,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-781672a2adc6-20261106T194747575157Z.json",
       "sha256": "0858b56b41a9637da4aa1c841786713fd579124317eb711107d989f180017c19",
       "limitations": "目录可证编目与定位，不能替代信件正文；NMP0175作者编目与扫描不一致。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12250,7 +12352,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0104",
@@ -12277,7 +12380,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-400cd5534351-20261106T194928338843Z.json",
       "sha256": "a45109de291f0411b7319a5eaf7497cc65d2ea675d7395c63eb76e1697e72691",
       "limitations": "支持1938年1月携片赴沪，未给确日。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12371,7 +12474,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0105",
@@ -12398,7 +12502,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-d12ab2b476a2-20261106T194934001048Z.json",
       "sha256": "0e98dfb23c63adca3f5a5034b68241d619f2973d9e0a4193519c87ff057f021b",
       "limitations": "写1938年1月下旬；1至4号胶片盒与报道中的8卷并非可直接比较的计量单位。与INT-10同属馆方流转叙事，不算独立原始互证。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12492,7 +12596,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0106",
@@ -12519,7 +12624,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-88b012da608b-20261106T194947027316Z.json",
       "sha256": "5b6c616d44b2381dbc785392a75dd28f307dea3388b4a4f1de7792143ab3dfc4",
       "limitations": "报道将赴沪采购返宁与携片再赴沪分为两趟；其中“23日前”是电报要求的到沪期限，不应自动等于出发日。确日仍待回忆书原页和同期旅行记录。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12613,7 +12718,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0107",
@@ -12640,7 +12746,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-006387dea458-20261106T194904307826Z.json",
       "sha256": "4d21a88bc41293cf179f9211b02e4721fb1dd5a8efe8793c582b2e71a320b29a",
       "limitations": "不得标作已读原件；修订版页码须重核。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12734,7 +12840,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0108",
@@ -12761,7 +12868,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-215906397211-20261106T194740341069Z.json",
       "sha256": "26c3b40bf3b65174c6fe9368244038e83e53eaff0ab4c771896ee1ede2c1c350",
       "limitations": "明确1886-09-27；与原人物表1882不符。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12855,7 +12962,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0109",
@@ -12882,7 +12990,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-f9a8874500ac-20261106T194819684372Z.json",
       "sha256": "00105f26e19021bf0a229a040df91fdb21ec6ab578bdc3289865152ad2d7c15c",
       "limitations": "明确1897-05-28；副校长任命为1938-01-13，不应提前至1937。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -12976,7 +13084,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0110",
@@ -13006,7 +13115,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-fd1963ef6ee4-20261106T194740341475Z.json",
       "sha256": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008",
       "limitations": "包内INT-07有中文夹录，可支持17,000人是此函陈述的避难规模；不得宣称已逐字核英文原件。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13100,7 +13209,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0111",
@@ -13133,7 +13243,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-61031bc4735d-20261106T195010304389Z.json",
       "sha256": "7a28a8718d14878d037933c5ac51f98373a5dc19cde03b4fd34f0a0fe65a76fa",
       "limitations": "扫描第2页可见北京图书馆印记；Commons元数据标来源为国家图书馆、66叶，并给出国图书目链接。国图书目链接本次超时，NLC416-07jh009166-3792仅按镜像文件标识保留，不冒称已核档案馆馆藏号。案号从扫描第2页实读：三十六年度审字第壹号。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13262,7 +13372,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0112",
@@ -13295,7 +13406,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-4e8744a40889-20261106T194948926302Z.json",
       "sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
       "limitations": "题名页实读江苏人民出版社；山田篇尾追引《南京战史资料集》（二），偕行社，1993-12-08；本册说明明确有删节、译注与人地名订正。不同作者是不同观察链，但信息转述可能同源，不能机械当独立计数。；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13403,7 +13514,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0113",
@@ -13430,7 +13542,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-4901dd8e9a66-20261106T194927623310Z.json",
       "sha256": "6f11d062347e03ecd0a6c190b6c5a8ed29d0783cd947b85090e6b3eab04e0d96",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13526,7 +13638,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0114",
@@ -13553,7 +13666,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-39b1f79053d3-20261106T194812993362Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13649,7 +13762,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0115",
@@ -13676,7 +13790,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-d69ea3265fec-20261106T194757741787Z.json",
       "sha256": null,
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -13772,7 +13886,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0116",
@@ -13799,7 +13914,7 @@
       "snapshot_path": "sources/LEGACY_HTML_INVENTORY.json",
       "sha256": "e1b6055ce975694a9c66b6077726b5dffcea8b20fa819b41fb68c73d75a1068f",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；旧缓存不计本轮新抓取；HTTP状态、最终URL、原采集时刻未知。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [],
@@ -13889,7 +14004,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0117",
@@ -13916,7 +14032,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-591b21697876-20261106T194904800937Z.json",
       "sha256": "4548750386cf7d6d07dbef0169ba38e4a85e0deb5473fc4ee9458c2bfdff9b89",
       "limitations": "目录不等于读到日记/军令正文；不添加不存在的正文页码；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14010,7 +14126,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0118",
@@ -14037,7 +14154,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-4a9d6c0b3e09-20261106T194747249686Z.json",
       "sha256": "c8fbecf4c50945e1a03c8ca0df0ce31c23bfd4f035579f39123e93ccfbfb4199",
       "limitations": "未阅扫描；摘要并非大陸命8号令文原件；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14131,7 +14248,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0119",
@@ -14143,7 +14261,7 @@
       "created_date": "",
       "publication": "",
       "document_type": "原令候选档目",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "原令候选档目",
       "archive_id": "",
       "locator": "C14060903700 图17（第三方提供的待核定位）",
@@ -14158,7 +14276,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-1c4d9a3ffc6b-20261106T194753375754Z.json",
       "sha256": "cbc095d5fb87e2c5c03f17679cbd4025e6bbc46b08c816b1a30f55a3c709ed4e",
       "limitations": "图17来自独立研究者博客/日记注释，不升为已读原件；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14252,7 +14370,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "source_id": "SRC-0120",
@@ -14279,7 +14398,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-aaf5a007861b-20261106T194740342397Z.json",
       "sha256": "70ce134475fb2233586eace46f92e92e1f8d0185c142f9cab9db3a59432ecd91",
       "limitations": "摘要支持日期，不能证明全文中每个细节；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14385,7 +14504,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0121",
@@ -14412,7 +14532,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0282ac05d26c-20261106T194852473243Z.json",
       "sha256": "1fcf86353e5c04703a41b850ff41716d8936e609445dd9eb04b86caac71388af",
       "limitations": "与昭和馆同一出版物，非两份事件证词；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14506,7 +14626,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0122",
@@ -14533,7 +14654,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-bc20bfcc9314-20261106T194923071768Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "未阅全册题注，不能替每张南京照片确定拍摄日；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14627,7 +14748,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0123",
@@ -14654,7 +14776,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-e2bea61c0a70-20261106T194753257130Z.json",
       "sha256": "2a1f3081d2659c036d2fd85b587c88aa588a2add309b7043162c8bc83ad901cb",
       "limitations": "页面Dates/自动引文另显示2009，与Created/Published冲突；以V2-C10研究核年代，原图未检；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14749,7 +14871,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0124",
@@ -14776,7 +14899,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-10cab13a2aeb-20261106T194915427921Z.json",
       "sha256": "ea154439eb3c8627048ec5c051b1fc2b781978036764a50ecdb789b19a46842b",
       "limitations": "不是全册影像或法庭证物登记原页；吴璇/吴旋字形另核；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14870,7 +14993,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0125",
@@ -14897,7 +15021,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0bd903ba191d-20261106T194917244174Z.json",
       "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
       "limitations": "未读全组，不可每张均判南京/同作者/同日；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -14991,7 +15115,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0126",
@@ -15018,7 +15143,7 @@
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-aa071c6a097e-20261106T194834260627Z.json",
       "sha256": "4e8d6d6835da5990861b8caf0c8f7d03738c937460426d2c71e1a7eed8978e60",
       "limitations": "Task002当轮未阅LOC6幅原图；研究中1927注记等历史层次勿简化为所有照片同日；本轮来源登记不重新证明所有旧命题。",
-      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同，保留U待按具体载体重新定性。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
+      "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
       "record_identity_status": "stable_inherited_record_not_new_authentication",
       "known_urls": [
@@ -15112,7 +15237,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0127",
@@ -15244,7 +15370,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "source_id": "SRC-0128",
@@ -15358,7 +15485,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "creator_or_publisher": null,
@@ -15499,7 +15627,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "creator_or_publisher": null,
@@ -15640,7 +15769,8 @@
       ],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": ""
     },
     {
       "creator_or_publisher": null,
@@ -15656,7 +15786,7 @@
       ],
       "title": "《80年前的南京：蒋介石逃走前为何将自己的炮艇留下》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第145行S5；原库所列书目尚待网页正文核对。",
       "original_url": "http://m.people.cn/n4/2017/1221/c102-10289008.html",
@@ -15731,7 +15861,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -15747,7 +15878,7 @@
       ],
       "title": "《唐生智与黄埔军校》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第147行S7；原库所列书目尚待网页正文核对。",
       "original_url": "http://www.huangpu.org.cn/rwcq/201605/t20160504_11449823.html",
@@ -15822,7 +15953,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -15838,7 +15970,7 @@
       ],
       "title": "《从南京保卫战到南京大屠杀》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第148行S8；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.krzzjn.com/show-1232-34627.html",
@@ -15913,7 +16045,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -15929,7 +16062,7 @@
       ],
       "title": "《唐仁和：我父亲唐生智的南京保卫战》（张定胜文，含\"口头指示\"档案质疑、华宣恩口述）",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第149行S9；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.krzzjn.com/show-1854-89036.html",
@@ -16004,7 +16137,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16020,7 +16154,7 @@
       ],
       "title": "《唐生智在滁县醉翁亭召开战役检讨会议》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第150行S10；原库所列书目尚待网页正文核对。",
       "original_url": "https://www.krzzjn.com/show-349-108342.html",
@@ -16095,7 +16229,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16111,7 +16246,7 @@
       ],
       "title": "《马振犊：南京保卫战中的唐生智》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第151行S11；原库所列书目尚待网页正文核对。",
       "original_url": "http://jds.cssn.cn/newzxdt/202101/t20210128_5297237.shtml",
@@ -16186,7 +16321,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16202,7 +16338,7 @@
       ],
       "title": "《历史上的今天｜八十年前的今日，南京保卫战正式打响》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第153行S13；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.thepaper.cn/newsDetail_forward_1891194",
@@ -16277,7 +16413,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16293,7 +16430,7 @@
       ],
       "title": "《南京保卫战：唐生智为何骑虎难下？》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第154行S14；原库所列书目尚待网页正文核对。",
       "original_url": "https://www.krzzjn.com/show-349-79986.html",
@@ -16368,7 +16505,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16384,7 +16522,7 @@
       ],
       "title": "《一九三七年南京保卫战》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第155行S15；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.krzzjn.com/show-349-79904.html",
@@ -16459,7 +16597,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16475,7 +16614,7 @@
       ],
       "title": "《1937，南京的冬天》（节选自杨天石、傅高义主编《中日战争国际共同研究》第一卷）",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第156行S16；原库所列书目尚待网页正文核对。",
       "original_url": "http://www.cb.com.cn/index/show/rw/cv/cv13447491229/p/license/license/10003.html",
@@ -16550,7 +16689,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16566,7 +16706,7 @@
       ],
       "title": "《83年前，15万国军大溃败真相》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第157行S17；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.thepaper.cn/baijiahao_10373706",
@@ -16641,7 +16781,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16657,7 +16798,7 @@
       ],
       "title": "《从坚守阵地到北撤长江》／严开运《难忘的战斗》等士兵层回忆",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第158行S18；原库所列书目尚待网页正文核对。",
       "original_url": "https://news.cctv.com/special/C20233/20071211/107422.shtml",
@@ -16732,7 +16873,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     },
     {
       "creator_or_publisher": null,
@@ -16748,7 +16890,7 @@
       ],
       "title": "《\"佛教将军\"唐生智》",
       "document_type": "原库明确引文的网页文献；正文读取状态另列",
-      "source_nature": "U",
+      "source_nature": "unknown",
       "original_or_copy": "仅原库书目及URL，目标正文未取得",
       "locator": "原详细时间线第159行S19；原库所列书目尚待网页正文核对。",
       "original_url": "https://m.krzzjn.com/show-1854-83003.html",
@@ -16823,7 +16965,8 @@
       "legacy_snapshot_ids": [],
       "task003a_historical_reverification": "not_performed_except_explicit_reading_scope_in_capture_review",
       "task003a_response_review_status": "not_completed",
-      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读"
+      "task003a_response_review_scope": "自动采集或既有缓存登记；未完成本轮全文核读",
+      "source_nature_original": "U"
     }
   ]
 }
