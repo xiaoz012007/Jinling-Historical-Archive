@@ -1,0 +1,112 @@
+[
+  {
+    "claim_id": "EV-A-001",
+    "source_ids": "SRC-0083",
+    "locator": "宋文末“认为有必要着重谈一下”段",
+    "claim": "两艘下关—浦口客渡轮回忆记载，均已驶往汉口；船名和准确离宁日未见。",
+    "allowed_narration": "可写两客渡已离开这一回忆陈述。",
+    "limitations": "战后回忆网页转录；每次700–800人究竟逐艘还是两船合计有单位歧义；不是船簿。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-002",
+    "source_ids": "SRC-0083",
+    "locator": "同段17时至翌7时与往返45分钟",
+    "claim": "45分钟是往返一次；“至少三万人”为回忆者的反事实估计。",
+    "allowed_narration": "若额外假设每艘800、14小时无中断，完整18次循环两船为28800人。",
+    "limitations": "不把假设当历史运量；45分钟是否包含装卸未知；片段循环不能无说明进位。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-003",
+    "source_ids": "SRC-0085",
+    "locator": "北路段与“1937年11月下旬”图注",
+    "claim": "故宫网页北路7287箱、三列车、12月8日全部运出；图注为11月下旬经铁路渡轮。",
+    "allowed_narration": "只能说北路运送经铁路轮渡；全部运出与末次渡江不能等同。",
+    "limitations": "未确定12月6日长江号撤离；同页中路11/19发、11/2到文本倒置须保留。",
+    "claim_status": "conflicted",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "冲突或推论边界保留"
+  },
+  {
+    "claim_id": "EV-A-004",
+    "source_ids": "SRC-0086",
+    "locator": "11月25日、27日张嘉璈段",
+    "claim": "后世文章转述张嘉璈11/27夜23时登德和离宁及铁路人员尽力运行的表态。",
+    "allowed_narration": "区分离宁事件转述与继续行车的意向。",
+    "limitations": "未阅日记原本；德和为具名船，不等于两客渡或每日可调用客轮池。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-005",
+    "source_ids": "SRC-0087",
+    "locator": "江南汽车公司1937年鼎盛段",
+    "claim": "汽车304辆是1937年公司鼎盛规模。",
+    "allowed_narration": "可作全年企业规模陈述。",
+    "limitations": "无法证明11/27南京可用民用库存；不能减去军用前重复使用。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-006",
+    "source_ids": "SRC-0088",
+    "locator": "“1937年12月9日”段",
+    "claim": "后世铁路史话记公司及运输司令部12/9撤出芜湖，留存设备破坏。",
+    "allowed_narration": "撤出地点为芜湖；不能写成到芜湖才撤退。",
+    "limitations": "不证明南京—芜湖客运连续运行至该日，亦不证明12/6已全部停运。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-007",
+    "source_ids": "SRC-0089",
+    "locator": "FRUS d385，印刷532–534页",
+    "claim": "12/9浦口滨江遭轰炸；12/11下关附近炮击迫使外船上驶，炮击责任记述分歧。",
+    "allowed_narration": "据当事报告写具体局部威胁及观察范围。",
+    "limitations": "不是全市所有通路封闭日志；不能用来给全期运力乘一个历史已知折损率。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-008",
+    "source_ids": "SRC-0089",
+    "locator": "FRUS d385，印刷535–538页",
+    "claim": "12/12下午Panay在南京上游约27英里遇袭，逃生转运有发动机故障等障碍。",
+    "allowed_narration": "外舰与商轮不能被视为无风险或可供中国疏散的通用资产。",
+    "limitations": "12/12当地晴天是局部观察，不是11月底—12月初南京全期天气。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-009",
+    "source_ids": "SRC-0090",
+    "locator": "FRUS d384，印刷531–532页",
+    "claim": "日方说明称已下令过江截断浦口退路，继写推测登陆。",
+    "allowed_narration": "仅作为日方解释经Grew转述的命令信息。",
+    "limitations": "命令不等于执行完成；无原命令/执行日志，不能认定12/12浦口封锁已完成。",
+    "claim_status": "supported_with_limits",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "限定支持"
+  },
+  {
+    "claim_id": "EV-A-010",
+    "source_ids": "SRC-0152",
+    "locator": "故宫官方PDF单页，印刷074页，末两段与图2注",
+    "claim": "新取得研究单页以“应是”“应均”推论北路文物由长江号铁路渡轮运输。",
+    "allowed_narration": "可引用这是研究者推论，并确认本页存在21货车技术描述。",
+    "limitations": "页首不含篇名、作者、刊期，脚注正文不在单页；12月叙述与官网11月下旬图注保留冲突，不补精确撤离日。",
+    "claim_status": "conflicted",
+    "record_role": "historical_source_statement",
+    "inherited_claim_status": "冲突或推论边界保留"
+  }
+]

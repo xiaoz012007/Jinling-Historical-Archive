@@ -1,0 +1,351 @@
+{
+  "scope": "Read-only independent model audit",
+  "tested_at_utc": "2026-11-06T23:19:12.338398+00:00",
+  "input_sha256": {
+    "export_validation.json": "b68a2144507cf2a250aab5ac77e343cbffd52e2b6fc6518f84184655cfa4dab7",
+    "sensitivity.csv": "237cfd638761bfcf59cb7bde33d49f8a284f18ef0889b91af1589104f1743330",
+    "parameters.csv": "343abe9862b87e594a2d0f81e8e5a54f865e55436fa113a178da53b3da961eb8",
+    "historical_claims.csv": "969939616beeb3cc1c98c5400afb06e7a1fe60f93ba3b1c01618a2f8e7364201",
+    "historical_claims.json": "7d2795e18b3dbdfa290caa39e40e44f59afc443c3adb207f1b7207e0280944aa",
+    "evacuation_model.xlsx": "3397e10f465b62d56c96d5daac02a51297351dce73dc8aa972506506dc5b1d65",
+    "python_results.json": "f2a987e141b9c626108e8d5007dd974a3c3e84555576d71a8dd5b000f732d4b3",
+    "FICTION_MODEL_LINK_SCOPE.csv": "8daf14fc4073391734e4e7a3efa0ddff9e2e6ac8196b4ebcf1cf80d1316b196b",
+    "python_tests.json": "2869c32ccf8141c855417bedffa9c4e5b89de1b9bbdb67cde3f5f38d3e29e9a6",
+    "build_workbook.mjs": "1467265d32f0896c77e4349a4627a040e272a839d45068ef600d3e890421d749",
+    "recalculate.py": "8c7a6478d62f8ee9553723601b5520dc179f8ef7e6c32352a307645ab5f7f8a9",
+    "transport_entities.csv": "267110ece1e07132a8126ad56e19f4e9a1aa1bafb7938b9a4ca798fa5928372a",
+    "daily_medium.csv": "059c1970cd8b54bb83378afbe9b56af5f0809f0d58b9bc4a13baaf0ad6b1f200",
+    "TRANSPORT_CAPACITY_PARAMETERS.csv": "343abe9862b87e594a2d0f81e8e5a54f865e55436fa113a178da53b3da961eb8",
+    "research_sources.json": "920168b3eebb8628144a042deee1ffeddb9437e532be1939a75af61ec96e9f7f",
+    "HISTORICAL_EVACUATION_BASELINE.md": "857b9be2d0293efad8be6d1df8103daa684e1e99aa673513d9761f4685615bf7",
+    "README.md": "bcb49136cbc693e16798ce32d354a5d98ffa02e51d6f7341c5a64abc916e17c0",
+    "question_updates.json": "30d736e237e92781ba7274df72f1d468f731a024f691767049b6db5c3de50ca9",
+    "EVACUATION_SCENARIOS.csv": "1ec70cb8ce9b820b00989eac77d619b3813900cacb9d86ee1f53b24c978451fe",
+    "INDEPENDENT_QA.md": "20f4106706fe7a4d0e85895493b7a7ba53004fd2662b85d15cdaeca15bcf47db",
+    "sensitivity_results.json": "4ac4c6ef79f8c5e5b569042a05830a15e66dd75a7d82acbb908aef1530c469f1",
+    "old_workbook_audit.json": "0b36a852fbe39cbfcbd992802dd97238672afaeca683e1874a9a4f7834fe988d",
+    "CHANGELOG.md": "6e1043bee6df860be3b625572c10819ef530560899e6c890b6f27792c0fcdee8",
+    "workbook_validation.json": "eb3eccdf6a96bf1b629b6be50d891d18e3440572dba0a31c154f0268539a3474",
+    "model_data.json": "5151d3fd6593e2753245004fa585a11ac10467c10be879bc872da0d7793cb3f1",
+    "SUMMARY.md": "eed3a441cf0de91c5bcf08222471e6000d96bed66f2001c6105333ce81f83d8f",
+    "FORMULAS.md": "6bd8e9b425990d174f415451ffb7876a0b4698506ce5824ea2535d1f1d1d1ff6",
+    "independent_check.py": "f3b097b44fc92325f59258a40f5ab171ddc2e2c21952c5961297a845b801f1e1",
+    "reading_log.json": "920168b3eebb8628144a042deee1ffeddb9437e532be1939a75af61ec96e9f7f",
+    "scenario_results.csv": "30a39f848b90008376b240c73c53adeff00385a0522fb0b008a9cb802867dc08",
+    "COUNTERFACTUAL_EVACUATION_MODEL.md": "4fd221fb478f0ade2921eb038a2921829e2edc066466afc90b7ab345ae4a581a"
+  },
+  "checks": [
+    {
+      "name": "OOXML ZIP integrity and error cells",
+      "passed": true,
+      "detail": {
+        "formula_count": 1524,
+        "errors": []
+      }
+    },
+    {
+      "name": "all saved formula caches independently calculated",
+      "passed": true,
+      "detail": {
+        "compared": 1524,
+        "mismatches": []
+      }
+    },
+    {
+      "name": "EV-B-C01 exact-rational independent ledgers",
+      "passed": true,
+      "detail": {
+        "departures": 27900,
+        "conditional_chain_completed": 19350,
+        "pending_walk": 8100,
+        "pending_shore": 450,
+        "origin_waiting": 72100
+      }
+    },
+    {
+      "name": "EV-B-C01 exported formula matrix",
+      "passed": true,
+      "detail": {
+        "cells": 1462,
+        "mismatch": []
+      }
+    },
+    {
+      "name": "EV-B-C01 no pre-activation throughput",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "EV-B-C01 outputs retain historical unknown",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "EV-B-C02 exact-rational independent ledgers",
+      "passed": true,
+      "detail": {
+        "departures": 36598,
+        "conditional_chain_completed": 25953,
+        "pending_walk": 10125,
+        "pending_shore": 520,
+        "origin_waiting": 63402
+      }
+    },
+    {
+      "name": "EV-B-C02 exported formula matrix",
+      "passed": true,
+      "detail": {
+        "cells": 1462,
+        "mismatch": []
+      }
+    },
+    {
+      "name": "EV-B-C02 no pre-activation throughput",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "EV-B-C02 outputs retain historical unknown",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "EV-B-C03 exact-rational independent ledgers",
+      "passed": true,
+      "detail": {
+        "departures": 44523,
+        "conditional_chain_completed": 32598,
+        "pending_walk": 11475,
+        "pending_shore": 450,
+        "origin_waiting": 55477
+      }
+    },
+    {
+      "name": "EV-B-C03 exported formula matrix",
+      "passed": true,
+      "detail": {
+        "cells": 1462,
+        "mismatch": []
+      }
+    },
+    {
+      "name": "EV-B-C03 no pre-activation throughput",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "EV-B-C03 outputs retain historical unknown",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "23 sensitivity exact model plus exported formulas",
+      "passed": true,
+      "detail": {
+        "cases": 23,
+        "mismatch": []
+      }
+    },
+    {
+      "name": "OOXML zero demand",
+      "passed": true,
+      "detail": {
+        "value": 0.0
+      }
+    },
+    {
+      "name": "OOXML zero fleet",
+      "passed": true,
+      "detail": {
+        "value": 35298.0
+      }
+    },
+    {
+      "name": "OOXML blank demand",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML negative boats",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML fractional fleet",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML bad ratio",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML zero window",
+      "passed": true,
+      "detail": {
+        "value": 0.0
+      }
+    },
+    {
+      "name": "OOXML bad date",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML invalid selector",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML unselected blank",
+      "passed": true,
+      "detail": {
+        "value": 36598.0
+      }
+    },
+    {
+      "name": "OOXML selected blank",
+      "passed": true,
+      "detail": {
+        "value": ""
+      }
+    },
+    {
+      "name": "OOXML valid selected zero",
+      "passed": true,
+      "detail": {
+        "value": 20250.0
+      }
+    },
+    {
+      "name": "comparison snapshot invalidates on input edit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "comparison snapshot independent of selector",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects boats None",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects boats -1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects boats 0.5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects weather 1.5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects boat_out 0",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects return_enabled 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects demand True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Python rejects start_day 43",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "standalone standard-library recalculation",
+      "passed": true,
+      "detail": {
+        "returncode": 0,
+        "stderr": ""
+      }
+    },
+    {
+      "name": "standalone result identical",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "F numeric overrides remain unset",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all numeric parameters explicitly I",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "A evidence sheet has no model formulas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all source/model input files unchanged",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "failed": [],
+  "passed": true,
+  "case_totals": [
+    {
+      "departures": 27900,
+      "conditional_chain_completed": 19350,
+      "pending_walk": 8100,
+      "pending_shore": 450,
+      "origin_waiting": 72100
+    },
+    {
+      "departures": 36598,
+      "conditional_chain_completed": 25953,
+      "pending_walk": 10125,
+      "pending_shore": 520,
+      "origin_waiting": 63402
+    },
+    {
+      "departures": 44523,
+      "conditional_chain_completed": 32598,
+      "pending_walk": 11475,
+      "pending_shore": 450,
+      "origin_waiting": 55477
+    }
+  ],
+  "xlsx_formula_engine": "Independent limited interpreter of saved OOXML formula graph; not Excel native",
+  "independent_calculation": "Separate exact-rational fleet/person ledgers",
+  "native_excel_tested": false,
+  "limitations": [
+    "Population and resource parameters are I assumptions, not historical observations.",
+    "Waiting boat/foot cohorts are intentionally not cleared on subsequent days; this suppresses completion and is documented.",
+    "All routes have different modeled endpoints; no comparable safe-arrival/ultimate-survival meaning.",
+    "Original builder promises artifact-tool checks; this independent audit verifies exported formulas mathematically, not native Microsoft Excel rendering/recalculation."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "PDFs_read": 8,
+  "PDF_pages_visual_read": 23,
+  "previous_PDFs_reused": 7,
+  "new_PDFs_captured": 1,
+  "new_substantive_source_containers": 1,
+  "other_reused_text_carriers": 5,
+  "reading_log_rows": 13,
+  "international_timeline_rows": 72,
+  "new_or_revised_export_rows": 18,
+  "cross_year_rows": 3,
+  "revision_rows": 10,
+  "case_text_check_rows": 6,
+  "INT_questions": 5,
+  "textual_gap_resolved": [
+    "INT-U03"
+  ],
+  "all_other_questions_unresolved": true,
+  "original_fields_preserved": true,
+  "public_payload_allowed_count": 0,
+  "tests_passed": true
+}

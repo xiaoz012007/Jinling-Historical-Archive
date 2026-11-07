@@ -1,0 +1,4 @@
+﻿model_id,scenario_id,departures,conditional_chain_completed,pending_walk,pending_shore,origin_waiting,boats_origin,boats_far_shore,historical_actual_transported,historical_arrived_safely,historical_saved,nominal_first_leg_slots
+EV-B-003-01,EV-B-C01,27900,19350,8100,450,72100,0,100,,,,80400
+EV-B-003-01,EV-B-C02,36598,25953,10125,520,63402,0,100,,,,80400
+EV-B-003-01,EV-B-C03,44523,32598,11475,450,55477,0,100,,,,80400

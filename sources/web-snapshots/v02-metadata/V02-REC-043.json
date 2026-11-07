@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-043",
+  "source_ids": [
+    "SRC-0064"
+  ],
+  "title": "FRUS 1937卷III，文件857：Atcheson致国务卿电",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1937v03/d857",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1937v03/d857",
+  "actual_access_utc": "2026-11-06T19:45:53.645Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "5a7178a49ef6bfe56b7a3248d83100de1d130f3c47ee56a6ac1a615078593369",
+  "local_path_private": "Task003A/internal/web-captures/CAP-fcf8de729ad6-20261106T194545719861Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "FRUS 1937 III d857，793.94/11494，1004号，全部文面与单段正文",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "官方编刊转录，不是电报影像；美方接收日期不能改作南京离城日",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

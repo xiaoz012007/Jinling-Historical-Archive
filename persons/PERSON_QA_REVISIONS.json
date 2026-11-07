@@ -1,0 +1,22 @@
+{
+  "status_normalization": {
+    "records": 9,
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "original_field": "inherited_claim_status"
+  },
+  "wording_corrections": [
+    {
+      "record_id": "P-001",
+      "old": "宋关于19/20/24节点不是三份任命原件；详报原件未注明时间。",
+      "new": "宋关于19/20/24节点不是三份任命原件；所读详报网络转录段未注明正式任职时间，原件未核。",
+      "reason": "避免由网页转录推知未见原件"
+    },
+    {
+      "record_id": "P-002",
+      "old": "本人回忆叙述；不能据此确定每份电报实际送达。",
+      "new": "宋希濂的战后回忆叙述；不能据此确定每份电报实际送达。",
+      "reason": "明确回忆作者，非蒋介石自述"
+    }
+  ]
+}

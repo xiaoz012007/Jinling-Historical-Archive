@@ -1,0 +1,2042 @@
+[
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 9,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 10,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 11,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 12,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 13,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 14,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 15,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/DEFENCE_AND_ROUTE_ASSIGNMENTS.csv",
+    "csv_row": 16,
+    "field": "claim_status",
+    "old": "reported_order_not_execution",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 2,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 3,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 4,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 5,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 6,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 7,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 8,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 9,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 10,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 11,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 12,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 13,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 14,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 15,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 16,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 17,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 18,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 19,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 20,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 21,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 22,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 23,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 24,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 25,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 26,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 27,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 28,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 29,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 30,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 31,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 32,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 33,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 34,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 35,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 36,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 37,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 38,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 39,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 40,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 41,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 42,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 43,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 44,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 45,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 46,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 47,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 48,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 49,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 50,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 51,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 52,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 53,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 54,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 55,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 56,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 57,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 58,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 59,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 60,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 61,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 62,
+    "field": "source_nature",
+    "old": "包内二手转录/研究数据",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 63,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 64,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 65,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 66,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 67,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 68,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "S",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 69,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 70,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 71,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 72,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 73,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 74,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 75,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 76,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 77,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 78,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 79,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 80,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 81,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/TROOP_OBSERVATIONS_81.csv",
+    "csv_row": 82,
+    "field": "source_nature",
+    "old": "见Task002来源索引载体层级",
+    "new": "T",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 9,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 10,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 11,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 12,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 13,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 14,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/COMMAND_RELATIONS.csv",
+    "csv_row": 15,
+    "field": "claim_status",
+    "old": "source_reports_relation",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_MISSION_SCHEMATIC_DATA.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "secondary_mission_description",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "inherited_pending",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 9,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 10,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 11,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 12,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 13,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 14,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 15,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 16,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 17,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 18,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 19,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 20,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 21,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 22,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 23,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 24,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 25,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 26,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 27,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 28,
+    "field": "claim_status",
+    "old": "inherited_pending",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 29,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 30,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 31,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 32,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 33,
+    "field": "claim_status",
+    "old": "reported_in_transcription_not_original_verified",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/CHINESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 34,
+    "field": "claim_status",
+    "old": "inherited_pending",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 2,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 3,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 4,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 5,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 6,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 7,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 8,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 9,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 9,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 10,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 10,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 11,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 11,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 12,
+    "field": "claim_status",
+    "old": "secondary_text_selected_recheck",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 12,
+    "field": "source_nature",
+    "old": "S",
+    "new": "unknown",
+    "reason": "当前值按来源登记表；多个性质或只见项目文件时unknown；旧载体描述保留，不认定史实状态变化。"
+  },
+  {
+    "path": "military/JAPANESE_ORDER_OF_BATTLE.csv",
+    "csv_row": 13,
+    "field": "claim_status",
+    "old": "inherited_pending",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/来源中的判断与传闻.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "尚待核实（仅指传闻内容，不作事实采用）",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 8,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 9,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 10,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 11,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 12,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 13,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 14,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 15,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 16,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 17,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 18,
+    "field": "claim_status",
+    "old": "尚待核实",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 19,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 20,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 21,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 22,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 23,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 24,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 25,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 26,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 27,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 28,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 29,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 30,
+    "field": "claim_status",
+    "old": "尚待核实",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 31,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 32,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 33,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 34,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 35,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 36,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 37,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 38,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 39,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 40,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 41,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 42,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 43,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 44,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 45,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 46,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 47,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 48,
+    "field": "claim_status",
+    "old": "尚待核实",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 49,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 50,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 51,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 52,
+    "field": "claim_status",
+    "old": "尚待核实",
+    "new": "unverified",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 53,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 54,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 55,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 56,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 57,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 58,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 59,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 60,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 61,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 62,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 63,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 64,
+    "field": "claim_status",
+    "old": "仅有单一来源支持",
+    "new": "single_source",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 65,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 66,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 67,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 68,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 69,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 70,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 71,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 72,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "csv_row": 73,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 5,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 6,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/贝德士1218六处案情原页校核.csv",
+    "csv_row": 7,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/跨年后验证据.csv",
+    "csv_row": 2,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/跨年后验证据.csv",
+    "csv_row": 3,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  },
+  {
+    "path": "international/跨年后验证据.csv",
+    "csv_row": 4,
+    "field": "claim_status",
+    "old": "有证据支持，但存在限定",
+    "new": "supported_with_limits",
+    "reason": "规范枚举；保留原值，不增加证据支持"
+  }
+]

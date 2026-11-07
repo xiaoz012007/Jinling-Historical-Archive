@@ -1,0 +1,1002 @@
+[
+  {
+    "path": "international/国际救援人员活动时间线.csv",
+    "record_id": "T3-E0219",
+    "field": "people",
+    "old": "费奇、斯迈思",
+    "new": "约翰·拉贝／南京安全区国际委员会",
+    "reason": "NMP0175署名纠正同步人物字段；INTB-R04"
+  },
+  {
+    "path": "timeline/南京保卫战统一时间线.csv",
+    "record_id": "T3-E0219",
+    "field": "actors",
+    "old": "费奇、斯迈思",
+    "new": "约翰·拉贝／南京安全区国际委员会",
+    "reason": "NMP0175署名纠正同步人物字段；INTB-R04"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U01",
+    "old_row": {
+      "question_id": "TL-U01",
+      "source_ids": "SRC-0055;SRC-0056;SRC-0058;SRC-0059;SRC-0060",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL05：国家档案局第八集，项目1 | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U01",
+      "source_ids": "SRC-0055;SRC-0058;SRC-0150",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL05：国家档案局第八集，项目1 | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "政大官职库第2页首行列026-11-24特派南京卫戍司令长官；本轮重读宋回忆19受手令、20视事/布告、24正式发表。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U02",
+    "old_row": {
+      "question_id": "TL-U02",
+      "source_ids": "SRC-0056;SRC-0057;SRC-0060",
+      "locator": "TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U02",
+      "source_ids": "SRC-0056;SRC-0057",
+      "locator": "TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "本轮重读孙授权论文34–37段两真电引文，以及唐回忆印刷p.7/PDF16的正文和编注。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U03",
+    "old_row": {
+      "question_id": "TL-U03",
+      "source_ids": "SRC-0060;SRC-0061;SRC-0062",
+      "locator": "TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③ | TL07：蒋中正总统文物／革命文献／淞沪会战与南京撤守；002-020300-00009-151；1937/12/12 | TL08：引秦孝仪编《中华民国重要史料初编·对日抗战时期第二编（作战经过二）》219–220页",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U03",
+      "source_ids": "SRC-0061;SRC-0070",
+      "locator": "TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③ | TL07：蒋中正总统文物／革命文献／淞沪会战与南京撤守；002-020300-00009-151；1937/12/12 | TL08：引秦孝仪编《中华民国重要史料初编·对日抗战时期第二编（作战经过二）》219–220页",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "官方目录002-020300-00009-151日期12/12；本轮复读目录，缩略图实际请求失败。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U04",
+    "old_row": {
+      "question_id": "TL-U04",
+      "source_ids": "SRC-0056;SRC-0058",
+      "locator": "TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U04",
+      "source_ids": "SRC-0058;SRC-0056",
+      "locator": "TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "谭网络转录文面12/12下午3时、铁道部，正文写本日晚；孙研究所见附录本（）日留空。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U05",
+    "old_row": {
+      "question_id": "TL-U05",
+      "source_ids": "SRC-0055;SRC-0057;SRC-0058",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U05",
+      "source_ids": "SRC-0055;SRC-0057;SRC-0058",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "谭记16时唐公馆；宋记17时；唐正文次日早晨，编注改12日17时。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U06",
+    "old_row": {
+      "question_id": "TL-U06",
+      "source_ids": "SRC-0055;SRC-0056;SRC-0057;SRC-0058;SRC-0060",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U06",
+      "source_ids": "SRC-0055;SRC-0056",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | TL03：2013年中国文史出版社《正面战场·南京保卫战》，印刷7页／PDF16页及注①② | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL06：《南京大学学报》2011年第1期，印刷110–113页；112页注②④、113页注②③",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "第44号新照片可核受件桂永清，但没有收讫戳；宋回忆17:30回师部后电话部署，21:30面授。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U07",
+    "old_row": {
+      "question_id": "TL-U07",
+      "source_ids": "SRC-0055;SRC-0058;SRC-0070",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL16：原刊《日本侵华史研究》2016年第4期；第三节及注42",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U07",
+      "source_ids": "SRC-0055;SRC-0058;SRC-0070;SRC-0151",
+      "locator": "TL01：第一节任命叙述；末段12月12日会议、17:30及21:30命令 | TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL16：原刊《日本侵华史研究》2016年第4期；第三节及注42",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "宋约21时渡完与谭22时抵浦口均保留；新增国史馆12/14唐罗电目录，摘要提已到滁县及六合/乌江收容。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U08",
+    "old_row": {
+      "question_id": "TL-U08",
+      "source_ids": "SRC-0067",
+      "locator": "TL13：专题导言：12月1日攻宁命令、12日撤退、13日沦陷",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U08",
+      "source_ids": "SRC-0067;SRC-0058",
+      "locator": "TL13：专题导言：12月1日攻宁命令、12日撤退、13日沦陷",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "继续保留全城13日沦陷基本日与不同城门具体进入/占领时刻的区别。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TL-U09",
+    "old_row": {
+      "question_id": "TL-U09",
+      "source_ids": "SRC-0058;SRC-0068",
+      "locator": "TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL14：002-020300-00009-153；1937/12/24",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TL-U09",
+      "source_ids": "SRC-0058;SRC-0068",
+      "locator": "TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | TL14：002-020300-00009-153；1937/12/24",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未完整解决；只推进所述载体/定位或纠正时间口径",
+      "v02_resolved": "false",
+      "current_evidence": "谭记14日奉命赴汉口；官方目录002-020300-00009-153列24日呈报。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U01",
+    "old_row": {
+      "question_id": "B-U01",
+      "source_ids": "SRC-0058;SRC-0081",
+      "locator": "TL04：第三节；12日凌晨2时、撤退命令文面15时、会议16时；第四节渡江 | V2-B11：NJ-016/NJ-033共用链接",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U01",
+      "source_ids": "",
+      "locator": "[]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "V2完整复算包内10行MD和11行XLSX；谭回忆网络转录可读，但不是1946版原表。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U02",
+    "old_row": {
+      "question_id": "B-U02",
+      "source_ids": "SRC-0081;SRC-0082",
+      "locator": "V2-B11：NJ-016/NJ-033共用链接 | V2-B12：导言与第一节开头",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U02",
+      "source_ids": "",
+      "locator": "[]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "NJ-016/NJ-033共用链接仅保存追索线索；另一程瑶、唐恺专题存在可读开头。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U03",
+    "old_row": {
+      "question_id": "B-U03",
+      "source_ids": "SRC-0071;SRC-0072;SRC-0074;SRC-0076",
+      "locator": "V2-B01：第一节；网页第32、34、64–65行 | V2-B02：末段关于守军人数的回答 | V2-B04：第三节，第66–76行 | V2-B06：项目1–6；本页88师详报第3图入口",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U03",
+      "source_ids": "",
+      "locator": "[]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "现有回忆与研究有不同单位、不同时间估数；无覆盖全军同日实点与变动底账。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U04",
+    "old_row": {
+      "question_id": "B-U04",
+      "source_ids": "SRC-0072;SRC-0073",
+      "locator": "V2-B02：末段关于守军人数的回答 | V2-B03：2003-12-15，主体长段后半",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U04",
+      "source_ids": "SRC-0127",
+      "locator": "[\"report P0125\"]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "张连红网页出现“教导总队第103和112师兵力达到3万人”排校含糊语句；MD合并103/112/宪兵/直属。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U05",
+    "old_row": {
+      "question_id": "B-U05",
+      "source_ids": "SRC-0071;SRC-0072",
+      "locator": "V2-B01：第一节；网页第32、34、64–65行 | V2-B02：末段关于守军人数的回答",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U05",
+      "source_ids": "SRC-0071",
+      "locator": "[\"song P0030/P0048\"]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "宋回忆称11/22到京残部3,000余、随后补约4,000、形成7,000余；张研究网页称11,967参战兵力。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U06",
+    "old_row": {
+      "question_id": "B-U06",
+      "source_ids": "SRC-0076",
+      "locator": "V2-B06：项目1–6；本页88师详报第3图入口",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U06",
+      "source_ids": "",
+      "locator": "[]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "官方目录可定位宪兵战斗详报；5,452与5,490作为待核候选保留。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U07",
+    "old_row": {
+      "question_id": "B-U07",
+      "source_ids": "SRC-0056;SRC-0078;SRC-0079;SRC-0080",
+      "locator": "TL02：《日本侵华南京大屠杀研究》2021年第3期；网页“命令的发现经过”“唐生智对待蒋介石撤退令”“重要价值” | V2-B08：黔军段 | V2-B09：正文履历段 | V2-B10：南京保卫战与黔军第103师，第57–62行",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U07",
+      "source_ids": "SRC-0127;SRC-0148",
+      "locator": "[\"report P0090/P0094/P0105\", \"国史馆002-090106-00012-151目录摘要\"]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "第2军团到达旧说冲突；103师有何知重/戴之奇分职及12/8撤向南京的二手线索；12/1部署令研究仅证受命。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "B-U08",
+    "old_row": {
+      "question_id": "B-U08",
+      "source_ids": "SRC-0071",
+      "locator": "V2-B01：第一节；网页第32、34、64–65行",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "B-U08",
+      "source_ids": "SRC-0071",
+      "locator": "[\"song P0048\"]",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+      "v02_resolved": "false",
+      "current_evidence": "宋回忆明确78军实际仅指挥36师；V2已对71/87、72/88、78/36采用父子项防重复规则。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU01",
+    "old_row": {
+      "question_id": "TRU01",
+      "source_ids": "SRC-0083;SRC-0084",
+      "locator": "TR-001：渡江段；转录正文有OCR错字，纸本页码未核 | TR-002：“长江号渡轮”节",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU01",
+      "source_ids": "SRC-0083",
+      "locator": "宋文末“认为有必要着重谈一下”段; 同段17时至翌7时与往返45分钟",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "两艘客渡船名、撤离日与容量单位未明"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU02",
+    "old_row": {
+      "question_id": "TRU02",
+      "source_ids": "SRC-0084;SRC-0085",
+      "locator": "TR-002：“长江号渡轮”节 | TR-003：中路、北路路线段",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU02",
+      "source_ids": "SRC-0085;SRC-0152",
+      "locator": "北路段与“1937年11月下旬”图注; 故宫官方PDF单页，印刷074页，末两段与图2注",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "长江号离宁日与北路文物日期仍未闭合"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU03",
+    "old_row": {
+      "question_id": "TRU03",
+      "source_ids": "SRC-0086;SRC-0088;SRC-0091",
+      "locator": "TR-004：“更生之兆”末段 | TR-006：“江南铁路为抗战作出巨大牺牲和贡献”节 | TR-009：1937-12-2、12-8、12-10条；原报影印本轮未核",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU03",
+      "source_ids": "SRC-0086;SRC-0088",
+      "locator": "11月25日、27日张嘉璈段; “1937年12月9日”段",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "铁路逐日列车数、编组、民用份额未知"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU04",
+    "old_row": {
+      "question_id": "TRU04",
+      "source_ids": "SRC-0083;SRC-0087;SRC-0092",
+      "locator": "TR-001：渡江段；转录正文有OCR错字，纸本页码未核 | TR-005：江南汽车公司段；页面发布日期2023-09-28 | TR-010：印刷109页/PDF第7页，注⑤⑧",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU04",
+      "source_ids": "SRC-0083;SRC-0087",
+      "locator": "宋文末“认为有必要着重谈一下”段; 江南汽车公司1937年鼎盛段",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "全年汽车规模不能推出逐日库存；小船循环、燃料装卸仍无实测"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU05",
+    "old_row": {
+      "question_id": "TRU05",
+      "source_ids": "SRC-0089;SRC-0090",
+      "locator": "TR-007：FRUS Japan 1931–1941卷I，文件385，档394.115 Panay/248，印刷页532起（威胁段533–534） | TR-008：FRUS卷I文件384，档394.115 Panay/160，电662，印刷页531–532",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU05",
+      "source_ids": "SRC-0083;SRC-0089",
+      "locator": "宋文末“认为有必要着重谈一下”段; 同段17时至翌7时与往返45分钟; FRUS d385，印刷532–534页",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "独立离城人数和净增获救仍无同口径实测；三案仅条件模型"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU06",
+    "old_row": {
+      "question_id": "TRU06",
+      "source_ids": "SRC-0089;SRC-0090;SRC-0091",
+      "locator": "TR-007：FRUS Japan 1931–1941卷I，文件385，档394.115 Panay/248，印刷页532起（威胁段533–534） | TR-008：FRUS卷I文件384，档394.115 Panay/160，电662，印刷页531–532 | TR-009：1937-12-2、12-8、12-10条；原报影印本轮未核",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU06",
+      "source_ids": "SRC-0089;SRC-0090",
+      "locator": "FRUS d385，印刷532–534页; FRUS d385，印刷535–538页; FRUS d384，印刷531–532页",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "天气、水位与具体通道状态缺逐日观测"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "TRU07",
+    "old_row": {
+      "question_id": "TRU07",
+      "source_ids": "SRC-0083",
+      "locator": "TR-001：渡江段；转录正文有OCR错字，纸本页码未核",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "TRU07",
+      "source_ids": "SRC-0083",
+      "locator": "宋文末“认为有必要着重谈一下”段",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅加强文本边界；未关闭原问题",
+      "v02_resolved": "false",
+      "current_evidence": "军用小轮跨回忆的船只同一性、移交与载量仍未闭合"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "INT-U01",
+    "old_row": {
+      "question_id": "INT-U01",
+      "source_ids": "SRC-0095;SRC-0096;SRC-0097;SRC-0104;SRC-0105;SRC-0106;SRC-0107",
+      "locator": "INT-01：Yale RG 8, Box 103, Folder 4; NMP0317, PDF第1页 | INT-02：Yale RG 8, Box 263, Folder 2; NMP0335, PDF第1页 | INT-03：Yale RG 10, Box 102, Folder 864; NMP0175, PDF第1页 | INT-10：Fitch携胶片段 | INT-11：“1938年，胶片被秘密带离南京”段 | INT-12：1938年1月19日携片行程段 | INT-13：1967 Mei Ya Publications; p.121（页码来自张纯如注释转引，原页未见）",
+      "original_boundary": "月份1938-01可采用；1/19为候选，1/23可能为到沪期限；未见原旅行证/乘车记录",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "INT-U01",
+      "source_ids": "SRC-0147;SRC-0095;SRC-0096;SRC-0097",
+      "locator": "NMP0174 p1；NMP0317 p1上；NMP0335 p1—p2顶部；NMP0175 p1反证旧归属",
+      "original_boundary": "月份1938-01可采用；1/19为候选，1/23可能为到沪期限；未见原旅行证/乘车记录",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "修正证据错配及在宁节点，未解决完整旅行日期",
+      "v02_resolved": "false",
+      "current_evidence": "本轮改核12/26下午Smythe/Fitch交涉；1/4魏函与1/6费奇信支持对应时点在宁。旧12/27Fitch原件支持系误配，已撤回。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "INT-U02",
+    "old_row": {
+      "question_id": "INT-U02",
+      "source_ids": "SRC-0104;SRC-0105;SRC-0106",
+      "locator": "INT-10：Fitch携胶片段 | INT-11：“1938年，胶片被秘密带离南京”段 | INT-12：1938年1月19日携片行程段",
+      "original_boundary": "原稿4卷不可直接保留；馆方1至4号盒与8卷报道不构成直接同单位冲突",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "INT-U02",
+      "source_ids": "SRC-0095;SRC-0096;SRC-0104;SRC-0105;SRC-0106",
+      "locator": "NMP0317 p1—3；NMP0335 p1—4；后三源沿旧研究未本轮重读",
+      "original_boundary": "原稿4卷不可直接保留；馆方1至4号盒与8卷报道不构成直接同单位冲突",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "未解决",
+      "v02_resolved": "false",
+      "current_evidence": "旧馆方盒号与报道卷数仍是不同口径；本轮两份1938合件未提供携出胶片物理清单。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "INT-U03",
+    "old_row": {
+      "question_id": "INT-U03",
+      "source_ids": "SRC-0101;SRC-0103;SRC-0110",
+      "locator": "INT-07：_原始资料/网页HTML/NJ-007_拉贝日记节选_纪念馆.html；12/14、16、18、19、20、21、22、27及案号23、71、77、93、127–129、136 | INT-09：NMP0029、0033、0034、0066、0072–0074、0124、0125、0131、0158、0317、0335 | INT-16：Yale RG 10, Box 4, Folder 59; NMP0066",
+      "original_boundary": "已核中文夹录和Yale目录；NMP0066扫描多次超时",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "INT-U03",
+      "source_ids": "SRC-0110;SRC-0101;SRC-0103;SRC-0109",
+      "locator": "NMP0066 p1人数/项1—5，p2项6，p3职衔；六项对照CSV",
+      "original_boundary": "已核中文夹录和Yale目录；NMP0066扫描多次超时",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "仅解决原问题的英文数字、六处案情文字取得与校核缺口；不宣称人数逐人核实、暴行各案全面独立互证或日方收讫已证",
+      "v02_resolved": "true",
+      "current_evidence": "NMP0066三页已逐页核读并对照中文夹录；超过17,000的当时建筑内规模及六项案情原文可定位。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "INT-U04",
+    "old_row": {
+      "question_id": "INT-U04",
+      "source_ids": "SRC-0102;SRC-0108",
+      "locator": "INT-08：包内NJ-008；12/7–20日条 | INT-14：生年段及Papers and Documents",
+      "original_boundary": "本轮读馆方译文；Yale microfilm Ms62 Vautrin.pdf为35,455,884字节，工具拒绝读取超限",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "INT-U04",
+      "source_ids": "SRC-0102;SRC-0108;SRC-0095",
+      "locator": "NJ-008 12/7—20所选活动段；NMP0317 p1—3",
+      "original_boundary": "本轮读馆方译文；Yale microfilm Ms62 Vautrin.pdf为35,455,884字节，工具拒绝读取超限",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "日记原稿缺口仍未解决；另件回顾函补证不替代它",
+      "v02_resolved": "false",
+      "current_evidence": "现有魏特琳12/7—20中文译文；本轮NMP0317两函提供另件英文后证，不能代日记。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "INT-U05",
+    "old_row": {
+      "question_id": "INT-U05",
+      "source_ids": "SRC-0097;SRC-0103",
+      "locator": "INT-03：Yale RG 10, Box 102, Folder 864; NMP0175, PDF第1页 | INT-09：NMP0029、0033、0034、0066、0072–0074、0124、0125、0131、0158、0317、0335",
+      "original_boundary": "现有已核日期不连续；本表明确留下无已核当日事件日",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "INT-U05",
+      "source_ids": "SRC-0147;SRC-0097;SRC-0103",
+      "locator": "NMP0174 p1、p3—4、p6—7；NMP0175 p1；目录所列11月函",
+      "original_boundary": "现有已核日期不连续；本表明确留下无已核当日事件日",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "部分晚12月节点新增；连续记录问题未解决",
+      "v02_resolved": "false",
+      "current_evidence": "新原件补12/26下午、12/27中午/17时文面、12/30文书节点；旧12/27Fitch节点纠错，不能据此连续排满晚12月。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "AT-U01",
+    "old_row": {
+      "question_id": "AT-U01",
+      "source_ids": "SRC-0111;SRC-0115",
+      "locator": "V2-A01：PDF第2–11页：判决正文；第12页：附件甲1–4案；第13–16页：其余集体屠杀案摘要 | V2-A05：第二部分（四）关于南京大屠杀的史料，鲁甦证词及脚注②",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "AT-U01",
+      "source_ids": "SRC-0111;SRC-0144;SRC-0115;SRC-0145",
+      "locator": "SRC-0144图；SRC-0111 PDF12甲1",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "原始结文单页影像可追溯的缺口已推进，完整卷宗及日期缺口未关闭。",
+      "v02_resolved": "false",
+      "current_evidence": "取得并实际核读官方刊鲁甦单页影像，可辨正文与署名；未见可辨具结日期。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "AT-U02",
+    "old_row": {
+      "question_id": "AT-U02",
+      "source_ids": "SRC-0111",
+      "locator": "V2-A01：PDF第2–11页：判决正文；第12页：附件甲1–4案；第13–16页：其余集体屠杀案摘要",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "AT-U02",
+      "source_ids": "SRC-0111;SRC-0144",
+      "locator": "SRC-0111 PDF3/12甲1；SRC-0144正文",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "数值出处链更清楚，精度与各阶段人数仍未解决。",
+      "v02_resolved": "false",
+      "current_evidence": "判决及新见结文均写57,418，也均述拘押期间冻饿死亡；甲1另记脱险。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "AT-U03",
+    "old_row": {
+      "question_id": "AT-U03",
+      "source_ids": "SRC-0111;SRC-0112",
+      "locator": "V2-A01：PDF第2–11页：判决正文；第12页：附件甲1–4案；第13–16页：其余集体屠杀案摘要 | V2-A02：山田栴二：印刷第2–3页/PDF8–9；宫本省吾：印刷第26、32页/PDF32、38；远藤高明：印刷第49、54–55页/PDF55、60–61",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "AT-U03",
+      "source_ids": "SRC-0111;SRC-0112;SRC-0144",
+      "locator": "SRC-0112 PDF8–9/60；SRC-0144；SRC-0111 PDF3/12",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "条目日期局部缺口已解决，但群体对应和重叠比例未解决。",
+      "v02_resolved": "false",
+      "current_evidence": "山田14日14,777与远藤16日17,025条目均已核到；鲁甦16夜与判决18夜并列。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "AT-U04",
+    "old_row": {
+      "question_id": "AT-U04",
+      "source_ids": "SRC-0111;SRC-0112",
+      "locator": "V2-A01：PDF第2–11页：判决正文；第12页：附件甲1–4案；第13–16页：其余集体屠杀案摘要 | V2-A02：山田栴二：印刷第2–3页/PDF8–9；宫本省吾：印刷第26、32页/PDF32、38；远藤高明：印刷第49、54–55页/PDF55、60–61",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "AT-U04",
+      "source_ids": "SRC-0111;SRC-0112",
+      "locator": "SRC-0112 PDF9/32/55/60；SRC-0111 PDF7–8",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "部分动作和层级已可定位；原命令及逐案全链未解决。",
+      "v02_resolved": "false",
+      "current_evidence": "远藤16日译文明确称军部命令与第1大队；山田15–16日条有联络及田山大队看管；编注说明宫本4中队、远藤8中队。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/QUESTION_SOURCE_LINKS.csv",
+    "record_id": "AT-U05",
+    "old_row": {
+      "question_id": "AT-U05",
+      "source_ids": "SRC-0111",
+      "locator": "V2-A01：PDF第2–11页：判决正文；第12页：附件甲1–4案；第13–16页：其余集体屠杀案摘要",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级"
+    },
+    "new_row": {
+      "question_id": "AT-U05",
+      "source_ids": "SRC-0111;SRC-0146",
+      "locator": "SRC-0111 PDF3/12甲1–3/14甲16；SRC-0146正文4/5项",
+      "original_boundary": "未获得足够证据；不作定值或唯一结论",
+      "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+      "evidence_status": "尚待核实",
+      "task003a_status": "原状态继承，无新史实升级",
+      "v02_resolution_scope": "局部跨案误引与重复阶段计数已修，宝塔桥等全案去重尚未完成。",
+      "v02_resolved": "false",
+      "current_evidence": "已分别建立鱼雷营、华侨招待所至中山码头、草鞋峡、汉中门实体及阶段。鱼雷营9000余是被俘群体且有9逃者；码头5000余有2逃者。"
+    },
+    "reason": "同步34问题当前证据；Task003-A状态字段保留历史含义"
+  },
+  {
+    "path": "unresolved/UNAVAILABLE_OR_WITHHELD_SOURCES.csv",
+    "record_id": "SRC-0095",
+    "old_row": {
+      "source_id": "SRC-0095",
+      "title": "魏特琳致 Ruth Chester，1938-01-04",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0317.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "new_row": {
+      "source_id": "SRC-0095",
+      "title": "魏特琳1938年1月4日及1月6日两函副本合件",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0317.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "reason": "同步经原页核读的题名"
+  },
+  {
+    "path": "unresolved/UNAVAILABLE_OR_WITHHELD_SOURCES.csv",
+    "record_id": "SRC-0096",
+    "old_row": {
+      "source_id": "SRC-0096",
+      "title": "George Fitch 致友人，1938-01-06",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0335.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "new_row": {
+      "source_id": "SRC-0096",
+      "title": "费奇1938年1月6日信及1937年平安夜记述第一篇合件",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0335.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "reason": "同步经原页核读的题名"
+  },
+  {
+    "path": "unresolved/UNAVAILABLE_OR_WITHHELD_SOURCES.csv",
+    "record_id": "SRC-0097",
+    "old_row": {
+      "source_id": "SRC-0097",
+      "title": "斯迈思致日本使馆，1937-12-27",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0175.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "new_row": {
+      "source_id": "SRC-0097",
+      "title": "拉贝致日本使馆福井：请求运送米粮与煤炭",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0175.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "reason": "同步经原页核读的题名"
+  },
+  {
+    "path": "unresolved/UNAVAILABLE_OR_WITHHELD_SOURCES.csv",
+    "record_id": "SRC-0099",
+    "old_row": {
+      "source_id": "SRC-0099",
+      "title": "斯迈思致福田，1937-12-16",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0156.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "new_row": {
+      "source_id": "SRC-0099",
+      "title": "国际委员会致福田函（打字署拉贝，手签斯迈思）",
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "fulltext_public": "false",
+      "why": "未见该载体可整件公开再分发的明确许可；书目事实、自写研究结论和命题关联可公开。",
+      "known_urls": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0156.pdf",
+      "next_action": "按原入口补访问/调档及逐件权利核实，未找到证据不等于不存在。"
+    },
+    "reason": "同步经原页核读的题名"
+  }
+]

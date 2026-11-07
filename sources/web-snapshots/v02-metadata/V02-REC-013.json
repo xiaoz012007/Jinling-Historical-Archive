@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-013",
+  "source_ids": [
+    "SRC-0090"
+  ],
+  "title": "Grew致国务卿电，1937-12-20",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d384",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d384",
+  "actual_access_utc": "2026-11-06T19:45:59.021Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "abeb263da52bc446a3e5d2be39d1d68fc6c8f7fa8f3d4c2f61f0154e783936bb",
+  "local_path_private": "Task003A/internal/web-captures/CAP-56ec6c12830d-20261106T194545718819Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "FRUS d384，印刷531–532页",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "命令不等于执行完成；无原命令/执行日志，不能认定12/12浦口封锁已完成。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

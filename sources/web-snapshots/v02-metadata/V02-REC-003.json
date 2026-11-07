@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-003",
+  "source_ids": [
+    "SRC-0113"
+  ],
+  "title": "IMTFE Judgment, Chapter VIII, The Rape of Nanking",
+  "original_url": "https://www.ibiblio.org/hyperwar/PTO/IMTFE/IMTFE-8.html",
+  "final_url": "https://www.ibiblio.org/hyperwar/PTO/IMTFE/IMTFE-8.html",
+  "actual_access_utc": null,
+  "request_method": "reuse_existing_local_file",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "6f11d062347e03ecd0a6c190b6c5a8ed29d0783cd947b85090e6b3eab04e0d96",
+  "local_path_private": "Task003A/internal/web-captures/CAP-4901dd8e9a66-20261106T194927623310Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "原印刷页1011–1018；人数见1013–1015",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "复用Task003A原HTML并读指定章节；网页有转录错字。两法院范围和所采材料不同，不能用两判决相加或相互替代。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

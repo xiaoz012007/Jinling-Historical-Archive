@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-022",
+  "source_ids": [
+    "SRC-0147"
+  ],
+  "title": "安全区文书合件：12/26交涉函、案表、12/27煤炭函、布告英译、12/30函及案表",
+  "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0174.pdf",
+  "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0174.pdf",
+  "actual_access_utc": "2026-11-06T20:50:32.641762+00:00",
+  "request_method": "new_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "0b6ece58cd49da387c71cf8cf52c63a3c5f64d220b2c4eb397f374000a25313a",
+  "local_path_private": "Task003_Run/internal/international/NMP0174/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0174 PDF 1—7页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。 本合件缺案号137—143及155—160，不能把它当完整案件系列；同件译文不增独立证据。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

@@ -1,0 +1,531 @@
+{
+  "created_at_utc": "2026-11-06T20:58:12.891590+00:00",
+  "input_files": [
+    {
+      "path": "source_readonly/金陵不退_史料数据库/02_中国守军/战斗序列.xlsx",
+      "sha256": "e78baf472bc41238b2cb1d6960ff004795e156c3aeb090b7d55290a1755f5c6b",
+      "bytes": 6886
+    },
+    {
+      "path": "Task002_V2/02_中国守军兵力表.xlsx",
+      "sha256": "9e9f3acdf14474f84889afa4dd91dfe38a0e944c18c070e7262e826c930d5607",
+      "bytes": 15105
+    },
+    {
+      "path": "Task003/Jinling-BuTui-Historical-Database/military/标准化兵力观察.csv",
+      "sha256": "0f7d0f3491b531cb7dc310c18b24dc36633d618e8db271c2e3c213c14eee39e4",
+      "bytes": 42103
+    },
+    {
+      "path": "Task003/Jinling-BuTui-Historical-Database/models/recalculate_troops.py",
+      "sha256": "011abf64ed9694614b3ac35aa1b35169c7633992fc689140a58d8efba7af03ce",
+      "bytes": 1626
+    },
+    {
+      "path": "Task003/Jinling-BuTui-Historical-Database/models/troops_arithmetic_inputs.json",
+      "sha256": "11fa212150e730d14b194ccdc42410d8456fcd429669fdeb61d09fc6b0914a41",
+      "bytes": 2588
+    }
+  ],
+  "checks": [
+    {
+      "check": "原XLSX逐行与V2数据转录一致",
+      "pass": true,
+      "details": [
+        11000,
+        6000,
+        5000,
+        6000,
+        10000,
+        6000,
+        5000,
+        8000,
+        4000,
+        3000,
+        4000
+      ]
+    },
+    {
+      "check": "原XLSX11行合计",
+      "pass": true,
+      "details": 68000
+    },
+    {
+      "check": "V2数据13个单位实有字段仍未知",
+      "pass": true,
+      "details": {
+        "confirmed_total": null,
+        "units": 13,
+        "actual_combat_nulls": 13,
+        "actual_total_nulls": 13
+      }
+    },
+    {
+      "check": "81观察ID唯一/13值空/全部禁止历史加总",
+      "pass": true,
+      "details": {
+        "rows": 81,
+        "missing_values": 13
+      }
+    },
+    {
+      "check": "严格复算器当前输入",
+      "pass": true,
+      "details": {
+        "nature": "I",
+        "scope": "不同转录数组分别复算，不跨组相加，不生成历史全军实有总数",
+        "xlsx_combat_sum": 68000,
+        "md_combat_sum": 49000,
+        "md_auxiliary_sum": 31000,
+        "md_combat_plus_auxiliary": 80000,
+        "md_original_total_column_sum": 58500,
+        "md_loss_column_sum": 35500,
+        "historical_actual_total": null,
+        "historical_status": "原始同日实力册、人员口径与去重边界未闭合"
+      }
+    },
+    {
+      "check": "缺值与非法人数拒绝",
+      "pass": true,
+      "details": [
+        {
+          "input": "null",
+          "rejected": true
+        },
+        {
+          "input": "blank",
+          "rejected": true
+        },
+        {
+          "input": "boolean",
+          "rejected": true
+        },
+        {
+          "input": "nan",
+          "rejected": true
+        },
+        {
+          "input": "negative",
+          "rejected": true
+        },
+        {
+          "input": "fraction",
+          "rejected": true
+        }
+      ]
+    },
+    {
+      "check": "显式零与未知区分",
+      "pass": true,
+      "details": {
+        "nature": "I",
+        "scope": "不同转录数组分别复算，不跨组相加，不生成历史全军实有总数",
+        "xlsx_combat_sum": 57000,
+        "md_combat_sum": 49000,
+        "md_auxiliary_sum": 31000,
+        "md_combat_plus_auxiliary": 80000,
+        "md_original_total_column_sum": 58500,
+        "md_loss_column_sum": 35500,
+        "historical_actual_total": null,
+        "historical_status": "原始同日实力册、人员口径与去重边界未闭合"
+      }
+    },
+    {
+      "check": "代表输入扰动",
+      "pass": true,
+      "details": {
+        "mutated_sum": 68001,
+        "old_files_modified": false
+      }
+    },
+    {
+      "check": "V2全部公式独立复算与缓存一致",
+      "pass": true,
+      "details": {
+        "formula_count": 37,
+        "errors": []
+      }
+    },
+    {
+      "check": "工作簿缓存错误扫描",
+      "pass": true,
+      "details": []
+    },
+    {
+      "check": "首页保持未知历史总数",
+      "pass": true,
+      "details": {
+        "value": "未确定",
+        "formula": null,
+        "type": "str"
+      }
+    }
+  ],
+  "all_current_checks_pass": true,
+  "formula_inventory": [
+    {
+      "sheet": "核算结论",
+      "cell": "B2",
+      "value": 68000,
+      "formula": "'原XLSX复算'!F13",
+      "type": "n",
+      "independent_result": 68000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "核算结论",
+      "cell": "B4",
+      "value": 19000,
+      "formula": "B2-B3",
+      "type": "n",
+      "independent_result": 19000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "核算结论",
+      "cell": "B5",
+      "value": 49000,
+      "formula": "'MD转录复算'!B12",
+      "type": "n",
+      "independent_result": 49000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "核算结论",
+      "cell": "B6",
+      "value": 31000,
+      "formula": "'MD转录复算'!C12",
+      "type": "n",
+      "independent_result": 31000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "核算结论",
+      "cell": "B7",
+      "value": 80000,
+      "formula": "'MD转录复算'!D12",
+      "type": "n",
+      "independent_result": 80000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "核算结论",
+      "cell": "B8",
+      "value": 35500,
+      "formula": "'MD转录复算'!H12",
+      "type": "n",
+      "independent_result": 35500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "原XLSX复算",
+      "cell": "F13",
+      "value": 68000,
+      "formula": "SUM(F2:F12)",
+      "type": "n",
+      "independent_result": 68000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "原XLSX复算",
+      "cell": "F15",
+      "value": 19000,
+      "formula": "F13-F14",
+      "type": "n",
+      "independent_result": 19000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D2",
+      "value": 18000,
+      "formula": "SUM(B2:C2)",
+      "type": "n",
+      "independent_result": 18000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G2",
+      "value": 10000,
+      "formula": "D2-E2",
+      "type": "n",
+      "independent_result": 10000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D3",
+      "value": 7000,
+      "formula": "SUM(B3:C3)",
+      "type": "n",
+      "independent_result": 7000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G3",
+      "value": 0,
+      "formula": "D3-E3",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D4",
+      "value": 5500,
+      "formula": "SUM(B4:C4)",
+      "type": "n",
+      "independent_result": 5500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G4",
+      "value": 3500,
+      "formula": "D4-E4",
+      "type": "n",
+      "independent_result": 3500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D5",
+      "value": 6000,
+      "formula": "SUM(B5:C5)",
+      "type": "n",
+      "independent_result": 6000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G5",
+      "value": -1000,
+      "formula": "D5-E5",
+      "type": "n",
+      "independent_result": -1000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D6",
+      "value": 6000,
+      "formula": "SUM(B6:C6)",
+      "type": "n",
+      "independent_result": 6000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G6",
+      "value": 0,
+      "formula": "D6-E6",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D7",
+      "value": 7000,
+      "formula": "SUM(B7:C7)",
+      "type": "n",
+      "independent_result": 7000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G7",
+      "value": 0,
+      "formula": "D7-E7",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D8",
+      "value": 6500,
+      "formula": "SUM(B8:C8)",
+      "type": "n",
+      "independent_result": 6500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G8",
+      "value": 0,
+      "formula": "D8-E8",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D9",
+      "value": 7000,
+      "formula": "SUM(B9:C9)",
+      "type": "n",
+      "independent_result": 7000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G9",
+      "value": 0,
+      "formula": "D9-E9",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D10",
+      "value": 11000,
+      "formula": "SUM(B10:C10)",
+      "type": "n",
+      "independent_result": 11000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G10",
+      "value": 9000,
+      "formula": "D10-E10",
+      "type": "n",
+      "independent_result": 9000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D11",
+      "value": 6000,
+      "formula": "SUM(B11:C11)",
+      "type": "n",
+      "independent_result": 6000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G11",
+      "value": 0,
+      "formula": "D11-E11",
+      "type": "n",
+      "independent_result": 0,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "B12",
+      "value": 49000,
+      "formula": "SUM(B2:B11)",
+      "type": "n",
+      "independent_result": 49000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "C12",
+      "value": 31000,
+      "formula": "SUM(C2:C11)",
+      "type": "n",
+      "independent_result": 31000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D12",
+      "value": 80000,
+      "formula": "SUM(D2:D11)",
+      "type": "n",
+      "independent_result": 80000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "E12",
+      "value": 58500,
+      "formula": "SUM(E2:E11)",
+      "type": "n",
+      "independent_result": 58500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "F12",
+      "value": 80000,
+      "formula": "SUM(F2:F11)",
+      "type": "n",
+      "independent_result": 80000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "G12",
+      "value": 21500,
+      "formula": "SUM(G2:G11)",
+      "type": "n",
+      "independent_result": 21500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "H12",
+      "value": 35500,
+      "formula": "SUM(H2:H11)",
+      "type": "n",
+      "independent_result": 35500,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D13",
+      "value": 8000,
+      "formula": "C12-B13",
+      "type": "n",
+      "independent_result": 8000,
+      "cache_matches": true
+    },
+    {
+      "sheet": "MD转录复算",
+      "cell": "D14",
+      "value": -500,
+      "formula": "H12-B14",
+      "type": "n",
+      "independent_result": -500,
+      "cache_matches": true
+    }
+  ],
+  "remaining_limits": [
+    {
+      "id": "MIL-M01",
+      "severity": "input-edit-risk",
+      "finding": "旧XLSX SUM对后续删空输入仍算出部分合计",
+      "demonstration": {
+        "in_memory_F2": null,
+        "result": 57000
+      },
+      "resolution": "不改旧簿；新严格复算器拒空；历史人数缺值始终不参与历史总数"
+    },
+    {
+      "id": "MIL-M02",
+      "severity": "maintenance-risk",
+      "finding": "旧簿49000在原XLSX复算F14与核算结论B3各存一份；目前一致，未来编辑可能漂移",
+      "resolution": "当前值核对，旧簿冻结保留；新计算以单一原尾输入为准"
+    },
+    {
+      "id": "MIL-M03",
+      "severity": "evidence-open",
+      "finding": "81条观察没有获得新的同日统一实有底账；实际总数未知",
+      "resolution": "不输出68k/49k/80k任一为全军历史实际人数"
+    },
+    {
+      "id": "MIL-M04",
+      "severity": "engine-limit",
+      "finding": "本轮采用ZIP/XML+Python独立公式计算及严格复算器；未启动桌面Excel，不声明原生Excel交互验收",
+      "resolution": "旧簿无内容或版式变动，因此不重复渲染旧工作簿"
+    }
+  ],
+  "historical_actual_total": null
+}

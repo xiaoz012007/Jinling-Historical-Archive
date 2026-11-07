@@ -1,3 +1,11 @@
+# 当前公开版本：Task003-B V0.2候选
+
+PR #1已合并，merge commit为ffc6968e829c1ea881f6a07c05cd9112ee8d6f7d。V0.2沿用其基础，新增研究已通过最终质量复核，以独立PR提交，不自动合并。当前内容与未通过目标见[TASK003_RESEARCH_REPORT.md](TASK003_RESEARCH_REPORT.md)。
+
+本轮不公开新取得的第三方HTML、PDF或档案图片。原5组FRUS10载荷逐hash保留；原创模型和SVG可公开不等于其中参考的第三方材料获统一许可。
+
+以下为Task003-A发布范围历史记录，不是当前源数和事件数。
+
 # 公开发布状态
 
 ## Task003-A 第一批

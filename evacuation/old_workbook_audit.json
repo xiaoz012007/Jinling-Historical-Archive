@@ -1,0 +1,50 @@
+[
+  {
+    "path": "Task002_V2/02_中国守军兵力表.xlsx",
+    "sha256": "9e9f3acdf14474f84889afa4dd91dfe38a0e944c18c070e7262e826c930d5607",
+    "readonly": true,
+    "sheet_names": [
+      "核算结论",
+      "原XLSX复算",
+      "MD转录复算",
+      "V2兵力证据",
+      "兵力修订日志"
+    ],
+    "formula_counts": {
+      "xl/worksheets/sheet1.xml": 6,
+      "xl/worksheets/sheet2.xml": 2,
+      "xl/worksheets/sheet3.xml": 29,
+      "xl/worksheets/sheet4.xml": 0,
+      "xl/worksheets/sheet5.xml": 0
+    },
+    "unchanged_from_preparation": true
+  },
+  {
+    "path": "Task002_V2/03_平民撤离运力模型.xlsx",
+    "sha256": "d5b7116b6844b9ce4ab6273d80a7ec091f74a7cf3c40af41693cba7596c24527",
+    "readonly": true,
+    "sheet_names": [
+      "当前情景",
+      "情景参数",
+      "阶段边界",
+      "路线计算",
+      "阶段结果",
+      "三情景初始摘要",
+      "旧表逐行复算",
+      "客渡独立敏感性",
+      "模型口径"
+    ],
+    "formula_counts": {
+      "xl/worksheets/sheet1.xml": 3,
+      "xl/worksheets/sheet2.xml": 20,
+      "xl/worksheets/sheet3.xml": 6,
+      "xl/worksheets/sheet4.xml": 105,
+      "xl/worksheets/sheet5.xml": 23,
+      "xl/worksheets/sheet6.xml": 65,
+      "xl/worksheets/sheet7.xml": 21,
+      "xl/worksheets/sheet8.xml": 14,
+      "xl/worksheets/sheet9.xml": 0
+    },
+    "unchanged_from_preparation": true
+  }
+]

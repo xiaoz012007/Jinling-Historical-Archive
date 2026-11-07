@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-009",
+  "source_ids": [
+    "SRC-0086"
+  ],
+  "title": "赵柏田《危急与更生：张嘉璈经历的淞沪会战》",
+  "original_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+  "final_url": "https://xinwen.bjd.com.cn/content/s5f63213ee4b012216a00b468.html",
+  "actual_access_utc": "2026-11-06T19:49:47.000Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "74c7ade174c6c2a972c7389695c220775c5d7842921dab588decd52578dfa6d2",
+  "local_path_private": "Task003A/internal/web-captures/CAP-12608efbffd1-20261106T194940183073Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "11月25日、27日张嘉璈段",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "未阅日记原本；德和为具名船，不等于两客渡或每日可调用客轮池。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-018",
+  "source_ids": [
+    "SRC-0100"
+  ],
+  "title": "拉贝致日本使馆请田中注意函",
+  "original_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0161.pdf",
+  "final_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0161.pdf",
+  "actual_access_utc": "2026-11-06T19:48:03.980Z",
+  "request_method": "reuse_Task003A_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "f7d389ab31570f4a860d5797d3bebc6ecb3413c24cfdcbed09492163fb3acf1c",
+  "local_path_private": "Task003A/internal/web-captures/CAP-9bc20b4f3104-20261106T194759203895Z/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0161 PDF 1—1页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

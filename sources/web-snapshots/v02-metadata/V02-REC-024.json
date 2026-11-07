@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-024",
+  "source_ids": [
+    "SRC-0108"
+  ],
+  "title": "Yale: Minnie Vautrin",
+  "original_url": "https://adhoc.yalepages.org/Collections/Nanking/Vautrin.html",
+  "final_url": "https://adhoc.yalepages.org/Collections/Nanking/Vautrin.html",
+  "actual_access_utc": "2026-11-06T19:47:47.572Z",
+  "request_method": "reuse_Task003A_HTML_selected_text",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "26c3b40bf3b65174c6fe9368244038e83e53eaff0ab4c771896ee1ede2c1c350",
+  "local_path_private": "Task003A/internal/web-captures/CAP-215906397211-20261106T194740341069Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "人物简介首段及校园管理段",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "保管机构后设简介；不能称1937任职原令。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

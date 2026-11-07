@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-044",
+  "source_ids": [
+    "SRC-0065"
+  ],
+  "title": "FRUS 1937卷III，文件872：三日停战提案",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1937v03/d872",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1937v03/d872",
+  "actual_access_utc": "2026-11-06T19:46:15.449Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "4cc3893746d16d9de4f674e064818d60a52ff4074194b2e8ad357c8b779e39bd",
+  "local_path_private": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "FRUS 1937 III d872，793.94/11549，1026号，p.781–782及注95",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "一文多个命题不增加独立证源；转递不等于蒋批准或日方接受",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

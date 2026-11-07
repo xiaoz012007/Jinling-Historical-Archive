@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-034",
+  "source_ids": [
+    "SRC-0119"
+  ],
+  "title": "命 巻2 3部の内1号（1）之大陸命8号候选页",
+  "original_url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+  "final_url": "https://www.jacar.archives.go.jp/das/meta/C14060903700",
+  "actual_access_utc": null,
+  "request_method": "web search/open; tool-rendered response retained, not original HTTP payload",
+  "http_status": null,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "d4b6d64e97784ebf06d3a65943a43289150f929bc1c08346a026f1966b52053c",
+  "local_path_private": "Task003_Run/internal/military/japanese/01_existing_meta_attempts.json",
+  "read_scope": "failed",
+  "reading_locator": "旧图17定位仍仅第三方线索；本轮未取得该页官方目录或扫描",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "直达页403；检索索引不等于官方页面本轮成功下载，更不等于档案原图。不能据此确认正式编组令、全部父子关系、精确兵额。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-021",
+  "source_ids": [
+    "SRC-0096"
+  ],
+  "title": "费奇1938年1月6日信及1937年平安夜记述第一篇合件",
+  "original_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0335.pdf",
+  "final_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0335.pdf",
+  "actual_access_utc": "2026-11-06T19:48:19.541Z",
+  "request_method": "reuse_Task003A_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "896d97e857dcbe67e38ebe8003d5db204cd63eeafbf0be1659ad20f6508695d5",
+  "local_path_private": "Task003A/internal/web-captures/CAP-1c43f5d4b5fe-20261106T194814351990Z/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0335 PDF 1—4页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。 p4左缘局部文字损失；重要摘用处仍可辨；唐处死是所闻消息，不能转为事实。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

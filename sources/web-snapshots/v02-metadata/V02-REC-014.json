@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-014",
+  "source_ids": [
+    "SRC-0152"
+  ],
+  "title": "故宫网站铁路轮渡与文物西迁研究单页（印刷074页；篇名待定）",
+  "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+  "final_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+  "actual_access_utc": "2026-11-06T20:58:08.261224+00:00",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+  "local_path_private": "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf",
+  "read_scope": "selected_pages",
+  "reading_locator": "印刷074页；PDF1/1",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "仅一页，题名作者刊期与注4–9正文未取得；研究论断含推论词，不作为独立原始运输日志。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

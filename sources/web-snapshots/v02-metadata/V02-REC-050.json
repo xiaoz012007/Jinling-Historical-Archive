@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-050",
+  "source_ids": [
+    "SRC-0150"
+  ],
+  "title": "政大中华民国政府官职资料库：唐生智第21笔任职记录",
+  "original_url": "https://gpost.lib.nccu.edu.tw/view_career.php?&name=%E5%94%90%E7%94%9F%E6%99%BA&pagenumber=20&order=default&orderype=asc&tpl=rough&page=2",
+  "final_url": "https://gpost.lib.nccu.edu.tw/view_career.php?&name=%E5%94%90%E7%94%9F%E6%99%BA&pagenumber=20&order=default&orderype=asc&tpl=rough&page=2",
+  "actual_access_utc": "2026-11-06T20:49:10.050825+00:00",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "2cb6a6fbd729ccc1661553b31ab407f1d19e7b75dfebafc34854984938731305",
+  "local_path_private": "Task003_Run/internal/timeline/NCCU_Tang_office_p2.html",
+  "read_scope": "catalog_only",
+  "reading_locator": "唐生智列表第2页第1行：命令日期026-11-24/特派/南京卫戍司令长官",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "大学结构化目录；未提供本页所据公报原图与页码，不作亲见任命令",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

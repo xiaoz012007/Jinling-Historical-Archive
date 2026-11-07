@@ -1,0 +1,18 @@
+{
+  "claim_id": "MIL-C-LIU-01",
+  "record_role": "historical_claim",
+  "claim_status": "supported_with_limits",
+  "source_ids": [
+    "SRC-0148"
+  ],
+  "locator": "网页内容描述与卷件开始/结束日期；web turn122view0 L40,L69–91",
+  "event_date": "1937-12-15",
+  "time_role": "document_formation",
+  "date_basis": "目录卷件起讫日，非发出或收到时刻",
+  "summary": "官方目录收录刘兴12/15电的摘要：曾经唐生智转蒋手令派为南京卫戍副长官兼26集团军总司令，电中称总司令职已令徐源泉继任。",
+  "formal_appointment_date": null,
+  "actual_handover_date": null,
+  "limitations": "只能认定目录确列该12/15电及摘要；不能补原手令日期、实际接任/卸任日期或该电发收时刻。原件入口turn124view0重定向循环；缩略图未释读。",
+  "inherited_claim_status": "catalog_only",
+  "reading_level": "catalog_only"
+}

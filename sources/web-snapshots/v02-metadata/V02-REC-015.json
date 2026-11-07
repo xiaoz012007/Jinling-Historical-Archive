@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-015",
+  "source_ids": [
+    "SRC-0110"
+  ],
+  "title": "金陵大学紧急委员会主席致日本使馆函",
+  "original_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0066.pdf",
+  "final_url": "https://divinity-adhoc.library.yale.edu/Nanking/Images/NMP0066.pdf",
+  "actual_access_utc": "2026-11-06T19:47:48.131Z",
+  "request_method": "reuse_Task003A_capture_then_visual_read",
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008",
+  "local_path_private": "Task003A/internal/web-captures/CAP-fd1963ef6ee4-20261106T194740341475Z/original.pdf",
+  "read_scope": "full_document",
+  "reading_locator": "NMP0066 PDF 1—3页",
+  "reading_utc": "2026-11-06T21:02:30.998119+00:00",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "读完现存PDF全部页不等于原文书附件齐全；未核实体原件；扫描是资料性质P，命题状态另列。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

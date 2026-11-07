@@ -1,0 +1,19 @@
+{
+  "created_at_utc": "2026-11-06T20:58:12.891590+00:00",
+  "chinese_units": 33,
+  "relations": 14,
+  "formal_relations_verified": 0,
+  "assignment_events": 15,
+  "coordinates_populated": 0,
+  "observations": 81,
+  "model_checks_pass": true,
+  "source_ids_resolve": true,
+  "japanese_units": 12,
+  "japanese_relationships": 11,
+  "japanese_claims": 9,
+  "japanese_missions": 7,
+  "new_catalog_sources": 2,
+  "new_primary_image_pages": 0,
+  "reused_html_documents": 4,
+  "all_formal_edges_unverified": true
+}

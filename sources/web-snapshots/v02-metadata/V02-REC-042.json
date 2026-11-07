@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-042",
+  "source_ids": [
+    "SRC-0063"
+  ],
+  "title": "FRUS 1931–1941，日本卷I，文件302",
+  "original_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d302",
+  "final_url": "https://history.state.gov/historicaldocuments/frus1931-41v01/d302",
+  "actual_access_utc": "2026-11-06T19:46:04.125Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "e4b742f3b2d5c5061c4ac5133952b5fe124744e7222905460cddc87a1156d27f",
+  "local_path_private": "Task003A/internal/web-captures/CAP-bcf35b204f4e-20261106T194545718462Z/original.html",
+  "read_scope": "selected_pages",
+  "reading_locator": "FRUS Japan 1931–1941 I d302，印刷p.424，第三及第五问题段，注65b",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "外交部11/20说明在该报告中被提及；附件未刊",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

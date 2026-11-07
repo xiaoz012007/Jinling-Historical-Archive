@@ -1,0 +1,87 @@
+{
+  "as_of_utc": "2026-11-06T23:19:56.902726+00:00",
+  "checks": 8767,
+  "errors": [],
+  "passed_structural_checks": true,
+  "csv_tables": 47,
+  "json_files": 212,
+  "source_records": 152,
+  "timeline_dated_records": 157,
+  "timeline_total_records_including_gaps_interpretations": 264,
+  "original_questions": 34,
+  "limited_resolved_questions": [
+    "INT-U03"
+  ],
+  "fiction_decisions": 9,
+  "reading_carrier_hashes_checked": 51,
+  "protected_inputs": 565,
+  "protected_mismatches": [],
+  "manifest_sha256": "298278c16590b14c9ddedd35630444866e073cdfd3c46536d97577b99f2eac73",
+  "manifest_mismatches": [],
+  "scope_note": "结构检查不是全部史实已证；CSV/JSON空字符串与省略字段按等价空值比较。",
+  "status": "passed_for_limited_research_release_in_reviewed_scope",
+  "blocking_findings": [],
+  "historical_baseline_unconditionally_verified": false,
+  "review_scope": "内容/来源定位抽核、当前字段传播、CSV/JSON/引用/原值/哈希完整性；模型独立复算和版权审查另见专题QA",
+  "frozen_candidate_files": 356,
+  "frozen_manifest_entries": 355,
+  "repository_validator": {
+    "checks": 16239,
+    "errors": [],
+    "passed": true
+  },
+  "visual_samples": {
+    "pages_or_images": 12,
+    "distinct_carriers": 10,
+    "items": [
+      "NMP0174 p1",
+      "NMP0175 p1",
+      "NMP0156 p2",
+      "NMP0317 p1",
+      "NMP0335 p2",
+      "NMP0066 p1–3",
+      "第44号照片",
+      "鲁甦结文图",
+      "谷寿夫判决 PDF12",
+      "宫本日记中文译本 PDF38/印刷32"
+    ]
+  },
+  "closed_findings": [
+    {
+      "id": "V02-QA01",
+      "issue": "EV-A claim_status中文枚举",
+      "result": "当前规范状态且原值保留"
+    },
+    {
+      "id": "V02-QA02",
+      "issue": "INT-U03当前字段仍称未读",
+      "result": "当前已改为剩余限制，原问题与旧值保留"
+    },
+    {
+      "id": "V02-QA03",
+      "issue": "SRC-0110载体字段仍称读取失败",
+      "result": "当前三页已读、未见物理原件；旧值保留"
+    },
+    {
+      "id": "V02-QA04",
+      "issue": "SRC-0152 local_path被替换为不存在路径",
+      "result": "真实NEW-evacuation-01.pdf恢复，所有51载体hash一致"
+    }
+  ],
+  "unmet_research_goals": [
+    "任命及交接原件全链",
+    "撤退电文完整收发阅件与逐级接令链",
+    "各部同日实力与完整正式序列",
+    "真实交通班次与去重实运/抵达/幸存数",
+    "暴行案日期/人数/执行命令链及证言形成史",
+    "部分继承命题尚未逐条收窄原刊页码",
+    "全部第三方全文公开许可",
+    "Excel桌面原生验证"
+  ],
+  "allowed_post_freeze_delta": [
+    "添加独立QA报告和机器结果",
+    "研究报告最终QA状态改为实际结果",
+    "SHA256SUMS.txt刷新"
+  ],
+  "post_append_recheck_required": true
+}

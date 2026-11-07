@@ -1,0 +1,8 @@
+﻿mission_id,unit,reported_mission,source_ids,locator,record_role,claim_status,time_scope,latitude,longitude,execution_verified,limitations,inherited_claim_status
+JP-M01,第9师团,金坛—淳化镇；准备光华门/中山门/太平门方向,SRC-0022,HTMLParser非空文本段74,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,计划方向；没有采用各城门实际到达时刻,secondary_mission_description
+JP-M02,第16师团,句容—汤山—马群；准备中央门两侧方向,SRC-0022,HTMLParser非空文本段79,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,仅取任务方向；该段41师/句容叙述待核,secondary_mission_description
+JP-M03,第13师团主力,镇江渡江—仪征—六合—滁县方向,SRC-0022,HTMLParser非空文本段78,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,主力与抽出的山田支队分开；不绘同时占领面,secondary_mission_description
+JP-M04,第114师团,溧阳—溧水—秣陵关；准备中华门方向,SRC-0022,HTMLParser非空文本段81,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,编译任务，非已核逐日轨迹,secondary_mission_description
+JP-M05,第6师团,随114师团南进；中华门及以西诸门方向,SRC-0022,HTMLParser非空文本段83,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,部署项不等于所有师团部队同日抵城,secondary_mission_description
+JP-M06,第18师团,原拟南京方向；改为宁国—宣城—芜湖,SRC-0022,HTMLParser非空文本段85–86,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,外围截断任务；不画南京城垣攻城箭头,secondary_mission_description
+JP-M07,国崎支队,当涂渡江—江北—浦口迂回方向,SRC-0022,HTMLParser非空文本段87,historical_claim,supported_with_limits,编译南京方向部署叙述；无统一切片日,,,false,母部队、临时任务和到达/占领时间须分别核,secondary_mission_description

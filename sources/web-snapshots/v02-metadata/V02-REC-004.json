@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-004",
+  "source_ids": [
+    "SRC-0144"
+  ],
+  "title": "鲁甦陈述日军在草鞋峡集体屠杀的结文（江苏档案网页刊图）",
+  "original_url": "https://www.dajs.gov.cn/picture/0/s_2202080848493633838.jpg",
+  "final_url": "https://www.dajs.gov.cn/picture/0/s_2202080848493633838.jpg",
+  "actual_access_utc": "2026-11-06T20:50:40.331674+00:00",
+  "request_method": "urllib.request GET default network/TLS",
+  "http_status": 200,
+  "snapshot_kind": "new_private_response",
+  "raw_sha256": "64fffac8d32d9f95a4f5d42f71f6554b11c2cdb48a592c6bdd081163139e00c7",
+  "local_path_private": "Task003_Run/internal/atrocities/lusu-statement-image.jpg",
+  "read_scope": "selected_pages",
+  "reading_locator": "网页第5幅档案图；影像正文右起第1–8列，底部姓名等栏",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "影像可辨16日夜、57,418、拘押冻饿、脱险者；所见图无可辨具结日期。页面总称该档案群183卷、1937–1947，不将此当单件档号或日期。与谷判所引鲁甦链有关，非独立新统计。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

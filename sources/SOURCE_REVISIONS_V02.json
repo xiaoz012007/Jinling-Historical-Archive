@@ -1,0 +1,498 @@
+[
+  {
+    "revision_id": "META-V02-SRC-0097",
+    "source_id": "SRC-0097",
+    "old_values": {
+      "title": "斯迈思致日本使馆，1937-12-27",
+      "creator_or_publisher": "L. Smythe",
+      "locator": "NMP0175，PDF第1页，页首日期及页末L.Smythe署名",
+      "source_family": "IC-1937-12-27",
+      "limitations": "馆方目录误标作者为John Rabe；原页尾为L. Smythe，函中记费奇与本人当日下午赴使馆。；本轮来源登记不重新证明所有旧命题。",
+      "claim_ids": "timeline:T3-E0217;timeline:T3-E0218;timeline:T3-E0219"
+    },
+    "new_values": {
+      "title": "拉贝致日本使馆福井：请求运送米粮与煤炭",
+      "creator_or_publisher": "John H. D. Rabe",
+      "locator": "NMP0175，PDF第1页全文及页末手签/打字名",
+      "source_family": "IC-letter-1937-12-27-rice-coal",
+      "limitations": "本轮原页为Rabe米煤运输请求函，未见Fitch与Smythe当日下午赴使馆语句；旧Fitch引证误配文件。Yale目录署Rabe与现页一致。",
+      "claim_ids": "timeline:T3-E0219;T3B-E-INT-01"
+    },
+    "evidence_locator": "NMP0175 p1",
+    "source_file_sha256": "22abad0d9aa92dac07ac05427223649fb6336c35c9813b87e9bc5dc8c2ae2fc1",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "META-V02-SRC-0099",
+    "source_id": "SRC-0099",
+    "old_values": {
+      "title": "斯迈思致福田，1937-12-16",
+      "creator_or_publisher": "",
+      "locator": "Yale RG 10, Box 102, Folder 863; NMP0156, PDF第1–2页",
+      "limitations": "本件第2页署L.Smythe；与包内《拉贝日记》夹录的拉贝/斯迈思联合署名译文有署名差异。可能是同函不同版本，亦可能有编辑处理，未定；应保留版本字段，不计作独立互证。；本轮来源登记不重新证明所有旧命题。"
+    },
+    "new_values": {
+      "title": "国际委员会致福田函（打字署拉贝，手签斯迈思）",
+      "creator_or_publisher": "名义打字署名John H. D. Rabe；手签Lewis S. C. Smythe",
+      "locator": "NMP0156 p1日期/受件人，p2底部打字名与手签",
+      "limitations": "扫描同时保留Rabe打字署名和Smythe手签，不能概括为单署斯迈思；代签关系和版本生成史仍未核。"
+    },
+    "evidence_locator": "NMP0156 p2底部",
+    "source_file_sha256": "0b19626537c683c040adf3e272402d1db62af4c0145631decc50f6611b0c715f",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "META-V02-SRC-0110",
+    "source_id": "SRC-0110",
+    "old_values": {
+      "creator_or_publisher": "",
+      "locator": "Yale RG 10, Box 4, Folder 59; NMP0066",
+      "limitations": "包内INT-07有中文夹录，可支持17,000人是此函陈述的避难规模；不得宣称已逐字核英文原件。；本轮来源登记不重新证明所有旧命题。"
+    },
+    "new_values": {
+      "creator_or_publisher": "金陵大学紧急委员会主席（扫描职衔）；贝德士个人归属见馆藏背景与NJ-007夹录署名",
+      "locator": "NMP0066 PDF第1—3页；第3页末只有职衔",
+      "limitations": "扫描未见M.S.Bates个人署名；正文超过17,000为有关建筑内当时人数陈述，非当日流入、安全区全体或逐人核数。"
+    },
+    "evidence_locator": "NMP0066 p1开头、p3页末",
+    "source_file_sha256": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "META-V02-SRC-0095",
+    "source_id": "SRC-0095",
+    "old_values": {
+      "title": "魏特琳致 Ruth Chester，1938-01-04",
+      "created_date": "",
+      "locator": "Yale RG 8, Box 103, Folder 4; NMP0317, PDF第1页",
+      "limitations": "第1页右下明确署 Minnie (Vautrin)，开头记当日上午见费奇。馆藏目录与文件页头相符；不是魏亲笔原稿。；本轮来源登记不重新证明所有旧命题。"
+    },
+    "new_values": {
+      "title": "魏特琳1938年1月4日及1月6日两函副本合件",
+      "created_date": "1938-01-04;1938-01-06",
+      "locator": "NMP0317 p1上为1/4函；p1下—p3为1/6函",
+      "limitations": "复合PDF，不把全部3页当1/4函；1/6函含12月回顾，事件时间与形成时间分开。"
+    },
+    "evidence_locator": "NMP0317 p1日期转换及p3署名",
+    "source_file_sha256": "4c01896ef6c2f65477ec5f9dc865e35d804ecee0636c64615103305c8a57efc2",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "META-V02-SRC-0096",
+    "source_id": "SRC-0096",
+    "old_values": {
+      "title": "George Fitch 致友人，1938-01-06",
+      "created_date": "",
+      "locator": "Yale RG 8, Box 263, Folder 2; NMP0335, PDF第1页",
+      "limitations": "页头 Nanking Jan 6, 1938，记领事代表刚抵达以及城内救济状况。；本轮来源登记不重新证明所有旧命题。"
+    },
+    "new_values": {
+      "title": "费奇1938年1月6日信及1937年平安夜记述第一篇合件",
+      "created_date": "1938-01-06;1937-12-24",
+      "locator": "NMP0335 p1—p2顶部为1/6信；p2中段—p4为1937平安夜记述第一篇",
+      "limitations": "同一PDF包含两件文字；1938在宁节点与1937回顾分别定位；传闻与亲见不可混同；p4左缘少量字符缺失。"
+    },
+    "evidence_locator": "NMP0335 p1页头、p2中段新题/日期、p4末",
+    "source_file_sha256": "896d97e857dcbe67e38ebe8003d5db204cd63eeafbf0be1659ad20f6508695d5",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "META-V02-SRC-0103",
+    "source_id": "SRC-0103",
+    "old_values": {
+      "limitations": "目录可证编目与定位，不能替代信件正文；NMP0175作者编目与扫描不一致。；本轮来源登记不重新证明所有旧命题。"
+    },
+    "new_values": {
+      "limitations": "目录可证编目与定位，不能替代信件正文；本轮NMP0175扫描署Rabe，与目录归属相符。旧称该件目录误署或与扫描不一致，源于项目误配NMP0174交涉函，现撤回；其他目录项不因本项纠正自动视为已核正文。"
+    },
+    "evidence_locator": "Yale finding aid NMP0175目录项；NMP0175 PDF p1",
+    "source_file_sha256": "0858b56b41a9637da4aa1c841786713fd579124317eb711107d989f180017c19",
+    "reason": "本轮实际核读纠正；原研究报告不是原始史料",
+    "original_source_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R01",
+    "target": "T3-E0220及鱼雷营来源定位",
+    "old": "PDF12甲2；相关正文PDF3",
+    "new": "鱼雷营直接引PDF12甲2；删该行PDF3直接定位",
+    "reason": "PDF3的12/15下午1时是汉中门二千余，非鱼雷营九千余。",
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "locator": "PDF3对照PDF12甲2",
+    "source_sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R02",
+    "target": "T3-E0226",
+    "old": "具体统计日未定；1937-12-14/16混写",
+    "new": "日记条目日期1937-12-16；实际统计截止时刻未知",
+    "reason": "17025位于远藤12月16日条。",
+    "source_ids": [
+      "SRC-0112"
+    ],
+    "locator": "印刷54/PDF60",
+    "source_sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R03",
+    "target": "T3-E0227/0228/0229作者、阶段",
+    "old": "宫本/远藤合列16–18日，具体作者动作未展开",
+    "new": "分别登记宫本16日15时作决定、远藤16傍晚第1大队，17日晚派员/参与，18凌晨远藤及下午两人各记清尸",
+    "reason": "选页直接给出作者条目及时间，避免宫本下午清尸被错配18日凌晨。",
+    "source_ids": [
+      "SRC-0112"
+    ],
+    "locator": "宫本PDF38；远藤PDF60–61",
+    "source_sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R04",
+    "target": "T3-E0220/T3-E0223人数口径",
+    "old": "遇害/杀害9000余、5000余",
+    "new": "涉案被俘或押送群体9000余、5000余；明确9名/2名逃者；verified_death_count为空",
+    "reason": "来源含脱险，不应把群体规模当已逐人核死的精确数或直接作减法。",
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "locator": "PDF12甲2、甲3",
+    "source_sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R05",
+    "target": "T3-E0222/0223时间",
+    "old": "傍晚容易一并填入杀害时刻",
+    "new": "正文下午6时/附件傍晚是押送叙述节点；杀害具体钟点空",
+    "reason": "区分押送、到达、行刑阶段。",
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "locator": "PDF3及PDF12甲3",
+    "source_sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R06",
+    "target": "AT-U01/草鞋峡日期证据",
+    "old": "结文原件未取得，判决18日夜",
+    "new": "补官方单页影像，正文16日夜；与判决18日夜并列，具结日期仍未知",
+    "reason": "取得的是具结证言图，不是统计名册；不会因新图擅改判决。",
+    "source_ids": [
+      "SRC-0144",
+      "SRC-0111"
+    ],
+    "locator": "官方结文图右起第2–3列；谷判PDF3/12",
+    "source_sha256": "64fffac8d32d9f95a4f5d42f71f6554b11c2cdb48a592c6bdd081163139e00c7",
+    "claim_status": "conflicted",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R07",
+    "target": "SRC-0112来源性质解释",
+    "old": "笼统P，未充分区分作者编注与日记正文",
+    "new": "主来源P保留为底层日记；original_or_copy明确现代中文编译。日记正文为P转译；单位身份、军部释义等现代编注以S性质单独标记",
+    "reason": "原手稿、现代译文、编注是不同证据层；同源载体不增加证源。",
+    "source_ids": [
+      "SRC-0112"
+    ],
+    "locator": "PDF32/55编者注；PDF9脚注；PDF38/60–61正文",
+    "source_sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "B-AT-R08",
+    "target": "草鞋峡幸存者/汉中门界限",
+    "old": "伍长德容易移作草鞋峡唯一幸存者",
+    "new": "甲1列冯班长及郭某；伍长德见甲16汉中门。撤销唯一生还断言",
+    "reason": "不同案次证人链不得混用，官方新图也列冯/郭。",
+    "source_ids": [
+      "SRC-0111",
+      "SRC-0144"
+    ],
+    "locator": "PDF12甲1；PDF14甲16；结文图",
+    "source_sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+    "claim_status": "supported_with_limits",
+    "reviewed": "2026-11-06",
+    "original_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R01",
+    "source_ids": [
+      "SRC-0097",
+      "SRC-0147"
+    ],
+    "claim_ids": [
+      "source:SRC-0097"
+    ],
+    "old_value": "SRC-0097题名斯迈思致日本使馆1937-12-27，目录误署Rabe",
+    "new_value": "SRC-0097为12/27拉贝米煤运输函；12/26斯迈思/Fitch交涉函是NMP0174 p1",
+    "reason": "本轮逐页实看后发现不同文书错配；目录在NMP0175的Rabe归属与当前扫描相符",
+    "evidence_locator": "NMP0175 p1；NMP0174 p1",
+    "source_file_hashes": {
+      "SRC-0097": "22abad0d9aa92dac07ac05427223649fb6336c35c9813b87e9bc5dc8c2ae2fc1",
+      "SRC-0147": "0b6ece58cd49da387c71cf8cf52c63a3c5f64d220b2c4eb397f374000a25313a"
+    },
+    "claim_status": "已被可靠证据否定（仅旧文件归属断言）",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R02",
+    "source_ids": [
+      "SRC-0147"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0217"
+    ],
+    "old_value": {
+      "date": "1937-12-27",
+      "proposition": "斯迈思12月27日函记当日下午自己与费奇赴日本使馆。",
+      "source_ids": "SRC-0097",
+      "locator": "INT-03 NMP0175第1页正文"
+    },
+    "new_value": {
+      "date": "1937-12-26",
+      "proposition": "斯迈思12月26日函称当日下午本人和费奇赴南京日本使馆交涉。",
+      "source_ids": "SRC-0147",
+      "locator": "SRC-0147 NMP0174 PDF p1正文及页首日期"
+    },
+    "reason": "NJ-007把同内容夹入12/27日条；旧表误配NMP0175并记为12/27，当前按原函文面12/26修正。",
+    "evidence_locator": "SRC-0147 NMP0174 PDF p1正文及页首日期",
+    "source_file_hashes": {
+      "SRC-0147": "0b6ece58cd49da387c71cf8cf52c63a3c5f64d220b2c4eb397f374000a25313a"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R03",
+    "source_ids": [
+      "SRC-0147"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0218"
+    ],
+    "old_value": {
+      "date": "1937-12-27",
+      "proposition": "该函记二人请求为三处收容所派特别警卫。",
+      "source_ids": "SRC-0097",
+      "locator": "INT-03 NMP0175第1页正文"
+    },
+    "new_value": {
+      "date": "1937-12-26",
+      "proposition": "斯迈思12月26日函称二人请求日方在圣经师资培训学校、汉口路小学、五台山小学三处收容所派驻数夜警卫。",
+      "source_ids": "SRC-0147",
+      "locator": "SRC-0147 NMP0174 PDF p1正文及页首日期"
+    },
+    "reason": "NJ-007把同内容夹入12/27日条；旧表误配NMP0175并记为12/27，当前按原函文面12/26修正。",
+    "evidence_locator": "SRC-0147 NMP0174 PDF p1正文及页首日期",
+    "source_file_hashes": {
+      "SRC-0147": "0b6ece58cd49da387c71cf8cf52c63a3c5f64d220b2c4eb397f374000a25313a"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R04",
+    "source_ids": [
+      "SRC-0097"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0219"
+    ],
+    "old_value": {
+      "date": "1937-12-27",
+      "proposition": "NMP0175的12月27日函所见页尾署斯迈思。",
+      "source_ids": "SRC-0097",
+      "locator": "INT-03 NMP0175第1页页头及署名；INT-09目录异文"
+    },
+    "new_value": {
+      "date": "1937-12-27",
+      "proposition": "NMP0175的12月27日米煤运输请求函，页尾手写及打字署名均为拉贝。",
+      "source_ids": "SRC-0097",
+      "locator": "SRC-0097 NMP0175 p1全文/页尾"
+    },
+    "reason": "旧判为目录误署源于文件错配；正确Fitch/Smythe函为NMP0174 p1、日期12/26。",
+    "evidence_locator": "SRC-0097 NMP0175 p1全文/页尾",
+    "source_file_hashes": {
+      "SRC-0097": "22abad0d9aa92dac07ac05427223649fb6336c35c9813b87e9bc5dc8c2ae2fc1"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R05",
+    "source_ids": [
+      "SRC-0099"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0195"
+    ],
+    "old_value": {
+      "date": "1937-12-16",
+      "proposition": "12月16日NMP0156致福田函的所见扫描署斯迈思。",
+      "source_ids": "SRC-0099",
+      "locator": "INT-05 NMP0156第1页日期/受件人、第2页署名"
+    },
+    "new_value": {
+      "date": "1937-12-16",
+      "proposition": "12月16日NMP0156致福田函底部有拉贝的打字署名及斯迈思的手写签署。",
+      "source_ids": "SRC-0099",
+      "locator": "SRC-0099 NMP0156 p1日期/受件人；p2页末"
+    },
+    "reason": "原页可见John H.D.Rabe,Chairman打字名，修正旧单署概括。",
+    "evidence_locator": "SRC-0099 NMP0156 p1日期/受件人；p2页末",
+    "source_file_hashes": {
+      "SRC-0099": "0b19626537c683c040adf3e272402d1db62af4c0145631decc50f6611b0c715f"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R06",
+    "source_ids": [
+      "SRC-0101",
+      "SRC-0110"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0204"
+    ],
+    "old_value": {
+      "date": "1937-12-18",
+      "proposition": "贝德士12月18日致日本使馆函陈述侵入、暴行及避难状况。",
+      "source_ids": "SRC-0101;SRC-0110",
+      "locator": "INT-07 12/18夹录函；INT-16 NMP0066目录"
+    },
+    "new_value": {
+      "date": "1937-12-18",
+      "proposition": "12月18日金陵大学紧急委员会主席致日本使馆函报告侵入、暴行及避难状况；贝德士个人归属另据中文夹录与馆藏背景。",
+      "source_ids": "SRC-0101;SRC-0110",
+      "locator": "SRC-0110 NMP0066 p1—3；SRC-0101 12/18夹录署名"
+    },
+    "reason": "不能把中文署名说成英文页末亲见。",
+    "evidence_locator": "SRC-0110 NMP0066 p1—3；SRC-0101 12/18夹录署名",
+    "source_file_hashes": {
+      "SRC-0101": "747b7c03bbd28afc773f86a46b01b68ba05032a88603b140dab28be6a40115dc",
+      "SRC-0110": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R07",
+    "source_ids": [
+      "SRC-0101",
+      "SRC-0110"
+    ],
+    "claim_ids": [
+      "timeline:T3-E0205"
+    ],
+    "old_value": {
+      "date": "",
+      "proposition": "贝德士该函称17,000余人逃入金陵大学有关建筑。",
+      "source_ids": "SRC-0101;SRC-0110",
+      "locator": "INT-07 12/18夹录函；INT-16 NMP0066目录"
+    },
+    "new_value": {
+      "date": "",
+      "proposition": "12月18日函称当时超过17,000名民众在金陵大学有关建筑内寻求安全，且仍有人涌入。",
+      "source_ids": "SRC-0101;SRC-0110",
+      "locator": "SRC-0110 NMP0066 p1开头；p3职衔"
+    },
+    "reason": "原文未把涌入范围明确扩大为全安全区；旧中文译文在续句出现安全区。",
+    "evidence_locator": "SRC-0110 NMP0066 p1开头；p3职衔",
+    "source_file_hashes": {
+      "SRC-0101": "747b7c03bbd28afc773f86a46b01b68ba05032a88603b140dab28be6a40115dc",
+      "SRC-0110": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R08",
+    "source_ids": [
+      "SRC-0095"
+    ],
+    "claim_ids": [
+      "source:SRC-0095"
+    ],
+    "old_value": "3页整体作为1938-01-04致Ruth函",
+    "new_value": "p1上为1/4函；p1下—p3为1/6另函",
+    "reason": "文面另起日期、收件人和结尾；后文12月高峰估计属1/6回顾",
+    "evidence_locator": "NMP0317 p1日期转换、p2及p3署名",
+    "source_file_hashes": {
+      "SRC-0095": "4c01896ef6c2f65477ec5f9dc865e35d804ecee0636c64615103305c8a57efc2"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R09",
+    "source_ids": [
+      "SRC-0096"
+    ],
+    "claim_ids": [
+      "source:SRC-0096"
+    ],
+    "old_value": "4页整体作为1938-01-06信",
+    "new_value": "p1—p2顶为1/6信；p2中—p4为1937平安夜记述第一篇",
+    "reason": "另有独立题名及平安夜日期，末尾标第一篇结束",
+    "evidence_locator": "NMP0335 p2中段、p4末",
+    "source_file_hashes": {
+      "SRC-0096": "896d97e857dcbe67e38ebe8003d5db204cd63eeafbf0be1659ad20f6508695d5"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  },
+  {
+    "revision_id": "INTB-R10",
+    "source_ids": [
+      "SRC-0110",
+      "SRC-0101"
+    ],
+    "claim_ids": [
+      "question:INT-U03"
+    ],
+    "old_value": "英文原页未读；中文称系所在地/农科作物系及所有建筑已布岗",
+    "new_value": "已核英文三页；对应为教职员住宅/农业经济学系，部分建筑承诺设岗而非已全面到位",
+    "reason": "中文译法对机构性质和警卫状态存在实质偏移；原文优先，完整案情仍是函报",
+    "evidence_locator": "NMP0066 p1项4—5、p2项6及警卫段；NJ-007 12/18夹录",
+    "source_file_hashes": {
+      "SRC-0110": "c9e15aa59b770f2a0a7e56e5b00f8b766485913a886f9e12a99e21dcd7182008",
+      "SRC-0101": "747b7c03bbd28afc773f86a46b01b68ba05032a88603b140dab28be6a40115dc"
+    },
+    "claim_status": "有证据支持，但存在限定",
+    "review_utc": "2026-11-06T21:02:30.998119+00:00",
+    "old_files_modified": false
+  }
+]

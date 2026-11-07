@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-037",
+  "source_ids": [
+    "SRC-0055"
+  ],
+  "title": "宋希濂《南京守城战》网络转录",
+  "original_url": "https://m.krzzjn.com/show-607-41134.html",
+  "final_url": "https://m.krzzjn.com/show-607-41134.html",
+  "actual_access_utc": "2026-11-06T19:49:33.481Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "5cf1c2b8b2c699917d95f66aefa9eabd3efd3aea607f4e4936831dcd9f707c53",
+  "local_path_private": "Task003A/internal/web-captures/CAP-a527fdf50dac-20261106T194928984668Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "网络回忆正文第一至四节；内部派生文本26–62行",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "宋希濂战后回忆，网络转录有讹字；19/20任职内容并非作者亲见",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

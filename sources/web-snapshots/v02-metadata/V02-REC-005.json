@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-005",
+  "source_ids": [
+    "SRC-0145"
+  ],
+  "title": "南京慈善机关暨市民鲁甦报告敌人大屠杀概况统计表",
+  "original_url": "https://www.saac.gov.cn/zt/2014-12/10/content_77340.htm",
+  "final_url": "https://www.saac.gov.cn/zt/2014-12/10/content_77340.htm",
+  "actual_access_utc": "2026-11-06T20:50:47.067747+00:00",
+  "request_method": "urllib.request GET default network/TLS",
+  "http_status": 503,
+  "snapshot_kind": "failed_or_catalog_tool_record",
+  "raw_sha256": null,
+  "local_path_private": null,
+  "read_scope": "failed",
+  "reading_locator": "搜索结果鲁甦条（不作全文已读）",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "浏览工具502，直接GET503。检索摘录出现具结1945-12-6和事件16日夜，仅列待核异文线索，不靠摘要定具结日。",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}

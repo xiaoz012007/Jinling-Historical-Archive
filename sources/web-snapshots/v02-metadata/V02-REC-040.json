@@ -1,0 +1,23 @@
+{
+  "capture_id": "V02-REC-040",
+  "source_ids": [
+    "SRC-0058"
+  ],
+  "title": "谭道平《南京卫戍战》",
+  "original_url": "http://www.1937nanjing.org/kanzhanlishi/laobingkoushu/2021/0511/3977.html",
+  "final_url": "http://www.1937nanjing.org/kanzhanlishi/laobingkoushu/2021/0511/3977.html",
+  "actual_access_utc": "2026-11-06T19:48:28.106Z",
+  "request_method": null,
+  "http_status": 200,
+  "snapshot_kind": "reused_existing_snapshot_or_text",
+  "raw_sha256": "dab2257c130e09a6eaeccaba6f90d2ed83a3a69cbeea1aadfcfc3206f5b66d09",
+  "local_path_private": "Task003A/internal/web-captures/CAP-c0e536ad84d7-20261106T194822662306Z/original.html",
+  "read_scope": "full_document",
+  "reading_locator": "南京民间抗战博物馆转录《南京卫戍战》第一至四节；第三节起草/文面/会议，第四节渡江",
+  "reading_utc": null,
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "limitations": "复用实际取得的1937nanjing.org版本；不是声称重开旧krzzjn入口或看过1946原版；附表未附",
+  "page_completeness": "仅所存载体；不声称全站资源、完整卷宗或完整物理原件",
+  "snapshot_completeness_verified": false
+}
