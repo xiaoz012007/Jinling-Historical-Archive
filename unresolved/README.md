@@ -10,3 +10,8 @@
 - P2：补充性细节。
 
 无法解决时应保留未决状态。
+
+
+## Task004 当前候选
+
+本轮新增来源登记、阅读和采集日志分别见 `sources/SOURCE_REGISTER.csv`、`sources/READING_LOG_TASK004.json`、`sources/CAPTURES_TASK004.json`（均为仓库根相对路径）。新增原始全文不公开；旧报告保留为历史版本。当前事实和限制以逐条状态及 Task004 修订日志为准。

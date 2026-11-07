@@ -1,0 +1,20 @@
+{
+  "original_url": "https://gpost.lib.nccu.edu.tw/",
+  "accessed_at_utc": "2026-11-07T01:20:06.524690+00:00",
+  "final_url": "https://gpost.lib.nccu.edu.tw/",
+  "http_status": 200,
+  "bytes": 37138,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "2f55e93c4e63aa3503972c6b4b5dc6be2ddcd4e092983aeaf5f7b6d645469a07",
+  "metadata_path": "Task004_Run/internal/command004/nccu_index.capture.json",
+  "payload_kind": "raw_html",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-009",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

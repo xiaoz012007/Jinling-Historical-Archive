@@ -1,0 +1,297 @@
+[
+  {
+    "claim_id": "T4-TL-C01",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "T3-E0019并列宋的24日正式发表说和政大命令日期；尚未见公报原页。",
+    "new_value": "国民政府公报渝字第1号印p10所载唐任命令日期为1937-11-24。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p10/PDF247",
+    "claim_status": "supported_with_limits",
+    "limitations": "只证公报令文日期，不能换成当日实际签发、收报或就职时刻。",
+    "counterevidence": "19日蒋手令、20日视事另属不同命题。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C02",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "政大结构化职位行未保存命令原句中的兼字。",
+    "new_value": "公报任命原句为“特派唐生智兼南京衛戍司令長官。此令。”",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p10/PDF247左下1937-11-24令",
+    "claim_status": "supported_with_limits",
+    "limitations": "“兼”照原件；不自行补其兼任之前原职、权责或实际指挥范围。",
+    "counterevidence": "无。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C03",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "TL-U01旧next_steps要求找24日公报原期，令日与公报期日尚未分清。",
+    "new_value": "载有该任命令的渝字第1号公报封面日期为1937-12-01。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "PDF235封面；印p10/PDF247任命令",
+    "claim_status": "supported_with_limits",
+    "limitations": "这一本期刊载日不等于任命首次公开传达日；不能用它否定宋所说24日其他途径“发表”。",
+    "counterevidence": "11/24是公报内令日。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "split_document_date_and_issue_date",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C04",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [],
+    "old_value": "旧清单无公报停刊/续刊定位。",
+    "new_value": "本期启事说明11月17日第2511号在南京印行后，自11月18日起至月底迁移期间不能正常出版；迁渝后以渝字第1号接续。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p16/PDF253《本報啟事》",
+    "claim_status": "supported_with_limits",
+    "limitations": "为出版机构同期自述；只解释公报出版延后，不用于推断唐已收命令。",
+    "counterevidence": "无。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C05",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0010",
+      "T3B-E-TL-12"
+    ],
+    "old_value": "SRC-0058后期回忆转录将唐奉命兼任放在11月20日。",
+    "new_value": "谭道平1946《南京卫戍战史话》印p48记唐在11月16日奉命兼首都卫戍司令长官。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p48/PDF56",
+    "claim_status": "conflicting",
+    "limitations": "这是回忆版本内容的核实，不采16日为确定受命日；不得消去20日版本。",
+    "counterevidence": "SRC-0058后期谭文20日说、宋19日手令/20日视事及公报24日令日并列。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_version_conflict",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C06",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "正式下发件和完整附表未见；仅有网络转录和孙研究所述空括号。",
+    "new_value": "谭1946原书印p72的特字第1号转录，第2款日期处保留空括号。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p72/PDF80",
+    "claim_status": "supported_with_limits",
+    "limitations": "取得的是战后书内转录，非1937正式下发件，不能由空括号证明正式命令不存在。",
+    "counterevidence": "SRC-0058网络转录省略空括号；SRC-0056孙文曾指出影印档案附录与谭书均留空。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "establish_edition_reading",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C07",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "未能定位完整附表原书页。",
+    "new_value": "谭1946原书印p74–76刊有附表一《南京卫戍军突围计划》和附表二《各部队转进时连络信号规定表》。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "附表一印p74–75/PDF82–83；附表二印p76/PDF84",
+    "claim_status": "supported_with_limits",
+    "limitations": "仅完成该书所刊两附表的载体定位，不称已得正式发出附件；表列为计划而非实际执行。",
+    "counterevidence": "正式下发件及附件仍未得。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "narrow_missing_attachment_scope",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C08",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "SRC-0058网络文面下午3时、铁道部已读。",
+    "new_value": "谭1946原书转录抬头同载12月12日下午3时、首都铁道部卫戍司令部。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p72/PDF80",
+    "claim_status": "supported_with_limits",
+    "limitations": "属于书内转录的文面，不证明签署、发出或会议恰在该时该地。",
+    "counterevidence": "末次会议另在同书p77记16时唐公馆。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C09",
+    "issue_ids": [
+      "TL-U05"
+    ],
+    "old_event_ids": [
+      "T3-E0120",
+      "T3-E0121"
+    ],
+    "old_value": "谭后期转录记16时唐公馆，与宋/唐编注17时并列。",
+    "new_value": "谭1946原书印p77同样将末次会议记为当日下午4时、唐公馆。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p77/PDF85",
+    "claim_status": "conflicting",
+    "limitations": "加强版本可追溯性，仍是同一作者回忆族，不新增一份独立见证。",
+    "counterevidence": "宋17时及唐文编注17时未被排除。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C10",
+    "issue_ids": [
+      "TL-U02"
+    ],
+    "old_event_ids": [
+      "T3-E0110",
+      "T3-E0111"
+    ],
+    "old_value": "T3-E0110据后期谭文记12日凌晨2时被唤去起草。",
+    "new_value": "1946谭书p70先记“十一日夜三時”就寝、睡一小时余后被唤，随后叙见唐并奉命拟撤退令。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p70–72/PDF78–80",
+    "claim_status": "conflicting",
+    "limitations": "原词保留；不将“十一日夜”自动换算12日凌晨，不据回忆证明两真电到台或阅电时间。",
+    "counterevidence": "与后期谭文时刻、孙研究12日3时说存在版本差异。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_version_conflict",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C11",
+    "issue_ids": [
+      "TL-U06"
+    ],
+    "old_event_ids": [],
+    "old_value": "逐级接令日志缺失；旧表已有宋回部后电话及21:30面授。",
+    "new_value": "谭1946书另列长官部等六次渡江安排，记有计划开始时段和指挥官。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p78–80/PDF86–88",
+    "claim_status": "supported_with_limits",
+    "limitations": "只证谭书记录一份安排，不证明各单位收到、实际登船或完成；不得将计划时间填入接令矩阵。",
+    "counterevidence": "基层签收资料仍缺。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C12",
+    "issue_ids": [
+      "TL-U07"
+    ],
+    "old_event_ids": [
+      "T3-E0139",
+      "T3-E0144",
+      "T3-E0145"
+    ],
+    "old_value": "后期谭文22时抵浦口、13日经扬州路线已保留。",
+    "new_value": "谭1946书p85记22时抵浦口，p86记翌日晨7时抵扬州，再至滁州并晚赴临淮关。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p85–86/PDF93–94",
+    "claim_status": "conflicting",
+    "limitations": "为作者以“我们”叙述的回忆路线；不据此证明唐每一程同行或与另一目录电对应同件。",
+    "counterevidence": "宋约21时渡完；SRC-0151为12/14目录电，另有研究引13日六合/滁州路线。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C13",
+    "issue_ids": [
+      "TL-U09"
+    ],
+    "old_event_ids": [
+      "T3-E0146"
+    ],
+    "old_value": "谭14日奉命赴汉与唐24日呈报未区分实际抵汉时间。",
+    "new_value": "谭1946书p87把14日写为长官部人员奉调武汉待命。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p87/PDF95",
+    "claim_status": "supported_with_limits",
+    "limitations": "奉调不等于机构正式撤销，也不等于当日抵汉。",
+    "counterevidence": "机构撤销令仍缺。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false
+  },
+  {
+    "claim_id": "T4-TL-C14",
+    "issue_ids": [
+      "TL-U09"
+    ],
+    "old_event_ids": [
+      "T3-E0148"
+    ],
+    "old_value": "未取得谭早期版本个人抵汉日期。",
+    "new_value": "谭1946书p87记叙述者本人20日抵汉口。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p87/PDF95",
+    "claim_status": "single_source",
+    "limitations": "主语是谭“我”；不得移作唐生智20日抵汉，更不得据此把唐24日呈报改为抵达。",
+    "counterevidence": "唐的实际抵汉日、全司令部抵汉日仍未核。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_person_specific_claim",
+    "resolved_issue": false
+  }
+]

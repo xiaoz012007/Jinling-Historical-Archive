@@ -1,0 +1,20 @@
+{
+  "source_id": "",
+  "payload_type": "web_tool_record_not_full_http_snapshot",
+  "local_path": "Task004_Run/internal/international004/search_02.json",
+  "sha256": "a7549998f76ea59b604f20d854d3f1299fb649f0228e73d15562742e6386d3da",
+  "scope": "检索结果或访问失败记录，不是所涉原文；不作为已读历史证据。",
+  "http_status": "unknown",
+  "original_url": "",
+  "final_url": "",
+  "accessed_at_utc": "2026-11-07T01:28:00.875Z",
+  "task004_domain": "international004",
+  "task004_capture_id": "T4-CAP-international004-012",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

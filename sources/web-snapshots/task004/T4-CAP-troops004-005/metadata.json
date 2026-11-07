@@ -1,0 +1,18 @@
+{
+  "capture_id": "T4-B-CAP-ncpssd",
+  "original_url": "https://ncpssd.cn/journal/details?gch=83221X&langType=1&nav=1",
+  "accessed_at_utc": "2026-11-07T01:21:52.608499+00:00",
+  "status": "failed",
+  "error": "HTTP Error 403: Forbidden",
+  "http_status": 403,
+  "metadata_file": "Task004_Run/internal/troops004/ncpssd_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-005",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

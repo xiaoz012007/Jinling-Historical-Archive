@@ -1,0 +1,32 @@
+{
+  "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+  "accessed_at_utc": "2026-11-07T01:20:24.674368+00:00",
+  "name": "NMP0074.pdf",
+  "kind": "raw_http_response",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "local_path": "Task004_Run/internal/international004/NMP0074.pdf",
+  "bytes": 1511414,
+  "sha256": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+  "capture_status": "complete_http_pdf_response_parsed",
+  "full_response": true,
+  "source_id": "SRC-0165",
+  "payload_type": "original_http_pdf",
+  "total_pdf_pages": 1,
+  "visual_read_pages": [
+    1
+  ],
+  "scope": "全HTTP响应和可解析PDF；阅读范围另列，不证明实体档案齐全。",
+  "task004_domain": "international004",
+  "task004_capture_id": "T4-CAP-international004-006",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0165"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

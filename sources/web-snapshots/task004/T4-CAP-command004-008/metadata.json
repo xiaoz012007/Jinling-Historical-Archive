@@ -1,0 +1,18 @@
+{
+  "original_url": "https://gpost.lib.nccu.edu.tw/js/home.js",
+  "final_url": "https://gpost.lib.nccu.edu.tw/js/home.js",
+  "http_status": 200,
+  "accessed_at_utc": "2026-11-07T01:21:03.787280+00:00",
+  "sha256": "9af513da444078ee85dfe5537bb3962f00f3e03ca4e683078da11fb7ae7602e2",
+  "metadata_path": "Task004_Run/internal/command004/nccu_home.capture.json",
+  "payload_kind": "javascript_application_asset",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-008",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

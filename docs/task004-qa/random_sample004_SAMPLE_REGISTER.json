@@ -1,0 +1,393 @@
+{
+  "method": {
+    "baseline_commit": "5f7377ef7c40fef9c51dab22e47c63bd47947c7e",
+    "input_path": "Task003_Run/public_v02/timeline/南京保卫战统一时间线.csv",
+    "input_sha256": "769050746ba52cbaf61acbb675bbcd09ca00d0c8df9e7764df4954deba545764",
+    "population_count": 157,
+    "population_order": "csv.DictReader文件记录顺序，不排序、不筛选；表头不算数据行",
+    "algorithm": "random.Random(19371213).sample(range(157),10)",
+    "seed": 19371213,
+    "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "python_implementation": "CPython",
+    "index_base": 0,
+    "indices_in_draw_order": [
+      77,
+      67,
+      51,
+      102,
+      31,
+      124,
+      81,
+      20,
+      96,
+      26
+    ],
+    "sample_size": 10,
+    "logged_at_utc": "2026-11-07T01:24:31.273304+00:00",
+    "new_network_requests": 0,
+    "attribution": "本次Task004新执行；不追溯归功于豆包或Grok的Task003-C审查"
+  },
+  "samples": [
+    {
+      "sample_id": "SAMP004-01",
+      "draw_order": 1,
+      "zero_based_index": 77,
+      "event_id": "T3B-E-INT-09",
+      "source_ids": "SRC-0096",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-12",
+      "date_end": "1937-12-12",
+      "original_time_role": "later_record",
+      "original_time_text": "白日",
+      "original_event_description": "费奇平安夜记述称12月12日以安全区Director身份整天在案头忙碌。",
+      "original_citation_locator": "NMP0335 p4末段；附文起始p2中段",
+      "check_result": "qualified_match",
+      "actual_read_scope": "同期扫描的既有渲染图NMP0335 p2、p4，目视标题及日期、p4末段。",
+      "determination": "p2附文标1937平安夜，p4末段自述Sunday the 12th作为安全区Director整天在案头忙碌；与回顾叙述的限定相符。",
+      "remaining_limits": "自述职衔不等于正式任命原件；附于1938/1/6信后不把全部内容改成1/6当日。",
+      "actual_carrier_locator": "NMP0335 PDF2中段标题/平安夜日期，PDF4末段Sunday the 12th；本次未重读其余两页。",
+      "actual_local_files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-1c43f5d4b5fe-20261106T194814351990Z/original.pdf",
+          "sha256": "896d97e857dcbe67e38ebe8003d5db204cd63eeafbf0be1659ad20f6508695d5"
+        },
+        {
+          "path": "Task003_Run/internal/international/rendered/NMP0335_p02.png",
+          "sha256": "551e0dbee2483a47359ef4c46e8add7cff82d55c0bf653efd024852318cd0e3d"
+        },
+        {
+          "path": "Task003_Run/internal/international/rendered/NMP0335_p04.png",
+          "sha256": "1d56139ff01dc1fa82bec1e153eae92d93a8bf8b2c872180b79ffaefd9b4e3b4"
+        }
+      ],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-02",
+      "draw_order": 2,
+      "zero_based_index": 67,
+      "event_id": "T3-E0131",
+      "source_ids": "SRC-0060;SRC-0062;SRC-0061",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-12",
+      "date_end": "1937-12-12",
+      "original_time_role": "document_content",
+      "original_time_text": "转录文末十二申；不填实际发收钟点",
+      "original_event_description": "姜良芹112页引该电继续守城的大意；完整“十二申”转录仍待原件校勘。",
+      "original_citation_locator": "SRC-0060 印刷112页正文及注④；SRC-0062 引秦编219–220页；TL07档目",
+      "check_result": "partial_source_check",
+      "actual_read_scope": "SRC-0062旧HTML转录十二申段；SRC-0061脱敏派生目录的题名/1937-12-12字段。没有取得SRC-0060姜文112页。",
+      "determination": "可核转载确引十二申并给秦编219—220页，文内有持久坚守条件及进退斟酌；可核档目日期。该样本主语是“姜良芹112页引”，其原论文载体本次未得，不能全项通过。",
+      "remaining_limits": "转录不等于发报底稿或收报件；目录不证明原电全部文字。SRC0062自身关于已跑未读的作者叙述不作为送达证据。",
+      "actual_carrier_locator": "SRC0062去script/style文本第107段（完整十二申转录及秦编页码）；SRC0061派生文本6、20、26行。",
+      "actual_local_files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-c3fa1d8b08a2-20261106T194915623961Z/original.html",
+          "sha256": "d7938f3569bebd87a3308deffa0c461b5bd05afd4880ba72badb1684870d61e2"
+        },
+        {
+          "path": "Task003_Run/internal/package_redacted/timeline__SRC-0061_catalog_text.txt.redacted_reading.txt",
+          "sha256": "285ac8f94595d35e30884516bd5c6f4a18e30718dc4109eab75b0ea5d873c765"
+        }
+      ],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [
+        "未取得SRC-0060原论文112页，不核实其具体引文/注④",
+        "未取得秦编219—220页原页",
+        "未取得原电发收阅戳"
+      ],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-03",
+      "draw_order": 3,
+      "zero_based_index": 51,
+      "event_id": "T3B-E-TL-02",
+      "source_ids": "SRC-0065",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-10",
+      "date_end": "1937-12-10",
+      "original_time_role": "later_record",
+      "original_time_text": "所引报告文面正午",
+      "original_event_description": "FRUS d872注95记上海总领事12月10日正午1129号电报告，向日本使馆传达并转东京的转递事项已办理。",
+      "original_citation_locator": "FRUS 1937 III d872，p.782注95，引用793.94/11568",
+      "check_result": "qualified_match",
+      "actual_read_scope": "复用本代理Task004前置复核已实际读过的旧FRUS d872全文及注95，不重复全页阅读。",
+      "determination": "正文末段指示向日本使馆传达并转东京；注95记上海总领事12月10日正午1129电报告已办，与条目限定相符。",
+      "remaining_limits": "只见FRUS编者注和转递报告线索；1129电本体未得，不证蒋批准或日方接受，也不填实际转递时刻。",
+      "actual_carrier_locator": "FRUS1937 III d872 p782正文末句、注95；793.94/11568。",
+      "actual_local_files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-66bbf44b118d-20261106T194553651667Z/original.html",
+          "sha256": "4cc3893746d16d9de4f674e064818d60a52ff4074194b2e8ad357c8b779e39bd"
+        }
+      ],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-04",
+      "draw_order": 4,
+      "zero_based_index": 102,
+      "event_id": "T3-E0222",
+      "source_ids": "SRC-0111",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-16",
+      "date_end": "1937-12-16",
+      "original_time_role": "deliver",
+      "original_time_text": "正文下午6时／附件傍晚",
+      "original_event_description": "谷判记难民由华侨招待所被押至中山码头；正文给下午6时，附件甲3给傍晚。",
+      "original_citation_locator": "PDF3；PDF12甲3",
+      "check_result": "match_with_metadata_issue",
+      "actual_read_scope": "谷寿夫判决扫描PDF3正文与PDF12附件甲3，两页现存图像目视。",
+      "determination": "正文称12月16日下午6时，附件甲3称同日傍晚，均述华侨招待所五千余人押至中山码头；现行时间精度限制和不重复统计规则可核。",
+      "remaining_limits": "法院判决认定和附件同链，不是两独立证人；押送节点不自动成为到达/开枪精确时刻。",
+      "actual_carrier_locator": "PDF3“同月十六日下午六时”及PDF12甲3。",
+      "actual_local_files": [
+        {
+          "path": "Task002_V2/working/Tani_judgment_NLC.pdf",
+          "sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22"
+        },
+        {
+          "path": "Task003_Run/work/qa_pages/tani_pdf003.png",
+          "sha256": "ca369d663b7a4dbb868c52284e9524ea85060f6c7cd2542e5239881b06f04d54"
+        },
+        {
+          "path": "Task003_Run/work/qa_pages/tani_pdf012.png",
+          "sha256": "e07725409e0f577a8845c01a8ef2ab84baebf010a872891a2274fc9c2e7a4419"
+        }
+      ],
+      "proposed_revision": [
+        {
+          "field": "date_basis",
+          "original": "判决署名日期",
+          "proposed": "判决正文及附件所述事件日期；判决文书日期另记1947-03-10",
+          "reason": "1937-12-16来自判决叙述的事件日，不是1947判决署名日。",
+          "classification": "已证实错误（日期依据字段）",
+          "severity": "Medium",
+          "requires_change_to_historical_event_date": false
+        }
+      ],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-05",
+      "draw_order": 5,
+      "zero_based_index": 31,
+      "event_id": "T3-E0165",
+      "source_ids": "SRC-0102",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-07",
+      "date_end": "1937-12-07",
+      "original_time_role": "event",
+      "original_time_text": "",
+      "original_event_description": "魏特琳日记记当日筹划校内接纳难民。",
+      "original_citation_locator": "SRC-0102 1937-12-07条",
+      "check_result": "match_with_metadata_issue",
+      "actual_read_scope": "NJ-008既有中文译文转存，12/7条及相邻12/8界标；非英文手稿。",
+      "determination": "12/7条明确校园准备和拟接纳2750人，后超过一万为回顾括注；正文概括可获译文支持。费奇在次段的安全区总部物品通知协调中出现，未直接证其在校园共同筹划。",
+      "remaining_limits": "当前只能核中文译文载体，不称核英语原稿；2750是计划而非当日实收；Fitch的总部工作不能静默转为校内行动。",
+      "actual_carrier_locator": "文本143—151行12/7条；144计划数与回顾括注，145总部活动；152行起12/8。",
+      "actual_local_files": [
+        {
+          "path": "Task002_V2/working/NJ-008.txt",
+          "sha256": "4786215befe1407611f96307f919e3df33d81b8ce788c7f54505c9a3370f391c"
+        }
+      ],
+      "proposed_revision": [
+        {
+          "field": "actors",
+          "original": "魏特琳、费奇",
+          "proposed": "魏特琳（校内准备）；费奇的总部协调若保留，需另写明确角色或另条登记",
+          "reason": "现行事件描述只写校内筹划，但费奇只在安全区总部工作段出现；需要缩窄人物动作归属。",
+          "classification": "合理疑点（动作归属过宽）",
+          "severity": "Medium",
+          "requires_change_to_historical_event_date": false
+        }
+      ],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-06",
+      "draw_order": 6,
+      "zero_based_index": 124,
+      "event_id": "T3B-E-AT-06",
+      "source_ids": "SRC-0112",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-18",
+      "date_end": "1937-12-18",
+      "original_time_role": "event",
+      "original_time_text": "下午至天黑",
+      "original_event_description": "宫本12月18日条记下午清理尸体至天黑未完。",
+      "original_citation_locator": "宫本篇印刷32页，PDF38，12月18日条",
+      "check_result": "qualified_match",
+      "actual_read_scope": "日军官兵日记中文编译本PDF38/印刷32页12/18条，现存页图目视。",
+      "determination": "12/18条记下午清理尸体直到天黑未完，决定次日继续，与条目相符；12/19条另记次日清尸至下午4时，未把该时刻移到18日。",
+      "remaining_limits": "仅核后世中文编译页面，未核日文原稿；清尸日不证明所有遇害日，不从此生成死亡数。",
+      "actual_carrier_locator": "宫本篇印刷32页/PDF38，12月18日条（以相邻17/19条界分）。",
+      "actual_local_files": [
+        {
+          "path": "Task002_V2/working/Japanese_diaries_translation.pdf",
+          "sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12"
+        },
+        {
+          "path": "Task003_Run/work/qa_pages/diary_pdf038.png",
+          "sha256": "8c21b04bb28b1f5ae31a1403acc5317ba0bdd28d78bf91a664e774b1fba79ad8"
+        }
+      ],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-07",
+      "draw_order": 7,
+      "zero_based_index": 81,
+      "event_id": "T3-E0145",
+      "source_ids": "SRC-0070",
+      "original_claim_status": "unverified",
+      "date_start": "1937-12-13",
+      "date_end": "1937-12-13",
+      "original_time_role": "later_record",
+      "original_time_text": "",
+      "original_event_description": "经盛鸿研究所引唐13日电提出六合至滁州方向的路线线索。",
+      "original_citation_locator": "SRC-0070第四节内部118段及注42；未取得所引2005汇编p.475原页",
+      "check_result": "qualified_match",
+      "actual_read_scope": "经盛鸿研究转载旧HTML，六合/滁州引文段及注42；未读所引2005汇编原页。",
+      "determination": "作者确引用徒步至六合、本13日晨乘车抵滁并以注42指2005汇编475页。当前以研究引文线索且unverified保存，符合载体层级。",
+      "remaining_limits": "原电正文日期、发出/到达地及汇编475页仍未核；不把学者解释拼成已证连续行程；转载脚注题名有“征面”字样，不能默改后称已见书影。",
+      "actual_carrier_locator": "旧项目编号文本118段及158段注42；本次直接HTML去script/style分段为121、161段；以引文和脚注双锚点定位。",
+      "actual_local_files": [
+        {
+          "path": "Task003A/internal/web-captures/CAP-69024423ae48-20261106T194825273182Z/original.html",
+          "sha256": "ed5b496a80f726e459ba1c4ee1ad49bd9605a6ff9b0db458829dd6cee0c1e603"
+        }
+      ],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-08",
+      "draw_order": 8,
+      "zero_based_index": 20,
+      "event_id": "T3-E0044",
+      "source_ids": "SRC-0060",
+      "original_claim_status": "unverified",
+      "date_start": "1937-11-30",
+      "date_end": "1937-11-30",
+      "original_time_role": "document_date",
+      "original_time_text": "",
+      "original_event_description": "姜良芹研究引11月30日致龙云函谈国际形势及催部增援。",
+      "original_citation_locator": "SRC-0060 相关函件引述；原档线索002-010300-00007-042，原页未核",
+      "check_result": "not_verified_missing_cited_source",
+      "actual_read_scope": "只定位现行索引和既有本地文件清单；没有找到该样本所引姜良芹原论文相关页。",
+      "determination": "不能仅凭数据库重复“11/30致龙云函”而通过。旧网页中有列姜文书目的通俗文，但不是姜文原页，未用于替代。",
+      "remaining_limits": "未找到现存载体不证明该函或引文不存在；保持unverified。",
+      "actual_carrier_locator": "待取得SRC0060论文相关段及002-010300-00007-042原页。",
+      "actual_local_files": [],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [
+        "既有PDF/文本/HTML检索未取得SRC0060论文原载体",
+        "未取得致龙云函原件，未核标题、日期、内容"
+      ],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-09",
+      "draw_order": 9,
+      "zero_based_index": 96,
+      "event_id": "T3B-E-AT-03",
+      "source_ids": "SRC-0111",
+      "original_claim_status": "supported_with_limits",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "original_time_role": "execute",
+      "original_time_text": "下午1时",
+      "original_event_description": "谷判正文记二千余军人被押至汉中门外遭射杀；附件甲16另记由司法院难民所押出三类人合计三千余。两口径并列。",
+      "original_citation_locator": "PDF3；PDF14甲16",
+      "check_result": "match_with_metadata_issue",
+      "actual_read_scope": "谷判PDF3正文与PDF14附件甲16两页目视。",
+      "determination": "正文二千余军警与附件三类合计三千余分别存在；附件列伍长德、陈永清，确在汉中门这一证人链。两口径并列、不求差作新人数符合原页。",
+      "remaining_limits": "正文/附件非独立互证；下午1时引领一段拘押、押送、射杀叙述，不能独断为机枪开火精确时刻。",
+      "actual_carrier_locator": "PDF3“十二月十五日下午一时”段；PDF14甲16全部。",
+      "actual_local_files": [
+        {
+          "path": "Task002_V2/working/Tani_judgment_NLC.pdf",
+          "sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22"
+        },
+        {
+          "path": "Task003_Run/work/qa_pages/tani_pdf003.png",
+          "sha256": "ca369d663b7a4dbb868c52284e9524ea85060f6c7cd2542e5239881b06f04d54"
+        },
+        {
+          "path": "Task002_V2/working/tani-014.png",
+          "sha256": "2c577605ab147599c870ac565028edc1272d83acd3c01d6aa5beca669a081a77"
+        }
+      ],
+      "proposed_revision": [
+        {
+          "field": "date_basis",
+          "original": "判决署名日期",
+          "proposed": "判决正文及附件所述事件日期；文书形成日另记1947-03-10",
+          "reason": "1937-12-15是所述事件日，非判决署名日。",
+          "classification": "已证实错误（日期依据字段）",
+          "severity": "Medium",
+          "requires_change_to_historical_event_date": false
+        },
+        {
+          "field": "time_role/time_text/limitations",
+          "original": "execute；下午1时",
+          "proposed": "保留判决报告的下午1时，同时明确它引领整个拘押/押送/射杀叙述；具体射杀钟点未知，勿将其用作精确执行时刻",
+          "reason": "甲16从司法院难民所内选择各类人员起叙，随后押送到汉中门外射杀；没有另给开火时刻。",
+          "classification": "合理疑点（时间阶段过于具体）",
+          "severity": "Medium",
+          "requires_change_to_historical_event_date": false
+        }
+      ],
+      "failed_or_uncompleted_checks": [],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    },
+    {
+      "sample_id": "SAMP004-10",
+      "draw_order": 10,
+      "zero_based_index": 26,
+      "event_id": "T3-E0068",
+      "source_ids": "SRC-0060",
+      "original_claim_status": "unverified",
+      "date_start": "1937-12-05",
+      "date_end": "1937-12-05",
+      "original_time_role": "later_record",
+      "original_time_text": "",
+      "original_event_description": "姜良芹引12月5日日记记苏联回复及蒋的判断。",
+      "original_citation_locator": "SRC-0060 印刷110–113页12月5日日记段（本命题页码未细化）",
+      "check_result": "not_verified_missing_cited_source",
+      "actual_read_scope": "只定位现行索引与旧本地文件。SRC0062另提12/5苏联回电，但不是样本指定的姜文日记引文。",
+      "determination": "未得SRC0060印刷110—113页，不能核其引用日记具体日期、原话与页码，不用别篇二手文章补成已核。",
+      "remaining_limits": "研究引用日记的记述日期不可当苏方原电发送/首次送达；保持unverified，未找到不等于事实不存在。",
+      "actual_carrier_locator": "待取得姜文12/5日记段（当前引页范围110—113但未细化）。",
+      "actual_local_files": [],
+      "proposed_revision": [],
+      "failed_or_uncompleted_checks": [
+        "SRC0060论文页段未取得",
+        "蒋介石12/5日记原页未取得"
+      ],
+      "historical_state_upgraded": false,
+      "new_network_request": false
+    }
+  ]
+}

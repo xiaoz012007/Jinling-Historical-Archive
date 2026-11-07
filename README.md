@@ -1,3 +1,15 @@
+# 金陵不退历史资料库
+
+> 当前工作候选：Task004关键史实深度补证。175条来源登记、167条主时间线、33项开放问题；数字是数据库记录数，不是独立史料或已证事实数。PR #2仍未合并。
+
+- [Task004研究报告](docs/TASK004_RESEARCH_REPORT.md)
+- [Task003-C两套外审处理报告](docs/TASK003C_EXTERNAL_REVIEW_RESPONSE.md)
+- [质量审查及未通过项](docs/TASK004_QUALITY_REPORT.md)
+- [修订清单](docs/Task004_史实修订清单.md)
+- [未决问题最新状态](unresolved/TASK004_PROGRESS.csv)
+
+以下保留Task003的历史入口，旧轮统计和结论需结合Task004逐项修订阅读。
+
 # Jinling Historical Archive｜金陵不退·南京保卫战史料库
 
 **1937年南京保卫战历史资料整理、证据索引与研究项目**

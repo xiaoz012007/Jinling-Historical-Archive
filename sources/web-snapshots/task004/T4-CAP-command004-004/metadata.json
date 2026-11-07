@@ -1,0 +1,30 @@
+{
+  "capture_key": "gazette130_browser",
+  "original_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+  "accessed_at_utc": "2026-11-07T01:32:57.631Z",
+  "access_time_precision": "millisecond; recorded around ordinary downloadMedia call",
+  "http_status": null,
+  "method": "public file link downloadMedia via browser",
+  "payload_kind": "PDF scan",
+  "bytes": 12178073,
+  "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+  "local_path": "Task004_Run/internal/command004/gazette130.pdf",
+  "completeness": "Full PDF acquired; pdfinfo reports 361 pages. Selected key pages visually read; no claim of reading entire volume.",
+  "http_status_note": "Browser API did not expose HTTP status; no assertion of 200",
+  "completed_at_utc": "2026-11-07T01:33:07.704Z",
+  "reading_scope": "PDF 1,2,3,230,234–237,240,245–255,260,280,300; key historical assertions from PDF235,247,253 only",
+  "earlier_download_note": "Earlier browser acquisition succeeded; exact request time not recorded. Retained file identical to timed repeat SHA; do not infer earlier request time from mtime.",
+  "metadata_path": "Task004_Run/internal/command004/gazette130_browser.capture.json",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-004",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0171"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

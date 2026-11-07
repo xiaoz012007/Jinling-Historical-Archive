@@ -1,0 +1,480 @@
+{
+  "created_at_utc": "2026-11-07T01:32:36.951769+00:00",
+  "baseline_commit": "5f7377ef7c40fef9c51dab22e47c63bd47947c7e",
+  "claims": [
+    {
+      "claim_id": "T4-AT-C001",
+      "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决正文/附件记载的事件日期",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF12甲2",
+      "claim_status": "supported",
+      "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3-E0220"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。"
+    },
+    {
+      "claim_id": "T4-AT-C002",
+      "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决正文/附件记载的事件日期",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF3、PDF12甲3",
+      "claim_status": "supported",
+      "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3-E0222"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。"
+    },
+    {
+      "claim_id": "T4-AT-C003",
+      "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决正文/附件记载的事件日期",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF3、PDF12甲3",
+      "claim_status": "supported",
+      "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3-E0223"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。"
+    },
+    {
+      "claim_id": "T4-AT-C004",
+      "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决正文/附件记载的事件日期",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF3、PDF12甲1",
+      "claim_status": "supported",
+      "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3-E0224"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。"
+    },
+    {
+      "claim_id": "T4-AT-C005",
+      "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决正文/附件记载的事件日期",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF3、PDF14甲16",
+      "claim_status": "supported",
+      "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3B-E-AT-03"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。"
+    },
+    {
+      "claim_id": "T4-AT-C006",
+      "claim_text": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决记载拘押事实，拘押起日未载",
+        "date_start": "",
+        "date_end": "",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF12甲3",
+      "claim_status": "supported",
+      "limitations": "保持UNPLACED，不能用文书形成日倒填案发日期。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3-E0221"
+      ],
+      "unresolved_ids": [
+        "AT-U02",
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。"
+    },
+    {
+      "claim_id": "T4-AT-C007",
+      "claim_text": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+      "original_value": {
+        "date_basis": "判决署名日期"
+      },
+      "revised_value": {
+        "date_basis": "判决记载拘押事实，拘押起日未载",
+        "date_start": "",
+        "date_end": "",
+        "reference_document_date": "1947-03-10（保留）"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF12甲1",
+      "claim_status": "supported",
+      "limitations": "保持UNPLACED，不能用文书形成日倒填案发日期。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3B-E-AT-01"
+      ],
+      "unresolved_ids": [
+        "AT-U02",
+        "AT-U05"
+      ],
+      "proposed_action": "correct_field_mapping",
+      "release_blocker": true,
+      "modification_reason": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。"
+    },
+    {
+      "claim_id": "T4-AT-C008",
+      "claim_text": "甲16下午1时置于司法院难民所内选人并押送的叙述起点；未单独提供汉中门外开始射杀的钟点。",
+      "original_value": {
+        "event_id": "T3B-E-AT-03",
+        "time_precision": "daypart",
+        "time_text": "下午1时",
+        "time_role": "execute"
+      },
+      "revised_value": {
+        "event_id": "T3B-E-AT-03",
+        "time_precision": "day",
+        "time_text": "",
+        "time_start": "",
+        "time_end": "",
+        "time_role": "execute",
+        "event_phase_label": "execute",
+        "phase": "execute",
+        "date_start": "1937-12-15",
+        "date_end": "1937-12-15",
+        "event_description": "谷判正文记二千余军人被押至汉中门外遭射杀；附件甲16另记由司法院难民所押出三类人合计三千余。两口径并列；射杀具体钟点未单列。",
+        "group_id": "G-T3B-E-AT-03",
+        "entity_id": "AT-HANZHONG-01"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF3正文相关段；PDF14甲16",
+      "claim_status": "supported_with_limits",
+      "limitations": "保留司法文书记载的暴行及人数异说；去掉对射杀起时的无证细化。date_basis另由C005纠正。",
+      "counterevidence": "正文以1时引起整段，不足以独立区分被俘、押送、开枪每阶段的钟点。",
+      "related_event_ids": [
+        "T3B-E-AT-03"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "split_event_stage",
+      "release_blocker": true,
+      "modification_reason": "甲16下午1时置于司法院难民所内选人并押送的叙述起点；未单独提供汉中门外开始射杀的钟点。"
+    },
+    {
+      "claim_id": "T4-AT-C009",
+      "claim_text": "甲16记12月15日下午1时在司法院难民所选出三类人，并叙及随后押送汉中门。",
+      "original_value": null,
+      "revised_value": {
+        "event_id": "T4-E-AT-001",
+        "group_id": "G-T3B-E-AT-03",
+        "entity_id": "AT-HANZHONG-01",
+        "record_role": "historical_event_or_document_claim",
+        "date_start": "1937-12-15",
+        "date_end": "1937-12-15",
+        "time_precision": "daypart",
+        "time_text": "下午1时（司法院内筛查/押送叙述起点）",
+        "time_start": "",
+        "time_end": "",
+        "time_role": "selection_or_transfer_start",
+        "event_phase_label": "selection_or_transfer_start",
+        "phase": "selection_or_transfer_start",
+        "date_basis": "判决附件甲16记载的事件日期",
+        "reference_document_date": "1947-03-10",
+        "document_formation_or_entry_date": "1947-03-10",
+        "document_date_basis": "判决署名日期",
+        "location": "司法院难民所",
+        "actors": "日军；所内被选出的军警及军民",
+        "event_description": "谷判甲16记12月15日下午1时在司法院难民所选出着制服长警、改装者及军民三类，合称三千余名；继而押送汉中门外。此时间只定位该段筛查/押送叙述起点，押送完成时刻未载。",
+        "count_value": "",
+        "count_text": "与T3B-E-AT-03同案、同批；不新增人数",
+        "count_scope": "阶段性记录，非另一群体",
+        "verified_death_count": "",
+        "aggregation_allowed": false,
+        "claim_status": "supported_with_limits",
+        "source_ids": [
+          "SRC-0111"
+        ],
+        "citation_locator": "PDF14甲16（印刷第七页）",
+        "source_family": "TANI_JUDGMENT_1947",
+        "limitations": "同一判决、同一群体拆为阶段记录；不得与T3B-E-AT-03相加。下午1时不能扩成开枪时刻，也不据此计算押送耗时。"
+      },
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF14甲16",
+      "claim_status": "supported_with_limits",
+      "limitations": "临时建议事件ID由总编核定稳定编号；不得将计数拆分为互相独立的遇难者批次。",
+      "counterevidence": "",
+      "related_event_ids": [
+        "T3B-E-AT-03"
+      ],
+      "unresolved_ids": [
+        "AT-U05"
+      ],
+      "proposed_action": "add_atomic_event_same_cohort",
+      "release_blocker": true,
+      "modification_reason": "甲16记12月15日下午1时在司法院难民所选出三类人，并叙及随后押送汉中门。"
+    },
+    {
+      "claim_id": "T4-AT-C010",
+      "claim_text": "实际取得的研究报告转载脚注[4]将鲁甦结文日期列为1945-12-7，并给出五九三/870调档线索。",
+      "original_value": "12月7日说只有待核线索",
+      "revised_value": {
+        "reported_statement_date": "1945-12-07",
+        "date_is_primary_verified": false,
+        "cited_repository": "中国第二历史档案馆",
+        "cited_identifier": "五九三/870",
+        "archive_identifier_verified": false
+      },
+      "source_ids": [
+        "SRC-0154"
+      ],
+      "citation_locator": "脚注[4]；derived.txt第68行",
+      "claim_status": "single_source",
+      "limitations": "证明的是该研究报告的引注内容；未见卷内日期页，不能择定7日。",
+      "counterevidence": "SRC-0115二手引注4日；SRC-0145同源说明及SRC-0155写6日；SRC-0144已得单页未见具结日期。",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U01"
+      ],
+      "proposed_action": "add_located_secondary_bibliographic_lead",
+      "release_blocker": false,
+      "modification_reason": "实际取得的研究报告转载脚注[4]将鲁甦结文日期列为1945-12-7，并给出五九三/870调档线索。"
+    },
+    {
+      "claim_id": "T4-AT-C011",
+      "claim_text": "南京市档案馆说明的可访问转载明确写鲁甦于1945-12-6提供结文。",
+      "original_value": "源站抓取失败且只有索引摘要",
+      "revised_value": {
+        "reprint_body_obtained": true,
+        "reported_date": "1945-12-06",
+        "SRC-0145_direct_access": "仍失败，不改为已取原页"
+      },
+      "source_ids": [
+        "SRC-0155",
+        "SRC-0145"
+      ],
+      "citation_locator": "转载正文第五项；derived.txt第1268行",
+      "claim_status": "single_source",
+      "limitations": "与SRC-0145同源，不是新独立证人；不能据其确定形成日、收文日是否同一概念。",
+      "counterevidence": "4日/7日说仍并列。",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U01"
+      ],
+      "proposed_action": "add_reprint_access_evidence_no_date_resolution",
+      "release_blocker": false,
+      "modification_reason": "南京市档案馆说明的可访问转载明确写鲁甦于1945-12-6提供结文。"
+    },
+    {
+      "claim_id": "T4-AT-C012",
+      "claim_text": "江苏课题组转载对鲁甦结文中十六日加农历解释，但本轮已得手写单页未见该日历限定。",
+      "original_value": "手写十六日与谷判十八日冲突保留",
+      "revised_value": {
+        "calendar_interpretation": "新增二手农历解释，待原卷确认",
+        "event_date_resolved": false
+      },
+      "source_ids": [
+        "SRC-0154",
+        "SRC-0144",
+        "SRC-0111"
+      ],
+      "citation_locator": "SRC-0154南京时段段/derived.txt第51行；SRC-0144右起第2–8列；谷判PDF12甲1",
+      "claim_status": "conflicting",
+      "limitations": "不能把后出括注当作原件已有文字；不能据二手解释静默清除AT-DATE-CAOXIEXIA。",
+      "counterevidence": "谷判甲1自身另列公历18日及农历11月16日。",
+      "related_event_ids": [
+        "T3-E0224",
+        "T3B-E-AT-02"
+      ],
+      "unresolved_ids": [
+        "AT-U01"
+      ],
+      "proposed_action": "append_calendar_interpretation_conflict",
+      "release_blocker": false,
+      "modification_reason": "江苏课题组转载对鲁甦结文中十六日加农历解释，但本轮已得手写单页未见该日历限定。"
+    },
+    {
+      "claim_id": "T4-AT-C013",
+      "claim_text": "张连红研究转载将57,418追溯至1946年2月陈光虞报告，并指向鲁甦具结。",
+      "original_value": "未取得数字形成底稿",
+      "revised_value": {
+        "earlier_document_lead": "1946年2月首都地方法院检察处奉令调查敌人罪行报告书",
+        "source_of_count_as_reported": "鲁甦具结",
+        "roster_obtained": false,
+        "count_production_method_known": false
+      },
+      "source_ids": [
+        "SRC-0156"
+      ],
+      "citation_locator": "第一节陈光虞报告两段；derived.txt第111–122行",
+      "claim_status": "single_source",
+      "limitations": "取得的是现代学术转引，不是1946报告原件，更不是名册；可改善传递链定位，不能据此把57,418升级为精确执行死亡人数。",
+      "counterevidence": "",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U02"
+      ],
+      "proposed_action": "add_earlier_provenance_lead",
+      "release_blocker": false,
+      "modification_reason": "张连红研究转载将57,418追溯至1946年2月陈光虞报告，并指向鲁甦具结。"
+    },
+    {
+      "claim_id": "T4-AT-C014",
+      "claim_text": "日文网页转录与中文选编共享山田/远藤日记来源；日文载体没有提供手稿影像。",
+      "original_value": "日本原稿未取得",
+      "revised_value": {
+        "originals_obtained": false,
+        "new_carriers": "山田版本对照网页、远藤日文节录",
+        "independent_original_evidence_added": 0
+      },
+      "source_ids": [
+        "SRC-0158",
+        "SRC-0159",
+        "SRC-0112"
+      ],
+      "citation_locator": "山田12月14–19日及书目；远藤12月16–19日；中译PDF9、60–61",
+      "claim_status": "supported_with_limits",
+      "limitations": "仅作版本比对和调书线索；军命令正文、发令者签字、送达时刻及全俘虏名册仍未取得。",
+      "counterevidence": "",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U03",
+        "AT-U04"
+      ],
+      "proposed_action": "record_derivative_relationship_no_upgrade",
+      "release_blocker": false,
+      "modification_reason": "日文网页转录与中文选编共享山田/远藤日记来源；日文载体没有提供手稿影像。"
+    },
+    {
+      "claim_id": "T4-AT-C015",
+      "claim_text": "远藤12月15日捕获数在网页日文转录和中文选编之间出现306/360版本疑点。",
+      "original_value": "中文选编印刷54/PDF60为360人",
+      "revised_value": {
+        "japanese_web_transcription": "三百六名（306）",
+        "chinese_translation": "360",
+        "historical_count_correction": null
+      },
+      "source_ids": [
+        "SRC-0159",
+        "SRC-0112"
+      ],
+      "citation_locator": "日文derived.txt第148行；中译PDF60印刷54页12月15日",
+      "claim_status": "conflicting",
+      "limitations": "网站转录和中译各自可能存在错误；未核日本原书pp.219–220或手稿前不作历史数字更正，不影响同页已支持的杀俘记录。",
+      "counterevidence": "",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U03"
+      ],
+      "proposed_action": "append_version_conflict_not_change_number",
+      "release_blocker": false,
+      "modification_reason": "远藤12月15日捕获数在网页日文转录和中文选编之间出现306/360版本疑点。"
+    },
+    {
+      "claim_id": "T4-AT-C016",
+      "claim_text": "UNESCO申报文件区分原件查阅限制与数字复制件供阅，并另列馆藏机构的版权主张。",
+      "original_value": null,
+      "revised_value": {
+        "permission_to_redistribute_fulltext": "未取得",
+        "fulltext_public_candidate": false
+      },
+      "source_ids": [
+        "SRC-0157"
+      ],
+      "citation_locator": "PDF第7页4.4、4.5",
+      "claim_status": "supported_with_limits",
+      "limitations": "这里只登记文件所述权利及查阅政策；不是针对每件档案的法律鉴定。公开原文仍须逐件许可检查。",
+      "counterevidence": "",
+      "related_event_ids": [],
+      "unresolved_ids": [
+        "AT-U01",
+        "AT-U04"
+      ],
+      "proposed_action": "record_access_and_rights_boundary",
+      "release_blocker": false,
+      "modification_reason": "UNESCO申报文件区分原件查阅限制与数字复制件供阅，并另列馆藏机构的版权主张。"
+    }
+  ],
+  "historical_counts_recomputed": false,
+  "historical_count_changes": 0,
+  "event_stage_split_pending_root_integration": true
+}

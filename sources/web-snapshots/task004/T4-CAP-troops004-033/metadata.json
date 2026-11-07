@@ -1,0 +1,22 @@
+{
+  "capture_id": "xianbing_visible_script",
+  "original_url": "https://www.krzzjn.com/book/104757/6/js/fbscript.js",
+  "accessed_at_utc": "2026-11-07T01:30:46.082717+00:00",
+  "link_context": "actual script src js/fbscript.js in captured public flipbook HTML",
+  "final_url": "https://www.krzzjn.com/book/104757/6/js/fbscript.js",
+  "http_status": 200,
+  "bytes": 11088,
+  "sha256": "df36af35d115299f27d3ae56c4fd0e360733d9fc6111b6f1322b2512ba945eee",
+  "local_path": "Task004_Run/internal/troops004/xianbing_fbscript.js",
+  "capture_status": "saved",
+  "metadata_file": "Task004_Run/internal/troops004/xianbing_script_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-033",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

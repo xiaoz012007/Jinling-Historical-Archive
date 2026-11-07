@@ -1,6 +1,6 @@
 {
   "schema_version": "Task003-B.source-details.2",
-  "count": 152,
+  "count": 175,
   "count_unit": "来源登记记录，不是独立史料数",
   "records": [
     {
@@ -80,7 +80,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0002",
@@ -159,7 +163,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0003",
@@ -238,7 +246,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0004",
@@ -317,7 +329,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0005",
@@ -396,7 +412,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0006",
@@ -475,7 +495,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0007",
@@ -582,7 +606,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0008",
@@ -723,7 +751,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0009",
@@ -802,7 +834,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0010",
@@ -881,7 +917,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0011",
@@ -960,7 +1000,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0012",
@@ -1116,7 +1160,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0013",
@@ -1195,7 +1243,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0014",
@@ -1274,7 +1326,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0015",
@@ -1299,7 +1355,7 @@
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0c4fba963b29-20261106T194942068948Z.json",
-      "sha256": null,
+      "sha256": "",
       "limitations": "1946撰写无证；印刷3–8页/PDF12–17页，正文与编注分开。；本轮来源登记不重新证明所有旧命题。",
       "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
@@ -1387,7 +1443,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0016",
@@ -1529,7 +1589,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": "1946七月再版原刊已另登记SRC-0172，表在印93–95页。旧85页与3格转录已纠正，旧入口不静默替换；实际兵力仍未决。"
     },
     {
       "source_id": "SRC-0017",
@@ -1670,7 +1734,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0018",
@@ -1749,7 +1817,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0019",
@@ -1828,7 +1900,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0020",
@@ -1907,7 +1983,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0021",
@@ -1986,7 +2066,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0022",
@@ -2008,16 +2092,6 @@
       "access_status": "Task003-A入口处置0条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存1份。抓取状态不是阅读/证实状态。",
       "source_family": "NJ-022",
       "claim_ids": [
-        "persons:P-039",
-        "persons:P-040",
-        "persons:P-041",
-        "persons:P-042",
-        "persons:P-043",
-        "persons:P-044",
-        "persons:P-045",
-        "persons:P-046",
-        "persons:P-047",
-        "persons:P-048",
         "military:JP-U-034",
         "military:JP-U-035",
         "military:JP-U-036",
@@ -2029,7 +2103,17 @@
         "military:JP-U-042",
         "military:JP-U-043",
         "military:JP-U-044",
-        "military:JP-U-045"
+        "military:JP-U-045",
+        "persons:P-039",
+        "persons:P-040",
+        "persons:P-041",
+        "persons:P-042",
+        "persons:P-043",
+        "persons:P-044",
+        "persons:P-045",
+        "persons:P-046",
+        "persons:P-047",
+        "persons:P-048"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -2171,7 +2255,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0023",
@@ -2250,7 +2338,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0024",
@@ -2329,7 +2421,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0025",
@@ -2408,7 +2504,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0026",
@@ -2593,7 +2693,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0027",
@@ -2747,7 +2851,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0028",
@@ -2888,7 +2996,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0029",
@@ -2995,7 +3107,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0030",
@@ -3102,7 +3218,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0031",
@@ -3209,7 +3329,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0032",
@@ -3316,7 +3440,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0033",
@@ -3458,7 +3586,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0034",
@@ -3537,7 +3669,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0035",
@@ -3616,7 +3752,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0036",
@@ -3695,7 +3835,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0037",
@@ -3774,7 +3918,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0038",
@@ -3918,7 +4066,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0039",
@@ -4136,7 +4288,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0040",
@@ -4215,7 +4371,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0041",
@@ -4294,7 +4454,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0042",
@@ -4468,7 +4632,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0043",
@@ -4547,7 +4715,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0044",
@@ -4703,7 +4875,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0045",
@@ -4810,7 +4986,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0046",
@@ -4931,7 +5111,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0047",
@@ -5061,7 +5245,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0048",
@@ -5140,7 +5328,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0049",
@@ -5219,7 +5411,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0050",
@@ -5298,7 +5494,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0051",
@@ -5377,7 +5577,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0052",
@@ -5456,7 +5660,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0053",
@@ -5535,7 +5743,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0054",
@@ -5614,7 +5826,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0055",
@@ -5636,6 +5852,14 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "宋希濂回忆",
       "claim_ids": [
+        "military:CN-U-001",
+        "military:CN-U-002",
+        "persons:P-001",
+        "persons:P-002",
+        "persons:P-003",
+        "persons:P-005",
+        "persons:P-006",
+        "persons:P-007",
         "timeline:T3-E0001",
         "timeline:T3-E0008",
         "timeline:T3-E0009",
@@ -5647,15 +5871,7 @@
         "timeline:T3-E0132",
         "timeline:T3-E0133",
         "timeline:T3-E0137",
-        "timeline:T3-E0138",
-        "persons:P-001",
-        "persons:P-002",
-        "persons:P-003",
-        "persons:P-005",
-        "persons:P-006",
-        "persons:P-007",
-        "military:CN-U-001",
-        "military:CN-U-002"
+        "timeline:T3-E0138"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -5847,7 +6063,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0056",
@@ -6054,7 +6274,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0057",
@@ -6076,18 +6300,18 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "唐生智回忆",
       "claim_ids": [
+        "military:CN-U-002",
+        "persons:P-004",
         "timeline:T3-E0087",
         "timeline:T3-E0088",
         "timeline:T3-E0121",
         "timeline:T3-E0122",
-        "timeline:T3-E0123",
-        "persons:P-004",
-        "military:CN-U-002"
+        "timeline:T3-E0123"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0c4fba963b29-20261106T194942068948Z.json",
-      "sha256": null,
+      "sha256": "",
       "limitations": "正文12月10日中午及次日早晨，与编辑改为11日、12日17时不一致；编注不是同期电话记录。；本轮来源登记不重新证明所有旧命题。",
       "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
@@ -6225,7 +6449,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0058",
@@ -6247,18 +6475,13 @@
       "access_status": "Task003-A入口处置2条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "谭道平回忆",
       "claim_ids": [
-        "timeline:T3-E0010",
-        "timeline:T3-E0078",
-        "timeline:T3-E0079",
-        "timeline:T3-E0110",
-        "timeline:T3-E0112",
-        "timeline:T3-E0120",
-        "timeline:T3-E0122",
-        "timeline:T3-E0123",
-        "timeline:T3-E0137",
-        "timeline:T3-E0139",
-        "timeline:T3-E0144",
-        "timeline:T3-E0146",
+        "military:CN-U-001",
+        "military:CN-U-002",
+        "military:CN-U-023",
+        "military:CN-U-026",
+        "military:CN-U-027",
+        "military:CN-U-031",
+        "military:CN-U-032",
         "persons:P-001",
         "persons:P-003",
         "persons:P-004",
@@ -6270,13 +6493,18 @@
         "persons:P-010",
         "persons:P-011",
         "persons:P-012",
-        "military:CN-U-001",
-        "military:CN-U-002",
-        "military:CN-U-023",
-        "military:CN-U-026",
-        "military:CN-U-027",
-        "military:CN-U-031",
-        "military:CN-U-032"
+        "timeline:T3-E0010",
+        "timeline:T3-E0078",
+        "timeline:T3-E0079",
+        "timeline:T3-E0110",
+        "timeline:T3-E0112",
+        "timeline:T3-E0120",
+        "timeline:T3-E0122",
+        "timeline:T3-E0123",
+        "timeline:T3-E0137",
+        "timeline:T3-E0139",
+        "timeline:T3-E0144",
+        "timeline:T3-E0146"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -6496,7 +6724,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0059",
@@ -6518,8 +6750,8 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "二档馆11月25日序列电",
       "claim_ids": [
-        "timeline:T3-E0020",
-        "military:CN-U-001"
+        "military:CN-U-001",
+        "timeline:T3-E0020"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
@@ -6624,7 +6856,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0060",
@@ -6646,6 +6882,7 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "姜良芹2011论文",
       "claim_ids": [
+        "persons:P-002",
         "timeline:T3-E0019",
         "timeline:T3-E0036",
         "timeline:T3-E0037",
@@ -6654,13 +6891,12 @@
         "timeline:T3-E0068",
         "timeline:T3-E0089",
         "timeline:T3-E0096",
-        "timeline:T3-E0131",
-        "persons:P-002"
+        "timeline:T3-E0131"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a74b0297e7c5-20261106T194943499784Z.json",
-      "sha256": null,
+      "sha256": "",
       "limitations": "研究文中论断与所引原档分开；不能把文章引文称为Task002当轮见到原电。；本轮来源登记不重新证明所有旧命题。",
       "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
@@ -6772,7 +7008,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0061",
@@ -6794,9 +7034,9 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "国史馆002-020300-00009-151",
       "claim_ids": [
+        "persons:P-002",
         "timeline:T3-E0124",
-        "timeline:T3-E0131",
-        "persons:P-002"
+        "timeline:T3-E0131"
       ],
       "rights_status": "open_license",
       "snapshot_status": "captured_private_only",
@@ -6951,7 +7191,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0062",
@@ -7088,7 +7332,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0063",
@@ -7249,7 +7497,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0064",
@@ -7271,9 +7523,9 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "美国使馆1004号电",
       "claim_ids": [
+        "persons:P-002",
         "timeline:T3-E0069",
-        "timeline:T3-E0070",
-        "persons:P-002"
+        "timeline:T3-E0070"
       ],
       "rights_status": "public_domain",
       "snapshot_status": "captured_public",
@@ -7413,7 +7665,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0065",
@@ -7594,7 +7850,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0066",
@@ -7786,7 +8046,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0067",
@@ -7926,7 +8190,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0068",
@@ -8087,7 +8355,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0069",
@@ -8109,10 +8381,10 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "国史馆002-080200-00487-052",
       "claim_ids": [
-        "timeline:T3-E0066",
-        "timeline:T3-E0067",
+        "military:CN-U-001",
         "persons:P-001",
-        "military:CN-U-001"
+        "timeline:T3-E0066",
+        "timeline:T3-E0067"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -8252,7 +8524,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0070",
@@ -8435,7 +8711,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0071",
@@ -8457,22 +8737,6 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "宋希濂回忆",
       "claim_ids": [
-        "persons:P-013",
-        "persons:P-014",
-        "persons:P-015",
-        "persons:P-016",
-        "persons:P-017",
-        "persons:P-018",
-        "persons:P-019",
-        "persons:P-020",
-        "persons:P-021",
-        "persons:P-026",
-        "persons:P-027",
-        "persons:P-028",
-        "persons:P-029",
-        "persons:P-030",
-        "persons:P-031",
-        "persons:P-032",
         "military:CN-U-003",
         "military:CN-U-004",
         "military:CN-U-005",
@@ -8501,7 +8765,23 @@
         "military:FO-064",
         "military:FO-071",
         "military:FO-073",
-        "military:FO-074"
+        "military:FO-074",
+        "persons:P-013",
+        "persons:P-014",
+        "persons:P-015",
+        "persons:P-016",
+        "persons:P-017",
+        "persons:P-018",
+        "persons:P-019",
+        "persons:P-020",
+        "persons:P-021",
+        "persons:P-026",
+        "persons:P-027",
+        "persons:P-028",
+        "persons:P-029",
+        "persons:P-030",
+        "persons:P-031",
+        "persons:P-032"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -8703,7 +8983,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0072",
@@ -8844,7 +9128,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0073",
@@ -8971,7 +9259,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0074",
@@ -9100,7 +9392,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0075",
@@ -9225,7 +9521,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0076",
@@ -9247,13 +9547,13 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "二档馆原始军档",
       "claim_ids": [
-        "persons:P-033",
         "military:CN-U-024",
         "military:FO-068",
         "military:FO-072",
         "military:FO-077",
         "military:FO-080",
-        "military:FO-081"
+        "military:FO-081",
+        "persons:P-033"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
@@ -9370,7 +9670,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0077",
@@ -9392,10 +9696,10 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "官方英烈名录",
       "claim_ids": [
-        "persons:P-022",
         "military:CN-U-018",
         "military:FO-070",
-        "military:FO-075"
+        "military:FO-075",
+        "persons:P-022"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
@@ -9509,7 +9813,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0078",
@@ -9531,15 +9839,15 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "无锡地方档案研究",
       "claim_ids": [
-        "persons:P-006",
-        "persons:P-023",
-        "persons:P-024",
-        "persons:P-025",
         "military:CN-U-007",
         "military:CN-U-019",
         "military:CN-U-022",
         "military:CN-U-023",
-        "military:FO-078"
+        "military:FO-078",
+        "persons:P-006",
+        "persons:P-023",
+        "persons:P-024",
+        "persons:P-025"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -9653,7 +9961,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0079",
@@ -9780,7 +10092,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0080",
@@ -9908,7 +10224,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0081",
@@ -10124,7 +10444,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0082",
@@ -10249,7 +10573,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0083",
@@ -10271,10 +10599,11 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "宋希濂南京守城战",
       "claim_ids": [
+        "evacuation:IN03:row17",
         "evacuation:SH02:row4",
         "evacuation:SH07:row10",
         "evacuation:SH08:row11",
-        "evacuation:IN03:row17"
+        "T4-TR-C007"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -10444,7 +10773,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0084",
@@ -10466,9 +10799,10 @@
       "access_status": "Task003-A入口处置0条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "方志江苏长江号报道",
       "claim_ids": [
-        "timeline:T3-E0152",
+        "evacuation:IN04:row18",
         "evacuation:SH01:row2",
-        "evacuation:IN04:row18"
+        "timeline:T3-E0152",
+        "T4-TR-C008"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
@@ -10565,7 +10899,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0085",
@@ -10587,10 +10925,10 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "故宫文物迁运资料",
       "claim_ids": [
-        "timeline:T3-E0153",
         "evacuation:SH01:row3",
         "evacuation:SH04:row6",
-        "evacuation:SH05:row7"
+        "evacuation:SH05:row7",
+        "timeline:T3-E0153"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -10730,7 +11068,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0086",
@@ -10934,7 +11276,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0087",
@@ -11167,7 +11513,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0088",
@@ -11329,7 +11679,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0089",
@@ -11351,14 +11705,14 @@
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "Atcheson Panay亲历报告",
       "claim_ids": [
-        "timeline:T3-E0154",
-        "timeline:T3-E0155",
+        "evacuation:IN01:row15",
+        "evacuation:IN02:row16",
         "evacuation:SH05:row8",
         "evacuation:SH06:row9",
         "evacuation:SH09:row13",
         "evacuation:SH10:row14",
-        "evacuation:IN01:row15",
-        "evacuation:IN02:row16"
+        "timeline:T3-E0154",
+        "timeline:T3-E0155"
       ],
       "rights_status": "public_domain",
       "snapshot_status": "captured_public",
@@ -11535,7 +11889,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0090",
@@ -11732,7 +12090,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0091",
@@ -11857,7 +12219,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0092",
@@ -11884,7 +12250,7 @@
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a74b0297e7c5-20261106T194943499784Z.json",
-      "sha256": null,
+      "sha256": "",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
       "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
@@ -11996,7 +12362,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0093",
@@ -12162,7 +12532,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0094",
@@ -12381,7 +12755,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0095",
@@ -12608,7 +12986,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": "META-V02-SRC-0095"
+      "v02_revision_ids": "META-V02-SRC-0095",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0096",
@@ -12833,7 +13215,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": "META-V02-SRC-0096"
+      "v02_revision_ids": "META-V02-SRC-0096",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0097",
@@ -12856,7 +13242,8 @@
       "source_family": "IC-letter-1937-12-27-rice-coal",
       "claim_ids": [
         "timeline:T3-E0219",
-        "T3B-E-INT-01"
+        "T3B-E-INT-01",
+        "T4-INT-C002"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -13059,7 +13446,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": "META-V02-SRC-0097"
+      "v02_revision_ids": "META-V02-SRC-0097",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0098",
@@ -13228,7 +13619,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0099",
@@ -13430,7 +13825,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": "META-V02-SRC-0099"
+      "v02_revision_ids": "META-V02-SRC-0099",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0100",
@@ -13599,7 +13998,11 @@
       ],
       "read_scope_v02": "full_document",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0101",
@@ -13627,12 +14030,10 @@
         "timeline:T3-E0187",
         "timeline:T3-E0188",
         "timeline:T3-E0193",
+        "timeline:T3-E0194",
         "timeline:T3-E0199",
-        "timeline:T3-E0230",
         "timeline:T3-E0204",
         "timeline:T3-E0205",
-        "timeline:T3-E0231",
-        "timeline:T3-E0194",
         "timeline:T3-E0206",
         "timeline:T3-E0207",
         "timeline:T3-E0208",
@@ -13641,7 +14042,9 @@
         "timeline:T3-E0213",
         "timeline:T3-E0214",
         "timeline:T3-E0215",
-        "timeline:T3-E0216"
+        "timeline:T3-E0216",
+        "timeline:T3-E0230",
+        "timeline:T3-E0231"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "metadata_only",
@@ -13791,7 +14194,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0102",
@@ -13841,7 +14248,18 @@
         "timeline:T3-E0200",
         "timeline:T3-E0201",
         "timeline:T3-E0202",
-        "timeline:T3-E0203"
+        "timeline:T3-E0203",
+        "T4-INT-C003",
+        "T4-INT-C004",
+        "T4-INT-C005",
+        "T4-INT-C006",
+        "T4-INT-C007",
+        "T4-INT-C008",
+        "T4-INT-C009",
+        "T4-INT-C010",
+        "T4-INT-C011",
+        "T4-INT-C012",
+        "T4-INT-C013"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
@@ -14036,7 +14454,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": "对照SRC-0166英文打字本选页，12/16埋藏衣物、12/17孕妇句和送食人数存在三处译文差异；见international/魏特琳日记中英底本差异.csv。不宜直接引用旧译句。"
     },
     {
       "source_id": "SRC-0103",
@@ -14063,10 +14485,10 @@
         "timeline:T3-E0159",
         "timeline:T3-E0160",
         "timeline:T3-E0161",
-        "timeline:T3-E0199",
         "timeline:T3-E0162",
         "timeline:T3-E0163",
-        "timeline:T3-E0164"
+        "timeline:T3-E0164",
+        "timeline:T3-E0199"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -14236,7 +14658,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": "META-V02-SRC-0103"
+      "v02_revision_ids": "META-V02-SRC-0103",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0104",
@@ -14361,7 +14787,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0105",
@@ -14486,7 +14916,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0106",
@@ -14611,7 +15045,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0107",
@@ -14736,7 +15174,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0108",
@@ -14894,7 +15336,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0109",
@@ -15052,7 +15498,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "2026-11-06T21:02:30.998119+00:00",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0110",
@@ -15263,7 +15713,11 @@
       "v02_type_previous_values": {
         "document_type": "同期函件，已编目但扫描读取失败",
         "original_or_copy": "同期函件，已编目但扫描读取失败"
-      }
+      },
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0111",
@@ -15289,7 +15743,17 @@
         "timeline:T3-E0221",
         "timeline:T3-E0222",
         "timeline:T3-E0223",
-        "timeline:T3-E0224"
+        "timeline:T3-E0224",
+        "T4-AT-C001",
+        "T4-AT-C002",
+        "T4-AT-C003",
+        "T4-AT-C004",
+        "T4-AT-C005",
+        "T4-AT-C006",
+        "T4-AT-C007",
+        "T4-AT-C008",
+        "T4-AT-C009",
+        "T4-AT-C012"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -15469,7 +15933,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0112",
@@ -15486,8 +15954,8 @@
       "archive_id": "",
       "locator": "山田栴二：印刷第2–3页/PDF8–9；宫本省吾：印刷第26、32页/PDF32、38；远藤高明：印刷第49、54–55页/PDF55、60–61",
       "original_url": "",
-      "accessed_url": null,
-      "accessed_at_utc": null,
+      "accessed_url": "",
+      "accessed_at_utc": "",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "JAPANESE_DIARIES_DISTINCT_AUTHORS_SHARED_EDITION",
       "claim_ids": [
@@ -15495,7 +15963,9 @@
         "timeline:T3-E0226",
         "timeline:T3-E0227",
         "timeline:T3-E0228",
-        "timeline:T3-E0229"
+        "timeline:T3-E0229",
+        "T4-AT-C014",
+        "T4-AT-C015"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -15688,7 +16158,11 @@
             "nature": "S"
           }
         ]
-      }
+      },
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0113",
@@ -15847,7 +16321,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0114",
@@ -15974,7 +16452,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0115",
@@ -15999,7 +16481,7 @@
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-d69ea3265fec-20261106T194757741787Z.json",
-      "sha256": null,
+      "sha256": "",
       "limitations": "；本轮来源登记不重新证明所有旧命题。",
       "notes": "空白=未取得或未完成字段级核验；不从题名推造作者、日期、档号。原54项旧等级与当前P/S/T定义不同；来源性质未完成定性时使用unknown，旧U保存在source_nature_original与迁移日志。；继承作者、日期等未核字段及原阅读记录见SOURCE_DETAILS.json。metadata_only不等于无史料，空值不等于未发生。",
       "inventory_scope": "inherited_128",
@@ -16101,7 +16583,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0116",
@@ -16222,7 +16708,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0117",
@@ -16347,7 +16837,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0118",
@@ -16522,7 +17016,11 @@
       ],
       "read_scope_v02": "catalog_only",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0119",
@@ -16693,7 +17191,11 @@
       ],
       "read_scope_v02": "failed",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0120",
@@ -16830,7 +17332,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0121",
@@ -16955,7 +17461,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0122",
@@ -17080,7 +17590,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0123",
@@ -17206,7 +17720,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0124",
@@ -17331,7 +17849,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0125",
@@ -17456,7 +17978,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0126",
@@ -17581,7 +18107,11 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0127",
@@ -17603,17 +18133,6 @@
       "access_status": "Task003-A入口处置2条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
       "source_family": "拟属卫戍军战斗详报源族；须回书影确认，不作为已核独立原档",
       "claim_ids": [
-        "persons:P-013",
-        "persons:P-014",
-        "persons:P-015",
-        "persons:P-016",
-        "persons:P-017",
-        "persons:P-018",
-        "persons:P-019",
-        "persons:P-020",
-        "persons:P-021",
-        "persons:P-023",
-        "persons:P-025",
         "military:CN-U-004",
         "military:CN-U-005",
         "military:CN-U-006",
@@ -17624,7 +18143,18 @@
         "military:CN-U-019",
         "military:CN-U-021",
         "military:CN-U-022",
-        "military:CN-U-023"
+        "military:CN-U-023",
+        "persons:P-013",
+        "persons:P-014",
+        "persons:P-015",
+        "persons:P-016",
+        "persons:P-017",
+        "persons:P-018",
+        "persons:P-019",
+        "persons:P-020",
+        "persons:P-021",
+        "persons:P-023",
+        "persons:P-025"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -17781,7 +18311,11 @@
       ],
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0128",
@@ -17899,13 +18433,17 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:41.934Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-45c8d190bdc3-20261106T194836498259Z.json",
       "sha256": "2cf61b0372a9e3d3c7f09d4e1a42e19f80b2095731ff93780c126e009a01f8ff",
@@ -17921,7 +18459,7 @@
       "original_url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
       "accessed_url": "https://dsb.nanjing.gov.cn/xxcb/201508/t20150828_2084141.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存1份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18044,13 +18582,17 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:39.244Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a7e82cba9d59-20261106T194833607492Z.json",
       "sha256": "69fa511a5d40c116cf36b604bcef2ee442bbe1e5cdadeddc3c413e3a6f379247",
@@ -18066,7 +18608,7 @@
       "original_url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
       "accessed_url": "https://dfz.nanjing.gov.cn/gzdt/202410/t20241029_4996079.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存1份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18189,13 +18731,17 @@
       "source_nature_original": "",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:23.555Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-fed3085983f6-20261106T194819180274Z.json",
       "sha256": "3545b1f08bc0c58549f606a68ae711a3b7d405584f3a2be6f3fcc5a7da106e76",
@@ -18211,7 +18757,7 @@
       "original_url": "http://m.people.cn/n4/2017/1221/c102-10289008.html",
       "accessed_url": "http://m.people.cn/n4/2017/1221/c102-10289008.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18284,13 +18830,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:33.599Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-2e6c97429a91-20261106T194823836359Z.json",
       "sha256": "48402d9de2b5fa120327d180ed3bdc777716d43a926cae5cd91d5fca8a7e5282",
@@ -18306,7 +18856,7 @@
       "original_url": "http://www.huangpu.org.cn/rwcq/201605/t20160504_11449823.html",
       "accessed_url": "http://www.huangpu.org.cn/rwcq/201605/t20160504_11449823.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18379,13 +18929,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:59.357Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-590ed3316386-20261106T194853319992Z.json",
       "sha256": "598fee2d87c0e66968eef536cd19d3614e4944264747d8ac2c4c602bd64c3033",
@@ -18401,7 +18955,7 @@
       "original_url": "https://m.krzzjn.com/show-1232-34627.html",
       "accessed_url": "https://m.krzzjn.com/show-1232-34627.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18474,13 +19028,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:09.097Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-0bb19f62a421-20261106T194904657096Z.json",
       "sha256": "b7b9e54728024e16e61a0c62e4fde8de658922a360ad5884347a1b9664c0c8b6",
@@ -18496,7 +19054,7 @@
       "original_url": "https://m.krzzjn.com/show-1854-89036.html",
       "accessed_url": "https://m.krzzjn.com/show-1854-89036.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18569,13 +19127,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:36.931Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-a4e8027bfd05-20261106T194931348528Z.json",
       "sha256": "88ec68fca708a39a7ff00431a29b73749728bc4ebfc4f6ef741cdc899b1c1d59",
@@ -18591,7 +19153,7 @@
       "original_url": "https://www.krzzjn.com/show-349-108342.html",
       "accessed_url": "https://www.krzzjn.com/show-349-108342.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18664,13 +19226,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:25.266Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-92a1939df4d4-20261106T194819111251Z.json",
       "sha256": "4646980338c177678c3524333ed40a66bf8f11438701cb9166e9ec74215dedfd",
@@ -18686,7 +19252,7 @@
       "original_url": "http://jds.cssn.cn/newzxdt/202101/t20210128_5297237.shtml",
       "accessed_url": "http://jds.cssn.cn/newzxdt/202101/t20210128_5297237.shtml",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18759,13 +19325,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:12.580Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-9208cc02a19f-20261106T194903027357Z.json",
       "sha256": "a5efab9de21c0d165cfd08cbfd9bc326ab22c4b835455b12b923ee6e4afa2d03",
@@ -18781,7 +19351,7 @@
       "original_url": "https://m.thepaper.cn/newsDetail_forward_1891194",
       "accessed_url": "https://m.thepaper.cn/newsDetail_forward_1891194",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18854,13 +19424,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:42.047Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-6e065c2d9f85-20261106T194936954763Z.json",
       "sha256": "3a577b00317d6c0db48bae4b7edafaa5ca24f52f23e754bc2841a255226328de",
@@ -18876,7 +19450,7 @@
       "original_url": "https://www.krzzjn.com/show-349-79986.html",
       "accessed_url": "https://www.krzzjn.com/show-349-79986.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -18949,13 +19523,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:28.980Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-e1bceaa16f15-20261106T194921137748Z.json",
       "sha256": "5a90f26f878d360b0591e85281608d6d7f843ad0dfd7dd4bf85f67ec578ed057",
@@ -18971,7 +19549,7 @@
       "original_url": "https://m.krzzjn.com/show-349-79904.html",
       "accessed_url": "https://m.krzzjn.com/show-349-79904.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -19044,13 +19622,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:30.195Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-977803ff3bcf-20261106T194823560215Z.json",
       "sha256": "9858e94e0ddffe9c8336f122ac364b7aa0f8623ca8bfe30fd38232bd9c2e5bf8",
@@ -19066,7 +19648,7 @@
       "original_url": "http://www.cb.com.cn/index/show/rw/cv/cv13447491229/p/license/license/10003.html",
       "accessed_url": "http://www.cb.com.cn/index/show/rw/cv/cv13447491229/p/license/license/10003.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "capture_failed",
@@ -19139,13 +19721,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:56.284Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-4d9cee0766c3-20261106T194849981915Z.json",
       "sha256": "b226f67b141bf4fc3cf8cf8feae38f00d24f7c75e2cf9db857bd7510c3fdff5c",
@@ -19161,7 +19747,7 @@
       "original_url": "https://m.thepaper.cn/baijiahao_10373706",
       "accessed_url": "https://m.thepaper.cn/baijiahao_10373706",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -19234,13 +19820,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:48:59.204Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-80129031aac8-20261106T194854419721Z.json",
       "sha256": "a61a6e44e64178387808e6fa40032b493ad2936f352ec3674d9e272c244f5bb8",
@@ -19256,7 +19846,7 @@
       "original_url": "https://news.cctv.com/special/C20233/20071211/107422.shtml",
       "accessed_url": "https://news.cctv.com/special/C20233/20071211/107422.shtml",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -19329,13 +19919,17 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
-      "creator_or_publisher": null,
-      "created_date": null,
-      "publication": null,
-      "archive_id": null,
+      "creator_or_publisher": "",
+      "created_date": "",
+      "publication": "",
+      "archive_id": "",
       "accessed_at_utc": "2026-11-06T19:49:04.653Z",
       "snapshot_path": "sources/web-snapshots/metadata-only/CAP-7ae3411662b3-20261106T194859361148Z.json",
       "sha256": "d575b59c47a9381e44b763a31f3dc06e002a4b8077a5ae5f40d7170e98010519",
@@ -19351,7 +19945,7 @@
       "original_url": "https://m.krzzjn.com/show-1854-83003.html",
       "accessed_url": "https://m.krzzjn.com/show-1854-83003.html",
       "access_status": "Task003-A入口处置1条（含网络请求或既有文件复用）；详见快照清单；已有HTML缓存0份。抓取状态不是阅读/证实状态。",
-      "source_family": null,
+      "source_family": "",
       "claim_ids": [],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -19424,7 +20018,11 @@
       "source_nature_original": "U",
       "read_scope_v02": "",
       "reading_time_utc_v02": "",
-      "v02_revision_ids": ""
+      "v02_revision_ids": "",
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0144",
@@ -19444,7 +20042,8 @@
       "access_status": "selected_pages；获取与阅读边界见V0.2日志",
       "source_family": "LUSU_STATEMENT_TANI_EVIDENCE_CHAIN",
       "claim_ids": [
-        "T3B-E-AT-02"
+        "T3B-E-AT-02",
+        "T4-AT-C012"
       ],
       "rights_status": "link_only",
       "snapshot_status": "captured_private_only",
@@ -19584,7 +20183,11 @@
           "source_id": "SRC-0144",
           "sha256_verified_local": "64fffac8d32d9f95a4f5d42f71f6554b11c2cdb48a592c6bdd081163139e00c7"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0145",
@@ -19603,7 +20206,9 @@
       "accessed_at_utc": "2026-11-06T20:50:47.067747+00:00",
       "access_status": "failed；获取与阅读边界见V0.2日志",
       "source_family": "LUSU_STATEMENT_TANI_EVIDENCE_CHAIN",
-      "claim_ids": [],
+      "claim_ids": [
+        "T4-AT-C011"
+      ],
       "rights_status": "link_only",
       "snapshot_status": "failed_or_metadata_only",
       "snapshot_path": "sources/web-snapshots/v02-metadata/V02-REC-005.json",
@@ -19692,7 +20297,11 @@
           "source_id": "SRC-0145",
           "sha256_verified_local": ""
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0146",
@@ -19800,7 +20409,11 @@
           "source_id": "SRC-0146",
           "sha256_verified_local": "8eb326201a671e2d01a78dd84d87bceeb9d9563b07d8e379da878723ee6e53dc"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0147",
@@ -19826,7 +20439,8 @@
         "T3B-E-INT-05",
         "T3B-E-INT-06",
         "T3B-E-INT-07",
-        "T3B-E-INT-08"
+        "T3B-E-INT-08",
+        "T4-INT-C001"
       ],
       "rights_status": "rights_pending",
       "snapshot_status": "captured_private_only",
@@ -19960,7 +20574,11 @@
           "sha256_verified_local": "0b6ece58cd49da387c71cf8cf52c63a3c5f64d220b2c4eb397f374000a25313a",
           "reported_rights_status": "not_evaluated_no_payload_publication"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0148",
@@ -20078,7 +20696,11 @@
           "source_id": "SRC-0148",
           "sha256_verified_local": "99012fec7065abce141b3ca967a1e667e1ca519031d622cfe25e8eb998c98661"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0149",
@@ -20220,7 +20842,11 @@
           "sha256_verified_local": "32abf1cd2290ee3956649b713cc999ac1c49d78898a59ce75b261ad40fae15ca",
           "reported_rights_status": "private_only_pending_review"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0150",
@@ -20324,7 +20950,11 @@
           "source_id": "SRC-0150",
           "sha256_verified_local": "2cb6a6fbd729ccc1661553b31ab407f1d19e7b75dfebafc34854984938731305"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0151",
@@ -20428,34 +21058,40 @@
           "source_id": "SRC-0151",
           "sha256_verified_local": "7863031258efacb99e1946d53a557e49955192f1e4de320856396ce25b88faa5"
         }
-      ]
+      ],
+      "read_scope_task004": "",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_review_note": ""
     },
     {
       "source_id": "SRC-0152",
-      "title": "故宫网站铁路轮渡与文物西迁研究单页（印刷074页；篇名待定）",
-      "creator_or_publisher": null,
-      "created_date": "",
-      "publication": "",
-      "document_type": "研究文章单页PDF",
+      "title": "重走故宫文物南迁路考察记（一）",
+      "creator_or_publisher": "徐婉玲",
+      "created_date": "2010-10",
+      "publication": "《紫禁城》2010年第10期（总189期），第72–77页",
+      "document_type": "考察研究文章；故宫官网逐页PDF",
       "source_nature": "S",
       "source_nature_original": "",
-      "original_or_copy": "官方载体扫描单页",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
       "archive_id": "",
-      "locator": "印刷074页；PDF1/1",
-      "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
-      "accessed_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
-      "accessed_at_utc": "2026-11-06T20:58:08.261224+00:00",
-      "access_status": "selected_pages；获取与阅读边界见V0.2日志",
-      "source_family": "PALACE_MUSEUM_RAIL_FERRY_RESEARCH_UNKNOWN_ARTICLE",
+      "locator": "2010.10目录页期次；p72题名署名；pp72–77正文；p75脚注4–9；p74为原有缓存",
+      "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+      "accessed_url": "https://www.dpm.org.cn/explode/others/210158.html",
+      "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "XU_WANLING_PALACE_MOVE_ROUTE_2010_10",
       "claim_ids": [
-        "EV-A-010"
+        "EV-A-010",
+        "T4-TR-C001",
+        "T4-TR-C002"
       ],
       "rights_status": "rights_pending",
-      "snapshot_status": "captured_private_only",
-      "snapshot_path": "sources/web-snapshots/v02-metadata/V02-REC-014.json",
-      "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
-      "limitations": "仅一页，题名作者刊期与注4–9正文未取得；研究论断含推论词，不作为独立原始运输日志。",
-      "notes": "V0.2新增登记记录；不等于新增独立史料。未取得字段为空；第三方全文不纳入公开版本。",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+      "limitations": "一篇研究的6个PDF页不是6个独立来源。p74含应是、据载、应均等推论；p75脚注8直接依赖马衡战后广播，不能与马衡计为独立互证。未取得1937船簿或列车日志。；仅一页，题名作者刊期与注4–9正文未取得；研究论断含推论词，不作为独立原始运输日志。",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
       "read_scope_v02": "selected_pages",
       "reading_time_utc_v02": "",
       "v02_revision_ids": "",
@@ -20534,7 +21170,1934 @@
           "source_id": "SRC-0152",
           "sha256_verified_local": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4"
         }
-      ]
+      ],
+      "pre_task004_identity": {
+        "source_id": "SRC-0152",
+        "title": "故宫网站铁路轮渡与文物西迁研究单页（印刷074页；篇名待定）",
+        "creator_or_publisher": "",
+        "created_date": "",
+        "publication": "",
+        "document_type": "研究文章单页PDF",
+        "source_nature": "S",
+        "source_nature_original": "",
+        "original_or_copy": "官方载体扫描单页",
+        "archive_id": "",
+        "locator": "印刷074页；PDF1/1",
+        "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+        "accessed_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+        "accessed_at_utc": "2026-11-06T20:58:08.261224+00:00",
+        "access_status": "selected_pages；获取与阅读边界见V0.2日志",
+        "source_family": "PALACE_MUSEUM_RAIL_FERRY_RESEARCH_UNKNOWN_ARTICLE",
+        "claim_ids": "EV-A-010",
+        "rights_status": "rights_pending",
+        "snapshot_status": "captured_private_only",
+        "snapshot_path": "sources/web-snapshots/v02-metadata/V02-REC-014.json",
+        "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+        "limitations": "仅一页，题名作者刊期与注4–9正文未取得；研究论断含推论词，不作为独立原始运输日志。",
+        "notes": "V0.2新增登记记录；不等于新增独立史料。未取得字段为空；第三方全文不纳入公开版本。",
+        "read_scope_v02": "selected_pages",
+        "reading_time_utc_v02": "",
+        "v02_revision_ids": ""
+      },
+      "read_scope_task004": "本轮实际目视6页全文及目录；目录不是整期全文",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "task004_source_record": {
+        "source_id": "SRC-0152",
+        "existing_source_id": "SRC-0152",
+        "record_action": "augment_existing_identity_preserve_old_record",
+        "old_value": {
+          "title": "故宫网站铁路轮渡与文物西迁研究单页（印刷074页；篇名待定）",
+          "creator": null,
+          "created_date": null,
+          "locator": "印刷074页；PDF1/1",
+          "reading_scope": "selected_pages"
+        },
+        "title": "重走故宫文物南迁路考察记（一）",
+        "creator": "徐婉玲",
+        "created_date": "2010-10",
+        "type": "考察研究文章；故宫官网逐页PDF",
+        "source_nature": "S",
+        "publication": "《紫禁城》2010年第10期（总189期），第72–77页",
+        "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+        "final_url": "https://www.dpm.org.cn/explode/others/210158.html",
+        "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+        "previous_single_page_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+        "locator": "2010.10目录页期次；p72题名署名；pp72–77正文；p75脚注4–9；p74为原有缓存",
+        "reading_scope": "本轮实际目视6页全文及目录；目录不是整期全文",
+        "source_family": "XU_WANLING_PALACE_MOVE_ROUTE_2010_10",
+        "rights_status": "rights_pending_metadata_only_public",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/transport004/dpm_article/original.html",
+        "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+        "assets": [
+          {
+            "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+            "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+            "method": "urllib HTTPS GET through inherited environment; no cookie/auth",
+            "final_url": "https://www.dpm.org.cn/explode/others/210158.html",
+            "http_status": 200,
+            "content_type": "text/html; charset=utf-8",
+            "local_path": "Task004_Run/internal/transport004/dpm_article/original.html",
+            "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+            "bytes": 99140,
+            "snapshot_scope": "single HTTP response, no linked-resource capture"
+          },
+          {
+            "capture_id": "dpm_contents",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/78/3c/8f783c5b9f77090dc7dc406344dda22c.pdf",
+            "accessed_at_utc": "2026-11-07T01:21:03.429469+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/78/3c/8f783c5b9f77090dc7dc406344dda22c.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_contents/original.pdf",
+            "sha256": "f517abe3b88f53877f8b861bae5277cc586f996e05de38b5ef2fd7d0d595c58f",
+            "bytes": 230043
+          },
+          {
+            "capture_id": "dpm_p72",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/58/12/37/5812372154f8083e83630da187224c03.pdf",
+            "accessed_at_utc": "2026-11-07T01:20:55.841858+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/58/12/37/5812372154f8083e83630da187224c03.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_p72/original.pdf",
+            "sha256": "2463f8aaa319039b2d5c2e8276282558a613f384e0f5ed6d9074bd7109d8f928",
+            "bytes": 238222
+          },
+          {
+            "capture_id": "dpm_p73",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/a2/f4/11/a2f4114135aaf7d9ff1a8c903ebcfb0e.pdf",
+            "accessed_at_utc": "2026-11-07T01:20:55.842366+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/a2/f4/11/a2f4114135aaf7d9ff1a8c903ebcfb0e.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_p73/original.pdf",
+            "sha256": "c570df445464ce061769bdc6232c1e19efdb56262929b64415174a6fe71af1a1",
+            "bytes": 206801
+          },
+          {
+            "capture_id": "dpm_p75",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/97/98/8f97984b83a018ade5468afbab461acb.pdf",
+            "accessed_at_utc": "2026-11-07T01:20:55.842895+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/97/98/8f97984b83a018ade5468afbab461acb.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_p75/original.pdf",
+            "sha256": "d2912d21ef491cae2ab04a5bf07c4947fc4bd7378a3625743a283afdbc5ae493",
+            "bytes": 283393
+          },
+          {
+            "capture_id": "dpm_p76",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/82/c6/23/82c6231ed59bd8c5b8dc783c39970ad4.pdf",
+            "accessed_at_utc": "2026-11-07T01:21:03.345440+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/82/c6/23/82c6231ed59bd8c5b8dc783c39970ad4.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_p76/original.pdf",
+            "sha256": "f2dff7037c95c03ee9f96ad8fb991e0a2466e520e11d17ae61f3aa48215cfdd8",
+            "bytes": 262834
+          },
+          {
+            "capture_id": "dpm_p77",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/71/de/af/71deafb57140c130c8b1c1f29731068a.pdf",
+            "accessed_at_utc": "2026-11-07T01:21:03.365338+00:00",
+            "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+            "snapshot_scope": "one PDF HTTP response, no source print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/71/de/af/71deafb57140c130c8b1c1f29731068a.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "local_path": "Task004_Run/internal/transport004/dpm_p77/original.pdf",
+            "sha256": "36674dabcad5a457ec3fe5cd3f3b78f2f0e936b5c7ef0b175651c224b64ece24",
+            "bytes": 267885
+          },
+          {
+            "capture_id": "SRC-0152-existing-p74",
+            "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+            "final_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+            "accessed_at_utc": "2026-11-06T20:58:08.261224+00:00",
+            "http_status": 200,
+            "local_path": "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf",
+            "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+            "method": "reuse existing original PDF; old HTTP metadata inherited, no new download",
+            "snapshot_scope": "single printed page 074",
+            "rechecked_at_utc": "2026-11-07T01:30:38.854783+00:00"
+          }
+        ],
+        "limitations": "一篇研究的6个PDF页不是6个独立来源。p74含应是、据载、应均等推论；p75脚注8直接依赖马衡战后广播，不能与马衡计为独立互证。未取得1937船簿或列车日志。",
+        "source_relations": [
+          {
+            "target": "SRC-0169",
+            "relation": "cites",
+            "locator": "p75注8→马衡p10；三列车七千余箱等叙述同源"
+          }
+        ],
+        "reported_references_not_obtained": [
+          {
+            "title": "南京简志",
+            "creator": "南京市地方志编纂委员会办公室编纂",
+            "publication": "南京：江苏古籍出版社，1986",
+            "locator": "pp418–422",
+            "reported_in": "p75注4",
+            "acquisition_status": "not_obtained"
+          },
+          {
+            "title": "浦口区志",
+            "creator": "南京市浦口区地方志编纂委员会编",
+            "publication": "北京：方志出版社，2005",
+            "locator": "pp199–204",
+            "reported_in": "p75注4",
+            "acquisition_status": "not_obtained"
+          },
+          {
+            "title": "首都铁路轮渡工程",
+            "creator": "毛起",
+            "publication": "《工程周刊》1932年第1卷第3期",
+            "locator": "pp35–36",
+            "reported_in": "p75注5",
+            "acquisition_status": "not_obtained"
+          },
+          {
+            "title": "首都铁路轮渡工程纪略",
+            "creator": "郑华",
+            "publication": "《工程周刊》1934年第3卷第1期",
+            "locator": "pp1–3；p76图3另引该期封面",
+            "reported_in": "p75注5、9；p76图3",
+            "acquisition_status": "not_obtained"
+          },
+          {
+            "title": "下关区志",
+            "creator": "南京市下关区地方志编纂委员会编",
+            "publication": "北京：方志出版社，2005",
+            "locator": "p253",
+            "reported_in": "p75注9",
+            "acquisition_status": "not_obtained"
+          }
+        ],
+        "additional_reading_records": []
+      },
+      "public_locator": "https://www.dpm.org.cn/explode/others/210158.html",
+      "fulltext_public_allowed_task004": false,
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0153",
+      "legacy_ids": [],
+      "title": "侵华日军南京大屠杀档案：CiNii Books书目记录",
+      "creator_or_publisher": "国立情報学研究所（书目平台）；书籍编者为中国第二历史档案馆、南京市档案馆「南京大屠杀」史料编辑委员会",
+      "created_date": "",
+      "publication": "",
+      "document_type": "library_catalog",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NCID BA72756538；页面书目详细信息；derived.txt第160–164、252–264行",
+      "original_url": "https://ci.nii.ac.jp/ncid/BA72756538",
+      "accessed_url": "https://ci.nii.ac.jp/ncid/BA72756538",
+      "accessed_at_utc": "2026-11-07T01:22:24.677302+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "CINII_BA72756538",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "c70c143d6609177edb5554ab644fb412e3feb687a783dfd92e546a561e9566ba",
+      "limitations": "ISBN 7805190542和NCID只证明书目身份，不证明鲁甦结文日期。载体记录的书籍出版时间为1987.11，网页形成时间未载。",
+      "read_scope_task004": "阅读书目及馆藏定位；未阅读书籍正文或第87–88页",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0153",
+        "title": "侵华日军南京大屠杀档案：CiNii Books书目记录",
+        "creator": "国立情報学研究所（书目平台）；书籍编者为中国第二历史档案馆、南京市档案馆「南京大屠杀」史料编辑委员会",
+        "created_date": "",
+        "type": "library_catalog",
+        "source_nature": "T",
+        "original_url": "https://ci.nii.ac.jp/ncid/BA72756538",
+        "final_url": "https://ci.nii.ac.jp/ncid/BA72756538",
+        "accessed_at_utc": "2026-11-07T01:22:24.677302+00:00",
+        "locator": "NCID BA72756538；页面书目详细信息；derived.txt第160–164、252–264行",
+        "reading_scope": "阅读书目及馆藏定位；未阅读书籍正文或第87–88页",
+        "source_family": "CINII_BA72756538",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/cinii_1987.html",
+        "sha256": "c70c143d6609177edb5554ab644fb412e3feb687a783dfd92e546a561e9566ba",
+        "limitations": "ISBN 7805190542和NCID只证明书目身份，不证明鲁甦结文日期。载体记录的书籍出版时间为1987.11，网页形成时间未载。",
+        "relations": [],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": "未见可核形成日期"
+        },
+        "bibliographic_lead": {
+          "book_publication_date": "1987-11",
+          "publisher": "江苏古籍出版社",
+          "isbn": "7805190542",
+          "ncid": "BA72756538",
+          "target_pages_not_obtained": [
+            "87–88",
+            "562"
+          ]
+        },
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [],
+      "public_locator": "https://ci.nii.ac.jp/ncid/BA72756538",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0154",
+      "legacy_ids": [],
+      "title": "江苏省抗日战争时期人口伤亡和财产损失调研报告（二）【1】",
+      "creator_or_publisher": "江苏省抗战损失调研课题组；网站注明来源中国共产党历史网，抗日战争纪念网转载",
+      "created_date": "2017-06-28",
+      "publication": "",
+      "document_type": "research_report_web_reprint",
+      "source_nature": "S",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "人口伤亡时段分析中南京段；脚注[3]–[6]；derived.txt第51、67–70行",
+      "original_url": "https://m.krzzjn.com/show-625-51901.html",
+      "accessed_url": "https://m.krzzjn.com/show-625-51901.html",
+      "accessed_at_utc": "2026-11-07T01:22:31.665000+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "JIANGSU_WAR_LOSSES_RESEARCH_REPORT",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "1fb63f4ce45d589804a0cdf56c2fb6dabec543bb9377ef5c3b9e77cfd3fdbde8",
+      "limitations": "取得研究报告转载，未取得其所引结文原件。五九三/870、五九三/24均是报告所引定位，尚未向馆藏目录核对。不得登记为本轮已取得原档。",
+      "read_scope_task004": "核读南京相关段、脚注[2]–[6]和来源说明；其他地区统计未复算",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0154",
+        "title": "江苏省抗日战争时期人口伤亡和财产损失调研报告（二）【1】",
+        "creator": "江苏省抗战损失调研课题组；网站注明来源中国共产党历史网，抗日战争纪念网转载",
+        "created_date": "2017-06-28",
+        "type": "research_report_web_reprint",
+        "source_nature": "S",
+        "original_url": "https://m.krzzjn.com/show-625-51901.html",
+        "final_url": "https://m.krzzjn.com/show-625-51901.html",
+        "accessed_at_utc": "2026-11-07T01:22:31.665000+00:00",
+        "locator": "人口伤亡时段分析中南京段；脚注[3]–[6]；derived.txt第51、67–70行",
+        "reading_scope": "核读南京相关段、脚注[2]–[6]和来源说明；其他地区统计未复算",
+        "source_family": "JIANGSU_WAR_LOSSES_RESEARCH_REPORT",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/jiangsu_loss_report.html",
+        "sha256": "1fb63f4ce45d589804a0cdf56c2fb6dabec543bb9377ef5c3b9e77cfd3fdbde8",
+        "limitations": "取得研究报告转载，未取得其所引结文原件。五九三/870、五九三/24均是报告所引定位，尚未向馆藏目录核对。不得登记为本轮已取得原档。",
+        "relations": [],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": ""
+        },
+        "unverified_archive_leads": [
+          {
+            "title": "鲁甦结文",
+            "cited_date": "1945-12-07",
+            "cited_repository": "中国第二历史档案馆",
+            "cited_identifier": "五九三/870",
+            "origin": "脚注[4]",
+            "identifier_verified_against_repository": false
+          },
+          {
+            "title": "陈万禄结文",
+            "cited_date": "1945-10-01",
+            "cited_repository": "中国第二历史档案馆",
+            "cited_identifier": "五九三/24",
+            "origin": "脚注[6]",
+            "identifier_verified_against_repository": false
+          }
+        ],
+        "additional_reading_records": []
+      },
+      "source_nature_original": "S",
+      "claim_ids": [
+        "T4-AT-C010",
+        "T4-AT-C012"
+      ],
+      "public_locator": "https://m.krzzjn.com/show-625-51901.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0155",
+      "legacy_ids": [],
+      "title": "第五集 慈善机关埋尸记录与被害者坟冢照片（三）南京慈善机关暨市民鲁甦报告敌人大屠杀概况统计表",
+      "creator_or_publisher": "南京市档案馆（网页标明来源）；抗日战争纪念网转载",
+      "created_date": "2020-03-04",
+      "publication": "",
+      "document_type": "archive_introduction_reprint",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "正文第五项；derived.txt第1258–1273行",
+      "original_url": "https://www.krzzjn.com/show-2295-105327.html",
+      "accessed_url": "https://www.krzzjn.com/show-2295-105327.html",
+      "accessed_at_utc": "2026-11-07T01:22:39.925725+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "LUSU_STATEMENT_TANI_EVIDENCE_CHAIN",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "f295e1b35c1bd0e06ed5cc6edd8f29b632b3b0b771d07a410463126729ada251",
+      "limitations": "此转载只能证明说明文字写12月6日；与SRC-0145同源，不能算独立互证。源站本轮仍503/502。",
+      "read_scope_task004": "完整阅读该篇说明正文及来源/更新时间；未取得所介绍统计表或完整结文",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0155",
+        "title": "第五集 慈善机关埋尸记录与被害者坟冢照片（三）南京慈善机关暨市民鲁甦报告敌人大屠杀概况统计表",
+        "creator": "南京市档案馆（网页标明来源）；抗日战争纪念网转载",
+        "created_date": "2020-03-04",
+        "type": "archive_introduction_reprint",
+        "source_nature": "T",
+        "original_url": "https://www.krzzjn.com/show-2295-105327.html",
+        "final_url": "https://www.krzzjn.com/show-2295-105327.html",
+        "accessed_at_utc": "2026-11-07T01:22:39.925725+00:00",
+        "locator": "正文第五项；derived.txt第1258–1273行",
+        "reading_scope": "完整阅读该篇说明正文及来源/更新时间；未取得所介绍统计表或完整结文",
+        "source_family": "LUSU_STATEMENT_TANI_EVIDENCE_CHAIN",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/lusu_repost.html",
+        "sha256": "f295e1b35c1bd0e06ed5cc6edd8f29b632b3b0b771d07a410463126729ada251",
+        "limitations": "此转载只能证明说明文字写12月6日；与SRC-0145同源，不能算独立互证。源站本轮仍503/502。",
+        "relations": [
+          {
+            "relation": "reprint_of_same_institutional_introduction",
+            "target": "SRC-0145",
+            "independent": false
+          }
+        ],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": ""
+        },
+        "updated_date_as_displayed": "2023-01-30 09:01:52",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-AT-C011"
+      ],
+      "public_locator": "https://www.krzzjn.com/show-2295-105327.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0156",
+      "legacy_ids": [],
+      "title": "文章荐读 | 张连红：战后南京大屠杀遇难人数的调查与法庭审理",
+      "creator_or_publisher": "张连红；上海交通大学战争审判与世界和平研究院转载",
+      "created_date": "2023-12-26",
+      "publication": "",
+      "document_type": "scholarly_article_web_reprint",
+      "source_nature": "S",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "第一节1946年2月陈光虞报告段；derived.txt第111–122行；末尾第765–768行出处",
+      "original_url": "https://wctwp.sjtu.edu.cn/Web/Show?f=515&p=7&w=7",
+      "accessed_url": "https://wctwp.sjtu.edu.cn/Web/Show?f=515&p=7&w=7",
+      "accessed_at_utc": "2026-11-07T01:22:47.669223+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "ZHANG_LIANHONG_POSTWAR_INVESTIGATION",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "3084c39e6e52bed496dd5c40122c5f27251dd27f79c278833a9e6696ede2e8f5",
+      "limitations": "网页注明来源《战争审判研究》第一辑，但未取得该辑纸本及原注页。所引1946年报告未取得，不能据研究文章倒推57,418的逐人统计底稿。",
+      "read_scope_task004": "核读第一节相关调查流程、1946年报告引文及末尾出处；未逐条核查其余案件/统计",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0156",
+        "title": "文章荐读 | 张连红：战后南京大屠杀遇难人数的调查与法庭审理",
+        "creator": "张连红；上海交通大学战争审判与世界和平研究院转载",
+        "created_date": "2023-12-26",
+        "type": "scholarly_article_web_reprint",
+        "source_nature": "S",
+        "original_url": "https://wctwp.sjtu.edu.cn/Web/Show?f=515&p=7&w=7",
+        "final_url": "https://wctwp.sjtu.edu.cn/Web/Show?f=515&p=7&w=7",
+        "accessed_at_utc": "2026-11-07T01:22:47.669223+00:00",
+        "locator": "第一节1946年2月陈光虞报告段；derived.txt第111–122行；末尾第765–768行出处",
+        "reading_scope": "核读第一节相关调查流程、1946年报告引文及末尾出处；未逐条核查其余案件/统计",
+        "source_family": "ZHANG_LIANHONG_POSTWAR_INVESTIGATION",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/sjtu_investigation.html",
+        "sha256": "3084c39e6e52bed496dd5c40122c5f27251dd27f79c278833a9e6696ede2e8f5",
+        "limitations": "网页注明来源《战争审判研究》第一辑，但未取得该辑纸本及原注页。所引1946年报告未取得，不能据研究文章倒推57,418的逐人统计底稿。",
+        "relations": [],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": ""
+        },
+        "additional_reading_records": []
+      },
+      "source_nature_original": "S",
+      "claim_ids": [
+        "T4-AT-C013"
+      ],
+      "public_locator": "https://wctwp.sjtu.edu.cn/Web/Show?f=515&p=7&w=7",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0157",
+      "legacy_ids": [],
+      "title": "International Memory of the World Register: Documents of Nanjing Massacre (2014-50), nomination form",
+      "creator_or_publisher": "中国申报方；UNESCO公开载体（具体原签署者本次未核）",
+      "created_date": "",
+      "publication": "",
+      "document_type": "modern_archival_nomination_pdf",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "PDF第7页4.4 Accessibility及4.5 Copyright status",
+      "original_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+      "accessed_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+      "accessed_at_utc": "2026-11-07T01:22:16.381412+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "UNESCO_MOW_NANJING_NOMINATION_2014_50",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+      "limitations": "P仅指现代申报文件本身；不能据此证明1937个案日期、人数或单位。2014-50是申报标识，不是历史档案号。可供查阅不等于允许项目再分发。",
+      "read_scope_task004": "下载11页PDF；检索目录与相关词，目视第7页；未全11页逐页阅读",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0157",
+        "title": "International Memory of the World Register: Documents of Nanjing Massacre (2014-50), nomination form",
+        "creator": "中国申报方；UNESCO公开载体（具体原签署者本次未核）",
+        "created_date": "",
+        "type": "modern_archival_nomination_pdf",
+        "source_nature": "P",
+        "original_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+        "final_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+        "accessed_at_utc": "2026-11-07T01:22:16.381412+00:00",
+        "locator": "PDF第7页4.4 Accessibility及4.5 Copyright status",
+        "reading_scope": "下载11页PDF；检索目录与相关词，目视第7页；未全11页逐页阅读",
+        "source_family": "UNESCO_MOW_NANJING_NOMINATION_2014_50",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/unesco_nomination.pdf",
+        "sha256": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+        "limitations": "P仅指现代申报文件本身；不能据此证明1937个案日期、人数或单位。2014-50是申报标识，不是历史档案号。可供查阅不等于允许项目再分发。",
+        "relations": [],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": "未见可核形成日期"
+        },
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-AT-C016"
+      ],
+      "public_locator": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0158",
+      "legacy_ids": [],
+      "title": "山田支隊・山田栴二：多版本日记转录对照",
+      "creator_or_publisher": "网页编者未明确核得；所引作者山田栴二",
+      "created_date": "",
+      "publication": "",
+      "document_type": "japanese_web_transcription",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "山田日记12月14–19日；所引《南京戦史資料集２》pp.330–333；derived.txt第58–117行",
+      "original_url": "https://kk-nanking.main.jp/butaibetu/yamada/SYamada.html",
+      "accessed_url": "https://kk-nanking.main.jp/butaibetu/yamada/SYamada.html",
+      "accessed_at_utc": "2026-11-07T01:26:48.029279+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "JAPANESE_DIARIES_DISTINCT_AUTHORS_SHARED_EDITION",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "6a30471f988c30ed9bfe5a9388569438656d7f21b6687deae37caa88d5bb882c",
+      "limitations": "不是原稿影像。页首旅团编号自身不一致，不据此改编制；三个版本道出处/措辞存在差异，不能替代原命令或算三份独立证言。",
+      "read_scope_task004": "阅读日记转录12月10–20日、版本对照及参考文献；未阅读各版本原书或日记手稿",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0158",
+        "title": "山田支隊・山田栴二：多版本日记转录对照",
+        "creator": "网页编者未明确核得；所引作者山田栴二",
+        "created_date": "",
+        "type": "japanese_web_transcription",
+        "source_nature": "T",
+        "original_url": "https://kk-nanking.main.jp/butaibetu/yamada/SYamada.html",
+        "final_url": "https://kk-nanking.main.jp/butaibetu/yamada/SYamada.html",
+        "accessed_at_utc": "2026-11-07T01:26:48.029279+00:00",
+        "locator": "山田日记12月14–19日；所引《南京戦史資料集２》pp.330–333；derived.txt第58–117行",
+        "reading_scope": "阅读日记转录12月10–20日、版本对照及参考文献；未阅读各版本原书或日记手稿",
+        "source_family": "JAPANESE_DIARIES_DISTINCT_AUTHORS_SHARED_EDITION",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/yamada_transcription.html",
+        "sha256": "6a30471f988c30ed9bfe5a9388569438656d7f21b6687deae37caa88d5bb882c",
+        "limitations": "不是原稿影像。页首旅团编号自身不一致，不据此改编制；三个版本道出处/措辞存在差异，不能替代原命令或算三份独立证言。",
+        "relations": [
+          {
+            "relation": "derivative_of_yamada_diary_also_translated_in",
+            "target": "SRC-0112",
+            "independent": false
+          }
+        ],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": "未见可核形成日期"
+        },
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-AT-C014"
+      ],
+      "public_locator": "https://kk-nanking.main.jp/butaibetu/yamada/SYamada.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0159",
+      "legacy_ids": [],
+      "title": "山田支隊・歩兵第65連隊 第2大隊：遠藤高明陣中日記节录",
+      "creator_or_publisher": "网页编者未明确核得；所引作者遠藤高明",
+      "created_date": "",
+      "publication": "",
+      "document_type": "japanese_web_transcription",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "遠藤高明部分；derived.txt第136–162行；网页所引《南京大虐殺を記録した皇軍兵士たち》pp.219–220",
+      "original_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+      "accessed_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+      "accessed_at_utc": "2026-11-07T01:26:56.301405+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "JAPANESE_DIARIES_DISTINCT_AUTHORS_SHARED_EDITION",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+      "limitations": "不是日记原稿或原版书页。12月15日三百六与SRC-0112中译360存在转录/翻译待核差异；不凭网站改数字。",
+      "read_scope_task004": "完整阅读远藤节录12月12–20日；同页其他作者仅定位，未纳入新结论",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0159",
+        "title": "山田支隊・歩兵第65連隊 第2大隊：遠藤高明陣中日記节录",
+        "creator": "网页编者未明确核得；所引作者遠藤高明",
+        "created_date": "",
+        "type": "japanese_web_transcription",
+        "source_nature": "T",
+        "original_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+        "final_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+        "accessed_at_utc": "2026-11-07T01:26:56.301405+00:00",
+        "locator": "遠藤高明部分；derived.txt第136–162行；网页所引《南京大虐殺を記録した皇軍兵士たち》pp.219–220",
+        "reading_scope": "完整阅读远藤节录12月12–20日；同页其他作者仅定位，未纳入新结论",
+        "source_family": "JAPANESE_DIARIES_DISTINCT_AUTHORS_SHARED_EDITION",
+        "rights_status": "rights_pending_private_only",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/atrocities004/endo_transcription.html",
+        "sha256": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+        "limitations": "不是日记原稿或原版书页。12月15日三百六与SRC-0112中译360存在转录/翻译待核差异；不凭网站改数字。",
+        "relations": [
+          {
+            "relation": "derivative_of_endo_diary_also_translated_in",
+            "target": "SRC-0112",
+            "independent": false
+          }
+        ],
+        "historical_original_obtained": false,
+        "field_gap_reasons": {
+          "archive_identifier": "未核得此载体自身的档案号；引用档号仅作为调档线索另列",
+          "created_date": "未见可核形成日期"
+        },
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-AT-C014",
+        "T4-AT-C015"
+      ],
+      "public_locator": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0160",
+      "legacy_ids": [],
+      "title": "魏特琳致Searle函",
+      "creator_or_publisher": "Minnie Vautrin",
+      "created_date": "1937-11-19",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0029.pdf PDF1",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0029.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0029.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:16.714031+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Vautrin-letter-1937-11-19",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "5e565b647a018830d75a561a816ab68b4f86eebe21b02ba15a9723bec66c977d",
+      "limitations": "全文1页；校务提议与保密嘱托，不是吴贻芳已经启程的记录。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0160",
+        "title": "魏特琳致Searle函",
+        "creator": "Minnie Vautrin",
+        "created_date": "1937-11-19",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0029.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0029.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:16.714031+00:00",
+        "locator": "NMP0029.pdf PDF1",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Vautrin-letter-1937-11-19",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0029.pdf",
+        "sha256": "5e565b647a018830d75a561a816ab68b4f86eebe21b02ba15a9723bec66c977d",
+        "limitations": "全文1页；校务提议与保密嘱托，不是吴贻芳已经启程的记录。",
+        "pdf_total_pages": 1,
+        "visually_read_pages": [
+          1
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0029",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C016"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0029.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0161",
+      "legacy_ids": [],
+      "title": "贝德士致Lilliath明信片",
+      "creator_or_publisher": "M. S. Bates（落款Searle）",
+      "created_date": "1937-11-28",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0033.pdf PDF1,2",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0033.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0033.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:16.714749+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Bates-postcard-1937-11-28",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "762b9a88541aee99f7a1ef92a74e7558963baae90b16a1262f43b558fd95019d",
+      "limitations": "正文只写Nov28，年份由馆方目录1937定位；正反面均读，无清晰可读邮戳据以证明投递。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0161",
+        "title": "贝德士致Lilliath明信片",
+        "creator": "M. S. Bates（落款Searle）",
+        "created_date": "1937-11-28",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0033.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0033.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:16.714749+00:00",
+        "locator": "NMP0033.pdf PDF1,2",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Bates-postcard-1937-11-28",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0033.pdf",
+        "sha256": "762b9a88541aee99f7a1ef92a74e7558963baae90b16a1262f43b558fd95019d",
+        "limitations": "正文只写Nov28，年份由馆方目录1937定位；正反面均读，无清晰可读邮戳据以证明投递。",
+        "pdf_total_pages": 2,
+        "visually_read_pages": [
+          1,
+          2
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0033",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C017"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0033.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0162",
+      "legacy_ids": [],
+      "title": "贝德士致Lilliath函",
+      "creator_or_publisher": "M. S. Bates（落款Searle）",
+      "created_date": "1937-12-24",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0034.pdf PDF1",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0034.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0034.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:16.715158+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Bates-letter-1937-12-24",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "1db107ba75ffdbc6788580bad04eb82bb2c1354482efd7f57c2296698c2b26ee",
+      "limitations": "全文1页；Fukuda拟携信乘机赴沪，不据此证明航班完成或信件收到。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0162",
+        "title": "贝德士致Lilliath函",
+        "creator": "M. S. Bates（落款Searle）",
+        "created_date": "1937-12-24",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0034.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0034.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:16.715158+00:00",
+        "locator": "NMP0034.pdf PDF1",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Bates-letter-1937-12-24",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0034.pdf",
+        "sha256": "1db107ba75ffdbc6788580bad04eb82bb2c1354482efd7f57c2296698c2b26ee",
+        "limitations": "全文1页；Fukuda拟携信乘机赴沪，不据此证明航班完成或信件收到。",
+        "pdf_total_pages": 1,
+        "visually_read_pages": [
+          1
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0034",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C018"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0034.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0163",
+      "legacy_ids": [],
+      "title": "Riggs及Bates致日本使馆蚕桑楼搜查案函",
+      "creator_or_publisher": "Charles H. Riggs; M. S. Bates",
+      "created_date": "1937-12-30",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0072.pdf PDF1,2",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0072.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0072.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:24.558350+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Bates-Riggs-Sericulture-1937-12-30",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "e0a18cd83b2afd52c1def45da31987a7003a1c18581ac3bc3571df608e6d0f26",
+      "limitations": "标Copy，p2两人签名；p1正文四人、后加NB第五人须分别保留；武器来历属于旁人所说。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0163",
+        "title": "Riggs及Bates致日本使馆蚕桑楼搜查案函",
+        "creator": "Charles H. Riggs; M. S. Bates",
+        "created_date": "1937-12-30",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0072.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0072.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:24.558350+00:00",
+        "locator": "NMP0072.pdf PDF1,2",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Bates-Riggs-Sericulture-1937-12-30",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0072.pdf",
+        "sha256": "e0a18cd83b2afd52c1def45da31987a7003a1c18581ac3bc3571df608e6d0f26",
+        "limitations": "标Copy，p2两人签名；p1正文四人、后加NB第五人须分别保留；武器来历属于旁人所说。",
+        "pdf_total_pages": 2,
+        "visually_read_pages": [
+          1,
+          2
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0072",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C019"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0072.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0164",
+      "legacy_ids": [],
+      "title": "贝德士致日本使馆侵扰及强征劳役案函",
+      "creator_or_publisher": "M. S. Bates",
+      "created_date": "1937-12-30",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0073.pdf PDF1,2",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0073.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0073.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:24.598037+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Bates-Embassy-1937-12-30-31",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "a9c3bf5174187a64f8027db0c54faa3a76aa0425cc7870c63ba366bf2564b4b1",
+      "limitations": "全文2页；具体案情为报告层，不能一概当本人现场目睹；与0074为相关连续通信，不作独立互证。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0164",
+        "title": "贝德士致日本使馆侵扰及强征劳役案函",
+        "creator": "M. S. Bates",
+        "created_date": "1937-12-30",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0073.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0073.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:24.598037+00:00",
+        "locator": "NMP0073.pdf PDF1,2",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Bates-Embassy-1937-12-30-31",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0073.pdf",
+        "sha256": "a9c3bf5174187a64f8027db0c54faa3a76aa0425cc7870c63ba366bf2564b4b1",
+        "limitations": "全文2页；具体案情为报告层，不能一概当本人现场目睹；与0074为相关连续通信，不作独立互证。",
+        "pdf_total_pages": 2,
+        "visually_read_pages": [
+          1,
+          2
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0073",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C020"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0073.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0165",
+      "legacy_ids": [],
+      "title": "致日本使馆续函：劳役者释放及蚕桑楼事件",
+      "creator_or_publisher": "馆方目录归于Bates；本页落款处未见姓名",
+      "created_date": "1937-12-31",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0074.pdf PDF1",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:24.674368+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Bates-Embassy-1937-12-30-31",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+      "limitations": "全文1页；署名缺口保留。目录归属与内文事实分层；不把函中报告当独立证实释放全过程。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0165",
+        "title": "致日本使馆续函：劳役者释放及蚕桑楼事件",
+        "creator": "馆方目录归于Bates；本页落款处未见姓名",
+        "created_date": "1937-12-31",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:24.674368+00:00",
+        "locator": "NMP0074.pdf PDF1",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Bates-Embassy-1937-12-30-31",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0074.pdf",
+        "sha256": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+        "limitations": "全文1页；署名缺口保留。目录归属与内文事实分层；不把函中报告当独立证实释放全过程。",
+        "pdf_total_pages": 1,
+        "visually_read_pages": [
+          1
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0074",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C021"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0074.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0166",
+      "legacy_ids": [],
+      "title": "魏特琳英文打字日记扫描（Yale Ms62）",
+      "creator_or_publisher": "Minnie Vautrin（馆方归属）",
+      "created_date": "",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "Ms62 PDF108—109、115—118、122—128、130—132；印页98—99、105—108、112—118、120—122",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/Vautrin.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/Vautrin.pdf",
+      "accessed_at_utc": "2026-11-07T01:20:31.348590+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Vautrin-diary",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "8258f58f3b0711b1af425781ac065c0a8415241b420a99b04412b89380dda085",
+      "limitations": "仅精读所列16页：完整12/7、12/12、12/13、12/16、12/17、12/19、12/20条；跨页顺带其他日局部不算完整日。未读完整555页，未证明实体手稿/后加文字形成时点；是微缩影像所收打字本，不称亲笔日记原件。",
+      "read_scope_task004": "selected_pages",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0166",
+        "title": "魏特琳英文打字日记扫描（Yale Ms62）",
+        "creator": "Minnie Vautrin（馆方归属）",
+        "created_date": "",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/Vautrin.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/Vautrin.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:31.348590+00:00",
+        "locator": "Ms62 PDF108—109、115—118、122—128、130—132；印页98—99、105—108、112—118、120—122",
+        "reading_scope": "selected_pages",
+        "source_family": "Vautrin-diary",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/Vautrin.pdf",
+        "sha256": "8258f58f3b0711b1af425781ac065c0a8415241b420a99b04412b89380dda085",
+        "limitations": "仅精读所列16页：完整12/7、12/12、12/13、12/16、12/17、12/19、12/20条；跨页顺带其他日局部不算完整日。未读完整555页，未证明实体手稿/后加文字形成时点；是微缩影像所收打字本，不称亲笔日记原件。",
+        "pdf_total_pages": 555,
+        "visually_read_pages": [
+          108,
+          109,
+          115,
+          116,
+          117,
+          118,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          130,
+          131,
+          132
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "Vautrin",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "related_existing_source_ids": [
+          "SRC-0102",
+          "SRC-0108"
+        ],
+        "relation": "英文日记底本与中文译文同源；SRC-0108只是获取入口人物页",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C003",
+        "T4-INT-C004",
+        "T4-INT-C005",
+        "T4-INT-C006",
+        "T4-INT-C007",
+        "T4-INT-C008",
+        "T4-INT-C009",
+        "T4-INT-C010",
+        "T4-INT-C011",
+        "T4-INT-C012",
+        "T4-INT-C013",
+        "T4-INT-C014",
+        "T4-INT-C015"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/Vautrin.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0167",
+      "legacy_ids": [],
+      "title": "魏特琳致Ruth与Florence两函合件",
+      "creator_or_publisher": "Minnie Vautrin",
+      "created_date": "1938-01-10;1938-01-11",
+      "publication": "",
+      "document_type": "同期书信/日记的数字扫描",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "NMP0319.pdf PDF1,2,3,4",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0319.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0319.pdf",
+      "accessed_at_utc": "2026-11-07T01:26:47.905034+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Vautrin-letters-1938-01-10-11",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "2f0ead59e8133f4f094dbfc932a28a155bc0ce861c7168762537e23cb7507f23",
+      "limitations": "全文4页。目录只列1/10，p2下半另有1/11题记；会议在p3承1/11，不能误记1/10。后证不倒填1937。",
+      "read_scope_task004": "full_existing_pdf",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0167",
+        "title": "魏特琳致Ruth与Florence两函合件",
+        "creator": "Minnie Vautrin",
+        "created_date": "1938-01-10;1938-01-11",
+        "type": "同期书信/日记的数字扫描",
+        "source_nature": "P",
+        "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0319.pdf",
+        "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0319.pdf",
+        "accessed_at_utc": "2026-11-07T01:26:47.905034+00:00",
+        "locator": "NMP0319.pdf PDF1,2,3,4",
+        "reading_scope": "full_existing_pdf",
+        "source_family": "Vautrin-letters-1938-01-10-11",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/NMP0319.pdf",
+        "sha256": "2f0ead59e8133f4f094dbfc932a28a155bc0ce861c7168762537e23cb7507f23",
+        "limitations": "全文4页。目录只列1/10，p2下半另有1/11题记；会议在p3承1/11，不能误记1/10。后证不倒填1937。",
+        "pdf_total_pages": 4,
+        "visually_read_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "NMP0319",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-INT-C022"
+      ],
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0319.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0168",
+      "legacy_ids": [],
+      "title": "Guide to the John G. Magee Family Papers（RG242）",
+      "creator_or_publisher": "Yale Divinity Library",
+      "created_date": "",
+      "publication": "",
+      "document_type": "馆藏目录PDF",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "RG 242",
+      "locator": "RG242 PDF4、17、27—28",
+      "original_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+      "accessed_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+      "accessed_at_utc": "2026-11-07T01:28:01.795308+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "Yale-RG242-findingaid",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+      "limitations": "目视4、17、27、28页；文本另选读p5访问条件。此为馆藏目录，不是胶片或笔记原件；未读全30页。",
+      "read_scope_task004": "selected_pages",
+      "reading_time_utc_task004": "2026-11-07T01:36:03.502092+00:00",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0168",
+        "title": "Guide to the John G. Magee Family Papers（RG242）",
+        "creator": "Yale Divinity Library",
+        "created_date": "",
+        "type": "馆藏目录PDF",
+        "source_nature": "T",
+        "original_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+        "final_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+        "accessed_at_utc": "2026-11-07T01:28:01.795308+00:00",
+        "locator": "RG242 PDF4、17、27—28",
+        "reading_scope": "selected_pages",
+        "source_family": "Yale-RG242-findingaid",
+        "rights_status": "rights_pending",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/international004/Magee_FindingAid_5466.pdf",
+        "sha256": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+        "limitations": "目视4、17、27、28页；文本另选读p5访问条件。此为馆藏目录，不是胶片或笔记原件；未读全30页。",
+        "pdf_total_pages": 30,
+        "visually_read_pages": [
+          4,
+          17,
+          27,
+          28
+        ],
+        "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+        "source_independence_note": "同一日记的中英文载体不独立；同一作者或机构通信须按具体命题辨源。",
+        "document_identifier": "Magee_FindingAid_5466",
+        "identifier_kind": "digitized_item_filename_not_newly_invented_archive_number",
+        "archive_call_number": "RG 242",
+        "relevant_containers": [
+          "b.6,f.29",
+          "b.6,f.30",
+          "b.OV1",
+          "b.22",
+          "b.23"
+        ],
+        "container_evidence": "目录p4、17、27—28实际可读；不是调出原件证据",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-INT-C023"
+      ],
+      "public_locator": "https://ead-pdfs.library.yale.edu/5466.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0169",
+      "legacy_ids": [],
+      "title": "抗战期间故宫文物之保管",
+      "creator_or_publisher": "马衡",
+      "created_date": "1947-09-03",
+      "publication": "《紫禁城》2009年第3期（总170期），第10–13页；p13注明1947年9月3日广播",
+      "document_type": "战后本人广播回顾的期刊重刊；官方逐页PDF",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "p10右栏：三列车及12月3日太古船拒泊；p11左栏：过江经津浦转陇海；p13末尾广播日期；目录页期次",
+      "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+      "accessed_url": "https://www.dpm.org.cn/explode/others/208211.html",
+      "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "MA_HENG_1947_09_03_BROADCAST",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+      "limitations": "按项目回忆材料口径暂归T：虽为当事人本人讲话，所述1937事件距形成近十年，且当前是2009重刊，不能冒称1937同期运输原件。重刊来源底本、校改过程未明；没有长江号船名、离宁日或三列车每次过江日。",
+      "read_scope_task004": "实际目视四页全文及目录；未取得1947手稿、录音或原刊",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0169",
+        "title": "抗战期间故宫文物之保管",
+        "creator": "马衡",
+        "created_date": "1947-09-03",
+        "republication_date": "2009-03",
+        "type": "战后本人广播回顾的期刊重刊；官方逐页PDF",
+        "source_nature": "T",
+        "publication": "《紫禁城》2009年第3期（总170期），第10–13页；p13注明1947年9月3日广播",
+        "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+        "final_url": "https://www.dpm.org.cn/explode/others/208211.html",
+        "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+        "locator": "p10右栏：三列车及12月3日太古船拒泊；p11左栏：过江经津浦转陇海；p13末尾广播日期；目录页期次",
+        "reading_scope": "实际目视四页全文及目录；未取得1947手稿、录音或原刊",
+        "source_family": "MA_HENG_1947_09_03_BROADCAST",
+        "rights_status": "rights_pending_metadata_only_public",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/transport004/maheng_article/original.html",
+        "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+        "assets": [
+          {
+            "capture_id": "maheng_article",
+            "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+            "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "final_url": "https://www.dpm.org.cn/explode/others/208211.html",
+            "http_status": 200,
+            "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+            "bytes": 99778,
+            "local_path": "Task004_Run/internal/transport004/maheng_article/original.html"
+          },
+          {
+            "capture_id": "maheng_contents",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/97/f7/39/97f739b18ce34e82605a355ba5492265.pdf",
+            "accessed_at_utc": "2026-11-07T01:25:04.358736+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "snapshot_scope": "single-page journal PDF, not print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/97/f7/39/97f739b18ce34e82605a355ba5492265.pdf",
+            "http_status": 200,
+            "bytes": 725216,
+            "sha256": "953b48e0421fa2227898dced3d722733ab0164c09578c67159f3f3074c390014",
+            "local_path": "Task004_Run/internal/transport004/maheng_contents/original.pdf"
+          },
+          {
+            "capture_id": "maheng_p10",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+            "accessed_at_utc": "2026-11-07T01:24:54.532514+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "snapshot_scope": "single-page journal PDF, not print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+            "http_status": 200,
+            "bytes": 774795,
+            "sha256": "6e845d8849b9ba1a8ad24288f8767aca26cf9fbd756d67537b98f23a9724f957",
+            "local_path": "Task004_Run/internal/transport004/maheng_p10/original.pdf"
+          },
+          {
+            "capture_id": "maheng_p11",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/a9/5e/2d/a95e2d50b477983a951b4adb083a43c9.pdf",
+            "accessed_at_utc": "2026-11-07T01:24:54.533256+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "snapshot_scope": "single-page journal PDF, not print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/a9/5e/2d/a95e2d50b477983a951b4adb083a43c9.pdf",
+            "http_status": 200,
+            "bytes": 757475,
+            "sha256": "48f08b1d454523818b5b831f95b0e6e75a14ff8c8772edd0bee8718feb75ad7f",
+            "local_path": "Task004_Run/internal/transport004/maheng_p11/original.pdf"
+          },
+          {
+            "capture_id": "maheng_p12",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/03/67/8f036732de67b7420c16de8fa412d54e.pdf",
+            "accessed_at_utc": "2026-11-07T01:24:54.540272+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "snapshot_scope": "single-page journal PDF, not print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/03/67/8f036732de67b7420c16de8fa412d54e.pdf",
+            "http_status": 200,
+            "bytes": 743219,
+            "sha256": "0b9694aa6a67344d634074dac9ea43a07236657b72702ee013283a9e9a4d15ca",
+            "local_path": "Task004_Run/internal/transport004/maheng_p12/original.pdf"
+          },
+          {
+            "capture_id": "maheng_p13",
+            "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/fd/2f/50/fd2f505d4791dd2fa41edd7e617510dd.pdf",
+            "accessed_at_utc": "2026-11-07T01:25:04.021603+00:00",
+            "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+            "snapshot_scope": "single-page journal PDF, not print original",
+            "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/fd/2f/50/fd2f505d4791dd2fa41edd7e617510dd.pdf",
+            "http_status": 200,
+            "bytes": 762885,
+            "sha256": "765431f747bf79b7a23e32e038fec6d64d696dcbc3add1a37c134fec55e60ef7",
+            "local_path": "Task004_Run/internal/transport004/maheng_p13/original.pdf"
+          }
+        ],
+        "limitations": "按项目回忆材料口径暂归T：虽为当事人本人讲话，所述1937事件距形成近十年，且当前是2009重刊，不能冒称1937同期运输原件。重刊来源底本、校改过程未明；没有长江号船名、离宁日或三列车每次过江日。",
+        "source_relations": [
+          {
+            "target": "SRC-0152",
+            "relation": "is_cited_by",
+            "locator": "p75注8；不能计作独立互证"
+          }
+        ],
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-TR-C002",
+        "T4-TR-C003",
+        "T4-TR-C004",
+        "T4-TR-C005"
+      ],
+      "public_locator": "https://www.dpm.org.cn/explode/others/208211.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0170",
+      "legacy_ids": [],
+      "title": "《申报》1937-01-06《邵元沖等靈櫬起運入城》公开检索元数据",
+      "creator_or_publisher": "报道署“五日中央社電”；元数据提供者：中国教育图书进出口有限公司",
+      "created_date": "1937-01-06",
+      "publication": "",
+      "document_type": "数据库公开题录及标题转录；未取得原报影像",
+      "source_nature": "unknown",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "网页出版信息1937/1/6、所属申报数据库；长标题内“澄平及華勝渡輪”；原报版次/页码未显示",
+      "original_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+      "accessed_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+      "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "SHENBAO_1937_01_06_CNA_SHAO_FUNERAL",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+      "limitations": "仅具体待调原报线索。未核OCR/转录；1月事件不能证明11–12月船仍在宁，更不能认定这就是宋希濂回忆的两客渡。不得与招商局同名船或其他华胜船合并。未取得船籍、末航或航海日志。",
+      "read_scope_task004": "公开元数据页面已读；不是申报原页阅读",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0170",
+        "title": "《申报》1937-01-06《邵元沖等靈櫬起運入城》公开检索元数据",
+        "creator": "报道署“五日中央社電”；元数据提供者：中国教育图书进出口有限公司",
+        "created_date": "1937-01-06",
+        "type": "数据库公开题录及标题转录；未取得原报影像",
+        "source_nature": "unknown",
+        "original_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+        "final_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+        "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+        "locator": "网页出版信息1937/1/6、所属申报数据库；长标题内“澄平及華勝渡輪”；原报版次/页码未显示",
+        "reading_scope": "公开元数据页面已读；不是申报原页阅读",
+        "source_family": "SHENBAO_1937_01_06_CNA_SHAO_FUNERAL",
+        "rights_status": "rights_pending_metadata_only_public",
+        "public_fulltext_allowed": false,
+        "local_path": "Task004_Run/internal/transport004/shenbao_metadata/original.html",
+        "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+        "assets": [
+          {
+            "capture_id": "shenbao_metadata",
+            "original_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+            "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+            "method": "urllib HTTPS GET inherited proxy/TLS no cookies",
+            "snapshot_scope": "public bibliographic webpage; not newspaper scan",
+            "final_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+            "http_status": 200,
+            "local_path": "Task004_Run/internal/transport004/shenbao_metadata/original.html",
+            "bytes": 17315,
+            "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7"
+          }
+        ],
+        "limitations": "仅具体待调原报线索。未核OCR/转录；1月事件不能证明11–12月船仍在宁，更不能认定这就是宋希濂回忆的两客渡。不得与招商局同名船或其他华胜船合并。未取得船籍、末航或航海日志。",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "unknown",
+      "claim_ids": [
+        "T4-TR-C006"
+      ],
+      "public_locator": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0171",
+      "legacy_ids": [],
+      "title": "《國民政府公報》渝字第1號（1937年12月1日），收於成文出版社影印第130冊",
+      "creator_or_publisher": "國民政府文官處印鑄局（本期封面署名）；成文出版社有限公司（影印合訂冊封面署名）",
+      "created_date": "1937-12-01",
+      "publication": "",
+      "document_type": "同期政府公報之後世影印本PDF；本輪取得掃描載體，非親筆任命手令",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "渝字第1號封面（PDF235）；國民政府令二十六年十一月二十四日，印刷頁10（PDF247）；本報啟事印刷頁16（PDF253）。PDF頁碼均從1計。",
+      "original_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+      "accessed_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "accessed_at_utc": "2026-11-07T01:32:57.631Z",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "ROC_NATIONAL_GOVERNMENT_GAZETTE_YU_001_19371201",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+      "limitations": "尚未取得1937年11月19日蒋手令、11月20日唐布告/交接记录；11月24日为令文所载日期，不证明当日实际签署时刻、送达、阅令、履职，亦不否定其他媒介当日发表。影印本再版年代未见，不填。",
+      "read_scope_task004": "PDF 1,2,3,230,234–237,240,245–255,260,280,300; key historical assertions from PDF235,247,253 only",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "temporary_id": "SRC-0171",
+        "title": "《國民政府公報》渝字第1號（1937年12月1日），收於成文出版社影印第130冊",
+        "creator": "國民政府文官處印鑄局（本期封面署名）；成文出版社有限公司（影印合訂冊封面署名）",
+        "created_date": "1937-12-01",
+        "document_date": "1937-11-24",
+        "reprint_date": null,
+        "type": "同期政府公報之後世影印本PDF；本輪取得掃描載體，非親筆任命手令",
+        "source_nature": "P",
+        "original_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+        "final_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "accessed_at_utc": "2026-11-07T01:32:57.631Z",
+        "completed_at_utc": "2026-11-07T01:33:07.704Z",
+        "locator": "渝字第1號封面（PDF235）；國民政府令二十六年十一月二十四日，印刷頁10（PDF247）；本報啟事印刷頁16（PDF253）。PDF頁碼均從1計。",
+        "reading_scope": "PDF 1,2,3,230,234–237,240,245–255,260,280,300; key historical assertions from PDF235,247,253 only",
+        "original_text_obtained": true,
+        "complete_source_read": false,
+        "source_family": "ROC_NATIONAL_GOVERNMENT_GAZETTE_YU_001_19371201",
+        "relations": [
+          {
+            "source_id": "SRC-0150",
+            "relation": "官方职务数据库条目可能上溯同一任命令；实际上溯链未由数据库提供，不算独立原证"
+          },
+          {
+            "source_id": "SRC-0055",
+            "relation": "宋回忆之24日正式发表说，与11/24令日、12/1公报日须分别解释"
+          }
+        ],
+        "rights_status": "Commons页面标注PD-ROC-National Government Gazette；同期政府令与现代影印合订本及网站说明分开。本轮公开候选仅原创摘要、书目、精确定位和来源链接；未建议整本再分发。",
+        "rights_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+        "local_path": "Task004_Run/internal/command004/gazette130.pdf",
+        "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+        "limitations": "尚未取得1937年11月19日蒋手令、11月20日唐布告/交接记录；11月24日为令文所载日期，不证明当日实际签署时刻、送达、阅令、履职，亦不否定其他媒介当日发表。影印本再版年代未见，不填。",
+        "source_id": "SRC-0171",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-TL-C01",
+        "T4-TL-C02",
+        "T4-TL-C03",
+        "T4-TL-C04"
+      ],
+      "public_locator": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0172",
+      "legacy_ids": [],
+      "title": "南京衛戍戰史話（1946年7月再版）",
+      "creator_or_publisher": "譚道平編述",
+      "created_date": "1946-07",
+      "publication": "東南文化事業出版社",
+      "document_type": "战后亲历者回忆著作的原版本扫描；PDF137页",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "兵力表印93–95 / PDF101–103；印85 / PDF93；题名PDF1、版权PDF136",
+      "original_url": "https://read.nlc.cn/allSearch/searchDetail?fid=02jh004208&indexName=data_416&searchType=24&showType=1",
+      "accessed_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NLC416-02jh004208-14055_%E5%8D%97%E4%BA%AC%E8%A1%9B%E6%88%8D%E6%88%B0%E5%8F%B2%E8%A9%B1.pdf",
+      "accessed_at_utc": "2026-11-07T01:26:29.095915+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "谭道平南京卫戍战回忆",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+      "limitations": "初版1946年5月、所获为7月再版；精确到刊本印字可核，历史实际兵力仍需同期实力册。不得以原书获取消除自相矛盾。",
+      "read_scope_task004": "troops004目视题名PDF1、肖像PDF2、版权PDF136、印85、93–96；command004另目视自序PDF4、目录PDF5–6、正文44–49及69–87；全书已下载但未完整阅读",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0172",
+        "title": "南京衛戍戰史話（1946年7月再版）",
+        "creator": "譚道平編述",
+        "created_date": "1946-07",
+        "type": "战后亲历者回忆著作的原版本扫描；PDF137页",
+        "source_nature": "T",
+        "carrier_nature": "原版本图像已取得；不等于1937同期实力册",
+        "publisher": "東南文化事業出版社",
+        "original_url": "https://read.nlc.cn/allSearch/searchDetail?fid=02jh004208&indexName=data_416&searchType=24&showType=1",
+        "final_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NLC416-02jh004208-14055_%E5%8D%97%E4%BA%AC%E8%A1%9B%E6%88%8D%E6%88%B0%E5%8F%B2%E8%A9%B1.pdf",
+        "accessed_at_utc": "2026-11-07T01:26:29.095915+00:00",
+        "locator": "兵力表印93–95 / PDF101–103；印85 / PDF93；题名PDF1、版权PDF136",
+        "reading_scope": "troops004目视题名PDF1、肖像PDF2、版权PDF136、印85、93–96；command004另目视自序PDF4、目录PDF5–6、正文44–49及69–87；全书已下载但未完整阅读",
+        "source_family": "谭道平南京卫戍战回忆",
+        "relations": [
+          {
+            "id": "SRC-0016",
+            "relation": "旧项目1946谭表书目线索的同著作潜在上溯；其原错误fybk入口保留，不覆盖"
+          },
+          {
+            "id": "SRC-0058",
+            "relation": "同一作者相关回忆网络选录，版本内容可有差异；不算独立互证"
+          }
+        ],
+        "archive_id": "",
+        "catalog_identifier": "NLC416-02jh004208-14055（Commons标示的NLC数字图书标识；NLC原站503未独立核馆藏）",
+        "rights_status": "rights_pending_private_only",
+        "rights_note": "Commons标PD-China/PD-scan，但有美国产权标签警示；书版权页版权有属/翻印必究。未独立完成存续期与地域审查，全文不公开。",
+        "local_path": "Task004_Run/internal/troops004/tan1946.pdf",
+        "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+        "original_text_obtained": true,
+        "fully_read": false,
+        "limitations": "初版1946年5月、所获为7月再版；精确到刊本印字可核，历史实际兵力仍需同期实力册。不得以原书获取消除自相矛盾。",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [
+        "T4-TL-C05",
+        "T4-TL-C06",
+        "T4-TL-C07",
+        "T4-TL-C08",
+        "T4-TL-C09",
+        "T4-TL-C10",
+        "T4-TL-C11",
+        "T4-TL-C12",
+        "T4-TL-C13",
+        "T4-TL-C14",
+        "T4-B-C01",
+        "T4-B-C02A",
+        "T4-B-C02B",
+        "T4-B-C02C",
+        "T4-B-C03",
+        "T4-B-C04"
+      ],
+      "public_locator": "https://read.nlc.cn/allSearch/searchDetail?fid=02jh004208&indexName=data_416&searchType=24&showType=1",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0173",
+      "legacy_ids": [],
+      "title": "南京保卫战中的十万国军",
+      "creator_or_publisher": "江紫辰",
+      "created_date": "2017-07-24 18:29",
+      "publication": "",
+      "document_type": "署名新闻平台历史评论",
+      "source_nature": "T",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "派生段号P0015–P0022，特别P0018",
+      "original_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+      "accessed_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+      "accessed_at_utc": "2026-11-07T01:20:22.722629+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "江紫辰南京兵力考述；内引谭道平及宪兵详报",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+      "limitations": "只用于追索。正文三团简称与原附表含司令部、4个团名和特务营的范围不等；不承接逆算兵力或损失推断。",
+      "read_scope_task004": "已读网页正文；本文引用的底档未由此取得",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0173",
+        "title": "南京保卫战中的十万国军",
+        "creator": "江紫辰",
+        "created_date": "2017-07-24 18:29",
+        "type": "署名新闻平台历史评论",
+        "source_nature": "T",
+        "original_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+        "final_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+        "accessed_at_utc": "2026-11-07T01:20:22.722629+00:00",
+        "locator": "派生段号P0015–P0022，特别P0018",
+        "reading_scope": "已读网页正文；本文引用的底档未由此取得",
+        "source_family": "江紫辰南京兵力考述；内引谭道平及宪兵详报",
+        "relations": [
+          {
+            "id": "SRC-0172",
+            "relation": "关于谭表数字是转述同书"
+          },
+          {
+            "id": "SRC-0175",
+            "relation": "353+5099二手引文现可回附表核；不得算独立两份实力表"
+          }
+        ],
+        "rights_status": "no_fulltext_redistribution",
+        "rights_note": "页面明载未经授权不得转载；仅公开元数据、定位和原创研究说明。",
+        "local_path": "Task004_Run/internal/troops004/thepaper_100k.html",
+        "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+        "limitations": "只用于追索。正文三团简称与原附表含司令部、4个团名和特务营的范围不等；不承接逆算兵力或损失推断。",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "T",
+      "claim_ids": [],
+      "public_locator": "https://www.thepaper.cn/newsDetail_forward_1701904",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0174",
+      "legacy_ids": [],
+      "title": "南京大屠杀遇难同胞中究竟有多少军人（《抗日战争研究》1997年第4期原刊版PDF）",
+      "creator_or_publisher": "孙宅巍",
+      "created_date": "1997",
+      "publication": "抗日战争研究，1997年第4期，8–17页",
+      "document_type": "学术论文原刊页面PDF的公开转载",
+      "source_nature": "S",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "印13–14页 / PDF6–7，印13注②、印14注①；首页印8 / PDF1",
+      "original_url": "https://www.krzzjn.com/show-2313-106503.html",
+      "accessed_url": "https://www.krzzjn.com/uploadfile/2020/0426/20200426052138309.pdf",
+      "accessed_at_utc": "2026-11-07T01:29:00.858891+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "孙宅巍兵力研究",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+      "limitations": "核见研究版11968及5490，不等于取得其所据各军原始详报。印13注②上溯《南京保卫战双方兵力的研究》载《新旧战争史事探索》上海社会科学院出版社1988年版，未取得该书。不能把不同单位/时期资料或外推15万当同日实数。",
+      "read_scope_task004": "下载全10页，目视印8、13、14；未完整阅读全篇",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0174",
+        "title": "南京大屠杀遇难同胞中究竟有多少军人（《抗日战争研究》1997年第4期原刊版PDF）",
+        "creator": "孙宅巍",
+        "created_date": "1997",
+        "type": "学术论文原刊页面PDF的公开转载",
+        "source_nature": "S",
+        "publication": "抗日战争研究，1997年第4期，8–17页",
+        "original_url": "https://www.krzzjn.com/show-2313-106503.html",
+        "final_url": "https://www.krzzjn.com/uploadfile/2020/0426/20200426052138309.pdf",
+        "accessed_at_utc": "2026-11-07T01:29:00.858891+00:00",
+        "locator": "印13–14页 / PDF6–7，印13注②、印14注①；首页印8 / PDF1",
+        "reading_scope": "下载全10页，目视印8、13、14；未完整阅读全篇",
+        "source_family": "孙宅巍兵力研究",
+        "relations": [
+          {
+            "id": "SRC-0074",
+            "relation": "同题论文在红网的转载；同源，不新增独立兵力证据"
+          },
+          {
+            "id": "SRC-0172",
+            "relation": "印13注①引用谭1946表印95，属转述同源"
+          }
+        ],
+        "rights_status": "rights_pending_private_only",
+        "rights_note": "1997学术论文，有出版版权标记；公开载体不等于再分发授权。",
+        "local_path": "Task004_Run/internal/troops004/sun1997.pdf",
+        "sha256": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+        "limitations": "核见研究版11968及5490，不等于取得其所据各军原始详报。印13注②上溯《南京保卫战双方兵力的研究》载《新旧战争史事探索》上海社会科学院出版社1988年版，未取得该书。不能把不同单位/时期资料或外推15万当同日实数。",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "S",
+      "claim_ids": [
+        "T4-B-C05A",
+        "T4-B-C05B"
+      ],
+      "public_locator": "https://www.krzzjn.com/show-2313-106503.html",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0175",
+      "legacy_ids": [],
+      "title": "憲兵司令部在京抗戰部隊之戰鬥詳報（公开影印12图）",
+      "creator_or_publisher": "宪兵司令部（文首题名）",
+      "created_date": "",
+      "publication": "",
+      "document_type": "同期战斗详报影印，经抗日战争纪念网转载；图有中国第二历史档案馆水印",
+      "source_nature": "P",
+      "original_or_copy": "数字载体；具体原件/转载/目录性质见类型与阅读边界",
+      "archive_id": "",
+      "locator": "公开阅读器第12图（手写页16）人员实力伤亡表；第1图文首；第2图部队区分",
+      "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+      "accessed_url": "https://www.krzzjn.com/book/104757/6/mobile/index.html",
+      "accessed_at_utc": "2026-11-07T01:33:29.858450+00:00",
+      "access_status": "本轮访问/获取记录已登记；是否取得原文、完整性及实际阅读范围见task004_source_record，登记不等于全文核实",
+      "source_family": "宪兵司令部南京战斗详报；二档馆影印",
+      "rights_status": "rights_pending",
+      "snapshot_status": "private_snapshot_metadata_only_public",
+      "snapshot_path": "",
+      "sha256": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+      "limitations": "12图是公开阅读器全部页面，不宣称完整馆藏原卷：手写页码从3至16，14–15等未在此次页序中出现。官353、兵5099可核；分项士兵及5490版本尚不能闭合；本表不单列警察全员数。",
+      "read_scope_task004": "12图全部下载；目视第1、2、8、9、10、11、12图；第12图合计、单位名及备考重点核读。第3–7图未读。原图600px宽，士兵分项不可可靠辨字。",
+      "reading_time_utc_task004": "",
+      "task004_revision_ids": "",
+      "notes": "本轮第三方全文不公开；原始载体、获取、阅读、命题支持分别登记。",
+      "task004_source_record": {
+        "source_id": "SRC-0175",
+        "title": "憲兵司令部在京抗戰部隊之戰鬥詳報（公开影印12图）",
+        "creator": "宪兵司令部（文首题名）",
+        "created_date": "",
+        "created_date_unknown_reason": "附表统计期间1937-12-09至12-13，形成日期未取得；不以统计期间代成文日",
+        "type": "同期战斗详报影印，经抗日战争纪念网转载；图有中国第二历史档案馆水印",
+        "source_nature": "P",
+        "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+        "final_url": "https://www.krzzjn.com/book/104757/6/mobile/index.html",
+        "accessed_at_utc": "2026-11-07T01:33:29.858450+00:00",
+        "locator": "公开阅读器第12图（手写页16）人员实力伤亡表；第1图文首；第2图部队区分",
+        "reading_scope": "12图全部下载；目视第1、2、8、9、10、11、12图；第12图合计、单位名及备考重点核读。第3–7图未读。原图600px宽，士兵分项不可可靠辨字。",
+        "source_family": "宪兵司令部南京战斗详报；二档馆影印",
+        "relations": [
+          {
+            "id": "SRC-0076",
+            "relation": "同一国家档案局展览目录的宪兵详报子件，新增实际图像载体，非独立互证"
+          },
+          {
+            "id": "SRC-0173",
+            "relation": "该网页所引353/5099上溯此统计表；三团概括不可据此扩大为表全部范围"
+          }
+        ],
+        "archive_id": "",
+        "archive_id_unknown_reason": "第三方搜索有七八七/7595线索但未见馆方目录确认；图侧手写数字不擅定档号",
+        "rights_status": "rights_pending_private_only",
+        "rights_note": "官方发布及水印不是开放再分发许可；公开候选仅表格事实数据/原创说明/链接，图片不入Public。",
+        "local_path": "Task004_Run/internal/troops004/xianbing_pages/12.jpg",
+        "sha256": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+        "component_captures": "Task004_Run/internal/troops004/xianbing_images_capture.json",
+        "original_text_obtained": true,
+        "fully_read": false,
+        "complete_original": false,
+        "limitations": "12图是公开阅读器全部页面，不宣称完整馆藏原卷：手写页码从3至16，14–15等未在此次页序中出现。官353、兵5099可核；分项士兵及5490版本尚不能闭合；本表不单列警察全员数。",
+        "additional_reading_records": []
+      },
+      "source_nature_original": "P",
+      "claim_ids": [
+        "T4-B-C06",
+        "T4-B-C07"
+      ],
+      "public_locator": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+      "fulltext_public_allowed_task004": false,
+      "read_scope_v02": "",
+      "reading_time_utc_v02": "",
+      "v02_revision_ids": "",
+      "task004_review_note": ""
     }
   ]
 }

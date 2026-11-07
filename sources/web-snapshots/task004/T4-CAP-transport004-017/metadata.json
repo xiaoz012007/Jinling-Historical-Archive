@@ -1,0 +1,20 @@
+{
+  "capture_id": "open_shenbao_metadata",
+  "capture_kind": "search_tool_result_not_raw_http",
+  "accessed_at_utc": "2026-11-07T01:25:36.326Z",
+  "http_status": null,
+  "original_url": null,
+  "final_url": null,
+  "local_path": "Task004_Run/internal/transport004/open_shenbao_metadata.json",
+  "sha256": "61ec9972c262dcdbd061e75736eeed90aae51a4c000b506f873c840572ac53e3",
+  "snapshot_scope": "tool-return text containing queries/result excerpts/open extracts; not source fulltext",
+  "public_fulltext_allowed": false,
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-017",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

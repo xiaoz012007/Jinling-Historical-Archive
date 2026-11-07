@@ -1,0 +1,25 @@
+{
+  "capture_id": "T4-B-CAP-thepaper_100k",
+  "original_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+  "accessed_at_utc": "2026-11-07T01:20:22.722629+00:00",
+  "final_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43240,
+  "local_path": "Task004_Run/internal/troops004/thepaper_100k.html",
+  "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+  "scope": "single_http_response",
+  "status": "captured",
+  "metadata_file": "Task004_Run/internal/troops004/thepaper_100k_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-015",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0173"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "temporary_id": "SRC-0171",
+    "title": "《國民政府公報》渝字第1號（1937年12月1日），收於成文出版社影印第130冊",
+    "creator": "國民政府文官處印鑄局（本期封面署名）；成文出版社有限公司（影印合訂冊封面署名）",
+    "created_date": "1937-12-01",
+    "document_date": "1937-11-24",
+    "reprint_date": null,
+    "type": "同期政府公報之後世影印本PDF；本輪取得掃描載體，非親筆任命手令",
+    "source_nature": "P",
+    "original_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "accessed_at_utc": "2026-11-07T01:32:57.631Z",
+    "completed_at_utc": "2026-11-07T01:33:07.704Z",
+    "locator": "渝字第1號封面（PDF235）；國民政府令二十六年十一月二十四日，印刷頁10（PDF247）；本報啟事印刷頁16（PDF253）。PDF頁碼均從1計。",
+    "reading_scope": "PDF 1,2,3,230,234–237,240,245–255,260,280,300; key historical assertions from PDF235,247,253 only",
+    "original_text_obtained": true,
+    "complete_source_read": false,
+    "source_family": "ROC_NATIONAL_GOVERNMENT_GAZETTE_YU_001_19371201",
+    "relations": [
+      {
+        "source_id": "SRC-0150",
+        "relation": "官方职务数据库条目可能上溯同一任命令；实际上溯链未由数据库提供，不算独立原证"
+      },
+      {
+        "source_id": "SRC-0055",
+        "relation": "宋回忆之24日正式发表说，与11/24令日、12/1公报日须分别解释"
+      }
+    ],
+    "rights_status": "Commons页面标注PD-ROC-National Government Gazette；同期政府令与现代影印合订本及网站说明分开。本轮公开候选仅原创摘要、书目、精确定位和来源链接；未建议整本再分发。",
+    "rights_url": "https://commons.wikimedia.org/wiki/File:SSID-11035512_中華民國國民政府公報_130.pdf",
+    "local_path": "Task004_Run/internal/command004/gazette130.pdf",
+    "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+    "limitations": "尚未取得1937年11月19日蒋手令、11月20日唐布告/交接记录；11月24日为令文所载日期，不证明当日实际签署时刻、送达、阅令、履职，亦不否定其他媒介当日发表。影印本再版年代未见，不填。"
+  }
+]

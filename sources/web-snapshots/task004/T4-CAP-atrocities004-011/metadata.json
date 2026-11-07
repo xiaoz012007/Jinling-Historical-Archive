@@ -1,0 +1,30 @@
+{
+  "capture_id": "endo_transcription",
+  "original_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+  "started_at_utc": "2026-11-07T01:26:56.301405+00:00",
+  "final_url": "https://kk-nanking.main.jp/butaibetu/yamada/2daitai.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "local_path": "Task004_Run/internal/atrocities004/endo_transcription.html",
+  "sha256": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+  "error": null,
+  "scope": "single_http_response_no_subresources",
+  "rights_status": "rights_pending",
+  "bytes": 25439,
+  "finished_at_utc": "2026-11-07T01:27:01.896302+00:00",
+  "payload_type": "http_response_body",
+  "response_body_complete": true,
+  "snapshot_complete": false,
+  "snapshot_completeness_limit": "原始响应体；HTML无脚本执行、嵌入图像/附件/样式，不能称完整WARC。PDF完整字节下载不等于全页阅读。",
+  "source_id": "SRC-0159",
+  "task004_domain": "atrocities004",
+  "task004_capture_id": "T4-CAP-atrocities004-011",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0159"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

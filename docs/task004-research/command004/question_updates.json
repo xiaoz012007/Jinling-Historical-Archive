@@ -1,0 +1,240 @@
+[
+  {
+    "original_id": "TL-U01",
+    "original_question": "11月19日手令、20日布告、24日正式发表",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "首次取得公报实际扫描，解决令日11/24、兼任措辞、本期刊载日12/1三子项；另发现谭1946的16日版本。",
+    "inherited_evidence_ids": [
+      "SRC-0055",
+      "SRC-0058",
+      "SRC-0150"
+    ],
+    "new_evidence_ids": [
+      "SRC-0171",
+      "SRC-0172"
+    ],
+    "current_evidence": "政大官职库第2页首行列026-11-24特派南京卫戍司令长官；本轮重读宋回忆19受手令、20视事/布告、24正式发表。；首次取得公报实际扫描，解决令日11/24、兼任措辞、本期刊载日12/1三子项；另发现谭1946的16日版本。",
+    "conflicts": "宋非19日现场见证；谭把20日记为奉令兼任。四节点不得合并。",
+    "research_attempts": "政大列表GET200且与旧SHA相同，不增新独立源；查询公报定位页503，NCL403，官方史事纪要PDF请求500；转由公开Commons扫描取得361页PDF并目视关键页。",
+    "next_steps": "调19日手令、20日布告及实际交接记录；搜其他同期新闻确认24日“发表”的传播渠道；比较谭1946和后期回忆版本。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C01",
+      "T4-TL-C02",
+      "T4-TL-C03",
+      "T4-TL-C04",
+      "T4-TL-C05"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005844+00:00"
+  },
+  {
+    "original_id": "TL-U02",
+    "original_question": "两真电的完整原件与发报、收报记录",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "未得两真电原幅或收发日志；谭1946书p70–72新增起草时序版本冲突。",
+    "inherited_evidence_ids": [
+      "SRC-0056",
+      "SRC-0057"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "本轮重读孙授权论文34–37段两真电引文，以及唐回忆印刷p.7/PDF16的正文和编注。；未得两真电原幅或收发日志；谭1946书p70–72新增起草时序版本冲突。",
+    "conflicts": "孙文午夜前一定收到是作者估计；唐正文10日与编注11日不能静默消除。",
+    "research_attempts": "定向搜索真侍参/真戌侍参与国史馆目录；孙文旧授权转载注释从略，不编造原档号。新读谭书不是两电原件。",
+    "next_steps": "沿已引研究之正式刊本注释调两电原件及电台收发、译出、转交、阅电登记；先核谭版本时序而不强制换算。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C10"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005863+00:00"
+  },
+  {
+    "original_id": "TL-U03",
+    "original_question": "十二申原件及签收链",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "无新增可读十二申原件；保持目录与研究引文边界。",
+    "inherited_evidence_ids": [
+      "SRC-0061",
+      "SRC-0070"
+    ],
+    "new_evidence_ids": [],
+    "current_evidence": "官方目录002-020300-00009-151日期12/12；本轮复读目录，缩略图实际请求失败。；无新增可读十二申原件；保持目录与研究引文边界。",
+    "conflicts": "继续坚守带条件；未取得发收/译出/送到唐手资料，不判已收或未收。",
+    "research_attempts": "按SRC-0061已观察到的国史馆公开Archive/search链接普通GET500，正文未取得；旧缩略图失败不冒作本轮成功。",
+    "next_steps": "调002-020300-00009-151全幅正文和背页，收报/译出/传递簿；原始回执缺失前不判收到/未收。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005868+00:00"
+  },
+  {
+    "original_id": "TL-U04",
+    "original_question": "特字第一号正式下发件及完整附表",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "取得谭1946书内转录与两附表完整刊页；空括号目视确认。正式下发件仍未得。",
+    "inherited_evidence_ids": [
+      "SRC-0058",
+      "SRC-0056"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "谭网络转录文面12/12下午3时、铁道部，正文写本日晚；孙研究所见附录本（）日留空。；取得谭1946书内转录与两附表完整刊页；空括号目视确认。正式下发件仍未得。",
+    "conflicts": "所见版本差异不能推出根本未正式下令，也不能把空括号填为史实原字。",
+    "research_attempts": "实际读印p72–76；与旧SRC-0058省略括号版本、SRC-0056孙文说明比较；SAAC公开专题请求503/工具502。",
+    "next_steps": "调七八七—7593所指原卷及正式下发件、附表、发文登记；明确已得“书内完整两表”而非“正式附件原件”。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C06",
+      "T4-TL-C07",
+      "T4-TL-C08"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005872+00:00"
+  },
+  {
+    "original_id": "TL-U05",
+    "original_question": "12日最后会议的确切钟点和会址",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "1946谭书p77把16时唐公馆说上溯到早期可读版本；16/17时争议未闭合。",
+    "inherited_evidence_ids": [
+      "SRC-0055",
+      "SRC-0057",
+      "SRC-0058"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "谭记16时唐公馆；宋记17时；唐正文次日早晨，编注改12日17时。；1946谭书p77把16时唐公馆说上溯到早期可读版本；16/17时争议未闭合。",
+    "conflicts": "15时铁道部是文面，不代会议时刻地点；不同回忆不能平均成16:30。",
+    "research_attempts": "实际读p77并与宋/唐旧已读缓存比较；没有同期会议记录，不把3时令文当4时会议。",
+    "next_steps": "查与会者同期日记、召集令、值日簿；分别记录起草、签发、开会、分发。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C09"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005876+00:00"
+  },
+  {
+    "original_id": "TL-U06",
+    "original_question": "逐军师团营接令时间",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "新见谭书六次渡江计划，但无新单位签收记录，逐级接令缺口未补齐。",
+    "inherited_evidence_ids": [
+      "SRC-0055",
+      "SRC-0056"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "第44号新照片可核受件桂永清，但没有收讫戳；宋回忆17:30回师部后电话部署，21:30面授。；新见谭书六次渡江计划，但无新单位签收记录，逐级接令缺口未补齐。",
+    "conflicts": "军级会议领件不等于基层到令，执行结果不证明按时接令。",
+    "research_attempts": "读p74–80附表和计划；计划时刻未填为收到/执行；复用第44号照片及宋回忆旧证据。",
+    "next_steps": "按场景所需单位优先调战斗详报、电话登记、传令回条；每一级发/收/阅/执行独立成行。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C11"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005879+00:00"
+  },
+  {
+    "original_id": "TL-U07",
+    "original_question": "唐离城、登船、开船、抵岸及13日路线",
+    "priority": "P0",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "谭1946p85–86给出22时浦口—13日晨7时扬州—滁州—临淮关的回忆路线载体。路线争议保留。",
+    "inherited_evidence_ids": [
+      "SRC-0055",
+      "SRC-0058",
+      "SRC-0070",
+      "SRC-0151"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "宋约21时渡完与谭22时抵浦口均保留；新增国史馆12/14唐罗电目录，摘要提已到滁县及六合/乌江收容。；谭1946p85–86给出22时浦口—13日晨7时扬州—滁州—临淮关的回忆路线载体。路线争议保留。",
+    "conflicts": "扬州线与六合至滁州线、21时与22时不能拼成唯一精确行程。",
+    "research_attempts": "读p81–86；未取得唐13日电、14日电原件或车船日志；不把同作者多版本当独立互证。",
+    "next_steps": "比较唐13日电原件与SRC-0151的12/14电是否不同件；逐人逐段查同行/车船记录，禁拼成唯一路线。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C12"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005883+00:00"
+  },
+  {
+    "original_id": "TL-U08",
+    "original_question": "12月13日各城门分钟级记录",
+    "priority": "P1",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "未取得13日各城门目标联队原页，分钟级事项无进展。谭1946仍有11日夜与随后战局叙述的日序疑点。",
+    "inherited_evidence_ids": [
+      "SRC-0067",
+      "SRC-0058"
+    ],
+    "new_evidence_ids": [],
+    "current_evidence": "继续保留全城13日沦陷基本日与不同城门具体进入/占领时刻的区别。；未取得13日各城门目标联队原页，分钟级事项无进展。谭1946仍有11日夜与随后战局叙述的日序疑点。",
+    "conflicts": "突破/进入/占领/完全控制非同义；日中时制尚未核定。",
+    "research_attempts": "SAAC所见公开章节入口503/502，另页工具timeout；见到PTT的115联队JACAR引号仅作线索，未读官方原页，不据其入库。",
+    "next_steps": "按具体城门查20/36/33联队详报原幅和照片题记；先对事件定义、时制和印刷日序，不用13日全城陷落日反填各门。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005983+00:00"
+  },
+  {
+    "original_id": "TL-U09",
+    "original_question": "12月14日撤销长官部与24日抵汉日期",
+    "priority": "P2",
+    "previous_resolved": false,
+    "resolved": false,
+    "progress": "1946谭书p87明确14日奉调、20日谭本人抵汉口；机构撤销/唐实际抵汉仍空。",
+    "inherited_evidence_ids": [
+      "SRC-0058",
+      "SRC-0068"
+    ],
+    "new_evidence_ids": [
+      "SRC-0172"
+    ],
+    "current_evidence": "谭记14日奉命赴汉口；官方目录002-020300-00009-153列24日呈报。；1946谭书p87明确14日奉调、20日谭本人抵汉口；机构撤销/唐实际抵汉仍空。",
+    "conflicts": "赴汉待命、机构撤销、呈报、抵汉日期仍分开；未把14/24自动写成撤销/抵达。",
+    "research_attempts": "实际目视原书p87；复用SRC-0068的12/24呈报目录，没取得撤销令或抵达登记。",
+    "next_steps": "查14日前后机构令、调令与24日呈报全文；把唐、谭、长官部人员分开查抵达，不以呈报日期倒推。",
+    "resolution_scope": "仅所列子命题/载体推进；整项仍未解决",
+    "new_claim_ids": [
+      "T4-TL-C13",
+      "T4-TL-C14"
+    ],
+    "allowed_narration": "只按来源与版本限定表述；文面日期、刊载日、送达、阅令、执行分列；未知不填。",
+    "may_leave_blank": true,
+    "updated_at_utc": "2026-11-07T01:35:27.005988+00:00"
+  }
+]

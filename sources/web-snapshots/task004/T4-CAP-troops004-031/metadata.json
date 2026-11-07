@@ -1,0 +1,22 @@
+{
+  "capture_id": "xianbing_main",
+  "original_url": "https://www.krzzjn.com/book/104757/6/mobile/javascript/main.js",
+  "accessed_at_utc": "2026-11-07T01:32:53.485313+00:00",
+  "link_context": "actual public mobile reader script src",
+  "final_url": "https://www.krzzjn.com/book/104757/6/mobile/javascript/main.js",
+  "http_status": 200,
+  "bytes": 1857031,
+  "sha256": "444d43e3e5a975d81cdf2e655566dd59b86cbcd5ec10a3c734aa3e2f4c221bfc",
+  "local_path": "Task004_Run/internal/troops004/xianbing_main.js",
+  "capture_status": "saved",
+  "metadata_file": "Task004_Run/internal/troops004/xianbing_main_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-031",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

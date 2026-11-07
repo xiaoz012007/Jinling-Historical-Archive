@@ -1,0 +1,28 @@
+{
+  "baseline_commit": "5f7377ef7c40fef9c51dab22e47c63bd47947c7e",
+  "input_path": "Task003_Run/public_v02/timeline/南京保卫战统一时间线.csv",
+  "input_sha256": "769050746ba52cbaf61acbb675bbcd09ca00d0c8df9e7764df4954deba545764",
+  "population_count": 157,
+  "population_order": "csv.DictReader文件记录顺序，不排序、不筛选；表头不算数据行",
+  "algorithm": "random.Random(19371213).sample(range(157),10)",
+  "seed": 19371213,
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "python_implementation": "CPython",
+  "index_base": 0,
+  "indices_in_draw_order": [
+    77,
+    67,
+    51,
+    102,
+    31,
+    124,
+    81,
+    20,
+    96,
+    26
+  ],
+  "sample_size": 10,
+  "logged_at_utc": "2026-11-07T01:24:31.273304+00:00",
+  "new_network_requests": 0,
+  "attribution": "本次Task004新执行；不追溯归功于豆包或Grok的Task003-C审查"
+}

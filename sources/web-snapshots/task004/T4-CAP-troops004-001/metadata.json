@@ -1,0 +1,23 @@
+{
+  "capture_id": "T4-B-CAP-cheng_tang",
+  "original_url": "https://m.fx361.com/news/2018/0123/15446193.html",
+  "accessed_at_utc": "2026-11-07T01:20:07.123597+00:00",
+  "final_url": "https://m.fx361.com/news/2018/0123/15446193.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 13601,
+  "local_path": "Task004_Run/internal/troops004/cheng_tang.html",
+  "sha256": "3f125575c323c28fb03a9f2b3dcfca4295b1fbd1b019a29b9befa1904738c0bb",
+  "scope": "single_http_response",
+  "status": "captured",
+  "metadata_file": "Task004_Run/internal/troops004/cheng_tang_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-001",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

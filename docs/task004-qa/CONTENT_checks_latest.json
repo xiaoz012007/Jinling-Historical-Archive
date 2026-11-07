@@ -1,0 +1,198 @@
+{
+  "checked_at_utc": "2026-11-07T01:48:16.979968+00:00",
+  "reviewer": "/root/review_grok",
+  "mode": "read_only_no_network",
+  "scope": "Current data joins, source identity/hashes, targeted publication gates. Not a full historical truth certification or a substitute for image reading.",
+  "counts": {
+    "sources": 175,
+    "timeline": 167,
+    "claim_links": 71,
+    "questions": 34
+  },
+  "checks": [
+    {
+      "check_id": "source_identity",
+      "passed": true,
+      "details": {
+        "register_count": 175,
+        "details_count": 175,
+        "new_carriers": 23
+      }
+    },
+    {
+      "check_id": "new_source_carrier_hashes_and_register_details",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check_id": "timeline_stable_ids_and_scope",
+      "passed": true,
+      "details": {
+        "event_count": 167,
+        "new_events": [
+          "T4-TL-E001",
+          "T4-E-AT-001",
+          "T4-E-INT-001",
+          "T4-E-INT-002",
+          "T4-E-INT-003",
+          "T4-E-INT-004",
+          "T4-E-INT-005",
+          "T4-TL-E002",
+          "T4-E-INT-006",
+          "T4-E-INT-007"
+        ]
+      }
+    },
+    {
+      "check_id": "current_reference_integrity",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check_id": "timeline_csv_json_equivalence",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check_id": "claim_csv_projection_and_reverse_reference",
+      "passed": true,
+      "details": {
+        "projection_errors": [],
+        "register_claim_id_errors": []
+      }
+    },
+    {
+      "check_id": "current_claim_status_enumeration",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check_id": "question_inheritance_and_no_forced_closure",
+      "passed": true,
+      "details": {
+        "question_count": 34,
+        "resolved_delta": [],
+        "closed": [
+          "INT-U03"
+        ],
+        "open": 33
+      }
+    },
+    {
+      "check_id": "tan_arithmetic_without_historical_total",
+      "passed": true,
+      "details": {
+        "row_sums": [
+          49000,
+          31000,
+          71500,
+          36500
+        ],
+        "printed_totals": {
+          "combat": 49000,
+          "auxiliary": 33000,
+          "statistics": 81000,
+          "loss_and_untraced": 36000
+        },
+        "historical_actual_total": null
+      }
+    },
+    {
+      "check_id": "phone_phase_residue_fixed",
+      "passed": true,
+      "details": {
+        "timeline_phase": "请求协助",
+        "international_phase": "请求协助"
+      }
+    },
+    {
+      "check_id": "old_judgment_reuse_label",
+      "passed": true,
+      "details": "Task004复用既有判决扫描，关键页复核"
+    },
+    {
+      "check_id": "nov20_order_gap_specificity",
+      "passed": true,
+      "details": "这是谭回忆的受命节点，与宋19日手令、20日视事之说并列；未见支持11月20日受命的同期任命令。"
+    },
+    {
+      "check_id": "translation_differences_not_false_old_claims",
+      "passed": true,
+      "details": [
+        {
+          "difference_id": "T4-INT-D009",
+          "old_event_directly_adopted": "false"
+        },
+        {
+          "difference_id": "T4-INT-D011",
+          "old_event_directly_adopted": "false"
+        },
+        {
+          "difference_id": "T4-INT-D012",
+          "old_event_directly_adopted": "false"
+        }
+      ]
+    },
+    {
+      "check_id": "third_party_fulltext_publication_boundary",
+      "passed": true,
+      "details": {
+        "new_candidate_files_at_check": 203,
+        "new_fulltext_or_image_types": [],
+        "private_carrier_hashes_found_in_candidate": [],
+        "all_23_new_sources_fulltext_public_allowed_false": true
+      }
+    },
+    {
+      "check_id": "capture_manifest_report_counts_and_hashes",
+      "passed": true,
+      "details": {
+        "records": 142,
+        "local_payload_entries": 127,
+        "hash_errors": [],
+        "limit": "包括错误响应及目录；不得将127解释为全文或独立史料数量"
+      }
+    }
+  ],
+  "passed": 15,
+  "failed": 0,
+  "input_sha256": {
+    "Task004_Run/public_candidate/sources/SOURCE_REGISTER.csv": "b5aa5862c41acb47a4363784bc576c67ae51f3c85f97f79cfca123c7e864cde4",
+    "Task004_Run/public_candidate/sources/SOURCE_DETAILS.json": "74c2bd473d92c86b50d69a13ca7adc582321da846ded692d29d2fae46c1994fd",
+    "Task004_Run/internal/atrocities004/cinii_1987.html": "c70c143d6609177edb5554ab644fb412e3feb687a783dfd92e546a561e9566ba",
+    "Task004_Run/internal/atrocities004/jiangsu_loss_report.html": "1fb63f4ce45d589804a0cdf56c2fb6dabec543bb9377ef5c3b9e77cfd3fdbde8",
+    "Task004_Run/internal/atrocities004/lusu_repost.html": "f295e1b35c1bd0e06ed5cc6edd8f29b632b3b0b771d07a410463126729ada251",
+    "Task004_Run/internal/atrocities004/sjtu_investigation.html": "3084c39e6e52bed496dd5c40122c5f27251dd27f79c278833a9e6696ede2e8f5",
+    "Task004_Run/internal/atrocities004/unesco_nomination.pdf": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+    "Task004_Run/internal/atrocities004/yamada_transcription.html": "6a30471f988c30ed9bfe5a9388569438656d7f21b6687deae37caa88d5bb882c",
+    "Task004_Run/internal/atrocities004/endo_transcription.html": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+    "Task004_Run/internal/international004/NMP0029.pdf": "5e565b647a018830d75a561a816ab68b4f86eebe21b02ba15a9723bec66c977d",
+    "Task004_Run/internal/international004/NMP0033.pdf": "762b9a88541aee99f7a1ef92a74e7558963baae90b16a1262f43b558fd95019d",
+    "Task004_Run/internal/international004/NMP0034.pdf": "1db107ba75ffdbc6788580bad04eb82bb2c1354482efd7f57c2296698c2b26ee",
+    "Task004_Run/internal/international004/NMP0072.pdf": "e0a18cd83b2afd52c1def45da31987a7003a1c18581ac3bc3571df608e6d0f26",
+    "Task004_Run/internal/international004/NMP0073.pdf": "a9c3bf5174187a64f8027db0c54faa3a76aa0425cc7870c63ba366bf2564b4b1",
+    "Task004_Run/internal/international004/NMP0074.pdf": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+    "Task004_Run/internal/international004/Vautrin.pdf": "8258f58f3b0711b1af425781ac065c0a8415241b420a99b04412b89380dda085",
+    "Task004_Run/internal/international004/NMP0319.pdf": "2f0ead59e8133f4f094dbfc932a28a155bc0ce861c7168762537e23cb7507f23",
+    "Task004_Run/internal/international004/Magee_FindingAid_5466.pdf": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+    "Task004_Run/internal/transport004/maheng_article/original.html": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+    "Task004_Run/internal/transport004/shenbao_metadata/original.html": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+    "Task004_Run/internal/command004/gazette130.pdf": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+    "Task004_Run/internal/troops004/tan1946.pdf": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+    "Task004_Run/internal/troops004/thepaper_100k.html": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+    "Task004_Run/internal/troops004/sun1997.pdf": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+    "Task004_Run/internal/troops004/xianbing_pages/12.jpg": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+    "Task004_Run/public_candidate/timeline/南京保卫战统一时间线.csv": "26068516acc6c35399b5b6e77f670788f8950e3c6d0f408e28ae42e4fb3781f6",
+    "Task004_Run/public_candidate/timeline/NANJING_1937_TIMELINE.json": "3a0da80d6762cb4d60a401523acbc43d1b131e9ddf0349c8f4e1e0d81d67f8e5",
+    "Task004_Run/public_candidate/sources/TASK004_CLAIM_LINKS.csv": "dd23856c6a11e7b7c06521b520f965765159fcd900739014489383522c6a6e62",
+    "Task004_Run/public_candidate/sources/TASK004_CLAIM_LINKS.json": "2835c71131d7590eb1845d493069bfca1468fa12e27f474854cc4abce3652dbd",
+    "Task004_Run/public_candidate/unresolved/OPEN_QUESTIONS.csv": "180e2a2fe9cee8e457de65fb2ff7f3e59d2d43566d9050d26d6b78606897c0dd",
+    "Task003_Run/public_v02/unresolved/OPEN_QUESTIONS.csv": "b8b08b6d52bcf49c49fe9bdbbfbee331414328908b1fe9a009af940d1a7bbead",
+    "Task003_Run/public_v02/timeline/南京保卫战统一时间线.csv": "769050746ba52cbaf61acbb675bbcd09ca00d0c8df9e7764df4954deba545764",
+    "Task004_Run/public_candidate/military/TAN1946_TABLE.csv": "a04a294faad77cc5d21ba5bda877ff13e92d41ccf5ee567119aeac9d833f1b76",
+    "Task004_Run/public_candidate/military/TAN1946_ARITHMETIC.json": "817c39ae7de98bbcf956f5e44cfabe7b33268870f4242c681118e28333cddc01",
+    "Task004_Run/public_candidate/international/国际救援人员活动时间线.csv": "39f67911053c1787f3c8395dd039499117d3077af780295ed57de68b536725e5",
+    "Task004_Run/public_candidate/international/魏特琳日记中英底本差异.csv": "46dfbfa5418971e18f66e808ea98aa636d6584af96072c4d352ff5386217f73d",
+    "Task004_Run/public_candidate/sources/CAPTURES_TASK004.json": "2840246dd60ad6a2148eee2560c830a47ddcaba62f78ee3c168a1ba63a16284c"
+  }
+}

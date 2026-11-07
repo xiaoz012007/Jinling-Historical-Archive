@@ -1,0 +1,20 @@
+{
+  "capture_id": "saac_xianbing",
+  "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+  "accessed_at_utc": "2026-11-07T01:28:49.213350+00:00",
+  "capture_status": "failed",
+  "http_status": 503,
+  "error": "HTTP Error 503: Service Unavailable",
+  "metadata_file": "Task004_Run/internal/troops004/saac_xianbing_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-007",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0175"
+  ],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

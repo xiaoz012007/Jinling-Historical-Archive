@@ -1,0 +1,23 @@
+{
+  "capture_id": "at4open5",
+  "original_url": null,
+  "final_url": null,
+  "started_at_utc": "2026-11-07T01:22:17.384Z",
+  "finished_at_utc": "2026-11-07T01:22:19.697Z",
+  "http_status": "unknown",
+  "payload_type": "web_tool_returned_text_bundle",
+  "local_path": "Task004_Run/internal/atrocities004/at4open5.json",
+  "sha256": "a670107f797c610b0cb35032d9a4aebda0bf126231437f92b02c75b4155a674b",
+  "scope": "search/open/find工具返回；原网址和工具引用定位见JSON载荷",
+  "rights_status": "rights_pending",
+  "snapshot_complete": false,
+  "limitations": "不是原始HTTP HTML。搜索摘要不算原文；工具返回不揭示成功请求HTTP状态。at4search2未在执行前后记录独立时钟，保持空值，不补造访问秒数。",
+  "task004_domain": "atrocities004",
+  "task004_capture_id": "T4-CAP-atrocities004-016",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

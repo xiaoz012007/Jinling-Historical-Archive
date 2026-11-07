@@ -1,5 +1,5 @@
 {
-  "input": "/workspace/scratch/0d8e7c10d8cc/Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
+  "input": "Task003/Jinling-BuTui-Historical-Database/persons/重要人物与职务关系.csv",
   "selected_persons": 8,
   "selected_role_records": 9,
   "inherited_records": [

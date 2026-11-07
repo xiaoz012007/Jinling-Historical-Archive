@@ -1,0 +1,25 @@
+{
+  "capture_id": "maheng_article",
+  "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+  "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+  "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+  "final_url": "https://www.dpm.org.cn/explode/others/208211.html",
+  "http_status": 200,
+  "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+  "bytes": 99778,
+  "local_path": "Task004_Run/internal/transport004/maheng_article/original.html",
+  "capture_kind": "raw_http_response",
+  "public_fulltext_allowed": false,
+  "rights_status": "rights_pending",
+  "integrity": "sha256 recomputed equals metadata",
+  "snapshot_scope": "single HTML response; linked assets separately captured; not WARC/full site",
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-008",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0169"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

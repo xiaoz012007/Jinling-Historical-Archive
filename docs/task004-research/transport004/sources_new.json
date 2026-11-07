@@ -1,0 +1,319 @@
+[
+  {
+    "source_id": "SRC-0152",
+    "existing_source_id": "SRC-0152",
+    "record_action": "augment_existing_identity_preserve_old_record",
+    "old_value": {
+      "title": "故宫网站铁路轮渡与文物西迁研究单页（印刷074页；篇名待定）",
+      "creator": null,
+      "created_date": null,
+      "locator": "印刷074页；PDF1/1",
+      "reading_scope": "selected_pages"
+    },
+    "title": "重走故宫文物南迁路考察记（一）",
+    "creator": "徐婉玲",
+    "created_date": "2010-10",
+    "type": "考察研究文章；故宫官网逐页PDF",
+    "source_nature": "S",
+    "publication": "《紫禁城》2010年第10期（总189期），第72–77页",
+    "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+    "final_url": "https://www.dpm.org.cn/explode/others/210158.html",
+    "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+    "previous_single_page_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+    "locator": "2010.10目录页期次；p72题名署名；pp72–77正文；p75脚注4–9；p74为原有缓存",
+    "reading_scope": "本轮实际目视6页全文及目录；目录不是整期全文",
+    "source_family": "XU_WANLING_PALACE_MOVE_ROUTE_2010_10",
+    "rights_status": "rights_pending_metadata_only_public",
+    "public_fulltext_allowed": false,
+    "local_path": "Task004_Run/internal/transport004/dpm_article/original.html",
+    "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+    "assets": [
+      {
+        "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+        "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+        "method": "urllib HTTPS GET through inherited environment; no cookie/auth",
+        "final_url": "https://www.dpm.org.cn/explode/others/210158.html",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "local_path": "Task004_Run/internal/transport004/dpm_article/original.html",
+        "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+        "bytes": 99140,
+        "snapshot_scope": "single HTTP response, no linked-resource capture"
+      },
+      {
+        "capture_id": "dpm_contents",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/78/3c/8f783c5b9f77090dc7dc406344dda22c.pdf",
+        "accessed_at_utc": "2026-11-07T01:21:03.429469+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/78/3c/8f783c5b9f77090dc7dc406344dda22c.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_contents/original.pdf",
+        "sha256": "f517abe3b88f53877f8b861bae5277cc586f996e05de38b5ef2fd7d0d595c58f",
+        "bytes": 230043
+      },
+      {
+        "capture_id": "dpm_p72",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/58/12/37/5812372154f8083e83630da187224c03.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:55.841858+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/58/12/37/5812372154f8083e83630da187224c03.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_p72/original.pdf",
+        "sha256": "2463f8aaa319039b2d5c2e8276282558a613f384e0f5ed6d9074bd7109d8f928",
+        "bytes": 238222
+      },
+      {
+        "capture_id": "dpm_p73",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/a2/f4/11/a2f4114135aaf7d9ff1a8c903ebcfb0e.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:55.842366+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/a2/f4/11/a2f4114135aaf7d9ff1a8c903ebcfb0e.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_p73/original.pdf",
+        "sha256": "c570df445464ce061769bdc6232c1e19efdb56262929b64415174a6fe71af1a1",
+        "bytes": 206801
+      },
+      {
+        "capture_id": "dpm_p75",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/97/98/8f97984b83a018ade5468afbab461acb.pdf",
+        "accessed_at_utc": "2026-11-07T01:20:55.842895+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/97/98/8f97984b83a018ade5468afbab461acb.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_p75/original.pdf",
+        "sha256": "d2912d21ef491cae2ab04a5bf07c4947fc4bd7378a3625743a283afdbc5ae493",
+        "bytes": 283393
+      },
+      {
+        "capture_id": "dpm_p76",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/82/c6/23/82c6231ed59bd8c5b8dc783c39970ad4.pdf",
+        "accessed_at_utc": "2026-11-07T01:21:03.345440+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/82/c6/23/82c6231ed59bd8c5b8dc783c39970ad4.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_p76/original.pdf",
+        "sha256": "f2dff7037c95c03ee9f96ad8fb991e0a2466e520e11d17ae61f3aa48215cfdd8",
+        "bytes": 262834
+      },
+      {
+        "capture_id": "dpm_p77",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/71/de/af/71deafb57140c130c8b1c1f29731068a.pdf",
+        "accessed_at_utc": "2026-11-07T01:21:03.365338+00:00",
+        "method": "urllib HTTPS GET; inherited proxy/TLS; no cookie/auth",
+        "snapshot_scope": "one PDF HTTP response, no source print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/71/de/af/71deafb57140c130c8b1c1f29731068a.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "local_path": "Task004_Run/internal/transport004/dpm_p77/original.pdf",
+        "sha256": "36674dabcad5a457ec3fe5cd3f3b78f2f0e936b5c7ef0b175651c224b64ece24",
+        "bytes": 267885
+      },
+      {
+        "capture_id": "SRC-0152-existing-p74",
+        "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+        "final_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+        "accessed_at_utc": "2026-11-06T20:58:08.261224+00:00",
+        "http_status": 200,
+        "local_path": "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf",
+        "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+        "method": "reuse existing original PDF; old HTTP metadata inherited, no new download",
+        "snapshot_scope": "single printed page 074",
+        "rechecked_at_utc": "2026-11-07T01:30:38.854783+00:00"
+      }
+    ],
+    "limitations": "一篇研究的6个PDF页不是6个独立来源。p74含应是、据载、应均等推论；p75脚注8直接依赖马衡战后广播，不能与马衡计为独立互证。未取得1937船簿或列车日志。",
+    "source_relations": [
+      {
+        "target": "SRC-0169",
+        "relation": "cites",
+        "locator": "p75注8→马衡p10；三列车七千余箱等叙述同源"
+      }
+    ],
+    "reported_references_not_obtained": [
+      {
+        "title": "南京简志",
+        "creator": "南京市地方志编纂委员会办公室编纂",
+        "publication": "南京：江苏古籍出版社，1986",
+        "locator": "pp418–422",
+        "reported_in": "p75注4",
+        "acquisition_status": "not_obtained"
+      },
+      {
+        "title": "浦口区志",
+        "creator": "南京市浦口区地方志编纂委员会编",
+        "publication": "北京：方志出版社，2005",
+        "locator": "pp199–204",
+        "reported_in": "p75注4",
+        "acquisition_status": "not_obtained"
+      },
+      {
+        "title": "首都铁路轮渡工程",
+        "creator": "毛起",
+        "publication": "《工程周刊》1932年第1卷第3期",
+        "locator": "pp35–36",
+        "reported_in": "p75注5",
+        "acquisition_status": "not_obtained"
+      },
+      {
+        "title": "首都铁路轮渡工程纪略",
+        "creator": "郑华",
+        "publication": "《工程周刊》1934年第3卷第1期",
+        "locator": "pp1–3；p76图3另引该期封面",
+        "reported_in": "p75注5、9；p76图3",
+        "acquisition_status": "not_obtained"
+      },
+      {
+        "title": "下关区志",
+        "creator": "南京市下关区地方志编纂委员会编",
+        "publication": "北京：方志出版社，2005",
+        "locator": "p253",
+        "reported_in": "p75注9",
+        "acquisition_status": "not_obtained"
+      }
+    ]
+  },
+  {
+    "source_id": "SRC-0169",
+    "title": "抗战期间故宫文物之保管",
+    "creator": "马衡",
+    "created_date": "1947-09-03",
+    "republication_date": "2009-03",
+    "type": "战后本人广播回顾的期刊重刊；官方逐页PDF",
+    "source_nature": "T",
+    "publication": "《紫禁城》2009年第3期（总170期），第10–13页；p13注明1947年9月3日广播",
+    "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+    "final_url": "https://www.dpm.org.cn/explode/others/208211.html",
+    "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+    "locator": "p10右栏：三列车及12月3日太古船拒泊；p11左栏：过江经津浦转陇海；p13末尾广播日期；目录页期次",
+    "reading_scope": "实际目视四页全文及目录；未取得1947手稿、录音或原刊",
+    "source_family": "MA_HENG_1947_09_03_BROADCAST",
+    "rights_status": "rights_pending_metadata_only_public",
+    "public_fulltext_allowed": false,
+    "local_path": "Task004_Run/internal/transport004/maheng_article/original.html",
+    "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+    "assets": [
+      {
+        "capture_id": "maheng_article",
+        "original_url": "https://www.dpm.org.cn/explode/others/208211.html",
+        "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "final_url": "https://www.dpm.org.cn/explode/others/208211.html",
+        "http_status": 200,
+        "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+        "bytes": 99778,
+        "local_path": "Task004_Run/internal/transport004/maheng_article/original.html"
+      },
+      {
+        "capture_id": "maheng_contents",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/97/f7/39/97f739b18ce34e82605a355ba5492265.pdf",
+        "accessed_at_utc": "2026-11-07T01:25:04.358736+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "snapshot_scope": "single-page journal PDF, not print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/97/f7/39/97f739b18ce34e82605a355ba5492265.pdf",
+        "http_status": 200,
+        "bytes": 725216,
+        "sha256": "953b48e0421fa2227898dced3d722733ab0164c09578c67159f3f3074c390014",
+        "local_path": "Task004_Run/internal/transport004/maheng_contents/original.pdf"
+      },
+      {
+        "capture_id": "maheng_p10",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+        "accessed_at_utc": "2026-11-07T01:24:54.532514+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "snapshot_scope": "single-page journal PDF, not print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+        "http_status": 200,
+        "bytes": 774795,
+        "sha256": "6e845d8849b9ba1a8ad24288f8767aca26cf9fbd756d67537b98f23a9724f957",
+        "local_path": "Task004_Run/internal/transport004/maheng_p10/original.pdf"
+      },
+      {
+        "capture_id": "maheng_p11",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/a9/5e/2d/a95e2d50b477983a951b4adb083a43c9.pdf",
+        "accessed_at_utc": "2026-11-07T01:24:54.533256+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "snapshot_scope": "single-page journal PDF, not print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/a9/5e/2d/a95e2d50b477983a951b4adb083a43c9.pdf",
+        "http_status": 200,
+        "bytes": 757475,
+        "sha256": "48f08b1d454523818b5b831f95b0e6e75a14ff8c8772edd0bee8718feb75ad7f",
+        "local_path": "Task004_Run/internal/transport004/maheng_p11/original.pdf"
+      },
+      {
+        "capture_id": "maheng_p12",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/03/67/8f036732de67b7420c16de8fa412d54e.pdf",
+        "accessed_at_utc": "2026-11-07T01:24:54.540272+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "snapshot_scope": "single-page journal PDF, not print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/8f/03/67/8f036732de67b7420c16de8fa412d54e.pdf",
+        "http_status": 200,
+        "bytes": 743219,
+        "sha256": "0b9694aa6a67344d634074dac9ea43a07236657b72702ee013283a9e9a4d15ca",
+        "local_path": "Task004_Run/internal/transport004/maheng_p12/original.pdf"
+      },
+      {
+        "capture_id": "maheng_p13",
+        "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/fd/2f/50/fd2f505d4791dd2fa41edd7e617510dd.pdf",
+        "accessed_at_utc": "2026-11-07T01:25:04.021603+00:00",
+        "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+        "snapshot_scope": "single-page journal PDF, not print original",
+        "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/fd/2f/50/fd2f505d4791dd2fa41edd7e617510dd.pdf",
+        "http_status": 200,
+        "bytes": 762885,
+        "sha256": "765431f747bf79b7a23e32e038fec6d64d696dcbc3add1a37c134fec55e60ef7",
+        "local_path": "Task004_Run/internal/transport004/maheng_p13/original.pdf"
+      }
+    ],
+    "limitations": "按项目回忆材料口径暂归T：虽为当事人本人讲话，所述1937事件距形成近十年，且当前是2009重刊，不能冒称1937同期运输原件。重刊来源底本、校改过程未明；没有长江号船名、离宁日或三列车每次过江日。",
+    "source_relations": [
+      {
+        "target": "SRC-0152",
+        "relation": "is_cited_by",
+        "locator": "p75注8；不能计作独立互证"
+      }
+    ]
+  },
+  {
+    "source_id": "SRC-0170",
+    "title": "《申报》1937-01-06《邵元沖等靈櫬起運入城》公开检索元数据",
+    "creator": "报道署“五日中央社電”；元数据提供者：中国教育图书进出口有限公司",
+    "created_date": "1937-01-06",
+    "type": "数据库公开题录及标题转录；未取得原报影像",
+    "source_nature": "unknown",
+    "original_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+    "final_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+    "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+    "locator": "网页出版信息1937/1/6、所属申报数据库；长标题内“澄平及華勝渡輪”；原报版次/页码未显示",
+    "reading_scope": "公开元数据页面已读；不是申报原页阅读",
+    "source_family": "SHENBAO_1937_01_06_CNA_SHAO_FUNERAL",
+    "rights_status": "rights_pending_metadata_only_public",
+    "public_fulltext_allowed": false,
+    "local_path": "Task004_Run/internal/transport004/shenbao_metadata/original.html",
+    "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+    "assets": [
+      {
+        "capture_id": "shenbao_metadata",
+        "original_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+        "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+        "method": "urllib HTTPS GET inherited proxy/TLS no cookies",
+        "snapshot_scope": "public bibliographic webpage; not newspaper scan",
+        "final_url": "https://db.islib.com/db/view?id=402880e28b8db16e018b8dc6d8112eb6",
+        "http_status": 200,
+        "local_path": "Task004_Run/internal/transport004/shenbao_metadata/original.html",
+        "bytes": 17315,
+        "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7"
+      }
+    ],
+    "limitations": "仅具体待调原报线索。未核OCR/转录；1月事件不能证明11–12月船仍在宁，更不能认定这就是宋希濂回忆的两客渡。不得与招商局同名船或其他华胜船合并。未取得船籍、末航或航海日志。"
+  }
+]

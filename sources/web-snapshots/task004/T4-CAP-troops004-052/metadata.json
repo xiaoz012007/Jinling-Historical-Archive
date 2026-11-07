@@ -1,0 +1,21 @@
+{
+  "capture_id": "xianbing_browser_failure",
+  "original_url": "https://www.krzzjn.com/book/104757/6/mobile/index.html",
+  "final_url": "https://www.krzzjn.com/book/104757/6/mobile/index.html",
+  "accessed_at_utc": null,
+  "time_note": "本次浏览器工具未保存精确请求UTC；不回填",
+  "http_status": "unknown",
+  "capture_status": "failed",
+  "error": "upstream connect error or disconnect/reset before headers. reset reason: connection termination",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-052",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0175"
+  ],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

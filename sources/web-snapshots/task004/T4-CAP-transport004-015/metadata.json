@@ -1,0 +1,21 @@
+{
+  "capture_id": "SRC-0152-existing-p74",
+  "original_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+  "final_url": "https://www.dpm.org.cn/Uploads/File/pdf/73/cf/66/73cf66f7bd9ba407f995cbfe4d2c0a1c.pdf",
+  "accessed_at_utc": "2026-11-06T20:58:08.261224+00:00",
+  "http_status": 200,
+  "local_path": "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf",
+  "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+  "method": "reuse existing original PDF; old HTTP metadata inherited, no new download",
+  "snapshot_scope": "single printed page 074",
+  "rechecked_at_utc": "2026-11-07T01:30:38.854783+00:00",
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-015",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": true
+}

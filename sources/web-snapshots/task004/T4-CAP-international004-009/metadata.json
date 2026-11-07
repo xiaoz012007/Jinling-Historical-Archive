@@ -1,0 +1,33 @@
+{
+  "original_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+  "accessed_at_utc": "2026-11-07T01:28:01.795308+00:00",
+  "source_id": "SRC-0168",
+  "rights_status": "rights_pending",
+  "public_fulltext_allowed": false,
+  "final_url": "https://ead-pdfs.library.yale.edu/5466.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "local_path": "Task004_Run/internal/international004/Magee_FindingAid_5466.pdf",
+  "sha256": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+  "bytes": 432236,
+  "full_response": true,
+  "capture_status": "complete_http_pdf_response_parsed",
+  "payload_type": "original_http_pdf",
+  "total_pdf_pages": 30,
+  "visual_read_pages": [
+    4,
+    17,
+    27,
+    28
+  ],
+  "scope": "全HTTP响应和可解析PDF；阅读范围另列，不证明实体档案齐全。",
+  "task004_domain": "international004",
+  "task004_capture_id": "T4-CAP-international004-009",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0168"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

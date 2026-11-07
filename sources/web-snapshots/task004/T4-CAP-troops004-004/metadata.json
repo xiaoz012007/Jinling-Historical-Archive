@@ -1,0 +1,23 @@
+{
+  "capture_id": "T4-B-CAP-modernhistory",
+  "original_url": "https://www.modernhistory.org.cn/",
+  "accessed_at_utc": "2026-11-07T01:21:44.314939+00:00",
+  "final_url": "https://www.modernhistory.org.cn/",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 6091,
+  "local_path": "Task004_Run/internal/troops004/modernhistory.html",
+  "sha256": "540f14525cd15cc861b04685ab155225d993e80c3f8684a2d0ebafd1136c4cef",
+  "scope": "single_http_response",
+  "status": "captured",
+  "metadata_file": "Task004_Run/internal/troops004/modernhistory_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-004",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

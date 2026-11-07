@@ -1,0 +1,21 @@
+{
+  "capture_id": "xianbing_book",
+  "original_url": "https://www.krzzjn.com/book/104757/6/",
+  "accessed_at_utc": "2026-11-07T01:30:20.747144+00:00",
+  "final_url": "https://www.krzzjn.com/book/104757/6/",
+  "http_status": 200,
+  "bytes": 4709,
+  "sha256": "d97498216eddfc1e78fcd35c110742f6c48ea42637db21a8e688014595f03ac6",
+  "local_path": "Task004_Run/internal/troops004/xianbing_book.html",
+  "capture_status": "saved",
+  "metadata_file": "Task004_Run/internal/troops004/xianbing_book_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-017",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

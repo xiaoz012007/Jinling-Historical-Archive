@@ -1,0 +1,308 @@
+[
+  {
+    "source_id": "SRC-0153",
+    "scope": "阅读书目及馆藏定位；未阅读书籍正文或第87–88页",
+    "locator": "NCID BA72756538；页面书目详细信息；derived.txt第160–164、252–264行",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:22:24.677302+00:00",
+    "sha256": "c70c143d6609177edb5554ab644fb412e3feb687a783dfd92e546a561e9566ba",
+    "limitations": "ISBN 7805190542和NCID只证明书目身份，不证明鲁甦结文日期。载体记录的书籍出版时间为1987.11，网页形成时间未载。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0154",
+    "scope": "核读南京相关段、脚注[2]–[6]和来源说明；其他地区统计未复算",
+    "locator": "人口伤亡时段分析中南京段；脚注[3]–[6]；derived.txt第51、67–70行",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:22:31.665000+00:00",
+    "sha256": "1fb63f4ce45d589804a0cdf56c2fb6dabec543bb9377ef5c3b9e77cfd3fdbde8",
+    "limitations": "取得研究报告转载，未取得其所引结文原件。五九三/870、五九三/24均是报告所引定位，尚未向馆藏目录核对。不得登记为本轮已取得原档。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0155",
+    "scope": "完整阅读该篇说明正文及来源/更新时间；未取得所介绍统计表或完整结文",
+    "locator": "正文第五项；derived.txt第1258–1273行",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:22:39.925725+00:00",
+    "sha256": "f295e1b35c1bd0e06ed5cc6edd8f29b632b3b0b771d07a410463126729ada251",
+    "limitations": "此转载只能证明说明文字写12月6日；与SRC-0145同源，不能算独立互证。源站本轮仍503/502。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0156",
+    "scope": "核读第一节相关调查流程、1946年报告引文及末尾出处；未逐条核查其余案件/统计",
+    "locator": "第一节1946年2月陈光虞报告段；derived.txt第111–122行；末尾第765–768行出处",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:22:47.669223+00:00",
+    "sha256": "3084c39e6e52bed496dd5c40122c5f27251dd27f79c278833a9e6696ede2e8f5",
+    "limitations": "网页注明来源《战争审判研究》第一辑，但未取得该辑纸本及原注页。所引1946年报告未取得，不能据研究文章倒推57,418的逐人统计底稿。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0157",
+    "scope": "下载11页PDF；检索目录与相关词，目视第7页；未全11页逐页阅读",
+    "locator": "PDF第7页4.4 Accessibility及4.5 Copyright status",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:22:16.381412+00:00",
+    "sha256": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+    "limitations": "P仅指现代申报文件本身；不能据此证明1937个案日期、人数或单位。2014-50是申报标识，不是历史档案号。可供查阅不等于允许项目再分发。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0158",
+    "scope": "阅读日记转录12月10–20日、版本对照及参考文献；未阅读各版本原书或日记手稿",
+    "locator": "山田日记12月14–19日；所引《南京戦史資料集２》pp.330–333；derived.txt第58–117行",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:26:48.029279+00:00",
+    "sha256": "6a30471f988c30ed9bfe5a9388569438656d7f21b6687deae37caa88d5bb882c",
+    "limitations": "不是原稿影像。页首旅团编号自身不一致，不据此改编制；三个版本道出处/措辞存在差异，不能替代原命令或算三份独立证言。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0159",
+    "scope": "完整阅读远藤节录12月12–20日；同页其他作者仅定位，未纳入新结论",
+    "locator": "遠藤高明部分；derived.txt第136–162行；网页所引《南京大虐殺を記録した皇軍兵士たち》pp.219–220",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:26:56.301405+00:00",
+    "sha256": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+    "limitations": "不是日记原稿或原版书页。12月15日三百六与SRC-0112中译360存在转录/翻译待核差异；不凭网站改数字。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0160",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0029.pdf PDF1",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:16.714031+00:00",
+    "sha256": "5e565b647a018830d75a561a816ab68b4f86eebe21b02ba15a9723bec66c977d",
+    "limitations": "全文1页；校务提议与保密嘱托，不是吴贻芳已经启程的记录。",
+    "visually_read_pages": [
+      1
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0161",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0033.pdf PDF1,2",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:16.714749+00:00",
+    "sha256": "762b9a88541aee99f7a1ef92a74e7558963baae90b16a1262f43b558fd95019d",
+    "limitations": "正文只写Nov28，年份由馆方目录1937定位；正反面均读，无清晰可读邮戳据以证明投递。",
+    "visually_read_pages": [
+      1,
+      2
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0162",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0034.pdf PDF1",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:16.715158+00:00",
+    "sha256": "1db107ba75ffdbc6788580bad04eb82bb2c1354482efd7f57c2296698c2b26ee",
+    "limitations": "全文1页；Fukuda拟携信乘机赴沪，不据此证明航班完成或信件收到。",
+    "visually_read_pages": [
+      1
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0163",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0072.pdf PDF1,2",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:24.558350+00:00",
+    "sha256": "e0a18cd83b2afd52c1def45da31987a7003a1c18581ac3bc3571df608e6d0f26",
+    "limitations": "标Copy，p2两人签名；p1正文四人、后加NB第五人须分别保留；武器来历属于旁人所说。",
+    "visually_read_pages": [
+      1,
+      2
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0164",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0073.pdf PDF1,2",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:24.598037+00:00",
+    "sha256": "a9c3bf5174187a64f8027db0c54faa3a76aa0425cc7870c63ba366bf2564b4b1",
+    "limitations": "全文2页；具体案情为报告层，不能一概当本人现场目睹；与0074为相关连续通信，不作独立互证。",
+    "visually_read_pages": [
+      1,
+      2
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0165",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0074.pdf PDF1",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:24.674368+00:00",
+    "sha256": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+    "limitations": "全文1页；署名缺口保留。目录归属与内文事实分层；不把函中报告当独立证实释放全过程。",
+    "visually_read_pages": [
+      1
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0166",
+    "scope": "selected_pages",
+    "locator": "Ms62 PDF108—109、115—118、122—128、130—132；印页98—99、105—108、112—118、120—122",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:20:31.348590+00:00",
+    "sha256": "8258f58f3b0711b1af425781ac065c0a8415241b420a99b04412b89380dda085",
+    "limitations": "仅精读所列16页：完整12/7、12/12、12/13、12/16、12/17、12/19、12/20条；跨页顺带其他日局部不算完整日。未读完整555页，未证明实体手稿/后加文字形成时点；是微缩影像所收打字本，不称亲笔日记原件。",
+    "visually_read_pages": [
+      108,
+      109,
+      115,
+      116,
+      117,
+      118,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      130,
+      131,
+      132
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0167",
+    "scope": "full_existing_pdf",
+    "locator": "NMP0319.pdf PDF1,2,3,4",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:26:47.905034+00:00",
+    "sha256": "2f0ead59e8133f4f094dbfc932a28a155bc0ce861c7168762537e23cb7507f23",
+    "limitations": "全文4页。目录只列1/10，p2下半另有1/11题记；会议在p3承1/11，不能误记1/10。后证不倒填1937。",
+    "visually_read_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0168",
+    "scope": "selected_pages",
+    "locator": "RG242 PDF4、17、27—28",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "accessed_at_utc": "2026-11-07T01:28:01.795308+00:00",
+    "sha256": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+    "limitations": "目视4、17、27、28页；文本另选读p5访问条件。此为馆藏目录，不是胶片或笔记原件；未读全30页。",
+    "visually_read_pages": [
+      4,
+      17,
+      27,
+      28
+    ],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0152",
+    "scope": "本轮实际目视6页全文及目录；目录不是整期全文",
+    "locator": "2010.10目录页期次；p72题名署名；pp72–77正文；p75脚注4–9；p74为原有缓存",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+    "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+    "limitations": "一篇研究的6个PDF页不是6个独立来源。p74含应是、据载、应均等推论；p75脚注8直接依赖马衡战后广播，不能与马衡计为独立互证。未取得1937船簿或列车日志。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0169",
+    "scope": "实际目视四页全文及目录；未取得1947手稿、录音或原刊",
+    "locator": "p10右栏：三列车及12月3日太古船拒泊；p11左栏：过江经津浦转陇海；p13末尾广播日期；目录页期次",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:24:26.834846+00:00",
+    "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+    "limitations": "按项目回忆材料口径暂归T：虽为当事人本人讲话，所述1937事件距形成近十年，且当前是2009重刊，不能冒称1937同期运输原件。重刊来源底本、校改过程未明；没有长江号船名、离宁日或三列车每次过江日。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0170",
+    "scope": "公开元数据页面已读；不是申报原页阅读",
+    "locator": "网页出版信息1937/1/6、所属申报数据库；长标题内“澄平及華勝渡輪”；原报版次/页码未显示",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:26:07.978737+00:00",
+    "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+    "limitations": "仅具体待调原报线索。未核OCR/转录；1月事件不能证明11–12月船仍在宁，更不能认定这就是宋希濂回忆的两客渡。不得与招商局同名船或其他华胜船合并。未取得船籍、末航或航海日志。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0171",
+    "scope": "PDF 1,2,3,230,234–237,240,245–255,260,280,300; key historical assertions from PDF235,247,253 only",
+    "locator": "渝字第1號封面（PDF235）；國民政府令二十六年十一月二十四日，印刷頁10（PDF247）；本報啟事印刷頁16（PDF253）。PDF頁碼均從1計。",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:32:57.631Z",
+    "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+    "limitations": "尚未取得1937年11月19日蒋手令、11月20日唐布告/交接记录；11月24日为令文所载日期，不证明当日实际签署时刻、送达、阅令、履职，亦不否定其他媒介当日发表。影印本再版年代未见，不填。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0172",
+    "scope": "troops004目视题名PDF1、肖像PDF2、版权PDF136、印85、93–96；command004另目视自序PDF4、目录PDF5–6、正文44–49及69–87；全书已下载但未完整阅读",
+    "locator": "兵力表印93–95 / PDF101–103；印85 / PDF93；题名PDF1、版权PDF136",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:26:29.095915+00:00",
+    "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+    "limitations": "初版1946年5月、所获为7月再版；精确到刊本印字可核，历史实际兵力仍需同期实力册。不得以原书获取消除自相矛盾。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0173",
+    "scope": "已读网页正文；本文引用的底档未由此取得",
+    "locator": "派生段号P0015–P0022，特别P0018",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:20:22.722629+00:00",
+    "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+    "limitations": "只用于追索。正文三团简称与原附表含司令部、4个团名和特务营的范围不等；不承接逆算兵力或损失推断。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0174",
+    "scope": "下载全10页，目视印8、13、14；未完整阅读全篇",
+    "locator": "印13–14页 / PDF6–7，印13注②、印14注①；首页印8 / PDF1",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:29:00.858891+00:00",
+    "sha256": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+    "limitations": "核见研究版11968及5490，不等于取得其所据各军原始详报。印13注②上溯《南京保卫战双方兵力的研究》载《新旧战争史事探索》上海社会科学院出版社1988年版，未取得该书。不能把不同单位/时期资料或外推15万当同日实数。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  },
+  {
+    "source_id": "SRC-0175",
+    "scope": "12图全部下载；目视第1、2、8、9、10、11、12图；第12图合计、单位名及备考重点核读。第3–7图未读。原图600px宽，士兵分项不可可靠辨字。",
+    "locator": "公开阅读器第12图（手写页16）人员实力伤亡表；第1图文首；第2图部队区分",
+    "read_at_utc": "",
+    "accessed_at_utc": "2026-11-07T01:33:29.858450+00:00",
+    "sha256": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+    "limitations": "12图是公开阅读器全部页面，不宣称完整馆藏原卷：手写页码从3至16，14–15等未在此次页序中出现。官353、兵5099可核；分项士兵及5490版本尚不能闭合；本表不单列警察全员数。",
+    "visually_read_pages": [],
+    "additional_reading_records": []
+  }
+]
