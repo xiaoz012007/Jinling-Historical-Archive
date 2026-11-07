@@ -1,0 +1,23 @@
+{
+  "capture_id": "sun1997_catalog",
+  "original_url": "https://www.krzzjn.com/show-2313-106503.html",
+  "accessed_at_utc": "2026-11-07T01:28:55.624394+00:00",
+  "final_url": "https://www.krzzjn.com/show-2313-106503.html",
+  "http_status": 200,
+  "bytes": 36471,
+  "sha256": "b7495106ed84a3bdc025df244193cda480e37179332a4f76e91ee66d2586a1b4",
+  "local_path": "Task004_Run/internal/troops004/sun1997_catalog.html",
+  "capture_status": "saved",
+  "metadata_file": "Task004_Run/internal/troops004/sun1997_catalog_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-009",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0174"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

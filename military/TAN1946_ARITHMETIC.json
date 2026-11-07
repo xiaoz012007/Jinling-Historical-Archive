@@ -1,0 +1,29 @@
+{
+  "source_id": "SRC-0172",
+  "printed_page": 95,
+  "pdf_page_1based": 103,
+  "printed_column_totals": {
+    "combat": 49000,
+    "auxiliary": 33000,
+    "statistics": 81000,
+    "loss_and_untraced": 36000
+  },
+  "recalculated_row_sums": {
+    "combat": 49000,
+    "auxiliary": 31000,
+    "statistics": 71500,
+    "loss_and_untraced": 36500
+  },
+  "arithmetic_combat_plus_auxiliary": 80000,
+  "historical_actual_total": null,
+  "nature_of_calculation": "I",
+  "raw_values_must_not_be_replaced_by_arithmetic": true,
+  "notes": "第2军团原刊统计印八,000，须保留8000。第83军6000、36师7000也与两分项不合；不得自动订正。页95杂兵印三三,000，非32,000。",
+  "independent_visual_check": "troops004初读、root独立读93–95；root首次误以二军团18000加总后回图纠正，最终双方一致。",
+  "differences_row_sum_minus_printed": {
+    "combat": 0,
+    "auxiliary": -2000,
+    "statistics": -9500,
+    "loss_and_untraced": 500
+  }
+}

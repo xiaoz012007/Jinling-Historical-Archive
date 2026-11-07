@@ -1,0 +1,30 @@
+{
+  "capture_id": "unesco_nomination",
+  "original_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+  "started_at_utc": "2026-11-07T01:22:16.381412+00:00",
+  "final_url": "https://www.unesco.org/sites/default/files/china_nanjing_en.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "local_path": "Task004_Run/internal/atrocities004/unesco_nomination.pdf",
+  "sha256": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+  "error": null,
+  "scope": "single_http_response_no_subresources",
+  "rights_status": "rights_pending",
+  "bytes": 275276,
+  "finished_at_utc": "2026-11-07T01:22:24.677195+00:00",
+  "payload_type": "http_response_body",
+  "response_body_complete": true,
+  "snapshot_complete": true,
+  "snapshot_completeness_limit": "原始响应体；HTML无脚本执行、嵌入图像/附件/样式，不能称完整WARC。PDF完整字节下载不等于全页阅读。",
+  "source_id": "SRC-0157",
+  "task004_domain": "atrocities004",
+  "task004_capture_id": "T4-CAP-atrocities004-005",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0157"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

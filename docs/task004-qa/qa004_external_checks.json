@@ -1,0 +1,223 @@
+{
+  "reviewed_at_utc": "2026-11-07T01:37:12.166074+00:00",
+  "checks": [
+    {
+      "check_id": "QA-E-C01",
+      "passed": true,
+      "detail": {
+        "records": 67,
+        "reviewers": {
+          "Doubao": 42,
+          "Grok": 25
+        },
+        "classifications": {
+          "审查意见本身存在错误": 19,
+          "合理疑点": 10,
+          "来源不足": 17,
+          "没有发现问题": 20,
+          "已证实错误": 1
+        }
+      }
+    },
+    {
+      "check_id": "QA-E-C02",
+      "passed": true,
+      "detail": "67行CSV/JSON逐字段一致（JSON布尔、空值及复合字段作CSV序列化归一比较）"
+    },
+    {
+      "check_id": "QA-E-C03",
+      "passed": true,
+      "detail": "五分类和REVIEW_SUMMARY一致"
+    },
+    {
+      "check_id": "QA-E-C04",
+      "passed": true,
+      "detail": "10件实际解压输入与公开清单字节数/哈希逐件一致；本检查未重新对ZIP做CRC，CRC结论沿用输入登记"
+    },
+    {
+      "check_id": "QA-E-C05",
+      "passed": true,
+      "detail": {
+        "doubao": {
+          "Task003C_来源交叉验证.csv": {
+            "rows": 25,
+            "header_columns": 9,
+            "bad_width_rows": []
+          },
+          "Task003C_抽样记录.csv": {
+            "rows": 40,
+            "header_columns": 9,
+            "bad_width_rows": []
+          },
+          "Task003C_幻觉与史实错误清单.csv": {
+            "rows": 20,
+            "header_columns": 17,
+            "bad_width_rows": [
+              [
+                2,
+                18
+              ],
+              [
+                4,
+                16
+              ],
+              [
+                11,
+                16
+              ],
+              [
+                15,
+                16
+              ]
+            ]
+          }
+        },
+        "grok": {
+          "Task003C_来源交叉验证.csv": {
+            "rows": 5,
+            "header_columns": 6,
+            "bad_width_rows": [
+              [
+                6,
+                7
+              ]
+            ]
+          },
+          "Task003C_抽样记录.csv": {
+            "rows": 18,
+            "header_columns": 6,
+            "bad_width_rows": []
+          },
+          "Task003C_幻觉与史实错误清单.csv": {
+            "rows": 6,
+            "header_columns": 17,
+            "bad_width_rows": [
+              [
+                6,
+                20
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "check_id": "QA-E-C06",
+      "passed": true,
+      "detail": "旧冻结基线实际391节点=363文件+28目录"
+    },
+    {
+      "check_id": "QA-E-C07",
+      "passed": true,
+      "detail": {
+        "152_sources_unknown": 69,
+        "percentage": 45.39473684210527,
+        "blank_read_scope_v02": 104
+      }
+    },
+    {
+      "check_id": "QA-E-C08",
+      "passed": true,
+      "detail": {
+        "0": {
+          "date": "1937-11-19",
+          "demand_start": "100000",
+          "land_open": "0",
+          "water_open": "0"
+        },
+        "8": {
+          "date": "1937-11-27",
+          "demand_start": "100000",
+          "land_open": "1",
+          "water_open": "1"
+        },
+        "9": {
+          "date": "1937-11-28",
+          "demand_start": "95948",
+          "land_open": "1",
+          "water_open": "1"
+        },
+        "16": {
+          "date": "1937-12-05",
+          "demand_start": "67584",
+          "land_open": "1",
+          "water_open": "1"
+        },
+        "17": {
+          "date": "1937-12-06",
+          "demand_start": "63532",
+          "land_open": "0",
+          "water_open": "1"
+        },
+        "18": {
+          "date": "1937-12-07",
+          "demand_start": "63402",
+          "land_open": "0",
+          "water_open": "1"
+        },
+        "19": {
+          "date": "1937-12-08",
+          "demand_start": "63402",
+          "land_open": "0",
+          "water_open": "0"
+        },
+        "23": {
+          "date": "1937-12-12",
+          "demand_start": "63402",
+          "land_open": "0",
+          "water_open": "0"
+        }
+      }
+    },
+    {
+      "check_id": "QA-E-C09",
+      "passed": true,
+      "detail": "核心代码、参数JSON、XLSX与旧冻结基线一致；本QA没有重跑Excel引擎或43项旧QA"
+    },
+    {
+      "check_id": "QA-E-C10",
+      "passed": true,
+      "detail": "B-U04 CSV/JSON仅增来源与分项定位，人数/问题状态/未决范围未变"
+    },
+    {
+      "check_id": "QA-E-C11",
+      "passed": false,
+      "detail": {
+        "related_table_B_U04_rows": [
+          {
+            "question_id": "B-U04",
+            "source_ids": "SRC-0127",
+            "locator": "[\"report P0125\"]",
+            "original_boundary": "未获得足够证据；不作定值或唯一结论",
+            "inherited_status": "未取得足以解决本问题的新原件证据；保留Task002原状态；本轮有限复核另见访问记录",
+            "evidence_status": "尚待核实",
+            "task003a_status": "原状态继承，无新史实升级",
+            "v02_resolution_scope": "算术及个别任务范围已明确；原问题完整证据缺口仍开",
+            "v02_resolved": "false",
+            "current_evidence": "张连红网页出现“教导总队第103和112师兵力达到3万人”排校含糊语句；MD合并103/112/宪兵/直属。",
+            "current_counterevidence": "3万人归属不明；不能认定全部属于教导总队且排除103/112，合并项与独立项可能重复。"
+          }
+        ],
+        "expected": "同步出现SRC-0072及守军人数答复段，SRC-0127保持临时指挥定位"
+      }
+    },
+    {
+      "check_id": "QA-E-C12",
+      "passed": true,
+      "detail": "13项模型结论与原审查一致；差异只有证据路径去掉冻结目录前缀"
+    }
+  ],
+  "input_hashes": {
+    "Task004_Run/public_candidate/docs/TASK003C_EXTERNAL_REVIEW_RESPONSE.md": "f946b667f4f3293eea986b8637e46f7160bb8df327027aa3609a6ad466dab077",
+    "Task004_Run/public_candidate/docs/task003c-review/CROSS_MODEL_COMPARISON.csv": "2cbd7642b197c9c67bb785dc575532db88c389618b4de67d5bdb60bd84309cd6",
+    "Task004_Run/public_candidate/docs/task003c-review/DOUBAO_SUPPLIED_SAMPLE_COVERAGE.json": "717ed9237262c9c16534231329f5dd0fdf19ec319334f4399b75caf796da5c87",
+    "Task004_Run/public_candidate/docs/task003c-review/EXTERNAL_REVIEW_DISPOSITIONS.csv": "073ccef494e6722d3f55b735497ec2225c944009aab7c34dc206af48a1c819a3",
+    "Task004_Run/public_candidate/docs/task003c-review/EXTERNAL_REVIEW_DISPOSITIONS.json": "7c8cff31838e01db6e2c92edc0fd3f46b876fac203d8d8b95b51d4bf70e4d6c6",
+    "Task004_Run/public_candidate/docs/task003c-review/EXTERNAL_REVIEW_INPUTS.csv": "da05a10a92ffb3b1cc05395f7bd826e1611bababf07952832d791846af87051c",
+    "Task004_Run/public_candidate/docs/task003c-review/MODEL_REVIEW_CHECKS.json": "73c0c2e9f67864a5d6a1d6c4986f104b7ab370fb58e4609eacde9555a8ef1ca7",
+    "Task004_Run/public_candidate/docs/task003c-review/REVIEW_SUMMARY.json": "77ddfbb864b713048e329ba1160c13d60bf6668e1c3fc870596f2c924ed4cda5",
+    "Task004_Run/public_candidate/unresolved/OPEN_QUESTIONS.csv": "4486edc660a6f7e7468e18b7b0ac16994b053a2306055b8e3c6a2ec92ff2e3c0",
+    "Task004_Run/public_candidate/unresolved/OPEN_QUESTIONS.json": "614483cf2158adf0dac049bacefd9853ff220380f86f80ac379d379d2407a903",
+    "Task004_Run/public_candidate/unresolved/QUESTION_SOURCE_LINKS.csv": "81347165f6ef34907be77ea04316e1f5872e2a85649e7c0817a1930418dac90d"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "observations_81": true,
+  "ids_unique": true,
+  "historical_unknowns_13": true,
+  "aggregate_all_false": true,
+  "source_table_10": true,
+  "recomputed_totals": {
+    "combat_printed": 49000,
+    "auxiliary_printed": 31000,
+    "statistics_printed": 71500,
+    "loss_and_untraced_printed": 36500
+  },
+  "officers_component_sum": 353,
+  "revisions_count": 4,
+  "verified_at_utc": "2026-11-07T01:40:52.195374+00:00",
+  "not_passed": [
+    "全军同日实际实力缺失",
+    "汪文题名及全文未得",
+    "5490原底表及宪警去重仍未闭合",
+    "低分辨率士兵分项未辨",
+    "所有新全文载体公开授权尚未核定"
+  ]
+}

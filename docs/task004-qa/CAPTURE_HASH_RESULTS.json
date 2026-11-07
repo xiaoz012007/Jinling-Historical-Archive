@@ -1,0 +1,768 @@
+{
+  "checks": 127,
+  "errors": [],
+  "records": [
+    {
+      "capture_id": "T4-CAP-atrocities004-001",
+      "path": "Task004_Run/internal/atrocities004/saac_lusu_old.html",
+      "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-002",
+      "path": "Task004_Run/internal/atrocities004/saac_lusu_column.html",
+      "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-003",
+      "path": "Task004_Run/internal/atrocities004/saac_nomination.html",
+      "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-004",
+      "path": "Task004_Run/internal/atrocities004/saac_zhang.html",
+      "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-005",
+      "path": "Task004_Run/internal/atrocities004/unesco_nomination.pdf",
+      "sha256": "ac5bb870d5201403dceddaacb3daf00b9eb86dda90df0666a2b8d583b13335b7",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-006",
+      "path": "Task004_Run/internal/atrocities004/cinii_1987.html",
+      "sha256": "c70c143d6609177edb5554ab644fb412e3feb687a783dfd92e546a561e9566ba",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-007",
+      "path": "Task004_Run/internal/atrocities004/jiangsu_loss_report.html",
+      "sha256": "1fb63f4ce45d589804a0cdf56c2fb6dabec543bb9377ef5c3b9e77cfd3fdbde8",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-008",
+      "path": "Task004_Run/internal/atrocities004/lusu_repost.html",
+      "sha256": "f295e1b35c1bd0e06ed5cc6edd8f29b632b3b0b771d07a410463126729ada251",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-009",
+      "path": "Task004_Run/internal/atrocities004/sjtu_investigation.html",
+      "sha256": "3084c39e6e52bed496dd5c40122c5f27251dd27f79c278833a9e6696ede2e8f5",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-010",
+      "path": "Task004_Run/internal/atrocities004/yamada_transcription.html",
+      "sha256": "6a30471f988c30ed9bfe5a9388569438656d7f21b6687deae37caa88d5bb882c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-011",
+      "path": "Task004_Run/internal/atrocities004/endo_transcription.html",
+      "sha256": "1e385a968aef766476daf8784edc38addd0d305f4f2b803dc6801d7ebfac79bc",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-012",
+      "path": "Task004_Run/internal/atrocities004/at4search2.json",
+      "sha256": "9b8ac623cd0a0ec8770645ffd8d5147a205829adc4846b60937dbd7bc8ec40b9",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-013",
+      "path": "Task004_Run/internal/atrocities004/at4open1.json",
+      "sha256": "73c39258b66c5bd86f2eacfa089be2811b73fa220dc3435c724678a87024af5f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-014",
+      "path": "Task004_Run/internal/atrocities004/at4search3.json",
+      "sha256": "cf55ed6780f28dc47924e2b10115c3db1832b5e57931973dbf5c51572da68712",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-015",
+      "path": "Task004_Run/internal/atrocities004/at4searchopen4.json",
+      "sha256": "edd2b871a82522a3662f36e908d965e86fea3e80756121b241ce4d10ca92da88",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-016",
+      "path": "Task004_Run/internal/atrocities004/at4open5.json",
+      "sha256": "a670107f797c610b0cb35032d9a4aebda0bf126231437f92b02c75b4155a674b",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-017",
+      "path": "Task004_Run/internal/atrocities004/at4open6.json",
+      "sha256": "09f67138975d731fd14518fef14001a2b4f6269b6a4efeedd524ebda93aeb762",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-018",
+      "path": "Task002_V2/working/Tani_judgment_NLC.pdf",
+      "sha256": "a2ebb3ae5806788cccdb62344dc0acc7d0967fd511b24586d70ed3feb5384c22",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-019",
+      "path": "Task002_V2/working/Japanese_diaries_translation.pdf",
+      "sha256": "6266dd94cfb632eb41c10b430ab9e0ab693032be6abf3907f25615aad382aa12",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-atrocities004-020",
+      "path": "Task003_Run/internal/atrocities/lusu-statement-image.jpg",
+      "sha256": "64fffac8d32d9f95a4f5d42f71f6554b11c2cdb48a592c6bdd081163139e00c7",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-001",
+      "path": "Task004_Run/internal/international004/NMP0029.pdf",
+      "sha256": "5e565b647a018830d75a561a816ab68b4f86eebe21b02ba15a9723bec66c977d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-002",
+      "path": "Task004_Run/internal/international004/NMP0033.pdf",
+      "sha256": "762b9a88541aee99f7a1ef92a74e7558963baae90b16a1262f43b558fd95019d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-003",
+      "path": "Task004_Run/internal/international004/NMP0034.pdf",
+      "sha256": "1db107ba75ffdbc6788580bad04eb82bb2c1354482efd7f57c2296698c2b26ee",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-004",
+      "path": "Task004_Run/internal/international004/NMP0072.pdf",
+      "sha256": "e0a18cd83b2afd52c1def45da31987a7003a1c18581ac3bc3571df608e6d0f26",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-005",
+      "path": "Task004_Run/internal/international004/NMP0073.pdf",
+      "sha256": "a9c3bf5174187a64f8027db0c54faa3a76aa0425cc7870c63ba366bf2564b4b1",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-006",
+      "path": "Task004_Run/internal/international004/NMP0074.pdf",
+      "sha256": "3d1d37450463056a569675bb2aeef415d1e4f442db133fd3b1f52157e3d968c2",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-007",
+      "path": "Task004_Run/internal/international004/Vautrin.pdf",
+      "sha256": "8258f58f3b0711b1af425781ac065c0a8415241b420a99b04412b89380dda085",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-008",
+      "path": "Task004_Run/internal/international004/NMP0319.pdf",
+      "sha256": "2f0ead59e8133f4f094dbfc932a28a155bc0ce861c7168762537e23cb7507f23",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-009",
+      "path": "Task004_Run/internal/international004/Magee_FindingAid_5466.pdf",
+      "sha256": "be06a731aa225c5b8698b4280dc0b35586bc272e91d8482149c5ebf28a8ff200",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-010",
+      "path": "Task004_Run/internal/international004/Magee_notes_33636937.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-011",
+      "path": "Task004_Run/internal/international004/search_01.json",
+      "sha256": "b6d5929092520904a34d7a24a64789e6f5a973821772d861adaacc2ae414f45f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-012",
+      "path": "Task004_Run/internal/international004/search_02.json",
+      "sha256": "a7549998f76ea59b604f20d854d3f1299fb649f0228e73d15562742e6386d3da",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-international004-013",
+      "path": "Task004_Run/internal/international004/notes_access_failure.json",
+      "sha256": "ad7a147bc66f6384c8e0fa34c4035ba154054145910350aec244f4b1ca5f6d1b",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-001",
+      "path": "Task004_Run/internal/transport004/dpm_article/original.html",
+      "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-002",
+      "path": "Task004_Run/internal/transport004/dpm_contents/original.pdf",
+      "sha256": "f517abe3b88f53877f8b861bae5277cc586f996e05de38b5ef2fd7d0d595c58f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-003",
+      "path": "Task004_Run/internal/transport004/dpm_p72/original.pdf",
+      "sha256": "2463f8aaa319039b2d5c2e8276282558a613f384e0f5ed6d9074bd7109d8f928",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-004",
+      "path": "Task004_Run/internal/transport004/dpm_p73/original.pdf",
+      "sha256": "c570df445464ce061769bdc6232c1e19efdb56262929b64415174a6fe71af1a1",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-005",
+      "path": "Task004_Run/internal/transport004/dpm_p75/original.pdf",
+      "sha256": "d2912d21ef491cae2ab04a5bf07c4947fc4bd7378a3625743a283afdbc5ae493",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-006",
+      "path": "Task004_Run/internal/transport004/dpm_p76/original.pdf",
+      "sha256": "f2dff7037c95c03ee9f96ad8fb991e0a2466e520e11d17ae61f3aa48215cfdd8",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-007",
+      "path": "Task004_Run/internal/transport004/dpm_p77/original.pdf",
+      "sha256": "36674dabcad5a457ec3fe5cd3f3b78f2f0e936b5c7ef0b175651c224b64ece24",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-008",
+      "path": "Task004_Run/internal/transport004/maheng_article/original.html",
+      "sha256": "96b3597b725f94c309b3dc760fb2e524dad5caa60da6e7e220b21be462a10d2a",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-009",
+      "path": "Task004_Run/internal/transport004/maheng_contents/original.pdf",
+      "sha256": "953b48e0421fa2227898dced3d722733ab0164c09578c67159f3f3074c390014",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-010",
+      "path": "Task004_Run/internal/transport004/maheng_p10/original.pdf",
+      "sha256": "6e845d8849b9ba1a8ad24288f8767aca26cf9fbd756d67537b98f23a9724f957",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-011",
+      "path": "Task004_Run/internal/transport004/maheng_p11/original.pdf",
+      "sha256": "48f08b1d454523818b5b831f95b0e6e75a14ff8c8772edd0bee8718feb75ad7f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-012",
+      "path": "Task004_Run/internal/transport004/maheng_p12/original.pdf",
+      "sha256": "0b9694aa6a67344d634074dac9ea43a07236657b72702ee013283a9e9a4d15ca",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-013",
+      "path": "Task004_Run/internal/transport004/maheng_p13/original.pdf",
+      "sha256": "765431f747bf79b7a23e32e038fec6d64d696dcbc3add1a37c134fec55e60ef7",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-014",
+      "path": "Task004_Run/internal/transport004/shenbao_metadata/original.html",
+      "sha256": "2eb694a8cef334a14ac08c3dfb4997e130cd0977a070c29ffa316ca14eb512d7",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-015",
+      "path": "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf",
+      "sha256": "bb6df507f6ae0e100214dc906200eba95999eb85a8d4fb64ae1bd6480b9381d4",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-016",
+      "path": "Task004_Run/internal/transport004/open_dpm_article.json",
+      "sha256": "213553d858773ef59782f70c30820bb927688198ac859ea583391f88b324de5c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-017",
+      "path": "Task004_Run/internal/transport004/open_shenbao_metadata.json",
+      "sha256": "61ec9972c262dcdbd061e75736eeed90aae51a4c000b506f873c840572ac53e3",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-018",
+      "path": "Task004_Run/internal/transport004/search_01.json",
+      "sha256": "dcec363db64809a08224b2d360f3946cf40571f162fc7163bde839b443e42278",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-019",
+      "path": "Task004_Run/internal/transport004/search_02.json",
+      "sha256": "3302244758dae30d6728aaafc5ccddb930e2672c816aa2c7cd8dfa97e5a3843b",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-020",
+      "path": "Task004_Run/internal/transport004/search_03.json",
+      "sha256": "f71f7fa8db8827f682c0a915aefbd21aea53a5fade9b71ac05b80b31a00800a7",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-021",
+      "path": "Task004_Run/internal/transport004/search_04.json",
+      "sha256": "ccea06387dc4c38f4e87d977d2cad18818c1303ae8e6a03b4e827cab4bc2a9a5",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-022",
+      "path": "Task004_Run/internal/transport004/search_05.json",
+      "sha256": "ca6946a1924f5ad0543ee9229c28d6e75b3114126c0d49d79428bb0f685ca34c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-023",
+      "path": "Task004_Run/internal/transport004/search_06.json",
+      "sha256": "81815fd4bc9fe08a6c8ecd3bce5f35ac4e1400280f65918feed687b4f88a33f5",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-024",
+      "path": "Task004_Run/internal/transport004/search_07.json",
+      "sha256": "5076a4826b33081b24ea3d41199e28b518512151e973470a72b3c78c4643fc95",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-transport004-025",
+      "path": "Task004_Run/internal/transport004/search_08.json",
+      "sha256": "63435a3433b55668a5217bff3c6efc4c003c7607a25aec06a97a42f82f03fc1e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-001",
+      "path": "Task004_Run/internal/command004/drnh_gangwen_26_30.html",
+      "sha256": "9e50001813ceafc97a852c61605d0ce73e26eba1b8c4965d9a1cd8ca3562e822",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-002",
+      "path": "Task004_Run/internal/command004/drnh_twelveshen_search.html",
+      "sha256": "1ce77b7c6554d2c88330c7844e4dc136bcabf804461106176a3623e686bc6a0c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-003",
+      "path": "Task004_Run/internal/command004/gazette130.html",
+      "sha256": "165da4d5af47d0a2008597750d184a3cef870aff9d0a5005b71d6bd17a75672e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-004",
+      "path": "Task004_Run/internal/command004/gazette130.pdf",
+      "sha256": "f802502767b3bec68ccbd0c5c78fab636ced58cff5c0ad8ecd75ca5b1e7087c3",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-005",
+      "path": "Task004_Run/internal/command004/gazette130_commons.html",
+      "sha256": "165da4d5af47d0a2008597750d184a3cef870aff9d0a5005b71d6bd17a75672e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-006",
+      "path": "Task004_Run/internal/command004/gazette130_p1.html",
+      "sha256": "165da4d5af47d0a2008597750d184a3cef870aff9d0a5005b71d6bd17a75672e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-007",
+      "path": "Task004_Run/internal/command004/gazette65.html",
+      "sha256": "165da4d5af47d0a2008597750d184a3cef870aff9d0a5005b71d6bd17a75672e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-011",
+      "path": "Task004_Run/internal/command004/nccu_query_name.html",
+      "sha256": "9deff96f9b5925fa5081257849ace321304b382d64cfb67d90a21a3c7cbf2925",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-014",
+      "path": "Task004_Run/internal/command004/web_open10.json",
+      "sha256": "5d1aead700cf9fb514b4e95550656fb19dfb87ad246a10eea058f967b51c980f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-015",
+      "path": "Task004_Run/internal/command004/web_open14.json",
+      "sha256": "3be45a9aec03e18ea33b181b785fa2bb43dbe4db8c02834a656b2628bd7f2fa9",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-016",
+      "path": "Task004_Run/internal/command004/web_open15.json",
+      "sha256": "3990fb61b57844da6a22576c35216f0255b1c63fbee56b38f56c2b3f8575ec32",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-017",
+      "path": "Task004_Run/internal/command004/web_open16.json",
+      "sha256": "ac2e027d9e3628ffe86de528915740057b785816398110d3d33e1813f49fc4ad",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-018",
+      "path": "Task004_Run/internal/command004/web_open17.json",
+      "sha256": "9a6b4585a77074e75cd272e39541710f1b30c2602484f5120ce0fc9029adb8d3",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-019",
+      "path": "Task004_Run/internal/command004/web_open18.json",
+      "sha256": "9c5c352b2009c049b7a898745d2d3fa45faedef2380ff0378be2c963dfdb8579",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-020",
+      "path": "Task004_Run/internal/command004/web_open3.json",
+      "sha256": "0657f0b48f76d1dfe38f2d2ff2af94dc2eb00d1f75b5e3d42165b3930c122d7f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-021",
+      "path": "Task004_Run/internal/command004/web_open6.json",
+      "sha256": "cc45fdfbf398e98aae32885015076ae0d8bf179467050e7e0b108924c427f02f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-022",
+      "path": "Task004_Run/internal/command004/web_open8.json",
+      "sha256": "819937738fd48ded767741871a480e01022efe898f616a76810d39d13afc8e11",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-023",
+      "path": "Task004_Run/internal/command004/web_search1.json",
+      "sha256": "7c738cd1e257c28164597826d5a3d7f07c532c26583cacdc0399dc402647d03a",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-024",
+      "path": "Task004_Run/internal/command004/web_search11.json",
+      "sha256": "85cb3a1bc860dc10f28d5ef2950cb6c2f8f4408c4127d568c6a6889aa87dd0a4",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-025",
+      "path": "Task004_Run/internal/command004/web_search12.json",
+      "sha256": "d415a22bbd39fe3f287dba0c6c9104edaf86a66c50dfe78cec2d420ed322c10d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-026",
+      "path": "Task004_Run/internal/command004/web_search13.json",
+      "sha256": "e41f3c9da091ce905170aea1a8a2e52cc7366762fd569dbeebfba56de106b835",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-027",
+      "path": "Task004_Run/internal/command004/web_search19.json",
+      "sha256": "77219d2a1216aca09f25b9fffff5f87540e56a61682bb65a3d9da1ee7310b5a3",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-028",
+      "path": "Task004_Run/internal/command004/web_search2.json",
+      "sha256": "472dccbf6f0080538cf9eb91d96ee454880901a612be7709144604c252cdf866",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-029",
+      "path": "Task004_Run/internal/command004/web_search4.json",
+      "sha256": "d9211b662baa6dec04fa070832f37aa93ba371d6a70f95341c9fda2315369bbf",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-030",
+      "path": "Task004_Run/internal/command004/web_search5.json",
+      "sha256": "17721a3ff25fd8d2416262ab2cadee67e201f6a4c771983a30140cc692573c8d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-031",
+      "path": "Task004_Run/internal/command004/web_search7.json",
+      "sha256": "f4c41432ab8918a657465c8eb52807ed6c2d6cbbfee1541e19fe9cf4994af34a",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-command004-032",
+      "path": "Task004_Run/internal/command004/web_search9.json",
+      "sha256": "7e0c384c988f0a1ffb46f4a0ce3f6a5696a571ad9ba9f6fd3a28c15f24f6f97f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-001",
+      "path": "Task004_Run/internal/troops004/cheng_tang.html",
+      "sha256": "3f125575c323c28fb03a9f2b3dcfca4295b1fbd1b019a29b9befa1904738c0bb",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-004",
+      "path": "Task004_Run/internal/troops004/modernhistory.html",
+      "sha256": "540f14525cd15cc861b04685ab155225d993e80c3f8684a2d0ebafd1136c4cef",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-006",
+      "path": "Task004_Run/internal/troops004/saac_reprint.html",
+      "sha256": "3b1d366d3ba8596802f6be3f81bcd84881d21f397b7f84eced829e15d4d4cd47",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-008",
+      "path": "Task004_Run/internal/troops004/sun1997.pdf",
+      "sha256": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-009",
+      "path": "Task004_Run/internal/troops004/sun1997_catalog.html",
+      "sha256": "b7495106ed84a3bdc025df244193cda480e37179332a4f76e91ee66d2586a1b4",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-011",
+      "path": "Task004_Run/internal/troops004/tan1946.pdf",
+      "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-015",
+      "path": "Task004_Run/internal/troops004/thepaper_100k.html",
+      "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-017",
+      "path": "Task004_Run/internal/troops004/xianbing_book.html",
+      "sha256": "d97498216eddfc1e78fcd35c110742f6c48ea42637db21a8e688014595f03ac6",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-018",
+      "path": "Task004_Run/internal/troops004/xianbing_config.js",
+      "sha256": "7e9b4c20409feb038db8f2efe3993db5da39c3ca15c809f47fcca8849fd09e17",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-019",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/01.jpg",
+      "sha256": "a5239933ef98df1ebe755d69111b1beab13a368faa13cde2683f074fa280c99c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-020",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/02.jpg",
+      "sha256": "a68676a5be8e2fa5fd218d8377061aba3aaaf4b7594d6e11e2296f67c642c683",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-021",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/03.jpg",
+      "sha256": "ad781f66c87750e55de71331ca5a8070a6baf262bd74b4072b151779b76ef7d4",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-022",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/04.jpg",
+      "sha256": "c3abf05156e4e00e39f69cd38fddcba7823bcf95f285b4ef00bd9c64c64c05ef",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-023",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/05.jpg",
+      "sha256": "9dd9f28228b28acff850fea9335c0c3dc5344559f9db0aa2011d0729589d6dba",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-024",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/06.jpg",
+      "sha256": "978b6a0e375ec346ef6fd622296780e99234665218e3a18e735e065f2d7fe78d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-025",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/07.jpg",
+      "sha256": "43863045eab62abed3af94188fab25b06a991469c16c0512c776820f501f97a8",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-026",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/08.jpg",
+      "sha256": "4bfe4424c3e1856e47caecf4f712d42c5b14e46ffa6502add56bd537bc397bab",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-027",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/09.jpg",
+      "sha256": "1e46e6e10572488560cfdb1b3ba14685da99061ebab4a9236471ab323677a917",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-028",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/10.jpg",
+      "sha256": "b9bdc9ac7de556b70cb765f40f43428ce01944ce710a928fb82d422c279d4e1b",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-029",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/11.jpg",
+      "sha256": "8dae1ec827fd76ba1ea97f58d0385accabf0bbf105b5f82081b98c64008ed07d",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-030",
+      "path": "Task004_Run/internal/troops004/xianbing_pages/12.jpg",
+      "sha256": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-031",
+      "path": "Task004_Run/internal/troops004/xianbing_main.js",
+      "sha256": "444d43e3e5a975d81cdf2e655566dd59b86cbcd5ec10a3c734aa3e2f4c221bfc",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-032",
+      "path": "Task004_Run/internal/troops004/xianbing_mobile.html",
+      "sha256": "0bf9420f540d2e8ef51cc69e0e49b6a008b05084c623f91211e225950e767f4b",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-033",
+      "path": "Task004_Run/internal/troops004/xianbing_fbscript.js",
+      "sha256": "df36af35d115299f27d3ae56c4fd0e360733d9fc6111b6f1322b2512ba945eee",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-034",
+      "path": "Task004_Run/internal/troops004/search01.json",
+      "sha256": "248ec5d730fa998f1774aed247837d834692ab6a33ba5cceff421e3f63b65eac",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-035",
+      "path": "Task004_Run/internal/troops004/search02.json",
+      "sha256": "90074a9b459e6840f8294a75f2ad90bd5bebcc25843af0dcb325c3e1788ce156",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-036",
+      "path": "Task004_Run/internal/troops004/search03.json",
+      "sha256": "4fb36fdc84d75c3a5524cd9331416de2cd54a8cfb4b69f26c9ac5d444792449a",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-037",
+      "path": "Task004_Run/internal/troops004/search04.json",
+      "sha256": "d5786d5b026036e53432e0927904313fc8ee13d55b7efd128be23203dc8a81f2",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-038",
+      "path": "Task004_Run/internal/troops004/search05.json",
+      "sha256": "0b68cd07a4712f31e1853e7a207231985de028073ef1efa57a7954079de5a365",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-039",
+      "path": "Task004_Run/internal/troops004/search06.json",
+      "sha256": "abb69f2b56d8a77582a2e5e47da80cdca61a8b292ff3313038dc24bff04f91a4",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-040",
+      "path": "Task004_Run/internal/troops004/search07.json",
+      "sha256": "d9b5839e1a43dd325b99cf7ec24f79108540e6fad582a80c3fd667e1d1fe7c01",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-041",
+      "path": "Task004_Run/internal/troops004/search08.json",
+      "sha256": "7f6b51806bd7e90b154242d31518d973f702b6641d436db3ed3743c88f51845f",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-042",
+      "path": "Task004_Run/internal/troops004/search09.json",
+      "sha256": "5435eb96f905a286ce32d5b428a28d3d512a0e8090b6fcf9f96c52142bb7a0aa",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-043",
+      "path": "Task004_Run/internal/troops004/search10.json",
+      "sha256": "41784d95da9542d4c60a3905a22a9ad7a5b687e07f4aa8d694888efc134491aa",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-044",
+      "path": "Task004_Run/internal/troops004/open01.json",
+      "sha256": "9e138206b9e5b58476033acce59c5a420981825f698ba4d9d3238ec3621df388",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-045",
+      "path": "Task004_Run/internal/troops004/open02.json",
+      "sha256": "b33eb3556352fb8c16289660b26d575a4b7658a6c5f6703fc860ca1aededbf4c",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-046",
+      "path": "Task004_Run/internal/troops004/sun1997_pdf_tool.json",
+      "sha256": "f05e00479202f60c77838a8e02de640907ddd5944c22330198faba5878519ceb",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-047",
+      "path": "Task004_Run/internal/troops004/tan_commons_tool.json",
+      "sha256": "d082ee50b4a24c3e10c18505267f4175b49208fd52a6e84092daac58c4019e82",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-048",
+      "path": "Task004_Run/internal/troops004/xianbing_book_tool.json",
+      "sha256": "4686a291f2bc19fa8a701b2b19cabab5c02a773cf20f2fe5c89833bf3bb156df",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-049",
+      "path": "Task004_Run/internal/troops004/xianbing_catalog_tool.json",
+      "sha256": "f6fb4457dc98fd7d659a51580cb4c45be8f76a72f64aa5c88791123541dce8b3",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-050",
+      "path": "Task004_Run/internal/troops004/tan_pdf_links.json",
+      "sha256": "4df088e01ff293c2da13f658456d175457e01b90ae1f3910fd3afe2cd90c7ce6",
+      "pass": true
+    },
+    {
+      "capture_id": "T4-CAP-troops004-051",
+      "path": "Task004_Run/internal/troops004/tan_screenshot_metadata.json",
+      "sha256": "d6128454535f66ac230253588576203988816d5e02a9a8918d2b0eea5dc70cb8",
+      "pass": true
+    }
+  ]
+}

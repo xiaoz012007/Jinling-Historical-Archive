@@ -1,0 +1,27 @@
+{
+  "capture_id": "tan1946-browser-download",
+  "original_url": "https://commons.wikimedia.org/wiki/File:NLC416-02jh004208-14055_%E5%8D%97%E4%BA%AC%E8%A1%9B%E6%88%8D%E6%88%B0%E5%8F%B2%E8%A9%B1.pdf",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NLC416-02jh004208-14055_%E5%8D%97%E4%BA%AC%E8%A1%9B%E6%88%8D%E6%88%B0%E5%8F%B2%E8%A9%B1.pdf",
+  "accessed_at_utc": "2026-11-07T01:26:29.095915+00:00",
+  "time_note": "download completion/copied and hashed time; browser did not expose exact HTTP request start",
+  "http_status": "unknown",
+  "method": "CUA visible Original file link downloadMedia; publicly accessible without sign-in",
+  "bytes": 5730186,
+  "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+  "pages": 137,
+  "local_path": "Task004_Run/internal/troops004/tan1946.pdf",
+  "capture_status": "saved",
+  "scope": "full PDF payload received; not fully read",
+  "metadata_file": "Task004_Run/internal/troops004/tan1946_browser_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-011",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0172"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

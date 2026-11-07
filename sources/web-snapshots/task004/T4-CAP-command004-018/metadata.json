@@ -1,0 +1,30 @@
+{
+  "capture_key": "web_open17",
+  "original_urls": [
+    "https://commons.wikimedia.org/w/index.php?page=2&title=File%3ASSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf",
+    "https://commons.wikimedia.org/w/index.php?page=2&title=File:SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf",
+    "https://commons.wikimedia.org/w/index.php?page=2&title=File:SSID-11035512_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1_130.pdf;",
+    "https://commons.wikimedia.org/w/index.php?title=File:SSID-11035512_中華民國國民政府公報_130.pdf&oldid=777363402】"
+  ],
+  "final_url": null,
+  "accessed_at_utc": "2026-11-07T01:26:42.131Z",
+  "retrieval_date_utc": "2026-11-07",
+  "http_status": null,
+  "http_status_note": "web tool does not expose successful HTTP code; specific failure codes remain in saved result",
+  "payload_kind": "web_tool_transcription_not_raw_html",
+  "local_path": "Task004_Run/internal/command004/web_open17.json",
+  "sha256": "9a6b4585a77074e75cd272e39541710f1b30c2602484f5120ce0fc9029adb8d3",
+  "complete_raw_response": false,
+  "completeness": "only tool-returned text/metadata; never substituted for complete original",
+  "failure_reason": "see stored tool result for each URL",
+  "time_note": "If the stored result lacks accessed_at_utc, exact request time was not recorded. Retrieval date 2026-11-07 only.",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-018",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

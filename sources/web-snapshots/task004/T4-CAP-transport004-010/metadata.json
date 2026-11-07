@@ -1,0 +1,23 @@
+{
+  "capture_id": "maheng_p10",
+  "original_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+  "accessed_at_utc": "2026-11-07T01:24:54.532514+00:00",
+  "method": "urllib HTTPS GET, inherited proxy/TLS, no cookies",
+  "snapshot_scope": "single-page journal PDF, not print original",
+  "final_url": "https://img.dpm.org.cn/Uploads/File/pdf/12/19/5a/12195added746797c00f3cddd4215f6d.pdf",
+  "http_status": 200,
+  "bytes": 774795,
+  "sha256": "6e845d8849b9ba1a8ad24288f8767aca26cf9fbd756d67537b98f23a9724f957",
+  "local_path": "Task004_Run/internal/transport004/maheng_p10/original.pdf",
+  "capture_kind": "raw_http_response",
+  "public_fulltext_allowed": false,
+  "rights_status": "rights_pending",
+  "integrity": "sha256 recomputed equals metadata",
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-010",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

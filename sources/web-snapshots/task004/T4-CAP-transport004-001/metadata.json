@@ -1,0 +1,25 @@
+{
+  "original_url": "https://www.dpm.org.cn/explode/others/210158.html",
+  "accessed_at_utc": "2026-11-07T01:20:04.560749+00:00",
+  "method": "urllib HTTPS GET through inherited environment; no cookie/auth",
+  "final_url": "https://www.dpm.org.cn/explode/others/210158.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "local_path": "Task004_Run/internal/transport004/dpm_article/original.html",
+  "sha256": "e864bccbe662406f0280dc08c4b5b8da5115c677eecebc398bf1689dba510950",
+  "bytes": 99140,
+  "snapshot_scope": "single HTTP response, no linked-resource capture",
+  "capture_kind": "raw_http_response",
+  "public_fulltext_allowed": false,
+  "rights_status": "rights_pending",
+  "integrity": "sha256 recomputed equals metadata",
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-001",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0152"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

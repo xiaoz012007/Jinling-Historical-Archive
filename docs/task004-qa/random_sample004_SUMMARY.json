@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "qualified_match": 4,
+    "partial_source_check": 1,
+    "match_with_metadata_issue": 3,
+    "not_verified_missing_cited_source": 2
+  },
+  "cited_carrier_key_text_checked": 7,
+  "partial_source_check": 1,
+  "missing_cited_source_not_passed": 2,
+  "metadata_or_scope_correction_candidates": 3,
+  "new_historical_fact_assertions": 0,
+  "new_network_requests": 0,
+  "baseline_modified": false,
+  "note": "7项载体关键文字可核不等于7项历史事实无条件证实；其中3项有字段修订建议。"
+}

@@ -1,0 +1,19 @@
+{
+  "capture_id": "tan_commons_tool",
+  "payload_type": "search_tool_response",
+  "accessed_at_utc": "2026-11-07T01:22:14.140Z",
+  "http_status": "unknown",
+  "local_path": "Task004_Run/internal/troops004/tan_commons_tool.json",
+  "sha256": "d082ee50b4a24c3e10c18505267f4175b49208fd52a6e84092daac58c4019e82",
+  "scope": "工具检索/页面提取响应，非完整HTTP原网页；screenshot返回仅占位文本无图像，未用于目视",
+  "capture_status": "tool_response_saved",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-047",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

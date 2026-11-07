@@ -1,0 +1,1392 @@
+[
+  {
+    "coverage_id": "AUD-D-COV-001",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L2",
+    "original_id": "CL-001",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-001",
+      "命题简述": "44号命令日期12.11 24:00",
+      "数据库来源": "SRC-0058",
+      "数据库定位": "Order44照片",
+      "独立核查来源": "纪念馆官网",
+      "独立核查URL": "http://www.19371213.net/information/news/202112/t20211209_3226524.html",
+      "独立核查结果": "日期一致",
+      "一致性": "一致",
+      "备注": "6个独立媒体源交叉确认"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-002",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L3",
+    "original_id": "CL-002",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-002",
+      "命题简述": "44号命令受件人桂永清",
+      "数据库来源": "SRC-0058",
+      "数据库定位": "Order44照片",
+      "独立核查来源": "CCTV",
+      "独立核查URL": "https://news.cctv.com/2023/12/12/ARTIyEzlErbu0iSDVuIGIYXg231212.shtml",
+      "独立核查结果": "受件人一致",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-003",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L4",
+    "original_id": "CL-003",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-003",
+      "命题简述": "44号命令内容非有命令不得放弃连坐法",
+      "数据库来源": "SRC-0058",
+      "数据库定位": "Order44照片",
+      "独立核查来源": "新华网日本",
+      "独立核查URL": "http://jp.xinhuanet.com/2017-04/01/c_136176949.htm",
+      "独立核查结果": "内容一致",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-004",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L5",
+    "original_id": "CL-004",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-004",
+      "命题简述": "唐生智南京卫戍司令长官",
+      "数据库来源": "SRC-0055/0058",
+      "数据库定位": "人物卡",
+      "独立核查来源": "政大官职库",
+      "独立核查URL": "https://www.nccu.edu.tw",
+      "独立核查结果": "24日特派目录存在",
+      "一致性": "部分一致",
+      "备注": "19/20/24三节点未独立核"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-005",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L6",
+    "original_id": "CL-005",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-005",
+      "命题简述": "宋希濂回忆两客渡700—800人/次",
+      "数据库来源": "SRC-0083",
+      "数据库定位": "宋文末段",
+      "独立核查来源": "抗战纪念网HTML",
+      "独立核查URL": "（本地存档HTML）",
+      "独立核查结果": "原文一致",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-006",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L7",
+    "original_id": "CL-006",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-006",
+      "命题简述": "王辅《日军侵华战争》网",
+      "数据库来源": "SRC-0022",
+      "数据库定位": "warstudy.com全文",
+      "独立核查来源": "warstudy.com",
+      "独立核查URL": "https://www.warstudy.com/",
+      "独立核查结果": "全文一致",
+      "一致性": "一致",
+      "备注": "52KB HTML已读"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-007",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L8",
+    "original_id": "CL-007",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-007",
+      "命题简述": "汪海涛《南京卫戍军兵力考》",
+      "数据库来源": "SRC-0041",
+      "数据库定位": "fybk.bjcipt.com",
+      "独立核查来源": "本地HTML",
+      "独立核查URL": "（本地存档32KB）",
+      "独立核查结果": "文章存在",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-008",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L9",
+    "original_id": "CL-008",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-008",
+      "命题简述": "Yale NMP档案编号系统",
+      "数据库来源": "INTERNATIONAL",
+      "数据库定位": "多文件",
+      "独立核查来源": "Yale Divinity Library",
+      "独立核查URL": "https://divinity-adhoc.library.yale.edu/Nanking/",
+      "独立核查结果": "NMP编号真实存在",
+      "一致性": "部分一致",
+      "备注": "具体NMP0174/0175未逐页独立目视"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-009",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L10",
+    "original_id": "CL-009",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-009",
+      "命题简述": "FRUS d385 532—538页",
+      "数据库来源": "SRC-0089",
+      "数据库定位": "撤离模型引用",
+      "独立核查来源": "history.state.gov",
+      "独立核查URL": "https://history.state.gov/",
+      "独立核查结果": "FRUS存在",
+      "一致性": "未独立核原文",
+      "备注": "本轮未逐页打开"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-010",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L11",
+    "original_id": "CL-010",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-010",
+      "命题简述": "FRUS d384 531—532页",
+      "数据库来源": "SRC-0090",
+      "数据库定位": "撤离模型引用",
+      "独立核查来源": "history.state.gov",
+      "独立核查URL": "https://history.state.gov/",
+      "独立核查结果": "FRUS存在",
+      "一致性": "未独立核原文",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-011",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L12",
+    "original_id": "CL-011",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-011",
+      "命题简述": "日军上海派遣军第10军编制",
+      "数据库来源": "SRC-0022",
+      "数据库定位": "王辅书",
+      "独立核查来源": "王辅HTML",
+      "独立核查URL": "（本地存档）",
+      "独立核查结果": "编制关系一致",
+      "一致性": "一致",
+      "备注": "项目用虚线关系正确"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-012",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L13",
+    "original_id": "CL-012",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-012",
+      "命题简述": "教导总队桂永清",
+      "数据库来源": "SRC-0127",
+      "数据库定位": "作战序列",
+      "独立核查来源": "社科院近代史所",
+      "独立核查URL": "http://jds.cssn.cn/newzxdt/202101/t20210128_5297237.shtml",
+      "独立核查结果": "桂永清铁卫队一致",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-013",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L14",
+    "original_id": "CL-013",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-013",
+      "命题简述": "12.13南京沦陷日期",
+      "数据库来源": "TL13",
+      "数据库定位": "时间线",
+      "独立核查来源": "黄埔军校同学会",
+      "独立核查URL": "http://www.huangpu.org.cn/hpzz/hpzz201601/201602/t20160216_11387211.html",
+      "独立核查结果": "13日沦陷一致",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-014",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L15",
+    "original_id": "CL-014",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID/独立性错误，见主体处理。",
+    "linked_review_ids": [
+      "AUD-D-034",
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-014",
+      "命题简述": "张连红南京保卫战文章",
+      "数据库来源": "SRC-0127",
+      "数据库定位": "南师大网页",
+      "独立核查来源": "本地存档HTML",
+      "独立核查URL": "（本地存档）",
+      "独立核查结果": "文章存在",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-015",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L16",
+    "original_id": "CL-015",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-015",
+      "命题简述": "张嘉璈日记11.25/27",
+      "数据库来源": "SRC-0086",
+      "数据库定位": "北京晚报HTML",
+      "独立核查来源": "本地存档",
+      "独立核查URL": "（本地存档）",
+      "独立核查结果": "转述一致",
+      "一致性": "部分一致",
+      "备注": "未读日记原书"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-016",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L17",
+    "original_id": "CL-016",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-016",
+      "命题简述": "江南汽车公司304辆",
+      "数据库来源": "SRC-0087",
+      "数据库定位": "南京档案馆",
+      "独立核查来源": "本地存档",
+      "独立核查URL": "（本地存档）",
+      "独立核查结果": "公司规模陈述一致",
+      "一致性": "一致",
+      "备注": "项目正确区分全年规模≠12月可用"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-017",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L18",
+    "original_id": "CL-017",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-017",
+      "命题简述": "JACAR日军档案",
+      "数据库来源": "C13031742900等",
+      "数据库定位": "JAPANESE_SUMMARY",
+      "独立核查来源": "JACAR官网",
+      "独立核查URL": "https://www.jacar.archives.go.jp/",
+      "独立核查结果": "403无法访问",
+      "一致性": "无法核实",
+      "备注": "项目正确记录403"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-018",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L19",
+    "original_id": "CL-018",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-018",
+      "命题简述": "二档馆七八七—7593",
+      "数据库来源": "TL-U04",
+      "数据库定位": "未决问题",
+      "独立核查来源": "二档馆",
+      "独立核查URL": "http://www.shac.net.cn/",
+      "独立核查结果": "未到馆",
+      "一致性": "无法核实",
+      "备注": "项目正确标注未取得"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-019",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L20",
+    "original_id": "CL-019",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-019",
+      "命题简述": "国史馆十二申电目录002-020300-00009-151",
+      "数据库来源": "TL-U03",
+      "数据库定位": "未决问题",
+      "独立核查来源": "国史馆",
+      "独立核查URL": "（需登录）",
+      "独立核查结果": "缩略图500",
+      "一致性": "无法核实",
+      "备注": "项目正确记录"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-020",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L21",
+    "original_id": "CL-020",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-020",
+      "命题简述": "魏特琳日记Ms62微缩胶卷",
+      "数据库来源": "INT-U04",
+      "数据库定位": "未决问题",
+      "独立核查来源": "Yale",
+      "独立核查URL": "https://web.library.yale.edu/divinity/japan",
+      "独立核查结果": "35MB超限",
+      "一致性": "无法核实",
+      "备注": "项目正确标注未读英文原稿"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-021",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L22",
+    "original_id": "CL-021",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-021",
+      "命题简述": "贝德士NMP0066 12.18信",
+      "数据库来源": "INT-U03",
+      "数据库定位": "已限定关闭",
+      "独立核查来源": "Yale Nanking Project",
+      "独立核查URL": "https://divinity-adhoc.library.yale.edu/Nanking/Bates.html",
+      "独立核查结果": "Bates档案存在",
+      "一致性": "部分一致",
+      "备注": "具体p1—p3未独立目视"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-022",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L23",
+    "original_id": "CL-022",
+    "classification": "审查意见本身存在错误",
+    "basis": "来源ID错配：12/8文物运出叙述位于SRC-0085，旧SRC-0152单页未给该日期；末航日仍未决",
+    "linked_review_ids": [
+      "AUD-D-036"
+    ],
+    "raw_record": {
+      "命题ID": "CL-022",
+      "命题简述": "故宫文物12.8全部运出",
+      "数据库来源": "SRC-0152",
+      "数据库定位": "撤离模型引用",
+      "独立核查来源": "故宫官网PDF",
+      "独立核查URL": "（本地存档）",
+      "独立核查结果": "单页存在但为推论",
+      "一致性": "部分一致",
+      "备注": "项目正确标注\"应是\"为推论"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-023",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L24",
+    "original_id": "CL-023",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-023",
+      "命题简述": "国际委员会三日停战提案12.9",
+      "数据库来源": "时间线",
+      "数据库定位": "12/9条",
+      "独立核查来源": "多来源",
+      "独立核查URL": "（项目时间线）",
+      "独立核查结果": "提案存在",
+      "一致性": "一致",
+      "备注": "项目表述为提案非协议"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-024",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L25",
+    "original_id": "CL-024",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-024",
+      "命题简述": "唐生智回忆卫戍南京之经过",
+      "数据库来源": "本地PDF",
+      "数据库定位": "NJ-015",
+      "独立核查来源": "本地PDF",
+      "独立核查URL": "/home/user/.../NJ-015_唐生智_卫戍南京之经过.pdf",
+      "独立核查结果": "1.6MB已读",
+      "一致性": "一致",
+      "备注": ""
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-025",
+    "review_file": "Task003C_来源交叉验证.csv",
+    "review_locator": "物理L26",
+    "original_id": "CL-025",
+    "classification": "来源不足",
+    "basis": "只有首页、项目自述、本地存档占位或审查明确未取得对应页；包内无独立读取记录可重放。",
+    "linked_review_ids": [
+      "AUD-D-035"
+    ],
+    "raw_record": {
+      "命题ID": "CL-025",
+      "命题简述": "马吉胶片费奇携出",
+      "数据库来源": "INT-U01/U02",
+      "数据库定位": "未决问题",
+      "独立核查来源": "Yale",
+      "独立核查URL": "https://divinity-adhoc.library.yale.edu/Nanking/",
+      "独立核查结果": "存在",
+      "一致性": "部分一致",
+      "备注": "1938年1月行程未独立核"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-026",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L2",
+    "original_id": "SAMP-001",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-001",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "唐生智11/19受命20视事24发表三节点",
+      "文件路径": "persons/唐生智.md",
+      "记录ID": "人物卡",
+      "审查结果": "项目正确分列不合并",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-027",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L3",
+    "original_id": "SAMP-002",
+    "classification": "审查意见本身存在错误",
+    "basis": "六媒体不自动构成六个独立证源。",
+    "linked_review_ids": [
+      "AUD-D-034"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-002",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "卫参作字第44号命令原文",
+      "文件路径": "military/作战命令",
+      "记录ID": "Order44",
+      "审查结果": "独立6源交叉确认",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-028",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L4",
+    "original_id": "SAMP-003",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-003",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "十二申电是否送达唐手",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TL-U03",
+      "审查结果": "项目正确标注Unverified",
+      "严重程度": "High",
+      "是否命中幻觉": "否（项目已识别）"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-029",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L5",
+    "original_id": "SAMP-004",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-004",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "12.12最后撤退令版本差异",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TL-U04",
+      "审查结果": "项目正确保留空括号",
+      "严重程度": "High",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-030",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L6",
+    "original_id": "SAMP-005",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-005",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "12.12最后军事会议时间地点",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TL-U05",
+      "审查结果": "16时vs17时并存正确处理",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-031",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L7",
+    "original_id": "SAMP-006",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-006",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "唐生智离城登船路线",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TL-U07",
+      "审查结果": "21时vs22时不拼接正确",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-032",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L8",
+    "original_id": "SAMP-007",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-007",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "南京守军总兵力6.8/4.9/8万",
+      "文件路径": "military/兵力统计口径.md",
+      "记录ID": "全文",
+      "审查结果": "三口径分列正确",
+      "严重程度": "High",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-033",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L9",
+    "original_id": "SAMP-008",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-008",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "教导总队3万人归属",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "B-U04",
+      "审查结果": "项目正确未冻结",
+      "严重程度": "High",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-034",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L10",
+    "original_id": "SAMP-009",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-009",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "36师7000vs11967",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "B-U05",
+      "审查结果": "两口径并存正确",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-035",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L11",
+    "original_id": "SAMP-010",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-010",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "两客渡轮船名末次航班",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TRU01",
+      "审查结果": "项目正确标注未解决",
+      "严重程度": "High",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-036",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L12",
+    "original_id": "SAMP-011",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-011",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "长江号铁路轮渡日期",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "TRU02",
+      "审查结果": "12.6vs12.8矛盾保留正确",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-037",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L13",
+    "original_id": "SAMP-012",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-012",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "NMP0174/0175纠错",
+      "文件路径": "international/Rabe.md Smythe.md",
+      "记录ID": "人物卡",
+      "审查结果": "内部一致但本轮未目视Yale",
+      "严重程度": "High",
+      "是否命中幻觉": "未独立确认"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-038",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L14",
+    "original_id": "SAMP-013",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-013",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "贝德士NMP0066 12.18信",
+      "文件路径": "INT-U03",
+      "记录ID": "未决问题",
+      "审查结果": "项目已逐页核读并修正翻译",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-039",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L15",
+    "original_id": "SAMP-014",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-014",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "FRUS d384/d385引用",
+      "文件路径": "evacuation/historical_claims.csv",
+      "记录ID": "EV-A-007/008/009",
+      "审查结果": "项目正确区分命令与执行",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-040",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L16",
+    "original_id": "SAMP-015",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-015",
+      "类别": "A类",
+      "种子": "固定指定",
+      "命题": "日军作战序列JACAR",
+      "文件路径": "military/JAPANESE_SUMMARY.md",
+      "记录ID": "全文",
+      "审查结果": "项目正确记录403",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-041",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L17",
+    "original_id": "SAMP-016",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-016",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "时间线12.13南京沦陷",
+      "文件路径": "timeline/南京保卫战统一时间线.csv",
+      "记录ID": "12/13条",
+      "审查结果": "与多源一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-042",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L18",
+    "original_id": "SAMP-017",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-017",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "时间线12.9三日停战提案",
+      "文件路径": "timeline/南京保卫战统一时间线.csv",
+      "记录ID": "12/9条",
+      "审查结果": "表述为提案正确",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-043",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L19",
+    "original_id": "SAMP-018",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-018",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "74军俞济时51/58师",
+      "文件路径": "military/CHINESE_ORDER_OF_BATTLE.csv",
+      "记录ID": "CN-U-006",
+      "审查结果": "序列正确",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-044",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L20",
+    "original_id": "SAMP-019",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-019",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "66军叶肇159/160师",
+      "文件路径": "military/CHINESE_ORDER_OF_BATTLE.csv",
+      "记录ID": "CN-U-007",
+      "审查结果": "156师临时配属正确",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-045",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L21",
+    "original_id": "SAMP-020",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-020",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "宋希濂人物",
+      "文件路径": "persons/宋希濂.md",
+      "记录ID": "人物卡",
+      "审查结果": "与回忆原文一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-046",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L22",
+    "original_id": "SAMP-021",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-021",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "孙元良人物",
+      "文件路径": "persons/孙元良.md",
+      "记录ID": "人物卡",
+      "审查结果": "待核",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-047",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L23",
+    "original_id": "SAMP-022",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-022",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "撤离模型中案25953人",
+      "文件路径": "evacuation/scenario_results.csv",
+      "记录ID": "EV-B-C02",
+      "审查结果": "条件推演标注正确",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-048",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L24",
+    "original_id": "SAMP-023",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-023",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "撤离模型100艘小船参数",
+      "文件路径": "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv",
+      "记录ID": "boats",
+      "审查结果": "假设值标注正确",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-049",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L25",
+    "original_id": "SAMP-024",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-024",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "撤离模型天气系数0.75",
+      "文件路径": "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv",
+      "记录ID": "weather",
+      "审查结果": "假设值标注正确",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-050",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L26",
+    "original_id": "SAMP-025",
+    "classification": "来源不足",
+    "basis": "报告承认原件未取或结果待核；只能保留限制，不计为独立核实。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-025",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "暴行事件12.13屠杀",
+      "文件路径": "atrocities/events.json",
+      "记录ID": "事件",
+      "审查结果": "待核",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-051",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L27",
+    "original_id": "SAMP-026",
+    "classification": "审查意见本身存在错误",
+    "basis": "unknown多数统计错误。",
+    "linked_review_ids": [
+      "AUD-D-011"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-026",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "来源登记unknown比例",
+      "文件路径": "sources/SOURCE_REGISTER.csv",
+      "记录ID": "全表",
+      "审查结果": "迁移状态需Task004完成",
+      "严重程度": "Medium",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-052",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L28",
+    "original_id": "SAMP-027",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-027",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "阅读日志区分全文/选页",
+      "文件路径": "sources/READING_LOG_V02.json",
+      "记录ID": "全表",
+      "审查结果": "方法正确",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-053",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L29",
+    "original_id": "SAMP-028",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-028",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "时间线157条vs声明",
+      "文件路径": "timeline/NANJING_1937_TIMELINE.json",
+      "记录ID": "全表",
+      "审查结果": "数量一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-054",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L30",
+    "original_id": "SAMP-029",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-029",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "81项兵力观察",
+      "文件路径": "military/TROOP_OBSERVATIONS_81.csv",
+      "记录ID": "全表",
+      "审查结果": "结构完整",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-055",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L31",
+    "original_id": "SAMP-030",
+    "classification": "没有发现问题",
+    "basis": "只复核报告与数据库的对应关系；不把项目自身描述当成独立历史证源。",
+    "linked_review_ids": [],
+    "raw_record": {
+      "抽样编号": "SAMP-030",
+      "类别": "B类",
+      "种子": "分层",
+      "命题": "未决问题34项",
+      "文件路径": "unresolved/OPEN_QUESTIONS.csv",
+      "记录ID": "全表",
+      "审查结果": "1项关闭33项开放",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-056",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L32",
+    "original_id": "SAMP-031",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-031",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行1",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-057",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L33",
+    "original_id": "SAMP-032",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-032",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行2",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-058",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L34",
+    "original_id": "SAMP-033",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-033",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行3",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-059",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L35",
+    "original_id": "SAMP-034",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-034",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行4",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-060",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L36",
+    "original_id": "SAMP-035",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-035",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行5",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-061",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L37",
+    "original_id": "SAMP-036",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-036",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行6",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-062",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L38",
+    "original_id": "SAMP-037",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-037",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行7",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-063",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L39",
+    "original_id": "SAMP-038",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-038",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行8",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-064",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L40",
+    "original_id": "SAMP-039",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-039",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行9",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  },
+  {
+    "coverage_id": "AUD-D-COV-065",
+    "review_file": "Task003C_抽样记录.csv",
+    "review_locator": "物理L41",
+    "original_id": "SAMP-040",
+    "classification": "来源不足",
+    "basis": "无event_id或实际行号、无去重映射；不能重现或确认所审命题。",
+    "linked_review_ids": [
+      "AUD-D-032",
+      "AUD-D-033"
+    ],
+    "raw_record": {
+      "抽样编号": "SAMP-040",
+      "类别": "C类",
+      "种子": "seed=19371213",
+      "命题": "随机抽取行10",
+      "文件路径": "timeline CSV",
+      "记录ID": "随机",
+      "审查结果": "与时间线一致",
+      "严重程度": "Low",
+      "是否命中幻觉": "否"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+  "accessed_at_utc": "2026-11-07T01:20:14.021463+00:00",
+  "error": "HTTP Error 503: Service Unavailable",
+  "metadata_path": "Task004_Run/internal/command004/saac_ch8.capture.json",
+  "payload_kind": "raw_html",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-013",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0175"
+  ],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

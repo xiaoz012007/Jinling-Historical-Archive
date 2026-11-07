@@ -1,0 +1,596 @@
+[
+  {
+    "claim_id": "T4-INT-C001",
+    "date_start": "1937-12-26",
+    "date_end": "1937-12-26",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0174 p1是斯迈思12月26日致使馆函；函称他和费奇当日下午曾到使馆。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0147"
+    ],
+    "citation_locator": "NMP0174 PDF1；日期、首段、落款",
+    "old_value": "",
+    "new_value": "NMP0174 p1是斯迈思12月26日致使馆函；函称他和费奇当日下午曾到使馆。",
+    "change_type": "recheck_existing_correction",
+    "limitations": "本轮复用原图独立目视；不据后来在宁排除全部早期短途外出，也不证明使馆收讫时刻。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0217",
+      "T3-E0218"
+    ],
+    "related_unresolved_ids": [
+      "INT-U01",
+      "INT-U05"
+    ],
+    "actors": "斯迈思、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C002",
+    "date_start": "1937-12-27",
+    "date_end": "1937-12-27",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0175 p1是拉贝12月27日致Fukui米煤运输请求函。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0097"
+    ],
+    "citation_locator": "NMP0175 PDF1日期、收件人、落款",
+    "old_value": "",
+    "new_value": "NMP0175 p1是拉贝12月27日致Fukui米煤运输请求函。",
+    "change_type": "recheck_existing_correction",
+    "limitations": "是请求和对既往交涉的回顾，不证明所请运输已经完成；本轮只重读该合件第1页。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "拉贝",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C003",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记完成校园8幢建筑按每人16平方英尺估算可容2750人的准备。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF108印98，12/7第二段",
+    "old_value": "T3-E0165 actors=魏特琳、费奇",
+    "new_value": "保留校内准备事件，actors缩为魏特琳；2750为容量估计。",
+    "change_type": "actor_scope_correction",
+    "limitations": "后加六楼超过一万人不能当12/7实收；该段不证明费奇参加校内准备，也不证明他没有去过校园。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0165"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C004",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记10:30去委员会总部讨论可携入安全区物品的通知。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF108末—109首（印98—99）",
+    "old_value": "T3-E0166称赴总部商议接纳难民",
+    "new_value": "细化为魏特琳赴总部讨论携入物品通知；不要把下一句人员列名当会面出席名单。",
+    "change_type": "action_scope_correction",
+    "limitations": "时刻为她的日记自报；未列出这次会面的完整名单。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0166"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C005",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "该日记在总部工作段提到斯迈思、米尔斯、费奇投入委员会工作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF109首段（印99）",
+    "old_value": "",
+    "new_value": "该日记在总部工作段提到斯迈思、米尔斯、费奇投入委员会工作。",
+    "change_type": "additional_primary_support",
+    "limitations": "概述工作投入，不是三人10:30同时出席会议或在校园的证据。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0167"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "斯迈思、米尔斯、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C006",
+    "date_start": "1937-12-12",
+    "date_end": "1937-12-12",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳说她请费奇来，与他共同请邻户销毁寄存在该户的文宣。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF115末—116首（印105—106）",
+    "old_value": "T3-E0177写“电话请费奇来”",
+    "new_value": "删去英文未明示的电话方式，写请费奇来。",
+    "change_type": "unsupported_detail_correction",
+    "limitations": "called Mr. Fitch in未限定通讯方式；12/12销毁文宣与12/16埋藏棉衣不是同一物品或事件。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0177"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C007",
+    "date_start": "1937-12-12",
+    "date_end": "1937-12-12",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "日记把文宣的搬运和焚烧行动归于邻户及其家人。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF116第一段（印106）",
+    "old_value": "T3-E0178“费奇协助销毁所述材料”",
+    "new_value": "若协助指提出销毁请求可保留限定；不能写费奇本人搬运或焚烧。",
+    "change_type": "actor_action_scope_correction",
+    "limitations": "与12/16埋藏衣物分开；原文不是费奇自述。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0178"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C008",
+    "date_start": "1937-12-13",
+    "date_end": "1937-12-13",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记校门口粥饭厨房当日上午首次供饭，10:30前供餐完毕。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF117印107第二段",
+    "old_value": "",
+    "new_value": "魏特琳记校门口粥饭厨房当日上午首次供饭，10:30前供餐完毕。",
+    "change_type": "additional_primary_support",
+    "limitations": "贝德士约11时来访在下一段，不能自动列入开饭参与者；不要把供餐量当独立获救人数。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0180"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳（记述者）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C009",
+    "date_start": "1937-12-16",
+    "date_end": "1937-12-16",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "英文底本记天黑后埋藏此前为伤兵准备的棉衣。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF123印113，第二段括号；NJ008 12/16第三自然段括号，派生文本第1662行",
+    "old_value": "SRC-0102译文“天黑后，我们把这些衣物全部烧掉了”",
+    "new_value": "按本次所读英文底本应为“埋藏”，而非“烧掉”。",
+    "change_type": "confirmed_translation_difference",
+    "limitations": "当前V0.2摘要没有直接写烧掉；这是来源译文纠错候选，不虚构旧库已传播。原快照不改。全文只作内部研究，公开用原创说明及短定位。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0191"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C010",
+    "date_start": "1937-12-16",
+    "date_end": "1937-12-16",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记当夜向费奇询问当天情况。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF122印112，12/16开头",
+    "old_value": "",
+    "new_value": "魏特琳记当夜向费奇询问当天情况。",
+    "change_type": "additional_primary_support",
+    "limitations": "费奇在夜间问答段出现，不能由此推定他参加上午校内搜查应对。E0191宜缩actor；E0192可保留二人。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0192",
+      "T3-E0191"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C011",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "英文底本的孕妇段描述刺刀威胁，不足以支持中文译文该句所加的剖腹动作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF125印115，12/17首段括号；NJ008 12/17首段，派生文本1673行",
+    "old_value": "SRC-0102“怀孕的妻子被刺刀剖腹”",
+    "new_value": "本句宜释为丈夫在刺刀威逼下被迫离开卧室和怀孕的妻子；保留强奸报道上下文，不自行补出剖腹。",
+    "change_type": "confirmed_translation_overreach",
+    "limitations": "只校该句，不作某种暴行在南京从未发生的否定判断；当前数据库未直接采用此句为事件。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0196"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C012",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "日记区分校园4000余人与送食者进出；不能把另约4000送食者直接算新增收容人数。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF125末—126首（印115—116）；NJ00812/17“校园内原有四千多”段，派生文本1675行",
+    "old_value": "SRC-0102“校园内原有四千多名难民，现在又来了四千多人”",
+    "new_value": "另约4000出现在送食进出情景；不要由此求和成当日8000余在校。",
+    "change_type": "confirmed_numeric_scope_difference",
+    "limitations": "英文为when语境，不能反向作送食者精确实测数；1/6信后验高峰估计是另证层。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0196"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C013",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记费奇、斯迈思和米尔斯乘车到校，费奇能与日军中士用一些法语交流。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF127印117，中段",
+    "old_value": "",
+    "new_value": "魏特琳记费奇、斯迈思和米尔斯乘车到校，费奇能与日军中士用一些法语交流。",
+    "change_type": "additional_primary_support",
+    "limitations": "三人到场与费奇说法语分别定位；不补三人各自原话、完整对话、准确到达分钟。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0197",
+      "T3-E0198"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "费奇、斯迈思、米尔斯、魏特琳（在场记述）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C014",
+    "date_start": "1937-12-20",
+    "date_end": "1937-12-20",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记10—12时试写提交日使馆的校园情况报告，因不断被叫去处理士兵入校而未能如愿。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166"
+    ],
+    "citation_locator": "Vautrin PDF131印121，12/20第三段",
+    "old_value": "",
+    "new_value": "魏特琳记10—12时试写提交日使馆的校园情况报告，因不断被叫去处理士兵入校而未能如愿。",
+    "change_type": "new_limited_node",
+    "limitations": "写作尝试不等于报告已完成、已送达；旧NJ008在该日早段结束，未包括这段。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C015",
+    "date_start": "1937-12-20",
+    "date_end": "1937-12-20",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记下午4时和“大王”先到本国使馆，再去日使馆报告情况并请求归还两名仆役及白天警卫。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166"
+    ],
+    "citation_locator": "Vautrin PDF132印122第二段",
+    "old_value": "",
+    "new_value": "魏特琳记下午4时和“大王”先到本国使馆，再去日使馆报告情况并请求归还两名仆役及白天警卫。",
+    "change_type": "new_limited_node",
+    "limitations": "提出请求不等于被拘人员已获释或白天警卫安排实现；不能与晚饭后25名夜间警卫混为同一行动。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "actors": "魏特琳、大王",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C016",
+    "date_start": "1937-11-19",
+    "date_end": "1937-11-19",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳致Searle信表示希望吴博士赴成都研究并加强金女大在当地的单位。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0160"
+    ],
+    "citation_locator": "NMP0029 PDF1，首两段和落款",
+    "old_value": "",
+    "new_value": "魏特琳致Searle信表示希望吴博士赴成都研究并加强金女大在当地的单位。",
+    "change_type": "new_limited_node",
+    "limitations": "提议、劝说和希望不是吴博士已启程或抵达的证明。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C017",
+    "date_start": "1937-11-28",
+    "date_end": "1937-11-28",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士给妻子的明信片说正忙于多项救济工作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0161"
+    ],
+    "citation_locator": "NMP0033 PDF2正文及Searle签名；PDF1收件人",
+    "old_value": "",
+    "new_value": "贝德士给妻子的明信片说正忙于多项救济工作。",
+    "change_type": "new_limited_node",
+    "limitations": "年份依馆方目录；关于Lyall未到的交通解释为写信人判断，不证明全部河运和空运停止。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "贝德士",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C018",
+    "date_start": "1937-12-24",
+    "date_end": "1937-12-24",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士致妻信称日使馆秘书T. Fukuda将携该信乘机赴沪。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0162"
+    ],
+    "citation_locator": "NMP0034 PDF1首段",
+    "old_value": "",
+    "new_value": "贝德士致妻信称日使馆秘书T. Fukuda将携该信乘机赴沪。",
+    "change_type": "new_limited_node",
+    "limitations": "所述是携信安排，未证明飞行实际完成或收信时间；更不是费奇搭机记录。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05",
+      "INT-U01"
+    ],
+    "actors": "贝德士（写信者）；T. Fukuda（文中携信者）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C019",
+    "date_start": "1937-12-30",
+    "date_end": "1937-12-30",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "Riggs与Bates联名函向日使馆报告当日下午蚕桑楼搜查拘人事件。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0163"
+    ],
+    "citation_locator": "NMP0072 PDF1正文、NB及PDF2签名",
+    "old_value": "",
+    "new_value": "Riggs与Bates联名函向日使馆报告当日下午蚕桑楼搜查拘人事件。",
+    "change_type": "new_limited_node",
+    "limitations": "正文四名被带走者，NB另加第五名；不是五人同一时刻都由作者现场目睹。武器来历为旁人说法。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "Riggs、Bates",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C020",
+    "date_start": "1937-12-30",
+    "date_end": "1937-12-30",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士致日使馆函提出校园侵扰和强征劳役等申诉。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0164"
+    ],
+    "citation_locator": "NMP0073 PDF1—2，落款Chairman Emergency Committee University of Nanking",
+    "old_value": "",
+    "new_value": "贝德士致日使馆函提出校园侵扰和强征劳役等申诉。",
+    "change_type": "new_limited_node",
+    "limitations": "函件形成不等于日方收讫或事实独立核验；与0072不同信，不能因同日同收件人当同件。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "贝德士",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C021",
+    "date_start": "1937-12-31",
+    "date_end": "1937-12-31",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0074续函报告P’an Shu-ch’ing前夜获释，并回顾前一天对Fukuda和Tanaka的口头陈述。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0165"
+    ],
+    "citation_locator": "NMP0074 PDF1首段及第三段",
+    "old_value": "",
+    "new_value": "NMP0074续函报告P’an Shu-ch’ing前夜获释，并回顾前一天对Fukuda和Tanaka的口头陈述。",
+    "change_type": "new_limited_node",
+    "limitations": "函页无个人落款；Bates归属来自目录。与0073同案续函，不当独立互证；不把报告时间当释放精确时间。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "Bates（目录归属）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C022",
+    "date_start": "1938-01-11",
+    "date_end": "1938-01-11",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳1月11日续函记当日9—12时参加安全区营地主任会，费奇在拉贝致欢迎并离开后讲话。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0167"
+    ],
+    "citation_locator": "NMP0319 PDF2下部1/11题记，PDF3第二段",
+    "old_value": "",
+    "new_value": "魏特琳1月11日续函记当日9—12时参加安全区营地主任会，费奇在拉贝致欢迎并离开后讲话。",
+    "change_type": "new_crossyear_node",
+    "limitations": "是新增1/11在宁活动节点；不证明此前从未短途离城，仍未取得携片出发日和到沪日；仅后证附录。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U01"
+    ],
+    "actors": "魏特琳、Mr.Chen、拉贝、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  },
+  {
+    "claim_id": "T4-INT-C023",
+    "date_start": "",
+    "date_end": "",
+    "date_precision": "unknown",
+    "content_kind": "source_metadata",
+    "claim": "Yale RG242目录将两卷16mm正片与2015年收到的Reel1/9分列，并列马吉影片说明笔记位置。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0168"
+    ],
+    "citation_locator": "RG242 finding aid PDF4、17、27—28；b.6 f.29—30、OV1、b.22、b.23",
+    "old_value": "",
+    "new_value": "Yale RG242目录将两卷16mm正片与2015年收到的Reel1/9分列，并列马吉影片说明笔记位置。",
+    "change_type": "catalog_locator_progress",
+    "limitations": "现代馆藏卷号、正片卷数不等于1938年费奇随身原底片卷数；notes原件请求仅得HTTP202空响应，未读。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U02"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00"
+  }
+]

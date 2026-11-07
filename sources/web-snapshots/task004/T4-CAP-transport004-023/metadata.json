@@ -1,0 +1,20 @@
+{
+  "capture_id": "search_06",
+  "capture_kind": "search_tool_result_not_raw_http",
+  "accessed_at_utc": "2026-11-07T01:25:08.568Z",
+  "http_status": null,
+  "original_url": null,
+  "final_url": null,
+  "local_path": "Task004_Run/internal/transport004/search_06.json",
+  "sha256": "81815fd4bc9fe08a6c8ecd3bce5f35ac4e1400280f65918feed687b4f88a33f5",
+  "snapshot_scope": "tool-return text containing queries/result excerpts/open extracts; not source fulltext",
+  "public_fulltext_allowed": false,
+  "task004_domain": "transport004",
+  "task004_capture_id": "T4-CAP-transport004-023",
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

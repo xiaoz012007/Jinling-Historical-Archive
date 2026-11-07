@@ -1,0 +1,150 @@
+[
+  {
+    "claim_id": "T4-TR-C001",
+    "old_value": "SRC-0152篇名、作者、刊期不明；仅074页",
+    "new_value": "SRC-0152同一母篇身份为徐婉玲《重走故宫文物南迁路考察记（一）》，《紫禁城》2010年第10期（总189期），pp72–77。",
+    "source_ids": [
+      "SRC-0152"
+    ],
+    "locator": "p72题名署名＋目录期次与起页＋p77结束",
+    "claim_status": "已有充分支持",
+    "limitations": "仅书目身份补全；不升级其中每个历史断言。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-010"
+    ],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C002",
+    "old_value": "SRC-0152脚注4–9未取得",
+    "new_value": "p75注8把三列车七千余箱叙述指向马衡2009重刊p10；本轮取得所引全文。",
+    "source_ids": [
+      "SRC-0152",
+      "SRC-0169"
+    ],
+    "locator": "徐文p75注8；马文p10右栏",
+    "claim_status": "已有充分支持",
+    "limitations": "来源依赖确认，非新增独立互证。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02",
+      "TRU03"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-010"
+    ],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C003",
+    "old_value": "仅现代研究间接转引运输叙述",
+    "new_value": "马衡1947广播回顾记述津浦车皮调至下关，陆路运出三列车七千余箱；续页记过江后循津浦、陇海至宝鸡。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p10右栏中下部；p11左栏中段",
+    "claim_status": "仅有单一来源支持",
+    "limitations": "战后回顾重刊；没有具体船名、装车/渡江/发车日期。保留概数，不替换7287箱的不同口径。",
+    "counterevidence": "不能据叙述顺序推定三列车末渡必在12/3之前，亦不能凭此证实12/8末渡。",
+    "unresolved_ids": [
+      "TRU02",
+      "TRU03"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C004",
+    "old_value": "未取得SRC-0152脚注中的直接叙述",
+    "new_value": "马衡广播回顾将拟装太古洋行轮船的两千余箱滞运置于1937-12-03，并说明轰炸与候船拥挤、船不靠码头，最终退回保存库。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p10右栏“尚有二千余箱次要之品”至“再运回保存库”段",
+    "claim_status": "仅有单一来源支持",
+    "limitations": "仅具体货运失败及回忆中的原因；不是全港全部船舶停航令，也没有证明每个平民无法离开。",
+    "counterevidence": "徐文2010p76重述此事但不能当独立互证。",
+    "unresolved_ids": [
+      "TRU04",
+      "TRU06"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C005",
+    "old_value": "原转引链未落到成文时间",
+    "new_value": "马衡重刊文本末尾明记其广播日期为1947-09-03。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p13末行",
+    "claim_status": "已有充分支持",
+    "limitations": "这是2009编辑重刊所标的形成日期；未取得1947底本。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C006",
+    "old_value": "两客渡船名完全无具体可调报刊线索",
+    "new_value": "申报数据库公开元数据存在1937-01-06条目，标题转录提到澄平、華勝渡轮。",
+    "source_ids": [
+      "SRC-0170"
+    ],
+    "locator": "公开元数据标题、出版信息；open_shenbao_metadata.json L13、18–19",
+    "claim_status": "尚待核实",
+    "limitations": "仅元数据存在事实与待调线索；不是对1937年末两船身份的确认。",
+    "counterevidence": "未取得原报图像/版次；时间早于研究窗口十个月；不能排除同名异船。",
+    "unresolved_ids": [
+      "TRU01"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C007",
+    "old_value": "外审把回忆概数改为各载或每天可渡3000",
+    "new_value": "现有SRC-0083转录不含“各”字；700–800人/次语义仍有歧义；约3000是邻段所述第三十六师实际渡江结果，不能改作两船每天运力。",
+    "source_ids": [
+      "SRC-0083"
+    ],
+    "locator": "原缓存HTML非空文本69–70；派生reading.txt59–60（见AUD-M003/004）",
+    "claim_status": "有证据支持，但存在限定",
+    "limitations": "只对已取得网页转录作文本判断；未得回忆原刊，不以此核定船舶额定容量。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU01",
+      "TRU05"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-001",
+      "EV-A-002"
+    ],
+    "historical_model_parameter_change": false
+  },
+  {
+    "claim_id": "T4-TR-C008",
+    "old_value": "NJ-045题名及刊载信息只作泛称方志江苏报道",
+    "new_value": "原缓存NJ-045页面明示《大桥没通车的日子，火车这样过江》，《社区新报》2023-09-29第003版“方志江苏”；12/6为其正文说法。",
+    "source_ids": [
+      "SRC-0084"
+    ],
+    "locator": "NJ-045原HTML页头edition字段及“长江号渡轮”节；本轮派生NJ045_derived_reading.txt",
+    "claim_status": "有证据支持，但存在限定",
+    "limitations": "并未找回文章精确在线URL；网页原始捕获时间未知。报道不附12/6所据航海原档；保留未核。",
+    "counterevidence": "不把2023报道日期当船舶日志形成日期；不同船尺寸和载车描述还有口径问题，本轮不择一替换。",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false
+  }
+]

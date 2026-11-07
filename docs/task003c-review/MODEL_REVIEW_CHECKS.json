@@ -1,0 +1,274 @@
+{
+  "reviewer": "Task004 model review",
+  "baseline_commit": "5f7377ef7c40fef9c51dab22e47c63bd47947c7e",
+  "classification_counts": {
+    "审查意见本身存在错误": 5,
+    "没有发现问题": 4,
+    "合理疑点": 2,
+    "来源不足": 2
+  },
+  "findings": [
+    {
+      "finding_id": "AUD-M-001",
+      "related_external_ids": [
+        "Doubao FIND-001"
+      ],
+      "classification": "审查意见本身存在错误",
+      "severity": "Medium",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:64; 同名错误清单FIND-001",
+      "old_value": "daily_medium从day0到day19的demand_start持续100000",
+      "corrected_value_or_assessment": "day0至day8开头为100000；day8出发4052后末量95948；day9开头95948；day19开头63402。需求池按已出发人数逐日扣减，并未每日重置为100000。",
+      "evidence": [
+        "evacuation/daily_medium.csv:10-11,21",
+        "evacuation/recalculate.py:34,48-50,59"
+      ],
+      "action": "纠正对外部意见的采纳记录；不据此修改模型公式或历史数字。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-002",
+      "related_external_ids": [
+        "Doubao FIND-016"
+      ],
+      "classification": "审查意见本身存在错误",
+      "severity": "Medium",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-016",
+      "old_value": "day19为1937-12-12，模型该日陆水同时关闭",
+      "corrected_value_or_assessment": "day19为12月8日，12月12日为day23；模型启动后陆路开放窗口关闭为day17即12月6日，模型启动后水路开放窗口关闭为day19即12月8日。开放截止分别day16和18，均为I假设。",
+      "evidence": [
+        "evacuation/daily_medium.csv:19-21,25",
+        "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv:24-26",
+        "evacuation/recalculate.py:6,37,59"
+      ],
+      "action": "记录审查日序与关闭节点误读，保持模型日期边界原值。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-003",
+      "related_external_ids": [
+        "Doubao FIND-002"
+      ],
+      "classification": "审查意见本身存在错误",
+      "severity": "High",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:75",
+      "old_value": "宋希濂原文确实写每天可渡3000人左右",
+      "corrected_value_or_assessment": "既有SRC-0083原HTML的渡轮段没有这个每日吞吐表述；相邻下一段的约三千人是宋回忆本师至13日晨8时渡到浦口的结果，不能改写为轮渡每日运力。",
+      "evidence": [
+        "evacuation/reading_log.json:SRC-0083",
+        "Task003A/internal/web-captures/CAP-a527fdf50dac-20261106T194928984668Z/original.html:非空文本段69-70（HTMLParser提取）",
+        "Task003_Run/internal/evacuation/SRC-0083_reading.txt:59-60"
+      ],
+      "action": "不把审查报告这句转录写入历史库；保留回忆对实际部队渡江人数与反事实轮渡运力的区别。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-004",
+      "related_external_ids": [
+        "Doubao FIND-002"
+      ],
+      "classification": "审查意见本身存在错误",
+      "severity": "Medium",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:74-75",
+      "old_value": "引述两艘轮渡各载700—800人，并称28800与至少三万人吻合",
+      "corrected_value_or_assessment": "所核网页没有各载二字，只有两艘与每次700—800的表述，单船/合计单位歧义仍在；额外假设每艘800、14小时、完整18轮得到28800，不能验证至少30000的下限或历史实运量。",
+      "evidence": [
+        "evacuation/historical_claims.csv:2-3",
+        "evacuation/README.md:47",
+        "Task003_Run/internal/evacuation/SRC-0083_reading.txt:59"
+      ],
+      "action": "保留EV-A-001/002原有单位和反事实估计边界，不把算例变成原文核证。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-005",
+      "related_external_ids": [
+        "Doubao FIND-001"
+      ],
+      "classification": "没有发现问题",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:64",
+      "old_value": "origin_waiting人群未转运也未死亡",
+      "corrected_value_or_assessment": "本模型没有死亡/幸存过程，未出发、步行待完成和北岸待转运均只表示条件台账位置，不表示最终命运。不能为使叙事完整而给它们新增未经证实的死亡或获救数。",
+      "evidence": [
+        "evacuation/README.md:3,27-39",
+        "evacuation/FORMULAS.md:26,28",
+        "evacuation/COUNTERFACTUAL_EVACUATION_MODEL.md:7"
+      ],
+      "action": "保留已声明模型范围；如未来扩展损失过程，须另列假设和证据。",
+      "scope": "model_scope",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-006",
+      "related_external_ids": [
+        "Doubao FIND-001",
+        "Doubao FIND-008",
+        "Doubao R-001"
+      ],
+      "classification": "合理疑点",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_建议修订事项.md:11-17; 错误清单FIND-008",
+      "old_value": "建议在SUMMARY等更醒目标明100000和模型结果非历史",
+      "corrected_value_or_assessment": "现有README首段及第27行、SUMMARY第9行已经说明；摘要入口可再加一句测试需求池提醒，属于展示改进，不是修复缺失历史边界。向CSV首行插自由文本会破坏标准表头，应放配套说明或正式数据字典。",
+      "evidence": [
+        "evacuation/README.md:3,27",
+        "evacuation/SUMMARY.md:9",
+        "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv:2",
+        "evacuation/scenario_results.csv:1-4"
+      ],
+      "action": "可在Task004候选SUMMARY顶部增加简短明确的测试参数提醒；不改CSV结构、不改数值。",
+      "scope": "presentation",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-007",
+      "related_external_ids": [
+        "Doubao FIND-001"
+      ],
+      "classification": "来源不足",
+      "severity": "Medium",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:66; 错误清单FIND-001",
+      "old_value": "实际可撤离人口另有08号研究估算；小说基线用08号实际人口估算",
+      "corrected_value_or_assessment": "建议未给08号的稳定来源ID、题名、页码或人口/可撤离人口定义。不能据此把任何旧估算升级为实际可撤离人数，也不能用其替换B模型测试需求池。",
+      "evidence": [
+        "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv:2",
+        "evacuation/README.md:27"
+      ],
+      "action": "不采纳这句未经定位的补文；若以后取得具体研究，另按统计时点、定义和证据状态登记。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-008",
+      "related_external_ids": [
+        "Doubao FIND-003"
+      ],
+      "classification": "来源不足",
+      "severity": "High",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:78-87; 错误清单FIND-003",
+      "old_value": "教导总队3万人归属不清；维持不冻结",
+      "corrected_value_or_assessment": "这是原B-U04的未决证据问题。外部报告没有附新增同期实力册或可用于去重的原表，不能升级为确认3万人属于某个单位，也不构成数据库已证实错误。",
+      "evidence": [
+        "military/兵力统计口径.md:5-9",
+        "unresolved/OPEN_QUESTIONS.csv:B-U04",
+        "military/CHINESE_ORDER_OF_BATTLE.csv:CN-U-010,CN-U-022"
+      ],
+      "action": "B-U04保持开放，按原问题继续寻找统一日期实力册及统计归属依据。",
+      "scope": "historical_evidence_gap",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-009",
+      "related_external_ids": [
+        "Doubao FIND-007"
+      ],
+      "classification": "审查意见本身存在错误",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-007",
+      "old_value": "103师记录ID为CN-U-012",
+      "corrected_value_or_assessment": "冻结库CN-U-012为第87师；第103师为CN-U-022。其非加总规则已明确不能与教导总队3万人范围、谭表合并项并加，actual_personnel为空。",
+      "evidence": [
+        "military/CHINESE_ORDER_OF_BATTLE.csv:CN-U-012,CN-U-022",
+        "military/TROOP_OBSERVATIONS_81.csv:historical_aggregate_allowed/this_round_aggregate_allowed"
+      ],
+      "action": "修正外部意见映射ID，不修改历史单位或其兵力。",
+      "scope": "external_review_claim",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-010",
+      "related_external_ids": [
+        "Doubao FIND-013",
+        "Grok F-005"
+      ],
+      "classification": "没有发现问题",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-013; Task004_Run/inputs/external_reviews/grok/Task003C_幻觉与史实错误清单.csv:F-005",
+      "old_value": "100艘小船及三案为I条件模型，未与具名历史船只混同",
+      "corrected_value_or_assessment": "参数表把100艘、30席/艘、天气0.75等标为I；客渡、铁路渡轮、军舰及商轮没有进入此池。三案的历史实际运输、安全抵达和最终获救均空值，评语在这一限定范围与现有文件一致。",
+      "evidence": [
+        "evacuation/TRANSPORT_CAPACITY_PARAMETERS.csv:13-20",
+        "evacuation/README.md:33-39",
+        "evacuation/scenario_results.csv:1-4"
+      ],
+      "action": "保留，不补历史船数、天气记录或实际结果。",
+      "scope": "model_scope",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-011",
+      "related_external_ids": [
+        "Doubao FIND-012",
+        "Grok F-006"
+      ],
+      "classification": "没有发现问题",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-012; Task004_Run/inputs/external_reviews/grok/Task003C_幻觉与史实错误清单.csv:F-006",
+      "old_value": "6.8万/4.9万/8万分列，不冻结为历史总数",
+      "corrected_value_or_assessment": "现行说明与审计确实分别处理不同转录数组；81观察的历史聚合许可为false，实际总数空值。已有算术QA不替代同日实力册核实。",
+      "evidence": [
+        "military/兵力统计口径.md:3-9",
+        "military/TROOPS_MODEL_AUDIT.json:checks/严格复算器当前输入",
+        "military/TROOP_OBSERVATIONS_81.csv:全81条"
+      ],
+      "action": "保持统计边界，不取三数之一作为历史实有人数。",
+      "scope": "historical_evidence_gap",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-012",
+      "related_external_ids": [
+        "Doubao R-008"
+      ],
+      "classification": "合理疑点",
+      "severity": "Medium",
+      "review_location": "Task004_Run/inputs/external_reviews/doubao/Task003C_建议修订事项.md:67-76",
+      "old_value": "为各兵力数建立日期、口径与来源快照",
+      "corrected_value_or_assessment": "81条观察已有time_point、time_precision、population_scope、source_locator等字段，原资料未给统一日期时留空。后续补到原表可以逐项填充；不能把未知日期当作整理遗漏而补造。",
+      "evidence": [
+        "military/TROOP_OBSERVATIONS_81.csv:表头与FO-001等记录",
+        "military/兵力统计口径.md:7"
+      ],
+      "action": "把建议作为定向补证任务，不重新生成虚假的日期快照。",
+      "scope": "research_next_step",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    },
+    {
+      "finding_id": "AUD-M-013",
+      "related_external_ids": [
+        "Grok F-005",
+        "Doubao FIND-008"
+      ],
+      "classification": "没有发现问题",
+      "severity": "Low",
+      "review_location": "Task004_Run/inputs/external_reviews/grok/Task003C_幻觉与史实错误清单.csv:F-005; Task004_Run/inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-008",
+      "old_value": "模型数学可复算",
+      "corrected_value_or_assessment": "本次核验三份核心模型文件哈希与原独立QA一致，因没有模型修改，沿用已保存的43项独立QA范围；仅针对外部新指控复查CSV需求滚转、日序和空值。本次未重跑完整公式引擎，也不能由外部简述推定Grok/豆包执行了独立复算。",
+      "evidence": [
+        "evacuation/INDEPENDENT_QA.md:本次被检版本",
+        "evacuation/INDEPENDENT_QA.json",
+        "Task004_Run/research/model_review004/targeted_checks.json"
+      ],
+      "action": "明确本轮验证范围，保留原生Microsoft Excel未验证状态。",
+      "scope": "verification_scope",
+      "publication_blocker_in_PR2": false,
+      "historical_fact_changed": false
+    }
+  ]
+}

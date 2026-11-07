@@ -1,0 +1,80 @@
+{
+  "reviewed_at_utc": "2026-11-07T01:37:12.166074+00:00",
+  "review_scope": "Task003C外审前置阶段候选；只读独立QA，不是整库历史事实认证",
+  "findings": [
+    {
+      "finding_id": "QA-E-001",
+      "severity": "Medium",
+      "classification": "已证实错误",
+      "publication_blocker": true,
+      "scope": "候选来源关联传播",
+      "status": "open_at_review",
+      "target": "public_candidate/unresolved/QUESTION_SOURCE_LINKS.csv:B-U04",
+      "original_value": "仍只列SRC-0127及report P0125",
+      "expected_value": "同步OPEN_QUESTIONS.csv/json的SRC-0072;SRC-0127与分项定位；保留resolved=false",
+      "reason": "T4-REV-001主表修复正确，但来源关联表尚未传播。读者从该表追溯张连红3万人句仍会走到不支持此句的战斗详报。",
+      "evidence": [
+        "public_candidate/unresolved/QUESTION_SOURCE_LINKS.csv:B-U04",
+        "public_candidate/unresolved/OPEN_QUESTIONS.csv:B-U04",
+        "public_candidate/unresolved/OPEN_QUESTIONS.json:B-U04",
+        "Task003A/internal/web-captures/CAP-979f51877e93-20261106T194933485233Z/original.html:关于被围困在南京城内的中国官兵人数问题段",
+        "Task003_Run/internal/military/report_paragraphs.txt:P0125"
+      ]
+    },
+    {
+      "finding_id": "QA-E-002",
+      "severity": "Low",
+      "classification": "合理疑点",
+      "publication_blocker": false,
+      "scope": "外审归因与计数措辞",
+      "status": "open_at_review",
+      "target": "docs/TASK003C_EXTERNAL_REVIEW_RESPONSE.md逐项结果；EXTERNAL_REVIEW_DISPOSITIONS.csv:AUD-D-042",
+      "original_value": "豆包42项、Grok25项，共67条意见及方法处置；AUD-D-042 reviewer=Doubao",
+      "expected_value": "67条总数可以保留，明确豆包相关外审/方法处置41条＋Task004复核新发现1条＋Grok相关25条；AUD-D-042归因Task004（因豆包FIND-003触发），保留稳定AUD-D-042编号。",
+      "reason": "两份豆包原稿FIND-003只建议维持现状，未指出SRC0072来源遗漏；这是Task004实际新增发现。现有章节虽说明“数据库自身问题”，计数归因仍可能使读者误以为豆包发现了此遗漏。",
+      "evidence": [
+        "inputs/external_reviews/doubao/Task003C_幻觉与史实错误清单.csv:FIND-003",
+        "inputs/external_reviews/doubao/金陵不退_Task003C_Doubao独立史实审查报告.md:问题3",
+        "public_candidate/docs/task003c-review/EXTERNAL_REVIEW_DISPOSITIONS.csv:AUD-D-042"
+      ]
+    },
+    {
+      "finding_id": "QA-E-003",
+      "severity": "Low",
+      "classification": "已证实错误",
+      "publication_blocker": false,
+      "scope": "外审证据映射遗漏",
+      "status": "open_at_review",
+      "target": "docs/task003c-review/DOUBAO_SUPPLIED_SAMPLE_COVERAGE.json:CL-022",
+      "original_value": "CL-022把12/8全部运出映射SRC-0152；候选仅泛记来源不足",
+      "expected_value": "补充其来源映射不准确：12/8全部运出位于SRC-0085；旧SRC-0152 p74不是这一日期的证据。可挂到AUD-D-036现有来源ID错配项，不必新增独立问题总数。",
+      "reason": "原包交叉验证CL-022名为“故宫文物12.8全部运出”，来源指SRC0152研究单页。现有核对可直接发现来源错配，不宜只用通用未访问说明覆盖；该修正不解决长江号末航日。",
+      "evidence": [
+        "inputs/external_reviews/doubao/Task003C_来源交叉验证.csv:CL-022",
+        "Task003_Run/internal/evacuation/SRC-0085_reading.txt:北路段",
+        "Task003_Run/internal/evacuation/NEW-evacuation-01.pdf:p74",
+        "public_candidate/docs/task003c-review/DOUBAO_SUPPLIED_SAMPLE_COVERAGE.json:CL-022"
+      ]
+    },
+    {
+      "finding_id": "QA-E-004",
+      "severity": "Low",
+      "classification": "合理疑点",
+      "publication_blocker": false,
+      "scope": "模型日序措辞",
+      "status": "open_at_review",
+      "target": "docs/task003c-review/MODEL_REVIEW_CHECKS.json:AUD-M-002",
+      "original_value": "陆路首次关闭day17，水路首次关闭day19",
+      "expected_value": "改成“模型启动后的开放窗口结束：陆路day17起关闭，水路day19起关闭”；或仅列末可用day16/day18。",
+      "reason": "day0–7本来均为0，未经启动阶段限定的“首次关闭”字面不精确；主处理报告的末可用日已正确，公式和数值无需改变。",
+      "evidence": [
+        "Task003_Run/public_v02/evacuation/daily_medium.csv:day0–8、16–19",
+        "public_candidate/docs/task003c-review/MODEL_REVIEW_CHECKS.json:AUD-M-002"
+      ]
+    }
+  ],
+  "confirmed_critical_or_high_findings": 0,
+  "must_fix_before_publish": [
+    "QA-E-001"
+  ]
+}

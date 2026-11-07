@@ -1,0 +1,19 @@
+{
+  "capture_id": "open01",
+  "payload_type": "search_tool_response",
+  "accessed_at_utc": "2026-11-07T01:21:25.738Z",
+  "http_status": "unknown",
+  "local_path": "Task004_Run/internal/troops004/open01.json",
+  "sha256": "9e138206b9e5b58476033acce59c5a420981825f698ba4d9d3238ec3621df388",
+  "scope": "工具检索/页面提取响应，非完整HTTP原网页；screenshot返回仅占位文本无图像，未用于目视",
+  "capture_status": "tool_response_saved",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-044",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

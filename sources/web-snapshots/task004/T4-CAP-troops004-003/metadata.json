@@ -1,0 +1,18 @@
+{
+  "capture_id": "T4-B-CAP-fybk",
+  "original_url": "https://fybk.bjcipt.com/paper.html?id=741474",
+  "accessed_at_utc": "2026-11-07T01:22:05.918964+00:00",
+  "status": "failed",
+  "error": "HTTP Error 503: Service Unavailable",
+  "http_status": 503,
+  "metadata_file": "Task004_Run/internal/troops004/fybk_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-003",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

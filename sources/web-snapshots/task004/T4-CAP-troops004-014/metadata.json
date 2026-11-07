@@ -1,0 +1,20 @@
+{
+  "capture_id": "tan_nlc.html",
+  "original_url": "https://read.nlc.cn/allSearch/searchDetail?fid=02jh004208&indexName=data_416&searchType=24&showType=1",
+  "accessed_at_utc": "2026-11-07T01:24:39.209593+00:00",
+  "http_status": 503,
+  "capture_status": "failed",
+  "error": "HTTP Error 503: Service Unavailable",
+  "metadata_file": "Task004_Run/internal/troops004/tan_nlc_html_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-014",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0172"
+  ],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

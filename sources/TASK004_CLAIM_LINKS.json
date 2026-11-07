@@ -1,0 +1,1970 @@
+[
+  {
+    "claim_id": "T4-AT-C001",
+    "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决正文/附件记载的事件日期",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF12甲2",
+    "claim_status": "supported",
+    "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0220"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C002",
+    "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决正文/附件记载的事件日期",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF3、PDF12甲3",
+    "claim_status": "supported",
+    "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0222"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C003",
+    "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决正文/附件记载的事件日期",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF3、PDF12甲3",
+    "claim_status": "supported",
+    "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0223"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C004",
+    "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决正文/附件记载的事件日期",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF3、PDF12甲1",
+    "claim_status": "supported",
+    "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0224"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C005",
+    "claim_text": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决正文/附件记载的事件日期",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF3、PDF14甲16",
+    "claim_status": "supported",
+    "limitations": "仅改统一时间线事件日期的依据标签；atrocities表document_date_basis本身正确，保留。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3B-E-AT-03"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "统一时间线date_basis错误沿用判决文书的署名日标签；本行1937日期实际据文内案发记载。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C006",
+    "claim_text": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决记载拘押事实，拘押起日未载",
+      "date_start": "",
+      "date_end": "",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF12甲3",
+    "claim_status": "supported",
+    "limitations": "保持UNPLACED，不能用文书形成日倒填案发日期。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0221"
+    ],
+    "unresolved_ids": [
+      "AT-U02",
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C007",
+    "claim_text": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+    "original_value": {
+      "date_basis": "判决署名日期"
+    },
+    "revised_value": {
+      "date_basis": "判决记载拘押事实，拘押起日未载",
+      "date_start": "",
+      "date_end": "",
+      "reference_document_date": "1947-03-10（保留）"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF12甲1",
+    "claim_status": "supported",
+    "limitations": "保持UNPLACED，不能用文书形成日倒填案发日期。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3B-E-AT-01"
+    ],
+    "unresolved_ids": [
+      "AT-U02",
+      "AT-U05"
+    ],
+    "proposed_action": "correct_field_mapping",
+    "release_blocker": true,
+    "modification_reason": "未定位拘押事实的date_basis错误沿用判决署名日标签；文内没有给出拘押起日。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C008",
+    "claim_text": "甲16下午1时置于司法院难民所内选人并押送的叙述起点；未单独提供汉中门外开始射杀的钟点。",
+    "original_value": {
+      "event_id": "T3B-E-AT-03",
+      "time_precision": "daypart",
+      "time_text": "下午1时",
+      "time_role": "execute"
+    },
+    "revised_value": {
+      "event_id": "T3B-E-AT-03",
+      "time_precision": "day",
+      "time_text": "",
+      "time_start": "",
+      "time_end": "",
+      "time_role": "execute",
+      "event_phase_label": "execute",
+      "phase": "execute",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "event_description": "谷判正文记二千余军人被押至汉中门外遭射杀；附件甲16另记由司法院难民所押出三类人合计三千余。两口径并列；射杀具体钟点未单列。",
+      "group_id": "G-T3B-E-AT-03",
+      "entity_id": "AT-HANZHONG-01"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF3正文相关段；PDF14甲16",
+    "claim_status": "supported_with_limits",
+    "limitations": "保留司法文书记载的暴行及人数异说；去掉对射杀起时的无证细化。date_basis另由C005纠正。",
+    "counterevidence": "正文以1时引起整段，不足以独立区分被俘、押送、开枪每阶段的钟点。",
+    "related_event_ids": [
+      "T3B-E-AT-03"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "split_event_stage",
+    "release_blocker": true,
+    "modification_reason": "甲16下午1时置于司法院难民所内选人并押送的叙述起点；未单独提供汉中门外开始射杀的钟点。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C009",
+    "claim_text": "甲16记12月15日下午1时在司法院难民所选出三类人，并叙及随后押送汉中门。",
+    "original_value": null,
+    "revised_value": {
+      "event_id": "T4-E-AT-001",
+      "group_id": "G-T3B-E-AT-03",
+      "entity_id": "AT-HANZHONG-01",
+      "record_role": "historical_event_or_document_claim",
+      "date_start": "1937-12-15",
+      "date_end": "1937-12-15",
+      "time_precision": "daypart",
+      "time_text": "下午1时（司法院内筛查/押送叙述起点）",
+      "time_start": "",
+      "time_end": "",
+      "time_role": "selection_or_transfer_start",
+      "event_phase_label": "selection_or_transfer_start",
+      "phase": "selection_or_transfer_start",
+      "date_basis": "判决附件甲16记载的事件日期",
+      "reference_document_date": "1947-03-10",
+      "document_formation_or_entry_date": "1947-03-10",
+      "document_date_basis": "判决署名日期",
+      "location": "司法院难民所",
+      "actors": "日军；所内被选出的军警及军民",
+      "event_description": "谷判甲16记12月15日下午1时在司法院难民所选出着制服长警、改装者及军民三类，合称三千余名；继而押送汉中门外。此时间只定位该段筛查/押送叙述起点，押送完成时刻未载。",
+      "count_value": "",
+      "count_text": "与T3B-E-AT-03同案、同批；不新增人数",
+      "count_scope": "阶段性记录，非另一群体",
+      "verified_death_count": "",
+      "aggregation_allowed": false,
+      "claim_status": "supported_with_limits",
+      "source_ids": [
+        "SRC-0111"
+      ],
+      "citation_locator": "PDF14甲16（印刷第七页）",
+      "source_family": "TANI_JUDGMENT_1947",
+      "limitations": "同一判决、同一群体拆为阶段记录；不得与T3B-E-AT-03相加。下午1时不能扩成开枪时刻，也不据此计算押送耗时。"
+    },
+    "source_ids": [
+      "SRC-0111"
+    ],
+    "citation_locator": "PDF14甲16",
+    "claim_status": "supported_with_limits",
+    "limitations": "临时建议事件ID由总编核定稳定编号；不得将计数拆分为互相独立的遇难者批次。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3B-E-AT-03"
+    ],
+    "unresolved_ids": [
+      "AT-U05"
+    ],
+    "proposed_action": "add_atomic_event_same_cohort",
+    "release_blocker": true,
+    "modification_reason": "甲16记12月15日下午1时在司法院难民所选出三类人，并叙及随后押送汉中门。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C010",
+    "claim_text": "实际取得的研究报告转载脚注[4]将鲁甦结文日期列为1945-12-7，并给出五九三/870调档线索。",
+    "original_value": "12月7日说只有待核线索",
+    "revised_value": {
+      "reported_statement_date": "1945-12-07",
+      "date_is_primary_verified": false,
+      "cited_repository": "中国第二历史档案馆",
+      "cited_identifier": "五九三/870",
+      "archive_identifier_verified": false
+    },
+    "source_ids": [
+      "SRC-0154"
+    ],
+    "citation_locator": "脚注[4]；derived.txt第68行",
+    "claim_status": "single_source",
+    "limitations": "证明的是该研究报告的引注内容；未见卷内日期页，不能择定7日。",
+    "counterevidence": "SRC-0115二手引注4日；SRC-0145同源说明及SRC-0155写6日；SRC-0144已得单页未见具结日期。",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U01"
+    ],
+    "proposed_action": "add_located_secondary_bibliographic_lead",
+    "release_blocker": false,
+    "modification_reason": "实际取得的研究报告转载脚注[4]将鲁甦结文日期列为1945-12-7，并给出五九三/870调档线索。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C011",
+    "claim_text": "南京市档案馆说明的可访问转载明确写鲁甦于1945-12-6提供结文。",
+    "original_value": "源站抓取失败且只有索引摘要",
+    "revised_value": {
+      "reprint_body_obtained": true,
+      "reported_date": "1945-12-06",
+      "SRC-0145_direct_access": "仍失败，不改为已取原页"
+    },
+    "source_ids": [
+      "SRC-0155",
+      "SRC-0145"
+    ],
+    "citation_locator": "转载正文第五项；derived.txt第1268行",
+    "claim_status": "single_source",
+    "limitations": "与SRC-0145同源，不是新独立证人；不能据其确定形成日、收文日是否同一概念。",
+    "counterevidence": "4日/7日说仍并列。",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U01"
+    ],
+    "proposed_action": "add_reprint_access_evidence_no_date_resolution",
+    "release_blocker": false,
+    "modification_reason": "南京市档案馆说明的可访问转载明确写鲁甦于1945-12-6提供结文。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C012",
+    "claim_text": "江苏课题组转载对鲁甦结文中十六日加农历解释，但本轮已得手写单页未见该日历限定。",
+    "original_value": "手写十六日与谷判十八日冲突保留",
+    "revised_value": {
+      "calendar_interpretation": "新增二手农历解释，待原卷确认",
+      "event_date_resolved": false
+    },
+    "source_ids": [
+      "SRC-0154",
+      "SRC-0144",
+      "SRC-0111"
+    ],
+    "citation_locator": "SRC-0154南京时段段/derived.txt第51行；SRC-0144右起第2–8列；谷判PDF12甲1",
+    "claim_status": "conflicted",
+    "limitations": "不能把后出括注当作原件已有文字；不能据二手解释静默清除AT-DATE-CAOXIEXIA。",
+    "counterevidence": "谷判甲1自身另列公历18日及农历11月16日。",
+    "related_event_ids": [
+      "T3-E0224",
+      "T3B-E-AT-02"
+    ],
+    "unresolved_ids": [
+      "AT-U01"
+    ],
+    "proposed_action": "append_calendar_interpretation_conflict",
+    "release_blocker": false,
+    "modification_reason": "江苏课题组转载对鲁甦结文中十六日加农历解释，但本轮已得手写单页未见该日历限定。",
+    "task004_domain": "atrocities004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-AT-C013",
+    "claim_text": "张连红研究转载将57,418追溯至1946年2月陈光虞报告，并指向鲁甦具结。",
+    "original_value": "未取得数字形成底稿",
+    "revised_value": {
+      "earlier_document_lead": "1946年2月首都地方法院检察处奉令调查敌人罪行报告书",
+      "source_of_count_as_reported": "鲁甦具结",
+      "roster_obtained": false,
+      "count_production_method_known": false
+    },
+    "source_ids": [
+      "SRC-0156"
+    ],
+    "citation_locator": "第一节陈光虞报告两段；derived.txt第111–122行",
+    "claim_status": "single_source",
+    "limitations": "取得的是现代学术转引，不是1946报告原件，更不是名册；可改善传递链定位，不能据此把57,418升级为精确执行死亡人数。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U02"
+    ],
+    "proposed_action": "add_earlier_provenance_lead",
+    "release_blocker": false,
+    "modification_reason": "张连红研究转载将57,418追溯至1946年2月陈光虞报告，并指向鲁甦具结。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C014",
+    "claim_text": "日文网页转录与中文选编共享山田/远藤日记来源；日文载体没有提供手稿影像。",
+    "original_value": "日本原稿未取得",
+    "revised_value": {
+      "originals_obtained": false,
+      "new_carriers": "山田版本对照网页、远藤日文节录",
+      "independent_original_evidence_added": 0
+    },
+    "source_ids": [
+      "SRC-0158",
+      "SRC-0159",
+      "SRC-0112"
+    ],
+    "citation_locator": "山田12月14–19日及书目；远藤12月16–19日；中译PDF9、60–61",
+    "claim_status": "supported_with_limits",
+    "limitations": "仅作版本比对和调书线索；军命令正文、发令者签字、送达时刻及全俘虏名册仍未取得。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U03",
+      "AT-U04"
+    ],
+    "proposed_action": "record_derivative_relationship_no_upgrade",
+    "release_blocker": false,
+    "modification_reason": "日文网页转录与中文选编共享山田/远藤日记来源；日文载体没有提供手稿影像。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-AT-C015",
+    "claim_text": "远藤12月15日捕获数在网页日文转录和中文选编之间出现306/360版本疑点。",
+    "original_value": "中文选编印刷54/PDF60为360人",
+    "revised_value": {
+      "japanese_web_transcription": "三百六名（306）",
+      "chinese_translation": "360",
+      "historical_count_correction": null
+    },
+    "source_ids": [
+      "SRC-0159",
+      "SRC-0112"
+    ],
+    "citation_locator": "日文derived.txt第148行；中译PDF60印刷54页12月15日",
+    "claim_status": "conflicted",
+    "limitations": "网站转录和中译各自可能存在错误；未核日本原书pp.219–220或手稿前不作历史数字更正，不影响同页已支持的杀俘记录。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U03"
+    ],
+    "proposed_action": "append_version_conflict_not_change_number",
+    "release_blocker": false,
+    "modification_reason": "远藤12月15日捕获数在网页日文转录和中文选编之间出现306/360版本疑点。",
+    "task004_domain": "atrocities004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-AT-C016",
+    "claim_text": "UNESCO申报文件区分原件查阅限制与数字复制件供阅，并另列馆藏机构的版权主张。",
+    "original_value": null,
+    "revised_value": {
+      "permission_to_redistribute_fulltext": "未取得",
+      "fulltext_public_candidate": false
+    },
+    "source_ids": [
+      "SRC-0157"
+    ],
+    "citation_locator": "PDF第7页4.4、4.5",
+    "claim_status": "supported_with_limits",
+    "limitations": "这里只登记文件所述权利及查阅政策；不是针对每件档案的法律鉴定。公开原文仍须逐件许可检查。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "unresolved_ids": [
+      "AT-U01",
+      "AT-U04"
+    ],
+    "proposed_action": "record_access_and_rights_boundary",
+    "release_blocker": false,
+    "modification_reason": "UNESCO申报文件区分原件查阅限制与数字复制件供阅，并另列馆藏机构的版权主张。",
+    "task004_domain": "atrocities004"
+  },
+  {
+    "claim_id": "T4-INT-C001",
+    "date_start": "1937-12-26",
+    "date_end": "1937-12-26",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0174 p1是斯迈思12月26日致使馆函；函称他和费奇当日下午曾到使馆。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0147"
+    ],
+    "citation_locator": "NMP0174 PDF1；日期、首段、落款",
+    "old_value": "",
+    "new_value": "NMP0174 p1是斯迈思12月26日致使馆函；函称他和费奇当日下午曾到使馆。",
+    "change_type": "recheck_existing_correction",
+    "limitations": "本轮复用原图独立目视；不据后来在宁排除全部早期短途外出，也不证明使馆收讫时刻。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0217",
+      "T3-E0218"
+    ],
+    "related_unresolved_ids": [
+      "INT-U01",
+      "INT-U05"
+    ],
+    "actors": "斯迈思、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U01",
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C002",
+    "date_start": "1937-12-27",
+    "date_end": "1937-12-27",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0175 p1是拉贝12月27日致Fukui米煤运输请求函。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0097"
+    ],
+    "citation_locator": "NMP0175 PDF1日期、收件人、落款",
+    "old_value": "",
+    "new_value": "NMP0175 p1是拉贝12月27日致Fukui米煤运输请求函。",
+    "change_type": "recheck_existing_correction",
+    "limitations": "是请求和对既往交涉的回顾，不证明所请运输已经完成；本轮只重读该合件第1页。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "拉贝",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C003",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记完成校园8幢建筑按每人16平方英尺估算可容2750人的准备。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF108印98，12/7第二段",
+    "old_value": "T3-E0165 actors=魏特琳、费奇",
+    "new_value": "保留校内准备事件，actors缩为魏特琳；2750为容量估计。",
+    "change_type": "actor_scope_correction",
+    "limitations": "后加六楼超过一万人不能当12/7实收；该段不证明费奇参加校内准备，也不证明他没有去过校园。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0165"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C004",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记10:30去委员会总部讨论可携入安全区物品的通知。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF108末—109首（印98—99）",
+    "old_value": "T3-E0166称赴总部商议接纳难民",
+    "new_value": "细化为魏特琳赴总部讨论携入物品通知；不要把下一句人员列名当会面出席名单。",
+    "change_type": "action_scope_correction",
+    "limitations": "时刻为她的日记自报；未列出这次会面的完整名单。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0166"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C005",
+    "date_start": "1937-12-07",
+    "date_end": "1937-12-07",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "该日记在总部工作段提到斯迈思、米尔斯、费奇投入委员会工作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF109首段（印99）",
+    "old_value": "",
+    "new_value": "该日记在总部工作段提到斯迈思、米尔斯、费奇投入委员会工作。",
+    "change_type": "additional_primary_support",
+    "limitations": "概述工作投入，不是三人10:30同时出席会议或在校园的证据。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0167"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "斯迈思、米尔斯、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C006",
+    "date_start": "1937-12-12",
+    "date_end": "1937-12-12",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳说她请费奇来，与他共同请邻户销毁寄存在该户的文宣。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF115末—116首（印105—106）",
+    "old_value": "T3-E0177写“电话请费奇来”",
+    "new_value": "删去英文未明示的电话方式，写请费奇来。",
+    "change_type": "unsupported_detail_correction",
+    "limitations": "called Mr. Fitch in未限定通讯方式；12/12销毁文宣与12/16埋藏棉衣不是同一物品或事件。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0177"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C007",
+    "date_start": "1937-12-12",
+    "date_end": "1937-12-12",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "日记把文宣的搬运和焚烧行动归于邻户及其家人。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF116第一段（印106）",
+    "old_value": "T3-E0178“费奇协助销毁所述材料”",
+    "new_value": "若协助指提出销毁请求可保留限定；不能写费奇本人搬运或焚烧。",
+    "change_type": "actor_action_scope_correction",
+    "limitations": "与12/16埋藏衣物分开；原文不是费奇自述。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0178"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C008",
+    "date_start": "1937-12-13",
+    "date_end": "1937-12-13",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记校门口粥饭厨房当日上午首次供饭，10:30前供餐完毕。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF117印107第二段",
+    "old_value": "",
+    "new_value": "魏特琳记校门口粥饭厨房当日上午首次供饭，10:30前供餐完毕。",
+    "change_type": "additional_primary_support",
+    "limitations": "贝德士约11时来访在下一段，不能自动列入开饭参与者；不要把供餐量当独立获救人数。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0180"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳（记述者）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C009",
+    "date_start": "1937-12-16",
+    "date_end": "1937-12-16",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "英文底本记天黑后埋藏此前为伤兵准备的棉衣。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF123印113，第二段括号；NJ008 12/16第三自然段括号，派生文本第1662行",
+    "old_value": "SRC-0102译文“天黑后，我们把这些衣物全部烧掉了”",
+    "new_value": "按本次所读英文底本应为“埋藏”，而非“烧掉”。",
+    "change_type": "confirmed_translation_difference",
+    "limitations": "当前V0.2摘要没有直接写烧掉；这是来源译文纠错候选，不虚构旧库已传播。原快照不改。全文只作内部研究，公开用原创说明及短定位。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0191"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C010",
+    "date_start": "1937-12-16",
+    "date_end": "1937-12-16",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记当夜向费奇询问当天情况。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF122印112，12/16开头",
+    "old_value": "",
+    "new_value": "魏特琳记当夜向费奇询问当天情况。",
+    "change_type": "additional_primary_support",
+    "limitations": "费奇在夜间问答段出现，不能由此推定他参加上午校内搜查应对。E0191宜缩actor；E0192可保留二人。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0192",
+      "T3-E0191"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "魏特琳、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C011",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "英文底本的孕妇段描述刺刀威胁，不足以支持中文译文该句所加的剖腹动作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF125印115，12/17首段括号；NJ008 12/17首段，派生文本1673行",
+    "old_value": "SRC-0102“怀孕的妻子被刺刀剖腹”",
+    "new_value": "本句宜释为丈夫在刺刀威逼下被迫离开卧室和怀孕的妻子；保留强奸报道上下文，不自行补出剖腹。",
+    "change_type": "confirmed_translation_overreach",
+    "limitations": "只校该句，不作某种暴行在南京从未发生的否定判断；当前数据库未直接采用此句为事件。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0196"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C012",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "日记区分校园4000余人与送食者进出；不能把另约4000送食者直接算新增收容人数。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF125末—126首（印115—116）；NJ00812/17“校园内原有四千多”段，派生文本1675行",
+    "old_value": "SRC-0102“校园内原有四千多名难民，现在又来了四千多人”",
+    "new_value": "另约4000出现在送食进出情景；不要由此求和成当日8000余在校。",
+    "change_type": "confirmed_numeric_scope_difference",
+    "limitations": "英文为when语境，不能反向作送食者精确实测数；1/6信后验高峰估计是另证层。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0196"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C013",
+    "date_start": "1937-12-17",
+    "date_end": "1937-12-17",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记费奇、斯迈思和米尔斯乘车到校，费奇能与日军中士用一些法语交流。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166",
+      "SRC-0102"
+    ],
+    "citation_locator": "Vautrin PDF127印117，中段",
+    "old_value": "",
+    "new_value": "魏特琳记费奇、斯迈思和米尔斯乘车到校，费奇能与日军中士用一些法语交流。",
+    "change_type": "additional_primary_support",
+    "limitations": "三人到场与费奇说法语分别定位；不补三人各自原话、完整对话、准确到达分钟。",
+    "counterevidence": "",
+    "related_event_ids": [
+      "T3-E0197",
+      "T3-E0198"
+    ],
+    "related_unresolved_ids": [
+      "INT-U04"
+    ],
+    "actors": "费奇、斯迈思、米尔斯、魏特琳（在场记述）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C014",
+    "date_start": "1937-12-20",
+    "date_end": "1937-12-20",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记10—12时试写提交日使馆的校园情况报告，因不断被叫去处理士兵入校而未能如愿。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166"
+    ],
+    "citation_locator": "Vautrin PDF131印121，12/20第三段",
+    "old_value": "",
+    "new_value": "魏特琳记10—12时试写提交日使馆的校园情况报告，因不断被叫去处理士兵入校而未能如愿。",
+    "change_type": "new_limited_node",
+    "limitations": "写作尝试不等于报告已完成、已送达；旧NJ008在该日早段结束，未包括这段。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C015",
+    "date_start": "1937-12-20",
+    "date_end": "1937-12-20",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳记下午4时和“大王”先到本国使馆，再去日使馆报告情况并请求归还两名仆役及白天警卫。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0166"
+    ],
+    "citation_locator": "Vautrin PDF132印122第二段",
+    "old_value": "",
+    "new_value": "魏特琳记下午4时和“大王”先到本国使馆，再去日使馆报告情况并请求归还两名仆役及白天警卫。",
+    "change_type": "new_limited_node",
+    "limitations": "提出请求不等于被拘人员已获释或白天警卫安排实现；不能与晚饭后25名夜间警卫混为同一行动。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "actors": "魏特琳、大王",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U04",
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C016",
+    "date_start": "1937-11-19",
+    "date_end": "1937-11-19",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳致Searle信表示希望吴博士赴成都研究并加强金女大在当地的单位。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0160"
+    ],
+    "citation_locator": "NMP0029 PDF1，首两段和落款",
+    "old_value": "",
+    "new_value": "魏特琳致Searle信表示希望吴博士赴成都研究并加强金女大在当地的单位。",
+    "change_type": "new_limited_node",
+    "limitations": "提议、劝说和希望不是吴博士已启程或抵达的证明。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "魏特琳",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C017",
+    "date_start": "1937-11-28",
+    "date_end": "1937-11-28",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士给妻子的明信片说正忙于多项救济工作。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0161"
+    ],
+    "citation_locator": "NMP0033 PDF2正文及Searle签名；PDF1收件人",
+    "old_value": "",
+    "new_value": "贝德士给妻子的明信片说正忙于多项救济工作。",
+    "change_type": "new_limited_node",
+    "limitations": "年份依馆方目录；关于Lyall未到的交通解释为写信人判断，不证明全部河运和空运停止。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "贝德士",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C018",
+    "date_start": "1937-12-24",
+    "date_end": "1937-12-24",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士致妻信称日使馆秘书T. Fukuda将携该信乘机赴沪。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0162"
+    ],
+    "citation_locator": "NMP0034 PDF1首段",
+    "old_value": "",
+    "new_value": "贝德士致妻信称日使馆秘书T. Fukuda将携该信乘机赴沪。",
+    "change_type": "new_limited_node",
+    "limitations": "所述是携信安排，未证明飞行实际完成或收信时间；更不是费奇搭机记录。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05",
+      "INT-U01"
+    ],
+    "actors": "贝德士（写信者）；T. Fukuda（文中携信者）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05",
+      "INT-U01"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C019",
+    "date_start": "1937-12-30",
+    "date_end": "1937-12-30",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "Riggs与Bates联名函向日使馆报告当日下午蚕桑楼搜查拘人事件。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0163"
+    ],
+    "citation_locator": "NMP0072 PDF1正文、NB及PDF2签名",
+    "old_value": "",
+    "new_value": "Riggs与Bates联名函向日使馆报告当日下午蚕桑楼搜查拘人事件。",
+    "change_type": "new_limited_node",
+    "limitations": "正文四名被带走者，NB另加第五名；不是五人同一时刻都由作者现场目睹。武器来历为旁人说法。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "Riggs、Bates",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C020",
+    "date_start": "1937-12-30",
+    "date_end": "1937-12-30",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "贝德士致日使馆函提出校园侵扰和强征劳役等申诉。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0164"
+    ],
+    "citation_locator": "NMP0073 PDF1—2，落款Chairman Emergency Committee University of Nanking",
+    "old_value": "",
+    "new_value": "贝德士致日使馆函提出校园侵扰和强征劳役等申诉。",
+    "change_type": "new_limited_node",
+    "limitations": "函件形成不等于日方收讫或事实独立核验；与0072不同信，不能因同日同收件人当同件。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "贝德士",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C021",
+    "date_start": "1937-12-31",
+    "date_end": "1937-12-31",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "NMP0074续函报告P’an Shu-ch’ing前夜获释，并回顾前一天对Fukuda和Tanaka的口头陈述。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0165"
+    ],
+    "citation_locator": "NMP0074 PDF1首段及第三段",
+    "old_value": "",
+    "new_value": "NMP0074续函报告P’an Shu-ch’ing前夜获释，并回顾前一天对Fukuda和Tanaka的口头陈述。",
+    "change_type": "new_limited_node",
+    "limitations": "函页无个人落款；Bates归属来自目录。与0073同案续函，不当独立互证；不把报告时间当释放精确时间。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U05"
+    ],
+    "actors": "Bates（目录归属）",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U05"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C022",
+    "date_start": "1938-01-11",
+    "date_end": "1938-01-11",
+    "date_precision": "day",
+    "content_kind": "historical_claim",
+    "claim": "魏特琳1月11日续函记当日9—12时参加安全区营地主任会，费奇在拉贝致欢迎并离开后讲话。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0167"
+    ],
+    "citation_locator": "NMP0319 PDF2下部1/11题记，PDF3第二段",
+    "old_value": "",
+    "new_value": "魏特琳1月11日续函记当日9—12时参加安全区营地主任会，费奇在拉贝致欢迎并离开后讲话。",
+    "change_type": "new_crossyear_node",
+    "limitations": "是新增1/11在宁活动节点；不证明此前从未短途离城，仍未取得携片出发日和到沪日；仅后证附录。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U01"
+    ],
+    "actors": "魏特琳、Mr.Chen、拉贝、费奇",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U01"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-INT-C023",
+    "date_start": "",
+    "date_end": "",
+    "date_precision": "unknown",
+    "content_kind": "source_metadata",
+    "claim": "Yale RG242目录将两卷16mm正片与2015年收到的Reel1/9分列，并列马吉影片说明笔记位置。",
+    "claim_status": "supported_with_limits",
+    "source_ids": [
+      "SRC-0168"
+    ],
+    "citation_locator": "RG242 finding aid PDF4、17、27—28；b.6 f.29—30、OV1、b.22、b.23",
+    "old_value": "",
+    "new_value": "Yale RG242目录将两卷16mm正片与2015年收到的Reel1/9分列，并列马吉影片说明笔记位置。",
+    "change_type": "catalog_locator_progress",
+    "limitations": "现代馆藏卷号、正片卷数不等于1938年费奇随身原底片卷数；notes原件请求仅得HTTP202空响应，未读。",
+    "counterevidence": "",
+    "related_event_ids": [],
+    "related_unresolved_ids": [
+      "INT-U02"
+    ],
+    "actors": "",
+    "read_at_utc": "2026-11-07T01:36:03.502092+00:00",
+    "unresolved_ids": [
+      "INT-U02"
+    ],
+    "task004_domain": "international004"
+  },
+  {
+    "claim_id": "T4-TR-C001",
+    "old_value": "SRC-0152篇名、作者、刊期不明；仅074页",
+    "new_value": "SRC-0152同一母篇身份为徐婉玲《重走故宫文物南迁路考察记（一）》，《紫禁城》2010年第10期（总189期），pp72–77。",
+    "source_ids": [
+      "SRC-0152"
+    ],
+    "locator": "p72题名署名＋目录期次与起页＋p77结束",
+    "claim_status": "supported",
+    "limitations": "仅书目身份补全；不升级其中每个历史断言。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-010"
+    ],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "已有充分支持"
+  },
+  {
+    "claim_id": "T4-TR-C002",
+    "old_value": "SRC-0152脚注4–9未取得",
+    "new_value": "p75注8把三列车七千余箱叙述指向马衡2009重刊p10；本轮取得所引全文。",
+    "source_ids": [
+      "SRC-0152",
+      "SRC-0169"
+    ],
+    "locator": "徐文p75注8；马文p10右栏",
+    "claim_status": "supported",
+    "limitations": "来源依赖确认，非新增独立互证。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02",
+      "TRU03"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-010"
+    ],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "已有充分支持"
+  },
+  {
+    "claim_id": "T4-TR-C003",
+    "old_value": "仅现代研究间接转引运输叙述",
+    "new_value": "马衡1947广播回顾记述津浦车皮调至下关，陆路运出三列车七千余箱；续页记过江后循津浦、陇海至宝鸡。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p10右栏中下部；p11左栏中段",
+    "claim_status": "single_source",
+    "limitations": "战后回顾重刊；没有具体船名、装车/渡江/发车日期。保留概数，不替换7287箱的不同口径。",
+    "counterevidence": "不能据叙述顺序推定三列车末渡必在12/3之前，亦不能凭此证实12/8末渡。",
+    "unresolved_ids": [
+      "TRU02",
+      "TRU03"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "仅有单一来源支持"
+  },
+  {
+    "claim_id": "T4-TR-C004",
+    "old_value": "未取得SRC-0152脚注中的直接叙述",
+    "new_value": "马衡广播回顾将拟装太古洋行轮船的两千余箱滞运置于1937-12-03，并说明轰炸与候船拥挤、船不靠码头，最终退回保存库。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p10右栏“尚有二千余箱次要之品”至“再运回保存库”段",
+    "claim_status": "single_source",
+    "limitations": "仅具体货运失败及回忆中的原因；不是全港全部船舶停航令，也没有证明每个平民无法离开。",
+    "counterevidence": "徐文2010p76重述此事但不能当独立互证。",
+    "unresolved_ids": [
+      "TRU04",
+      "TRU06"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "仅有单一来源支持"
+  },
+  {
+    "claim_id": "T4-TR-C005",
+    "old_value": "原转引链未落到成文时间",
+    "new_value": "马衡重刊文本末尾明记其广播日期为1947-09-03。",
+    "source_ids": [
+      "SRC-0169"
+    ],
+    "locator": "p13末行",
+    "claim_status": "supported",
+    "limitations": "这是2009编辑重刊所标的形成日期；未取得1947底本。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "已有充分支持"
+  },
+  {
+    "claim_id": "T4-TR-C006",
+    "old_value": "两客渡船名完全无具体可调报刊线索",
+    "new_value": "申报数据库公开元数据存在1937-01-06条目，标题转录提到澄平、華勝渡轮。",
+    "source_ids": [
+      "SRC-0170"
+    ],
+    "locator": "公开元数据标题、出版信息；open_shenbao_metadata.json L13、18–19",
+    "claim_status": "unverified",
+    "limitations": "仅元数据存在事实与待调线索；不是对1937年末两船身份的确认。",
+    "counterevidence": "未取得原报图像/版次；时间早于研究窗口十个月；不能排除同名异船。",
+    "unresolved_ids": [
+      "TRU01"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "尚待核实"
+  },
+  {
+    "claim_id": "T4-TR-C007",
+    "old_value": "外审把回忆概数改为各载或每天可渡3000",
+    "new_value": "现有SRC-0083转录不含“各”字；700–800人/次语义仍有歧义；约3000是邻段所述第三十六师实际渡江结果，不能改作两船每天运力。",
+    "source_ids": [
+      "SRC-0083"
+    ],
+    "locator": "原缓存HTML非空文本69–70；派生reading.txt59–60（见AUD-M003/004）",
+    "claim_status": "supported_with_limits",
+    "limitations": "只对已取得网页转录作文本判断；未得回忆原刊，不以此核定船舶额定容量。",
+    "counterevidence": "",
+    "unresolved_ids": [
+      "TRU01",
+      "TRU05"
+    ],
+    "linked_existing_claim_ids": [
+      "EV-A-001",
+      "EV-A-002"
+    ],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "有证据支持，但存在限定"
+  },
+  {
+    "claim_id": "T4-TR-C008",
+    "old_value": "NJ-045题名及刊载信息只作泛称方志江苏报道",
+    "new_value": "原缓存NJ-045页面明示《大桥没通车的日子，火车这样过江》，《社区新报》2023-09-29第003版“方志江苏”；12/6为其正文说法。",
+    "source_ids": [
+      "SRC-0084"
+    ],
+    "locator": "NJ-045原HTML页头edition字段及“长江号渡轮”节；本轮派生NJ045_derived_reading.txt",
+    "claim_status": "supported_with_limits",
+    "limitations": "并未找回文章精确在线URL；网页原始捕获时间未知。报道不附12/6所据航海原档；保留未核。",
+    "counterevidence": "不把2023报道日期当船舶日志形成日期；不同船尺寸和载车描述还有口径问题，本轮不择一替换。",
+    "unresolved_ids": [
+      "TRU02"
+    ],
+    "linked_existing_claim_ids": [],
+    "historical_model_parameter_change": false,
+    "task004_domain": "transport004",
+    "claim_status_original": "有证据支持，但存在限定"
+  },
+  {
+    "claim_id": "T4-TL-C01",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "T3-E0019并列宋的24日正式发表说和政大命令日期；尚未见公报原页。",
+    "new_value": "国民政府公报渝字第1号印p10所载唐任命令日期为1937-11-24。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p10/PDF247",
+    "claim_status": "supported_with_limits",
+    "limitations": "只证公报令文日期，不能换成当日实际签发、收报或就职时刻。",
+    "counterevidence": "19日蒋手令、20日视事另属不同命题。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0171"
+    ],
+    "unresolved_ids": [
+      "TL-U01"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C02",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "政大结构化职位行未保存命令原句中的兼字。",
+    "new_value": "公报任命原句为“特派唐生智兼南京衛戍司令長官。此令。”",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p10/PDF247左下1937-11-24令",
+    "claim_status": "supported_with_limits",
+    "limitations": "“兼”照原件；不自行补其兼任之前原职、权责或实际指挥范围。",
+    "counterevidence": "无。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0171"
+    ],
+    "unresolved_ids": [
+      "TL-U01"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C03",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0019"
+    ],
+    "old_value": "TL-U01旧next_steps要求找24日公报原期，令日与公报期日尚未分清。",
+    "new_value": "载有该任命令的渝字第1号公报封面日期为1937-12-01。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "PDF235封面；印p10/PDF247任命令",
+    "claim_status": "supported_with_limits",
+    "limitations": "这一本期刊载日不等于任命首次公开传达日；不能用它否定宋所说24日其他途径“发表”。",
+    "counterevidence": "11/24是公报内令日。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "split_document_date_and_issue_date",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0171"
+    ],
+    "unresolved_ids": [
+      "TL-U01"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C04",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [],
+    "old_value": "旧清单无公报停刊/续刊定位。",
+    "new_value": "本期启事说明11月17日第2511号在南京印行后，自11月18日起至月底迁移期间不能正常出版；迁渝后以渝字第1号接续。",
+    "evidence_ids": [
+      "SRC-0171"
+    ],
+    "citation_locator": "印p16/PDF253《本報啟事》",
+    "claim_status": "supported_with_limits",
+    "limitations": "为出版机构同期自述；只解释公报出版延后，不用于推断唐已收命令。",
+    "counterevidence": "无。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0171"
+    ],
+    "unresolved_ids": [
+      "TL-U01"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C05",
+    "issue_ids": [
+      "TL-U01"
+    ],
+    "old_event_ids": [
+      "T3-E0010",
+      "T3B-E-TL-12"
+    ],
+    "old_value": "SRC-0058后期回忆转录将唐奉命兼任放在11月20日。",
+    "new_value": "谭道平1946《南京卫戍战史话》印p48记唐在11月16日奉命兼首都卫戍司令长官。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p48/PDF56",
+    "claim_status": "conflicted",
+    "limitations": "这是回忆版本内容的核实，不采16日为确定受命日；不得消去20日版本。",
+    "counterevidence": "SRC-0058后期谭文20日说、宋19日手令/20日视事及公报24日令日并列。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_version_conflict",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U01"
+    ],
+    "task004_domain": "command004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-TL-C06",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "正式下发件和完整附表未见；仅有网络转录和孙研究所述空括号。",
+    "new_value": "谭1946原书印p72的特字第1号转录，第2款日期处保留空括号。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p72/PDF80",
+    "claim_status": "supported_with_limits",
+    "limitations": "取得的是战后书内转录，非1937正式下发件，不能由空括号证明正式命令不存在。",
+    "counterevidence": "SRC-0058网络转录省略空括号；SRC-0056孙文曾指出影印档案附录与谭书均留空。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "establish_edition_reading",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U04"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C07",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "未能定位完整附表原书页。",
+    "new_value": "谭1946原书印p74–76刊有附表一《南京卫戍军突围计划》和附表二《各部队转进时连络信号规定表》。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "附表一印p74–75/PDF82–83；附表二印p76/PDF84",
+    "claim_status": "supported_with_limits",
+    "limitations": "仅完成该书所刊两附表的载体定位，不称已得正式发出附件；表列为计划而非实际执行。",
+    "counterevidence": "正式下发件及附件仍未得。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "narrow_missing_attachment_scope",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U04"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C08",
+    "issue_ids": [
+      "TL-U04"
+    ],
+    "old_event_ids": [
+      "T3-E0112"
+    ],
+    "old_value": "SRC-0058网络文面下午3时、铁道部已读。",
+    "new_value": "谭1946原书转录抬头同载12月12日下午3时、首都铁道部卫戍司令部。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p72/PDF80",
+    "claim_status": "supported_with_limits",
+    "limitations": "属于书内转录的文面，不证明签署、发出或会议恰在该时该地。",
+    "counterevidence": "末次会议另在同书p77记16时唐公馆。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U04"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C09",
+    "issue_ids": [
+      "TL-U05"
+    ],
+    "old_event_ids": [
+      "T3-E0120",
+      "T3-E0121"
+    ],
+    "old_value": "谭后期转录记16时唐公馆，与宋/唐编注17时并列。",
+    "new_value": "谭1946原书印p77同样将末次会议记为当日下午4时、唐公馆。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p77/PDF85",
+    "claim_status": "conflicted",
+    "limitations": "加强版本可追溯性，仍是同一作者回忆族，不新增一份独立见证。",
+    "counterevidence": "宋17时及唐文编注17时未被排除。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U05"
+    ],
+    "task004_domain": "command004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-TL-C10",
+    "issue_ids": [
+      "TL-U02"
+    ],
+    "old_event_ids": [
+      "T3-E0110",
+      "T3-E0111"
+    ],
+    "old_value": "T3-E0110据后期谭文记12日凌晨2时被唤去起草。",
+    "new_value": "1946谭书p70先记“十一日夜三時”就寝、睡一小时余后被唤，随后叙见唐并奉命拟撤退令。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p70–72/PDF78–80",
+    "claim_status": "conflicted",
+    "limitations": "原词保留；不将“十一日夜”自动换算12日凌晨，不据回忆证明两真电到台或阅电时间。",
+    "counterevidence": "与后期谭文时刻、孙研究12日3时说存在版本差异。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_version_conflict",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U02"
+    ],
+    "task004_domain": "command004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-TL-C11",
+    "issue_ids": [
+      "TL-U06"
+    ],
+    "old_event_ids": [],
+    "old_value": "逐级接令日志缺失；旧表已有宋回部后电话及21:30面授。",
+    "new_value": "谭1946书另列长官部等六次渡江安排，记有计划开始时段和指挥官。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p78–80/PDF86–88",
+    "claim_status": "supported_with_limits",
+    "limitations": "只证谭书记录一份安排，不证明各单位收到、实际登船或完成；不得将计划时间填入接令矩阵。",
+    "counterevidence": "基层签收资料仍缺。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U06"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C12",
+    "issue_ids": [
+      "TL-U07"
+    ],
+    "old_event_ids": [
+      "T3-E0139",
+      "T3-E0144",
+      "T3-E0145"
+    ],
+    "old_value": "后期谭文22时抵浦口、13日经扬州路线已保留。",
+    "new_value": "谭1946书p85记22时抵浦口，p86记翌日晨7时抵扬州，再至滁州并晚赴临淮关。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p85–86/PDF93–94",
+    "claim_status": "conflicted",
+    "limitations": "为作者以“我们”叙述的回忆路线；不据此证明唐每一程同行或与另一目录电对应同件。",
+    "counterevidence": "宋约21时渡完；SRC-0151为12/14目录电，另有研究引13日六合/滁州路线。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U07"
+    ],
+    "task004_domain": "command004",
+    "claim_status_original": "conflicting"
+  },
+  {
+    "claim_id": "T4-TL-C13",
+    "issue_ids": [
+      "TL-U09"
+    ],
+    "old_event_ids": [
+      "T3-E0146"
+    ],
+    "old_value": "谭14日奉命赴汉与唐24日呈报未区分实际抵汉时间。",
+    "new_value": "谭1946书p87把14日写为长官部人员奉调武汉待命。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p87/PDF95",
+    "claim_status": "supported_with_limits",
+    "limitations": "奉调不等于机构正式撤销，也不等于当日抵汉。",
+    "counterevidence": "机构撤销令仍缺。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "supplement",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U09"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-TL-C14",
+    "issue_ids": [
+      "TL-U09"
+    ],
+    "old_event_ids": [
+      "T3-E0148"
+    ],
+    "old_value": "未取得谭早期版本个人抵汉日期。",
+    "new_value": "谭1946书p87记叙述者本人20日抵汉口。",
+    "evidence_ids": [
+      "SRC-0172"
+    ],
+    "citation_locator": "印p87/PDF95",
+    "claim_status": "single_source",
+    "limitations": "主语是谭“我”；不得移作唐生智20日抵汉，更不得据此把唐24日呈报改为抵达。",
+    "counterevidence": "唐的实际抵汉日、全司令部抵汉日仍未核。",
+    "change_reason": "实际取得并逐页目视核读新载体；保留文面、发表、履职及来源版本的区别。",
+    "recommended_operation": "add_person_specific_claim",
+    "resolved_issue": false,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "unresolved_ids": [
+      "TL-U09"
+    ],
+    "task004_domain": "command004"
+  },
+  {
+    "claim_id": "T4-B-C01",
+    "claim": "所取得1946年7月再版谭书兵力表位于印93–95，原称85页不符",
+    "old_value": "原库指85页；原表未得",
+    "new_value": "印93–95/PDF101–103已目视；印85为撤渡叙述",
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "PDF93、101–103、136",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "不推定其他版页码完全相同",
+    "unresolved_ids": [
+      "B-U01"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（仅版本与定位）"
+  },
+  {
+    "claim_id": "T4-B-C02A",
+    "claim": "第83军原刊统计与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 6000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印93 / PDF101",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-024",
+    "unresolved_ids": [
+      "B-U01"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（原刊数转录）"
+  },
+  {
+    "claim_id": "T4-B-C02B",
+    "claim": "教导总队原刊统计与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 11000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-054",
+    "unresolved_ids": [
+      "B-U01"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（原刊数转录）"
+  },
+  {
+    "claim_id": "T4-B-C02C",
+    "claim": "第58师原刊伤亡及踪迹不明与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 3000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-041",
+    "unresolved_ids": [
+      "B-U01"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（原刊数转录）"
+  },
+  {
+    "claim_id": "T4-B-C03",
+    "claim": "谭原刊表10行各列和与页95总计存在内部不一致",
+    "old_value": "旧MD所谓原表统计和58500、伤亡踪迹不明35500",
+    "new_value": {
+      "row_sums": [
+        49000,
+        31000,
+        71500,
+        36500
+      ],
+      "printed_totals": [
+        49000,
+        33000,
+        81000,
+        36000
+      ]
+    },
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印93–95；TAN1946_TABLE.csv及ARITHMETIC.json",
+    "claim_nature": "I",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U01",
+      "B-U03"
+    ],
+    "limitations": "原刊数字照录，三项总计不合不是允许改造成真值的依据。80000是战斗+杂兵分项计算。",
+    "unresolved_ids": [
+      "B-U01",
+      "B-U03"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（算术）"
+  },
+  {
+    "claim_id": "T4-B-C04",
+    "claim": "谭表将103师、112师、宪兵及直属各部队作为一个合并行，与教导总队分行",
+    "old_value": "未取得原表，仅转述合并项",
+    "new_value": "原刊印94可核该分行结构；合并行2000/4000/6000；教总7000/4000/11000",
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102最左两行",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U04",
+      "B-U06"
+    ],
+    "limitations": "仅谭表统计集合；不能解决张连红网页3万措辞及同期编制/临时配属重叠",
+    "unresolved_ids": [
+      "B-U04",
+      "B-U06"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "有证据支持，但存在限定"
+  },
+  {
+    "claim_id": "T4-B-C05A",
+    "claim": "孙1997原刊将11968列于第78军（即36师）",
+    "old_value": "旧资料仅取得网络转载，原刊版未得",
+    "new_value": 11968,
+    "source_ids": [
+      "SRC-0174"
+    ],
+    "locator": "印13 / PDF6，第三节第二段及注②",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U05",
+      "B-U08"
+    ],
+    "limitations": "不能证明军师统计完全等同、所有数字是同一天，也不否定11967；引用底表仍未得",
+    "unresolved_ids": [
+      "B-U05",
+      "B-U08"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（研究版本说法）"
+  },
+  {
+    "claim_id": "T4-B-C05B",
+    "claim": "孙1997原刊将5490列于宪兵部队（4个团）",
+    "old_value": "旧资料仅取得网络转载，原刊版未得",
+    "new_value": 5490,
+    "source_ids": [
+      "SRC-0174"
+    ],
+    "locator": "印13 / PDF6，第三节第二段及注②",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "不能证明军师统计完全等同、所有数字是同一天，也不否定11967；引用底表仍未得",
+    "unresolved_ids": [
+      "B-U06"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "已有充分支持（研究版本说法）"
+  },
+  {
+    "claim_id": "T4-B-C06",
+    "claim": "宪兵详报人员表在1937-12-09至12-13的战斗参加人员栏列官353、兵5099",
+    "old_value": "353+5099=5452仅见二手引文",
+    "new_value": {
+      "officers_printed": 353,
+      "soldiers_printed": 5099,
+      "total_I": 5452,
+      "period": "1937-12-09/1937-12-13"
+    },
+    "source_ids": [
+      "SRC-0175"
+    ],
+    "locator": "公开阅读器12.jpg（手写页16），参加人马栏合计；日期题头",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "原图低分辨率；已核可读合计，兵分项未辨；5452是该期间表列参加人数之和，非12/8或某日实际在宁，更非全军净额。",
+    "unresolved_ids": [
+      "B-U06"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "有证据支持，但存在限定"
+  },
+  {
+    "claim_id": "T4-B-C07",
+    "claim": "该宪兵表范围含司令部、宪二团、宪五团、宪十团、教导团、特务营",
+    "old_value": "三团/四团简称可能混同",
+    "new_value": "六个表行；备考军佐军属计入军官，准尉特务长和准尉司书列士兵；并非只有团员",
+    "source_ids": [
+      "SRC-0175"
+    ],
+    "locator": "12.jpg（手写页16）单位行、备考一/二",
+    "claim_status": "supported_with_limits",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "含四个团名不代表四个完整团；各团在宁全额与5团之一部等仍需完整卷核；不把警察另加。",
+    "unresolved_ids": [
+      "B-U06"
+    ],
+    "task004_domain": "troops004",
+    "claim_status_original": "有证据支持，但存在限定"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "question_id": "B-U01",
+    "resolved": false,
+    "progress": "取得1946七月再版本表图像；页码与10行40数核读，修3个转录误值，保留3处行内及3处总计不符。",
+    "existing_evidence": [
+      "SRC-0172"
+    ],
+    "conflicts": "三列总计与分项和不一致；刊本概数不是统一实点。",
+    "attempts_and_failures": "Commons普通HTTP403；受支持浏览器Original file成功；NLC503；原刊目视与root独立复核。",
+    "next_step": "取得1946五月初版对照排印，继续追各军呈报底账。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U02",
+    "resolved": false,
+    "progress": "未取得汪文。复核程瑶唐恺2018页面仅导言及APP登录提示，未冒称全文。",
+    "existing_evidence": [
+      "SRC-0016",
+      "SRC-0033",
+      "SRC-0081",
+      "SRC-0082"
+    ],
+    "conflicts": "两个汪文题名、2020#2 pp13–22和所谓勘误仍未确证。",
+    "attempts_and_failures": "精确题名/作者检索；fybk 741474返回503；ncpssd入口403且web仅当前期；fx2018目录403；未绕登录。",
+    "next_step": "正式期刊2020#2目录/首页/作者索引；取得全文后逐格核其勘误对象。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U03",
+    "resolved": false,
+    "progress": "谭原刊页95自说明上表为各军呈报概数，并有新兵潜逃与单位未缩小。",
+    "existing_evidence": [
+      "SRC-0172",
+      "SRC-0175"
+    ],
+    "conflicts": "没有全军统一统计日、人员进出和损失底账。",
+    "attempts_and_failures": "核谭整表及注；取得宪兵特定期间一表；不能据此补其他单位。",
+    "next_step": "按同一统计日逐军调实力册及人员调补清册；避免重复扣淞沪损失。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U04",
+    "resolved": false,
+    "progress": "谭原刊明确教总与103/112/宪兵/直属合并项分行；旧张网页原HTML仍无分隔符。",
+    "existing_evidence": [
+      "SRC-0072",
+      "SRC-0127",
+      "SRC-0172"
+    ],
+    "conflicts": "张网页3万人究竟包含哪些单位未得原研究确认；谭表不同数不自动否定它。",
+    "attempts_and_failures": "复用SRC0072 HTML核原标点/排校异文；搜索上溯未取得张研究原表；未把转载算互证。",
+    "next_step": "张连红原研究/采访底稿；103/112配属令与名册分别确定指挥和统计范围。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U05",
+    "resolved": false,
+    "progress": "取得孙1997原刊13页的11968版本，并核其上溯1988书文。谭表36师4000+2000但统计7000。",
+    "existing_evidence": [
+      "SRC-0071",
+      "SRC-0072",
+      "SRC-0172",
+      "SRC-0174"
+    ],
+    "conflicts": "宋回忆7000余、张网页11967、孙刊11968仍不同；不判编制/实有。",
+    "attempts_and_failures": "取得孙PDF目视13–14；孙人口PDF原链接503；无36师实力底表。",
+    "next_step": "1988《南京保卫战双方兵力的研究》原文及36师/78军人员清册、补充/调出时点。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U06",
+    "resolved": false,
+    "progress": "取得宪兵详报12幅公开影印；表列参加官353+兵5099=5452；六单位与备考已核；孙1997仍写4团5490。",
+    "existing_evidence": [
+      "SRC-0076",
+      "SRC-0174",
+      "SRC-0175"
+    ],
+    "conflicts": "5490所据原表未取得；不同期间与人员包含关系仍未齐；警察不在该表单列。",
+    "attempts_and_failures": "国家档案局原站503，web502；通过公开目录链接取得纪念网阅读器及公开图；basic-html404，浏览器连通失败已记录，普通HTTPS资产成功，未登录。",
+    "next_step": "较高分辨率完整宪兵原卷（尤其现缺页14–15）、5490所据原表及警察名册，核统计期间/军佐/军属/准尉口径。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U07",
+    "resolved": false,
+    "progress": "未新增到达电或代理任命原件；保留SRC0127、0148既有分阶段到达线索。",
+    "existing_evidence": [
+      "SRC-0127",
+      "SRC-0148"
+    ],
+    "conflicts": "受命、先头、主力、到城与实际代理权限仍不同。",
+    "attempts_and_failures": "本轮围绕原表与宪兵公开卷定向追索；没有因谭概数表顺带补到达日期。",
+    "next_step": "徐源泉到达原电、行军日志及103/112战报和代理授权原令。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  },
+  {
+    "question_id": "B-U08",
+    "resolved": false,
+    "progress": "孙原刊写78军（即36师）可核为该研究自己的表述；谭按36、87、88师单列。",
+    "existing_evidence": [
+      "SRC-0071",
+      "SRC-0172",
+      "SRC-0174"
+    ],
+    "conflicts": "不能据称谓推出军部人员已全计入师人数。",
+    "attempts_and_failures": "原刊孙13/谭93–94与旧宋P48范围核对；未得军部直属同日清册。",
+    "next_step": "军部直属名册与师汇总说明逐个集合核对，不用研究数之差命名直属。",
+    "limited_narration": "只可按载体及时间范围限定引用；不得选一个总数当全军实际兵力",
+    "can_leave_blank": true,
+    "state_note": "子项已取得不等于复合问题全部闭合；B-U01原表获取/印字子项完成，保留历史真值与版本问题。"
+  }
+]

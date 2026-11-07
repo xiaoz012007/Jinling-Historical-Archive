@@ -1,0 +1,33 @@
+{
+  "capture_key": "web_search13",
+  "original_urls": [
+    "https://zh.wikipedia.org/wiki/%E5%94%90%E7%94%9F%E6%99%BA",
+    "https://wapbaike.baidu.com/item/%E5%94%90%E7%94%9F%E6%99%BA/644686",
+    "https://edata.nlpi.edu.tw/CNH/Personage/personage.aspx?ID=0000161",
+    "https://www.huangpu.org.cn/hpjs/201209/t20120923_3116549.html",
+    "https://zh.100ke.info/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80",
+    "https://ah.lib.nccu.edu.tw/item?item_id=101639",
+    "https://gateway.ipfsscan.io/ipfs/bafybeichypzjch6uuo5pe6btkctcusdwvp77xidgbh5kc2ipowvuaexhiq/wiki/%E6%B2%B3%E5%8D%97%E7%9C%81_%28%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%29"
+  ],
+  "final_url": null,
+  "accessed_at_utc": null,
+  "retrieval_date_utc": "2026-11-07",
+  "http_status": null,
+  "http_status_note": "web tool does not expose successful HTTP code; specific failure codes remain in saved result",
+  "payload_kind": "search_result",
+  "local_path": "Task004_Run/internal/command004/web_search13.json",
+  "sha256": "e41f3c9da091ce905170aea1a8a2e52cc7366762fd569dbeebfba56de106b835",
+  "complete_raw_response": false,
+  "completeness": "only tool-returned text/metadata; never substituted for complete original",
+  "failure_reason": "see stored tool result for each URL",
+  "time_note": "If the stored result lacks accessed_at_utc, exact request time was not recorded. Retrieval date 2026-11-07 only.",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-026",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

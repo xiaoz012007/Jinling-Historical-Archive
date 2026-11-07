@@ -1,0 +1,24 @@
+{
+  "capture_id": "REUSE-SRC-0144",
+  "source_id": "SRC-0144",
+  "original_url": null,
+  "final_url": null,
+  "started_at_utc": null,
+  "http_status": "not_applicable_local_reuse",
+  "payload_type": "existing_local_file",
+  "local_path": "Task003_Run/internal/atrocities/lusu-statement-image.jpg",
+  "sha256": "64fffac8d32d9f95a4f5d42f71f6554b11c2cdb48a592c6bdd081163139e00c7",
+  "scope": "本轮目视完整已得单幅图；未见具结日期页",
+  "rights_status": "rights_pending",
+  "limitations": "沿用原取得记录；本轮本地阅读不伪装成新增网络访问。",
+  "task004_domain": "atrocities004",
+  "task004_capture_id": "T4-CAP-atrocities004-020",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [
+    "SRC-0144"
+  ],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": false
+}

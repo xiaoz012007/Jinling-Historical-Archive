@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-07T01:30:38.854783+00:00",
+  "new_http_captures": 14,
+  "all_new_http_payload_hashes_match": true,
+  "existing_source_updates": 1,
+  "new_source_carriers": 2,
+  "new_independent_1937_shipping_logs": 0,
+  "question_count": 7,
+  "resolved_question_count": 0,
+  "historical_parameters_filled": 0,
+  "thirdparty_fulltext_public": false,
+  "pages_visually_read": [
+    "SRC-0152 pp72–77 + 2010.10 contents",
+    "SRC-0169 pp10–13 + 2009.03 contents"
+  ],
+  "not_obtained": [
+    "1947广播手稿或录音/原刊",
+    "1937申报原版影像",
+    "工程周刊1934卷3期1原页",
+    "1937船籍/航海/轮渡作业簿",
+    "逐日铁路民用运行图、油料账、天气水位原册"
+  ]
+}

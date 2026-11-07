@@ -1,0 +1,132 @@
+[
+  {
+    "source_id": "SRC-0172",
+    "title": "南京衛戍戰史話（1946年7月再版）",
+    "creator": "譚道平編述",
+    "created_date": "1946-07",
+    "type": "战后亲历者回忆著作的原版本扫描；PDF137页",
+    "source_nature": "T",
+    "carrier_nature": "原版本图像已取得；不等于1937同期实力册",
+    "publisher": "東南文化事業出版社",
+    "original_url": "https://read.nlc.cn/allSearch/searchDetail?fid=02jh004208&indexName=data_416&searchType=24&showType=1",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NLC416-02jh004208-14055_%E5%8D%97%E4%BA%AC%E8%A1%9B%E6%88%8D%E6%88%B0%E5%8F%B2%E8%A9%B1.pdf",
+    "accessed_at_utc": "2026-11-07T01:26:29.095915+00:00",
+    "locator": "兵力表印93–95 / PDF101–103；印85 / PDF93；题名PDF1、版权PDF136",
+    "reading_scope": "troops004目视题名PDF1、肖像PDF2、版权PDF136、印85、93–96；command004另目视自序PDF4、目录PDF5–6、正文44–49及69–87；全书已下载但未完整阅读",
+    "source_family": "谭道平南京卫戍战回忆",
+    "relations": [
+      {
+        "id": "SRC-0016",
+        "relation": "旧项目1946谭表书目线索的同著作潜在上溯；其原错误fybk入口保留，不覆盖"
+      },
+      {
+        "id": "SRC-0058",
+        "relation": "同一作者相关回忆网络选录，版本内容可有差异；不算独立互证"
+      }
+    ],
+    "archive_id": "",
+    "catalog_identifier": "NLC416-02jh004208-14055（Commons标示的NLC数字图书标识；NLC原站503未独立核馆藏）",
+    "rights_status": "rights_pending_private_only",
+    "rights_note": "Commons标PD-China/PD-scan，但有美国产权标签警示；书版权页版权有属/翻印必究。未独立完成存续期与地域审查，全文不公开。",
+    "local_path": "Task004_Run/internal/troops004/tan1946.pdf",
+    "sha256": "590f77cbded8dd03d5914edd037dab60f7d2a918fa3b99c0ece6ba373a9eb7ac",
+    "original_text_obtained": true,
+    "fully_read": false,
+    "limitations": "初版1946年5月、所获为7月再版；精确到刊本印字可核，历史实际兵力仍需同期实力册。不得以原书获取消除自相矛盾。"
+  },
+  {
+    "source_id": "SRC-0173",
+    "title": "南京保卫战中的十万国军",
+    "creator": "江紫辰",
+    "created_date": "2017-07-24 18:29",
+    "type": "署名新闻平台历史评论",
+    "source_nature": "T",
+    "original_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+    "final_url": "https://www.thepaper.cn/newsDetail_forward_1701904",
+    "accessed_at_utc": "2026-11-07T01:20:22.722629+00:00",
+    "locator": "派生段号P0015–P0022，特别P0018",
+    "reading_scope": "已读网页正文；本文引用的底档未由此取得",
+    "source_family": "江紫辰南京兵力考述；内引谭道平及宪兵详报",
+    "relations": [
+      {
+        "id": "SRC-0172",
+        "relation": "关于谭表数字是转述同书"
+      },
+      {
+        "id": "SRC-0175",
+        "relation": "353+5099二手引文现可回附表核；不得算独立两份实力表"
+      }
+    ],
+    "rights_status": "no_fulltext_redistribution",
+    "rights_note": "页面明载未经授权不得转载；仅公开元数据、定位和原创研究说明。",
+    "local_path": "Task004_Run/internal/troops004/thepaper_100k.html",
+    "sha256": "c0ae1803c5efc45ba940102ce54c80c28477f16f75a66a987575337fbad7063e",
+    "limitations": "只用于追索。正文三团简称与原附表含司令部、4个团名和特务营的范围不等；不承接逆算兵力或损失推断。"
+  },
+  {
+    "source_id": "SRC-0174",
+    "title": "南京大屠杀遇难同胞中究竟有多少军人（《抗日战争研究》1997年第4期原刊版PDF）",
+    "creator": "孙宅巍",
+    "created_date": "1997",
+    "type": "学术论文原刊页面PDF的公开转载",
+    "source_nature": "S",
+    "publication": "抗日战争研究，1997年第4期，8–17页",
+    "original_url": "https://www.krzzjn.com/show-2313-106503.html",
+    "final_url": "https://www.krzzjn.com/uploadfile/2020/0426/20200426052138309.pdf",
+    "accessed_at_utc": "2026-11-07T01:29:00.858891+00:00",
+    "locator": "印13–14页 / PDF6–7，印13注②、印14注①；首页印8 / PDF1",
+    "reading_scope": "下载全10页，目视印8、13、14；未完整阅读全篇",
+    "source_family": "孙宅巍兵力研究",
+    "relations": [
+      {
+        "id": "SRC-0074",
+        "relation": "同题论文在红网的转载；同源，不新增独立兵力证据"
+      },
+      {
+        "id": "SRC-0172",
+        "relation": "印13注①引用谭1946表印95，属转述同源"
+      }
+    ],
+    "rights_status": "rights_pending_private_only",
+    "rights_note": "1997学术论文，有出版版权标记；公开载体不等于再分发授权。",
+    "local_path": "Task004_Run/internal/troops004/sun1997.pdf",
+    "sha256": "e7f045302c8dfc5873d66a2519611e62bafecda1c0dc90465c7bb64379a1da90",
+    "limitations": "核见研究版11968及5490，不等于取得其所据各军原始详报。印13注②上溯《南京保卫战双方兵力的研究》载《新旧战争史事探索》上海社会科学院出版社1988年版，未取得该书。不能把不同单位/时期资料或外推15万当同日实数。"
+  },
+  {
+    "source_id": "SRC-0175",
+    "title": "憲兵司令部在京抗戰部隊之戰鬥詳報（公开影印12图）",
+    "creator": "宪兵司令部（文首题名）",
+    "created_date": "",
+    "created_date_unknown_reason": "附表统计期间1937-12-09至12-13，形成日期未取得；不以统计期间代成文日",
+    "type": "同期战斗详报影印，经抗日战争纪念网转载；图有中国第二历史档案馆水印",
+    "source_nature": "P",
+    "original_url": "https://www.saac.gov.cn/zt/2014-08/29/content_64765_9.htm",
+    "final_url": "https://www.krzzjn.com/book/104757/6/mobile/index.html",
+    "accessed_at_utc": "2026-11-07T01:33:29.858450+00:00",
+    "locator": "公开阅读器第12图（手写页16）人员实力伤亡表；第1图文首；第2图部队区分",
+    "reading_scope": "12图全部下载；目视第1、2、8、9、10、11、12图；第12图合计、单位名及备考重点核读。第3–7图未读。原图600px宽，士兵分项不可可靠辨字。",
+    "source_family": "宪兵司令部南京战斗详报；二档馆影印",
+    "relations": [
+      {
+        "id": "SRC-0076",
+        "relation": "同一国家档案局展览目录的宪兵详报子件，新增实际图像载体，非独立互证"
+      },
+      {
+        "id": "SRC-0173",
+        "relation": "该网页所引353/5099上溯此统计表；三团概括不可据此扩大为表全部范围"
+      }
+    ],
+    "archive_id": "",
+    "archive_id_unknown_reason": "第三方搜索有七八七/7595线索但未见馆方目录确认；图侧手写数字不擅定档号",
+    "rights_status": "rights_pending_private_only",
+    "rights_note": "官方发布及水印不是开放再分发许可；公开候选仅表格事实数据/原创说明/链接，图片不入Public。",
+    "local_path": "Task004_Run/internal/troops004/xianbing_pages/12.jpg",
+    "sha256": "9ab8dd31985d6efd94f4005ce2cf6ea4dbf308a4b8ffdde6b1adc5b1bfb0d71a",
+    "component_captures": "Task004_Run/internal/troops004/xianbing_images_capture.json",
+    "original_text_obtained": true,
+    "fully_read": false,
+    "complete_original": false,
+    "limitations": "12图是公开阅读器全部页面，不宣称完整馆藏原卷：手写页码从3至16，14–15等未在此次页序中出现。官353、兵5099可核；分项士兵及5490版本尚不能闭合；本表不单列警察全员数。"
+  }
+]

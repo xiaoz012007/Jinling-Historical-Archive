@@ -1,0 +1,20 @@
+{
+  "original_url": "https://gpost.lib.nccu.edu.tw/view_career.php?name=%E5%94%90%E7%94%9F%E6%99%BA&pagenumber=20&order=default&orderype=asc&tpl=rough&page=2",
+  "accessed_at_utc": "2026-11-07T01:19:36.905105+00:00",
+  "final_url": "https://gpost.lib.nccu.edu.tw/view_career.php?name=%E5%94%90%E7%94%9F%E6%99%BA&pagenumber=20&order=default&orderype=asc&tpl=rough&page=2",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 25960,
+  "sha256": "2cb6a6fbd729ccc1661553b31ab407f1d19e7b75dfebafc34854984938731305",
+  "metadata_path": "Task004_Run/internal/command004/nccu_tang_p2.capture.json",
+  "payload_kind": "raw_html",
+  "task004_domain": "command004",
+  "task004_capture_id": "T4-CAP-command004-012",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": false,
+  "public_raw_path": "",
+  "rights_status": "rights_pending",
+  "source_payload_success_conservative": false
+}

@@ -1,0 +1,23 @@
+{
+  "capture_id": "xianbing-image-11",
+  "original_url": "https://www.krzzjn.com/book/104757/6/files/mobile/11.jpg",
+  "accessed_at_utc": "2026-11-07T01:33:47.053560+00:00",
+  "link_context": "public mobile reader config normalPath ../files/mobile/, totalPageCount=12; main realPageDir normalPath+page+getFileFormat; securityType1 maps no password; retrieved page asset not original archive URL",
+  "final_url": "https://www.krzzjn.com/book/104757/6/files/mobile/11.jpg",
+  "http_status": 200,
+  "bytes": 255872,
+  "sha256": "8dae1ec827fd76ba1ea97f58d0385accabf0bbf105b5f82081b98c64008ed07d",
+  "local_path": "Task004_Run/internal/troops004/xianbing_pages/11.jpg",
+  "capture_status": "saved",
+  "content_type": "image/jpeg",
+  "metadata_file": "Task004_Run/internal/troops004/xianbing_images_capture.json",
+  "rights_status": "rights_pending",
+  "task004_domain": "troops004",
+  "task004_capture_id": "T4-CAP-troops004-029",
+  "public_fulltext_allowed": false,
+  "public_snapshot_policy": "Task004只公开采集元数据与原创说明；本轮第三方全文不入库",
+  "source_ids": [],
+  "original_payload_hash_verified": true,
+  "public_raw_path": "",
+  "source_payload_success_conservative": true
+}

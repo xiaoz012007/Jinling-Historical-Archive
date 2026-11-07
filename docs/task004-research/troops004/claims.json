@@ -1,0 +1,177 @@
+[
+  {
+    "claim_id": "T4-B-C01",
+    "claim": "所取得1946年7月再版谭书兵力表位于印93–95，原称85页不符",
+    "old_value": "原库指85页；原表未得",
+    "new_value": "印93–95/PDF101–103已目视；印85为撤渡叙述",
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "PDF93、101–103、136",
+    "claim_status": "已有充分支持（仅版本与定位）",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "不推定其他版页码完全相同"
+  },
+  {
+    "claim_id": "T4-B-C02A",
+    "claim": "第83军原刊统计与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 6000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印93 / PDF101",
+    "claim_status": "已有充分支持（原刊数转录）",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-024"
+  },
+  {
+    "claim_id": "T4-B-C02B",
+    "claim": "教导总队原刊统计与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 11000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102",
+    "claim_status": "已有充分支持（原刊数转录）",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-054"
+  },
+  {
+    "claim_id": "T4-B-C02C",
+    "claim": "第58师原刊伤亡及踪迹不明与旧项目转录不符",
+    "old_value": 2000,
+    "new_value": 3000,
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102",
+    "claim_status": "已有充分支持（原刊数转录）",
+    "related_question_ids": [
+      "B-U01"
+    ],
+    "limitations": "只修转录；不把原刊数升格为1937实际点验数",
+    "related_observation_id": "FO-041"
+  },
+  {
+    "claim_id": "T4-B-C03",
+    "claim": "谭原刊表10行各列和与页95总计存在内部不一致",
+    "old_value": "旧MD所谓原表统计和58500、伤亡踪迹不明35500",
+    "new_value": {
+      "row_sums": [
+        49000,
+        31000,
+        71500,
+        36500
+      ],
+      "printed_totals": [
+        49000,
+        33000,
+        81000,
+        36000
+      ]
+    },
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印93–95；TAN1946_TABLE.csv及ARITHMETIC.json",
+    "claim_nature": "I",
+    "claim_status": "已有充分支持（算术）",
+    "related_question_ids": [
+      "B-U01",
+      "B-U03"
+    ],
+    "limitations": "原刊数字照录，三项总计不合不是允许改造成真值的依据。80000是战斗+杂兵分项计算。"
+  },
+  {
+    "claim_id": "T4-B-C04",
+    "claim": "谭表将103师、112师、宪兵及直属各部队作为一个合并行，与教导总队分行",
+    "old_value": "未取得原表，仅转述合并项",
+    "new_value": "原刊印94可核该分行结构；合并行2000/4000/6000；教总7000/4000/11000",
+    "source_ids": [
+      "SRC-0172"
+    ],
+    "locator": "印94 / PDF102最左两行",
+    "claim_status": "有证据支持，但存在限定",
+    "related_question_ids": [
+      "B-U04",
+      "B-U06"
+    ],
+    "limitations": "仅谭表统计集合；不能解决张连红网页3万措辞及同期编制/临时配属重叠"
+  },
+  {
+    "claim_id": "T4-B-C05A",
+    "claim": "孙1997原刊将11968列于第78军（即36师）",
+    "old_value": "旧资料仅取得网络转载，原刊版未得",
+    "new_value": 11968,
+    "source_ids": [
+      "SRC-0174"
+    ],
+    "locator": "印13 / PDF6，第三节第二段及注②",
+    "claim_status": "已有充分支持（研究版本说法）",
+    "related_question_ids": [
+      "B-U05",
+      "B-U08"
+    ],
+    "limitations": "不能证明军师统计完全等同、所有数字是同一天，也不否定11967；引用底表仍未得"
+  },
+  {
+    "claim_id": "T4-B-C05B",
+    "claim": "孙1997原刊将5490列于宪兵部队（4个团）",
+    "old_value": "旧资料仅取得网络转载，原刊版未得",
+    "new_value": 5490,
+    "source_ids": [
+      "SRC-0174"
+    ],
+    "locator": "印13 / PDF6，第三节第二段及注②",
+    "claim_status": "已有充分支持（研究版本说法）",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "不能证明军师统计完全等同、所有数字是同一天，也不否定11967；引用底表仍未得"
+  },
+  {
+    "claim_id": "T4-B-C06",
+    "claim": "宪兵详报人员表在1937-12-09至12-13的战斗参加人员栏列官353、兵5099",
+    "old_value": "353+5099=5452仅见二手引文",
+    "new_value": {
+      "officers_printed": 353,
+      "soldiers_printed": 5099,
+      "total_I": 5452,
+      "period": "1937-12-09/1937-12-13"
+    },
+    "source_ids": [
+      "SRC-0175"
+    ],
+    "locator": "公开阅读器12.jpg（手写页16），参加人马栏合计；日期题头",
+    "claim_status": "有证据支持，但存在限定",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "原图低分辨率；已核可读合计，兵分项未辨；5452是该期间表列参加人数之和，非12/8或某日实际在宁，更非全军净额。"
+  },
+  {
+    "claim_id": "T4-B-C07",
+    "claim": "该宪兵表范围含司令部、宪二团、宪五团、宪十团、教导团、特务营",
+    "old_value": "三团/四团简称可能混同",
+    "new_value": "六个表行；备考军佐军属计入军官，准尉特务长和准尉司书列士兵；并非只有团员",
+    "source_ids": [
+      "SRC-0175"
+    ],
+    "locator": "12.jpg（手写页16）单位行、备考一/二",
+    "claim_status": "有证据支持，但存在限定",
+    "related_question_ids": [
+      "B-U06"
+    ],
+    "limitations": "含四个团名不代表四个完整团；各团在宁全额与5团之一部等仍需完整卷核；不把警察另加。"
+  }
+]
