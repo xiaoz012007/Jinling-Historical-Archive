@@ -1,0 +1,29 @@
+{
+  "review_date": "2026-11-11",
+  "lead_id": "P-LEAD-09",
+  "event_id": "T3-E0199",
+  "source_id": "SRC-0176",
+  "reason": "原目录与中译定位之外，取得并核读耶鲁 NMP0158 副本影像。",
+  "old": {
+    "source_ids": "SRC-0101;SRC-0103",
+    "citation_locator": "SRC-0101 12/16日记后夹录函；SRC-0103 NMP0158目录",
+    "limitations": "NJ-007夹录函；NMP0158目录；函件日期优先按文面12/17，不按日记编排日期。NMP0158在Task003访问超时，Task004未重试。；原扫描未读；不推定实际交付日。",
+    "source_family": "Rabe-diary-and-IC-records;Yale-catalog",
+    "independent_evidence_status": "二轮所列来源链；未完成本轮独立互证复核",
+    "last_reviewed": "2026-11-07",
+    "review_level": "Task003成果继承；本轮未复核该具体所引段",
+    "reviewed_sources_this_round": ""
+  },
+  "new": {
+    "source_ids": "SRC-0101;SRC-0103;SRC-0176",
+    "citation_locator": "SRC-0176 NMP0158 PDF第1页（日期、抬头、请福井阅），第4–5页（交涉事项），第7页（署名、附件清单）；SRC-0101 12/16日记后夹录函；SRC-0103 NMP0158 目录",
+    "limitations": "首页标 Copy；PDF第7页列两个中文附件，扫描未见附件页。12月17日为函件文面日期，实际送达及收讫时间待核。委员会对此前交涉的陈述按单件来源理解。",
+    "source_family": "Rabe-diary-and-IC-records;Yale-catalog;Nanking-Safety-Zone-Committee-19371217-Fukui-letter",
+    "independent_evidence_status": "同一函的馆方中译与耶鲁副本同源；馆藏目录仅作定位；12月27日米煤函为另一件。",
+    "last_reviewed": "2026-11-11",
+    "review_level": "R1 核读耶鲁 NMP0158 同期副本影像",
+    "reviewed_sources_this_round": "SRC-0176"
+  },
+  "claim_status": "supported_with_limits",
+  "event_description": "致福井函文面日期为12月17日，讨论委员会地位、此前交涉与救济。"
+}

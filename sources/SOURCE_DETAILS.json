@@ -1,6 +1,6 @@
 {
   "schema_version": "Task003-B.source-details.2",
-  "count": 175,
+  "count": 176,
   "count_unit": "来源登记记录，不是独立史料数",
   "records": [
     {
@@ -23098,6 +23098,38 @@
       "reading_time_utc_v02": "",
       "v02_revision_ids": "",
       "task004_review_note": ""
+    },
+    {
+      "source_id": "SRC-0176",
+      "title": "南京安全区国际委员会1937年12月17日致日本使馆函（请福井喜代志阅，NMP0158）",
+      "creator_or_publisher": "南京安全区国际委员会；署名约翰·拉贝",
+      "created_date": "1937-12-17",
+      "publication": "Yale Nanking Massacre Project 数字扫描",
+      "document_type": "同期外交交涉函件副本影像",
+      "source_nature": "P",
+      "source_nature_original": "P",
+      "original_or_copy": "首页标 Copy 的同期打字副本影像",
+      "archive_id": "NMP0158",
+      "locator": "NMP0158 PDF第1页（日期、抬头、请福井阅），第4–5页（交涉事项），第7页（署名、附件清单）",
+      "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0158.pdf",
+      "accessed_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0158.pdf",
+      "accessed_at_utc": "2026-11-11T13:12:16.347110+00:00",
+      "access_status": "完整获取七页 PDF；关键页核读及逐页浏览",
+      "source_family": "Nanking-Safety-Zone-Committee-19371217-Fukui-letter",
+      "claim_ids": [
+        "timeline:T3-E0199"
+      ],
+      "rights_status": "rights_pending",
+      "snapshot_status": "captured_private_only",
+      "snapshot_path": "sources/web-snapshots/metadata-only/R1-CAP-032.json",
+      "sha256": "63528256ef3cbba33b0c60b71c44a1424ea91246280b80b1f585b2b3f7ec5e95",
+      "limitations": "首页标 Copy；PDF第7页列两个中文附件，扫描未见附件页。12月17日为函件文面日期，实际送达及收讫时间待核。委员会对此前交涉的陈述按单件来源理解。",
+      "notes": "逐页浏览 PDF 1–7；细核第1页抬头、日期及第7页署名与附件名；第4–5页交涉事项作定位。 同一函的馆方中译与耶鲁副本同源；馆藏目录仅作定位；12月27日米煤函为另一件。 复核出处见 docs/P_LEVEL_SOURCE_LEADS_R1_REVIEW.md。",
+      "legacy_ids": [],
+      "read_scope_r1": "逐页浏览 PDF 1–7；细核第1页抬头、日期及第7页署名与附件名；第4–5页交涉事项作定位。",
+      "r1_capture_id": "R1-CAP-032",
+      "public_locator": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0158.pdf",
+      "fulltext_public_allowed_r1": false
     }
   ]
 }

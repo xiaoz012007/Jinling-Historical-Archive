@@ -1,0 +1,22 @@
+{
+  "capture_id": "R1-CAP-032",
+  "lead_id": "P-LEAD-09",
+  "original_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0158.pdf",
+  "final_url": "https://adhoc.yalepages.org/Media/PDFs/Nanking/NMP0158.pdf",
+  "accessed_at_utc": "2026-11-11T13:12:16.347110+00:00",
+  "http_status": "200",
+  "curl_exit": 0,
+  "content_type": "application/pdf",
+  "response_bytes": "10451996",
+  "received_success_body": "true",
+  "sha256": "63528256ef3cbba33b0c60b71c44a1424ea91246280b80b1f585b2b3f7ec5e95",
+  "access_error": "",
+  "public_payload": "false",
+  "source_id": "SRC-0176",
+  "scope": "逐页浏览 PDF 1–7；细核第1页抬头、日期及第7页署名与附件名；第4–5页交涉事项作定位。",
+  "pages_in_pdf": 7,
+  "source_form": "同期打字副本影像",
+  "fulltext_public_allowed": false,
+  "rights_status": "rights_pending",
+  "limitations": "首页标 Copy；PDF第7页列两个中文附件，扫描未见附件页。12月17日为函件文面日期，实际送达及收讫时间待核。委员会对此前交涉的陈述按单件来源理解。"
+}
