@@ -27,3 +27,7 @@ Task003 V0.2基线共有152条来源，其中unknown为69条（45.39%），并�
 ## Task004 当前候选
 
 本轮新增来源登记、阅读和采集日志分别见 `sources/SOURCE_REGISTER.csv`、`sources/READING_LOG_TASK004.json`、`sources/CAPTURES_TASK004.json`（均为仓库根相对路径）。新增原始全文不公开；旧报告保留为历史版本。当前事实和限制以逐条状态及 Task004 修订日志为准。
+
+## 2026-11-11 P 级史料线索 R1
+
+[分类登记](P_LEVEL_SOURCE_LEADS_R1.csv)记录18条核查结果，[复核说明](../docs/P_LEVEL_SOURCE_LEADS_R1_REVIEW.md)列出可引用范围。SRC-0176 已录入同期函件副本影像的来源元数据。
